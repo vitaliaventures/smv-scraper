@@ -1,0 +1,42 @@
+name: Scraper SMV Peru v2
+
+on:
+  workflow_dispatch:   # boton manual "Run workflow" en la pestana Actions
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # ~5h50, por debajo del limite de 6h de GitHub Actions
+    strategy:
+      fail-fast: false   # si una tanda falla, las otras 2 siguen corriendo igual
+      matrix:
+        batch: ["1", "2", "3"]
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias de Python
+        run: pip install -r requirements.txt
+
+      - name: Instalar Google Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Correr el scraper (tanda ${{ matrix.batch }})
+        env:
+          BATCH: ${{ matrix.batch }}
+        run: python scrape_smv_v2.py
+
+      - name: Subir los resultados (zips) como artifact descargable
+        if: always()   # sube lo que se haya alcanzado a descargar, incluso si el job se corto
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultados-smv-tanda-${{ matrix.batch }}
+          path: SMV_Data/**/*.zip
+          if-no-files-found: warn
+          retention-days: 14
