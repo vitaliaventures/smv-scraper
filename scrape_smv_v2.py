@@ -75,18 +75,27 @@ PAUSA_ENTRE_ACCIONES = 1.5
 # a correr se elige con la variable de entorno BATCH (1, 2 o 3), que el
 # workflow de GitHub Actions asigna automaticamente (corren las 3 en paralelo).
 # ----------------------------------------------------------------------------
-# TEMPORAL: solo las 4 empresas que fallaron antes por el bug del buscador.
-# Las otras 13 ya se descargaron con exito en la corrida anterior -- no hace
-# falta repetirlas. (Las listas completas originales quedan comentadas abajo
-# para restaurarlas facilmente mas adelante si hace falta.)
-EMPRESAS_TANDA_1 = []
+# RONDA 3: nuevas candidatas -- empresas agroindustriales y de terrenos extensos,
+# elegidas especificamente porque este perfil (grandes extensiones de tierra,
+# a menudo cerca de corredores viales o de expansion urbana) tiene alta
+# probabilidad de generar eventos de EXPROPIACION -- la prioridad actual del
+# trabajo (ampliar el N=5 de expropiaciones). Las listas anteriores quedan
+# comentadas mas abajo para restaurarlas facilmente si hace falta.
+EMPRESAS_TANDA_1 = [
+    "Agro Industrial Paramonga S.A.",
+    "Agro Pucala S.A.A.",
+    "Agroindustrial Laredo S.A.A.",
+]
 EMPRESAS_TANDA_2 = [
-    "Interproperties Peru S.A.",
-    "Pacifico Vida",
+    "Agroindustrias AIB S.A.",
+    "Agroindustrias San Jacinto S.A.A.",
+    "Empresa Agroindustrial Pomalca S.A.A.",
 ]
 EMPRESAS_TANDA_3 = [
-    "Cencosud Shopping S.A.",
-    "Mapfre Peru Compañia de Seguros y Reaseguros",
+    "Empresa Agroindustrial Tuman S.A.A.",
+    "Cumbra Holding S.A.A.",
+    "Cementos Pacasmayo S.A.A.",
+    "Corporacion Aceros Arequipa S.A.",
 ]
 
 # --- Listas completas originales (comentadas, para restaurar despues) ---
