@@ -1,0 +1,50 @@
+name: Scraper SMV Peru v3
+
+on:
+  workflow_dispatch:
+    inputs:
+      tandas:
+        description: "Cuantas tandas en paralelo (1 a 8)"
+        default: "8"
+
+jobs:
+  preparar:
+    runs-on: ubuntu-latest
+    outputs:
+      lista: ${{ steps.t.outputs.lista }}
+    steps:
+      - id: t
+        run: |
+          n=${{ github.event.inputs.tandas }}
+          echo "lista=$(python3 -c "import json; print(json.dumps([str(i) for i in range(1, $n+1)]))")" >> $GITHUB_OUTPUT
+
+  scrape:
+    needs: preparar
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # ~5h50, por debajo del limite de 6h
+    strategy:
+      fail-fast: false
+      matrix:
+        batch: ${{ fromJSON(needs.preparar.outputs.lista) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - uses: browser-actions/setup-chrome@v1
+      - name: Correr el scraper (tanda ${{ matrix.batch }})
+        env:
+          BATCH: ${{ matrix.batch }}
+          NUM_TANDAS: ${{ github.event.inputs.tandas }}
+        run: python scrape_smv_v3.py
+      - name: Subir los resultados (zips)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultados-smv-v3-tanda-${{ matrix.batch }}
+          path: |
+            SMV_Data/**/*.zip
+            empresas_no_encontradas.txt
+          if-no-files-found: warn
+          retention-days: 90

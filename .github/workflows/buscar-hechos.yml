@@ -1,0 +1,57 @@
+name: Buscar Hechos de Importancia
+
+on:
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Prueba rapida (1 tanda, 2 empresas). Pon 'no' para la corrida completa."
+        default: "si"
+
+jobs:
+  # Arma la lista de tandas segun si es prueba o corrida completa
+  preparar:
+    runs-on: ubuntu-latest
+    outputs:
+      tandas: ${{ steps.t.outputs.tandas }}
+      num: ${{ steps.t.outputs.num }}
+    steps:
+      - id: t
+        run: |
+          if [ "${{ github.event.inputs.prueba }}" = "no" ]; then
+            echo 'tandas=["1","2","3","4","5","6","7","8"]' >> $GITHUB_OUTPUT
+            echo 'num=8' >> $GITHUB_OUTPUT
+          else
+            echo 'tandas=["1"]' >> $GITHUB_OUTPUT
+            echo 'num=1' >> $GITHUB_OUTPUT
+          fi
+
+  buscar:
+    needs: preparar
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 8
+      matrix:
+        batch: ${{ fromJSON(needs.preparar.outputs.tandas) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - uses: browser-actions/setup-chrome@v1
+      - name: Buscar hechos (tanda ${{ matrix.batch }})
+        env:
+          BATCH: ${{ matrix.batch }}
+          NUM_TANDAS: ${{ needs.preparar.outputs.num }}
+          LIMITE_EMPRESAS: ${{ github.event.inputs.prueba == 'no' && '0' || '2' }}
+        run: python buscar_hechos.py
+      - name: Subir resultados
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hechos-importancia-tanda-${{ matrix.batch }}
+          path: SMV_HI/**
+          if-no-files-found: warn
+          retention-days: 90
