@@ -1,0 +1,48 @@
+name: Extraer paginas relevantes de los EEFF
+
+# Junta los zips de una o varias corridas del scraper (sin que tengas que
+# descargarlos), busca palabras clave dentro de los PDF con buscar_en_eeff.py
+# y sube solo el resultado (archivos .txt livianos) como artifact "extractos".
+
+on:
+  workflow_dispatch:
+    inputs:
+      corridas:
+        description: "IDs de las corridas del scraper, separados por espacio (los numeros de la URL .../actions/runs/NUMERO)"
+        default: "43730821086 43765806576"
+
+permissions:
+  actions: read
+  contents: read
+
+jobs:
+  extraer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pypdf
+      - name: Descargar los zips de las corridas
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p SMV_Data
+          for id in ${{ github.event.inputs.corridas }}; do
+            echo "Descargando corrida $id"
+            gh run download "$id" -R "${{ github.repository }}" -D "SMV_Data/run_$id" || echo "[!] fallo la corrida $id"
+          done
+          # Carpetas con datos de OTRA empresa en la ronda 1 (bug ya corregido): se borran
+          for malo in "INVERSIONES NACIONALES DE TURISMO" "ICCGSA" "INMOBILIARIA KANPU" "INMOBILIARIA MILENIA"; do
+            find SMV_Data/run_43730821086 -maxdepth 3 -type d -iname "*${malo}*" -print -exec rm -rf {} + || true
+          done
+          du -sh SMV_Data; find SMV_Data -name "*.zip" | wc -l
+      - name: Buscar paginas relevantes
+        run: python buscar_en_eeff.py SMV_Data
+      - uses: actions/upload-artifact@v4
+        with:
+          name: extractos
+          path: extractos/**
+          retention-days: 90
