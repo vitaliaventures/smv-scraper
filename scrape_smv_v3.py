@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 =============================================================================
- SCRAPER SMV PERU v3 -- Descarga masiva de Estados Financieros y Dictamen
+ SCRAPER SMV PERU v3.1 -- Descarga masiva de Estados Financieros y Dictamen
  (v3: lista de empresas en empresas_eeff.txt, salta empresas_hechas.txt,
   elige la sugerencia mas parecida, anios desde ANIO_DESDE)
 =============================================================================
@@ -87,6 +87,20 @@ def _normalizar(t):
     t = unicodedata.normalize("NFKD", t or "")
     t = "".join(c for c in t if not unicodedata.combining(c))
     return re.sub(r"\s+", " ", t).upper().strip()
+
+
+_GENERICAS = {"S", "A", "SA", "SAA", "SAC", "S.A.", "S.A.A.", "S.A.C.", "DE", "DEL", "LA", "LAS", "LOS",
+              "EL", "E", "Y", "EN", "INMOBILIARIA", "INVERSIONES", "EMPRESA", "COMPANIA", "SOCIEDAD",
+              "ANONIMA", "ABIERTA", "PERU", "CORPORACION", "GRUPO", "HOLDING", "LIQUIDACION", "ANTES"}
+
+
+def _faltan_palabras(objetivo, candidato):
+    """v3.1: las palabras propias del nombre (ej. KANPU, MILENIA, INTURSA)
+    deben estar en la sugerencia; evita elegir 'INMOBILIARIA IDE' por
+    'INMOBILIARIA KANPU' aunque se parezcan."""
+    limpiar = lambda t: set(re.findall(r"[A-Z0-9]+", t))
+    propias = {w for w in limpiar(objetivo) if w not in _GENERICAS and len(w) > 2}
+    return bool(propias - limpiar(candidato))
 
 
 def _leer_lista(ruta):
@@ -324,7 +338,7 @@ def buscar_empresa(driver, nombre_empresa):
                 ratio = max(ratio, 0.95)
             if ratio > mejor_ratio:
                 mejor, mejor_ratio = c, ratio
-        if mejor is not None and mejor_ratio >= 0.75:
+        if mejor is not None and mejor_ratio >= 0.75 and not _faltan_palabras(objetivo, _normalizar(mejor.text)):
             print(f"    [ok] Empresa elegida: '{mejor.text.strip()}' (parecido {mejor_ratio:.2f})")
             click_seguro(driver, mejor)
             time.sleep(PAUSA_ENTRE_ACCIONES)
@@ -777,6 +791,18 @@ def main():
     driver = setup_driver()
     try:
         for empresa in EMPRESAS:
+            # v3.1: si Chrome se cayo (NoSuchWindow / sesion invalida), se
+            # abre uno nuevo antes de seguir con la siguiente empresa.
+            try:
+                driver.current_url
+                driver.window_handles
+            except Exception:
+                print("  [!] El navegador se cayo; abriendo uno nuevo...")
+                try:
+                    driver.quit()
+                except Exception:
+                    pass
+                driver = setup_driver()
             nuevo_driver = procesar_empresa(driver, empresa)
             if nuevo_driver is not None:
                 driver = nuevo_driver
