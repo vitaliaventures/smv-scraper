@@ -6,7 +6,7 @@ Asi la IA lee 20-40 paginas por empresa en vez de cientos.
 
 USO (en tu PC, con los zips descargados en una carpeta, ej. SMV_Data/):
 
-    pip install pypdf
+    pip install pypdf cryptography
     python buscar_en_eeff.py SMV_Data
 
 SALIDA (carpeta extractos/):
@@ -85,6 +85,7 @@ def main():
     filas = []
     paquetes = {}
     vistos = set()
+    no_abiertos = []
     for empresa, archivo, datos in pdfs_en(carpeta):
         # los reportes tabulares (EEFF-EMPRESAS) no tienen notas: se saltan
         if archivo.startswith("EEFF-EMPRESAS"):
@@ -95,11 +96,14 @@ def main():
         vistos.add(clave)
         try:
             lector = PdfReader(io.BytesIO(datos))
+            paginas = list(lector.pages)
         except Exception as e:
+            # PDF protegido, danado o raro: se anota y se sigue con el siguiente
             print(f"[!] no se pudo abrir {archivo}: {e}")
+            no_abiertos.append(archivo)
             continue
         sin_texto = 0
-        for i, pagina in enumerate(lector.pages, 1):
+        for i, pagina in enumerate(paginas, 1):
             try:
                 texto = pagina.extract_text() or ""
             except Exception:
@@ -114,7 +118,7 @@ def main():
                           "puntaje": puntaje, "palabras": ", ".join(sorted(hallados))})
             paquetes.setdefault(empresa, []).append(
                 f"\n===== ARCHIVO: {archivo} | PAGINA: {i} | puntaje {puntaje} =====\n{texto}\n")
-        if sin_texto > 0.5 * max(1, len(lector.pages)):
+        if sin_texto > 0.5 * max(1, len(paginas)):
             print(f"[aviso] {archivo}: {sin_texto} paginas sin texto (PDF escaneado; "
                   f"revisarlo a mano o con OCR)")
 
@@ -127,6 +131,9 @@ def main():
         with open(f"extractos/{nombre}.txt", "w", encoding="utf-8") as f:
             f.write(f"EMPRESA: {empresa}\n")
             f.writelines(partes)
+    with open("extractos/no_abiertos.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(no_abiertos))
+    print(f"{len(no_abiertos)} PDF no se pudieron abrir (ver extractos/no_abiertos.txt)")
     print(f"{len(filas)} paginas relevantes en {len(paquetes)} empresas -> carpeta extractos/")
 
 
