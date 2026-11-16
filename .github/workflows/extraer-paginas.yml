@@ -9,7 +9,7 @@ on:
     inputs:
       corridas:
         description: "IDs de las corridas del scraper, separados por espacio (los numeros de la URL .../actions/runs/NUMERO)"
-        default: "43730821086 43765806576"
+        default: "43790127507"
 
 permissions:
   actions: read
