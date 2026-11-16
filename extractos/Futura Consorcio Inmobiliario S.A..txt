@@ -1,0 +1,3528 @@
+EMPRESA: Futura Consorcio Inmobiliario S.A.
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 5 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. (antes Soldexa S.A.) 
+Estado de situación financiera  
+Al 31 de diciembre de 2012 y de 2011 
+ Nota 2012 2011 
+  S/.(000) S/.(000) 
+ 
+   
+Activo    
+Activo corriente    
+Efectivo y equivalentes de efectivo 5 11,680 6,526 
+Otras cuentas por cobrar 6 1,972 1,791 
+Cuentas por cobrar comerciales 
+ 
+159 - 
+Cuentas por cobrar a relacionadas 14(b) 166 2,842   _________ _________ 
+ 
+ 13,977 11,159 
+Activo no corriente 
+ 
+  
+Inversiones disponibles para la venta 7 13,876 19,557 
+Propiedades de inversión 8 294,350 220,067   _________ _________ 
+Total activo  322,203 250,783   _________ _________ 
+ 
+   
+Pasivo y patrimonio neto    
+Pasivo corriente    
+Cuentas por pagar comerciales 
+ 
+248 81 
+Otras cuentas por pagar 9 472 3,217 
+Cuentas por pagar a relacionadas 14(b) 416 1,275 
+  _________ _________ 
+  
+1,136 4,573 
+    
+   
+ Pasivo diferido por impuesto a las ganancias, neto 10(a) 78,213 55,139   _________ _________ 
+Total pasivo 
+ 
+79,349 59,712 
+  _________ _________ 
+Patrimonio neto 11  
+ Capital social  31,050 31,050 
+Acciones de inversión  15,525 15,525 
+Acciones en tesorería 
+ 
+(1,189) (1,189) 
+Resultados no realizados   5,921 5,689 
+Otras reservas de capital  4,287 1,728 
+Resultados acumulados  187,260 138,268 
+  _________ _________ 
+Total patrimonio neto  242,854 191,071 
+  _________ _________ 
+   
+ Total pasivo y patrimonio neto  322,203 250,783   _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 6 | puntaje 9 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. (antes Soldexa S.A.) 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2012 y de 2011 
+ Nota 2012 2011 
+  S/.(000) S/.(000) 
+Ingresos de operación    
+    
+Ingreso por alquileres 8(e) 5,174 3,364 
+Venta de activos financieros 7(d) 9,419 - 
+Otros ingresos operacionales 
+ 
+- 952 
+Cambios en el valor razonable de propiedades de 
+inversión 8(c) 71,452 19,507   ________ ________ 
+ 
+ 86,045 23,823 
+Costos y gastos de operación    
+  
+  
+Costo de servicio 
+ 
+(1,835) (923) 
+Costo de enajenación de activos financieros 7(d) (5,681) - 
+Gastos administrativos 13 (2,205) (727) 
+Otros gastos operativos 
+ 
+(407) -   ________ ________ 
+Utilidad operativa  75,917 22,173     
+    
+Ingresos financieros 
+ 
+48 20 
+Diferencia en cambio, neta 
+ 
+(174) (157)   ________ ________ 
+Utilidad antes del impuesto a las ganancias  75,791 22,036 
+    
+Impuesto a las ganancias 10(b) (24,240) (5,657)   ________ ________ 
+Utilidad neta   51,551 16,379 
+  ________ ________ 
+Operaciones discontinuadas    
+Utilidad neta por operación discontinuada 2 y 17 - 9,208 
+  ________ ________ 
+    
+Utilidad neta  51,551 25,587   ________ ________ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 7 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. (antes Soldexa S.A.) 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2012 y de 2011 
+ Nota 2012 2011 
+  S/.(000) S/.(000) 
+  
+  Utilidad neta del año  51,551 25,587   __________ __________ 
+    
+Otros resultados integrales    
+Valorización de inversiones disponibles para la 
+venta, nota 7  - 5,537 
+Efecto en el impuesto a las ganancias diferido  232 (1,662)   __________ __________ 
+Otros resultados integrales, neto del impuesto a las 
+ganancias  232 3,875   __________ __________ 
+   
+ Total otros resultados integrales  51,783 29,462   __________ __________ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 12 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+3 
+(c) Efectivo y equivalentes de efectivo: corresponde a un ajuste proporcional entre los activos y 
+pasivos modificados. 
+ 
+Las modificaciones realizadas en los saldos de los activos y pasivos transferidos han sido aprobadas por 
+la Gerencia a la fecha de este informe. 
+ 
+  3. Bases de preparación y resumen de políticas contables significativas 
+3.1 Bases de presentación – 
+Los estados financieros adjuntos se presentan de acuerdo con las Normas Internacionales de 
+Información Financiera (“NIIF”). 
+ 
+Los estados financieros han sido preparados sobre la base de costos históricos, excepto por las 
+inversiones disponibles para la venta y las propiedades de inversión, las cuales se miden a su 
+valor razonable.  Los estados financieros se presentan en nuevos soles y todos los valores se 
+redondean a miles según el valor más próximo (S/.000), excepto donde se indique de otro modo. 
+ 
+3.2 Resumen de las políticas contables significativas 
+A continuación se describe las políticas contables significativas de la Compañía para la 
+preparación de sus estados financieros: 
+ 
+3.2.1 Transacciones con entidades bajo control común -   
+Fusión 
+Las NIIF no establecen un tratamiento contable específico para la fusión legal de una 
+compañía matriz con sus subsidiarias, razón por la que la Compañía, en base a lo 
+permitido por la NIC 8 y el Marco Conceptual, ha adoptado la siguiente política contable:  
+ 
+Una fusión legal donde la compañía matriz absorbe a sus subsidiarias es en sustancia 
+una redención de acciones de las subsidiarias a cambio de los activos y pasivos de dichas 
+subsidiarias.  En consecuencia, los activos y pasivos a incorporarse son reconocidos a 
+los valores en libros que se mantienen en los estados financieros consolidados a la fecha 
+de la fusión legal.  Estos valores en libros incluyen cualquier crédito mercantil, activo 
+intangible y/o ajustes de asignación de precio cuando la subsidiaria fue adquirida, neto 
+de la correspondiente amortización, depreciación o pérdidas por deterioro que fueran 
+aplicables.  La diferencia entre: (i) los importes asignados a los activos y pasivos en los 
+estados financieros separados de la Compañía después de la fusión legal y (ii) el valor en 
+libros de las inversiones en las subsidiarias absorbidas que se mantienen al costo, es 
+reconocida en los resultados del ejercicio. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 13 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+4 
+3.2.2 Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+(a) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros incluidos en el alcance de la Norma Internacional de 
+Contabilidad (NIC) 39, se clasifican como activos financieros al valor razonable con 
+efecto en resultados, préstamos y cuentas por cobrar, inversiones mantenidas 
+hasta su vencimiento, inversiones financieras disponibles para la venta, o como 
+derivados designados como instrumentos de cobertura en una cobertura eficaz, 
+según corresponda. La Compañía determina la clasificación de sus activos 
+financieros al momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa, es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+Los activos financieros que mantiene la Compañía comprenden las partidas de 
+efectivo y equivalentes de efectivo, cuentas por cobrar comerciales y a 
+relacionadas y las inversiones disponibles para la venta. 
+Medición posterior -  
+La medición posterior de los activos financieros depende de su clasificación, de la 
+siguiente manera: 
+ 
+Activos y pasivos financieros al valor razonable con efecto en resultados  
+Los activos financieros a valor razonable con efecto en resultados incluyen: (a) los 
+activos financieros mantenidos para negociación y (b) los activos financieros a 
+valor razonable con efecto en resultados designados desde el momento a su 
+reconocimiento inicial.  Los instrumentos financieros derivados también son 
+clasificados como mantenidos para negociar a menos que sean designados como 
+instrumentos de cobertura. 
+ 
+La Gerencia sólo puede designar un instrumento a valor razonable con efecto en 
+resultados desde el momento de su reconocimiento inicial cuando se cumplen los 
+siguientes criterios:  
+ 
+- La designación elimina o reduce significativamente el tratamiento 
+inconsistente que, de otro modo, surgiría de la medición de los activos o 
+pasivos o el reconocimiento de las ganancias o pérdidas que ellos generan 
+sobre una base diferente; o 
+- los activos y pasivos son parte de un grupo de activos financieros, pasivos 
+financieros o ambos; los cuales son gestionados y evaluados en base al 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+rendimiento sobre su valor razonable, de acuerdo con una gestión de riesgo 
+documentada o a una estrategia de inversión; o 
+- los instrumentos financieros contienen uno o más derivados incorporados, 
+los cuales modifican significativamente los flujos de caja que de otra manera 
+podrían ser requeridos por el contrato. 
+ 
+La Compañía no mantiene ningún activo financiero a valor razonable con efecto en 
+resultados designados desde el momento de su reconocimiento inicial al 31 de 
+diciembre de 2012 y de 2011. 
+ 
+Préstamos y cuentas por cobrar 
+Los prestamos y cuentas por cobrar son activos financieros no derivados cuyos 
+cobros son fijos o determinables, que no se negocian en un mercado activo.  
+Después de su reconocimiento inicial, estos activos financieros se miden al costo 
+amortizado usando el método de tasa de interés efectiva, menos cualquier 
+deterioro del valor.  El costo amortizado se calcula tomando en cuenta cualquier 
+descuento o prima de adquisición, y las comisiones o los costos que son parte 
+integrante de la tasa de interés efectiva.  La amortización de la tasa de interés 
+efectiva se reconoce en el estado de resultados integrales como ingreso o gasto 
+financiero.  Las pérdidas originadas por el deterioro del valor se reconocen en el 
+estado de resultados integrales como gasto financiero. 
+ 
+Inversiones a ser mantenidas hasta su vencimiento 
+Son activos financieros no derivados con pagos fijos o determinables se clasifican 
+como mantenidos hasta su vencimiento cuando la Compañía  tiene  la intención y 
+capacidad de mantenerlos hasta su vencimiento.  Después de su reconocimiento 
+inicial, la Compañía mide las inversiones mantenidas  hasta su vencimiento al costo 
+amortizado usando el método de interés efectivo menos cualquier deterioro del 
+valor. El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición y las comisiones o los costos que son una parte integrante de 
+la tasa de interés efectiva. La amortización de la tasa de interés efectiva se 
+reconoce en el estado de resultados integrales como ingreso o gasto financiero. 
+Las pérdidas que resulten de un deterioro del valor se reconocen en el estado de 
+resultados integrales como costo financiero. 
+ 
+Al 31 de diciembre de 2012 y de 2011 la Compañía no mantiene inversiones a ser 
+mantenidas hasta su vencimiento. 
+ 
+Inversiones financieras disponibles para la venta 
+Los instrumentos de capital clasificados como disponibles para la venta son 
+aquellos que no son clasificados ni como mantenidos para negociación ni como a 
+valor razonable con efecto en resultados. Los instrumentos de deuda clasificados 
+en esta categoría son aquellos instrumentos con la intención de mantenerlos por un 
+periodo de tiempo indeterminado y que pueden ser vendidos en respuesta a 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 18 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+9 
+Compañía determina la clasificación de los pasivos financieros al momento del 
+reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los préstamos y cuentas por pagar se mantienen al costo 
+amortizado, que incluye los costos de transacción directamente atribuibles. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales, a 
+empresas relacionadas y diversas. 
+ 
+Medición posterior – 
+La medición posterior de los pasivos financieros depende de su clasificación de la 
+siguiente manera: 
+ 
+Pasivos financieros al valor razonable con efecto en resultados - 
+Los pasivos financieros al valor razonable con efecto en resultados incluyen los 
+pasivos financieros mantenidos para negociar y los pasivos financieros designados 
+al momento del reconocimiento inicial como al valor razonable con efecto en 
+resultados. 
+ 
+Los pasivos financieros se clasifican como mantenidos para negociar si se 
+adquieren con el propósito de venderlos en un futuro cercano. Las ganancias o 
+pérdidas por pasivos mantenidos para negociar se reconocen en el estado de 
+resultados integrales. 
+ 
+La Compañía no mantiene ningún pasivo financiero al valor razonable con efecto en 
+resultados al 31 de diciembre de 2012 y de 2011. 
+ 
+Préstamos y cuentas por pagar - 
+Después del reconocimiento inicial, las obligaciones financieras se miden al costo 
+amortizado, utilizando el método de la tasa de interés efectiva. Las ganancias y 
+pérdidas se reconocen en el estado de resultados integrales cuando los pasivos se 
+dan de baja, como así también a través del proceso de amortización de la tasa de 
+interés efectiva. El costo amortizado se calcula tomando en cuenta cualquier 
+descuento o prima en la adquisición y las comisiones o los costos que sean una 
+parte integrante de la tasa de interés efectiva. La amortización de la tasa de 
+interés efectiva se reconoce como ingreso o gasto financiero en el estado de 
+resultados integrales. 
+ 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación correspondiente ha sido 
+pagada o cancelada, o ha expirado. Cuando un pasivo financiero existente es 
+reemplazado por otro proveniente del mismo prestamista bajo condiciones 
+sustancialmente diferentes, o si las condiciones de un pasivo existente se modifican 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 19 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+10 
+de manera sustancial, tal permuta o modificación se trata como una baja del pasivo 
+original y el reconocimiento de un nuevo pasivo, y la diferencia en los importes 
+respectivos en libros se reconocen en el estado de resultados integrales. 
+ 
+(c) Compensación de instrumentos financieros –  
+Los activos y pasivos financieros son objetos de compensación y se presenta en el 
+estado de situación financiera, solamente si existe entre ese momento un derecho 
+legalmente exigible de compensar los importes reconocidos y existe la intención de 
+liquidarlos y la Gerencia tiene la intención de cancelarlos sobre una base neta o de 
+realizar el activo y cancelar el pasivo simultáneamente. 
+(d) Valor razonable de los instrumentos financieros –  
+A cada fecha de cierre del periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina en 
+base a los precios cotizados en el mercado, o a los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción. 
+ 
+Para los instrumentos financieros que no se negocian en mercados activos, el valor 
+razonable se determina utilizando técnicas de valoración adecuadas. Tales técnicas 
+pueden incluir el uso de transacciones de mercado recientes entre partes 
+interesadas y debidamente informadas que actúen en condiciones de 
+independencia mutua, la referencia a los valores razonables de otros instrumentos 
+financieros que sean esencialmente similares, el análisis de valores descontados de 
+flujos de efectivo y otros modelos de valoración. 
+ 
+3.2.3 Transacciones en moneda extranjera –  
+Las partidas incluidas en los estados financieros de la Compañía se expresan en la moneda 
+del ambiente económico primario donde opera la entidad, es decir, su moneda funcional.  
+La Gerencia de la Compañía considera al Nuevo Sol como su moneda funcional y de 
+presentación, debido a que refleja la naturaleza de los eventos económicos y las 
+circunstancias relevantes para la Compañía. 
+ 
+Transacciones y saldos en moneda extranjera  
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional.  Las transacciones en moneda extranjera son 
+inicialmente registradas en la moneda funcional usando los tipos de cambio vigentes en 
+las fechas de las transacciones.  Los activos y pasivos monetarios denominados en 
+moneda extranjera son posteriormente ajustados a la moneda funcional usando el tipo de 
+cambio vigente a la fecha del estado de situación financiera.  Las ganancias o pérdidas por 
+diferencia en cambio resultante de la liquidación de dichas transacciones y de la 
+conversión de los activos y pasivos monetarios en moneda extranjera a los tipos de 
+cambio de la fecha del estado de situación financiera, son reconocidas en el rubro de 
+“Diferencia de cambio, neta” en el estado de resultados integrales. Los activos y pasivos 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 20 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+11 
+no monetarios determinados en moneda extranjera son trasladados a la moneda funcional 
+al tipo de cambio prevaleciente a la fecha de la transacción. 
+ 
+3.2.4 Efectivo y equivalentes de efectivo - 
+El efectivo y equivalente de efectivo presentado en el estado de situación financiera 
+comprende los saldos en caja, cuentas corrientes y los depósitos con vencimiento original 
+de tres meses o menos, los cuales corresponden a los saldos utilizados para propósitos de 
+preparación del estado de flujos de efectivo. 
+ 
+3.2.5 Propiedades de inversión - 
+Las propiedades de inversión se miden inicialmente al costo, incluido los costos de 
+transacción. Con posterioridad al reconocimiento inicial, las propiedades de inversión se 
+miden por su valor razonable, el que refleja las condiciones del mercado a la fecha de 
+cierre del periodo sobre el que se informa. Las ganancias y pérdidas que surgen de los 
+cambios en los valores razonables de las propiedades de inversión se incluyen en el estado 
+de resultados integrales  en el período en el que ocurren. Los valores razonables son 
+evaluados anualmente por la Gerencia de la Compañía, mediante los flujos descontados 
+sobre los beneficios que se espera obtener de estas inversiones. 
+ 
+Las propiedades de inversión se dan de baja, ya sea en el momento de su venta o cuando 
+la propiedad de inversión se retira del uso en forma permanente, y no se espera recuperar 
+beneficio económico alguno de su venta. La diferencia entre el ingreso neto procedente de 
+la venta y el importe en libros del activo se reconoce en el estado de resultados integrales 
+en el período en el que el activo fue dado de baja. Se realizan transferencias a o desde las 
+propiedades de inversión solamente cuando exista un cambio en el uso del activo. Para el 
+caso de una transferencia desde una propiedad de inversión hacia un componente de 
+unidades de transporte, mobiliario y equipo, el costo atribuido tomado en cuenta para su 
+posterior contabilización es el valor razonable del activo a la fecha del cambio de uso. Si 
+un componente de unidades de transporte, mobiliario y equipo se transfiere a una 
+propiedad de inversión, la Compañía registrará el activo hasta la fecha del cambio de uso 
+de acuerdo con la política contable establecida para las unidades de transporte, mobiliario 
+y equipo. 
+ 
+Al 31 de diciembre de 2012 y de 2011, la Gerencia de la Compañía considera que no 
+existen indicios del tipo operativo y/o económico que indiquen que el valor registrado de 
+las propiedades de inversión, no pueda ser recuperado. 
+ 
+3.2.6 Unidades de transporte, mobiliario y equipo - 
+El rubro unidades de transporte, mobiliario y equipo, se presenta al costo neto de la 
+depreciación acumulada y la provisión por deterioro de activos no financieros, de ser el 
+caso. 
+ 
+El costo de adquisición incluye los gastos que son directamente atribuibles a la adquisición 
+de los activos.  Los costos de mantenimiento y reparación se cargan a resultados, toda 
+renovación y mejora significativa se capitaliza únicamente cuando es probable que se 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 27 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+18 
+  6. Otras cuentas por cobrar 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 
+ 2012 2011 
+ S/.(000) S/.(000) 
+Impuestos por recuperar (b) 1,731 1,731 
+Anticipos a proveedores 30         3 
+Cuenta detracciones, Banco de la Nación 211       57  ______ ______ 
+             1,972             1,791               ______              ______ 
+ 
+(b) Corresponde a los pagos realizados por el impuesto temporal a los activos, netos del año 2010. 
+Al 31 de diciembre de 2012, la Gerencia de la Compañía estima que dicho crédito será 
+recuperado en el corto plazo, razón por la que se presenta en el activo  corriente. 
+ 
+  7. Inversiones disponibles para la venta 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2012 2011 
+ S/.(000) S/.(000) 
+   
+Exsa S.A. (b) 13,876 13,876 
+Soldex S.A. (d) - 5,681  ________ ________ 
+ 13,876 19,557  ________ ________ 
+ 
+(b) Representa la participación que mantiene la Compañía en el capital emitido de Exsa S.A., 
+empresa relacionada.  La composición de esta inversión es como sigue: 
+ 
+ Costo 
+Ganancia no 
+realizada 
+Valor  
+razonable 
+ S/.(000) S/.(000) S/.(000) 
+    
+Saldo al 1 de enero de 2011 6,400 2,039 8,439 
+Otros (100) - (100) 
+Incremento por ganancias no realizada (c) - 5,537 5,537  _________ _________ _________ 
+Saldo al 31 de diciembre de 2011 6,300 7,576 13,876 
+Otros - - -  _________ _________ _________ 
+Saldos al 31 de diciembre de 2012 6,300 7,576 13,876  _________ _________ _________ 
+ 
+(c) La inversión al 31 de diciembre de 2012 y de 2011 se mide al valor razonable, ya que dichas 
+acciones se cotizan en un mercado activo. Al 31 de diciembre de 2011, la ganancia no realizada 
+ascendió a S/.5,537,000, debido a un incremento en el valor de las acciones. Al 31 de diciembre 
+de 2012, no ha habido fluctuación en el valor de las acciones respecto al 31 de diciembre de 
+2011. 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 28 | puntaje 16 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+19 
+(d) Al 31 de diciembre de 2012, la Compañía vendió la inversión mantenida en el capital emitido de 
+Soldex S.A. a la empresa norteamericana Colfax Corporation. La inversión se encontraba medida 
+a su valor razonable por un importe ascendente a S/.5,681,000 el cual fue vendido en 
+S/.9,419,000, generando una ganancia neta de S/.3,738,000. 
+ 
+  8. Propiedades de inversión 
+(a) A continuación se presenta el movimiento del rubro: 
+ 
+ 2012 2011 
+ S/.(000) S/.(000) 
+ 
+  Lurín 141,445 146,689 
+Pisco - Paracas 152,233 72,989 
+Otros obras menores a S/.400,000 672 389 
+ _________ _________ 
+ 
+294,350 220,067 
+ _________ _________ 
+(b) Las propiedades de inversión están destinados para el alquiler. Dichos bienes se encuentran libre 
+de gravámenes, excepto por el terreno de 260 hectáreas de propiedad de la Compañía, ubicado 
+en la antigua carretera de la Panamericana Sur, distrito de Lurín, el cual garantiza un préstamo 
+con el Banco de Crédito del Perú de Soldex S.A. (una empresa relacionada).  La garantía 
+inmobiliaria se encuentra debidamente inscrita en el registro de propiedades de Inmuebles de 
+Lima. La renta mensual que producen dichos bienes son recibidos de dos empresas relacionadas, 
+ver nota 14. 
+ 
+(c) A continuación se presenta el movimiento del rubro: 
+ 
+ 2012 2011 
+ S/.(000) S/.(000) 
+   
+Saldo inicial 220,067 196,404 
+Adiciones 2,831 4,156 
+Cambios en el valor razonable 71,452 19,507  _________ _________ 
+ 
+   294,350 220,067  _________ _________ 
+ 
+(d) El valor razonable de las propiedades de inversión al 31 de diciembre de 2012 y de 2011 ha sido 
+determinado por la Gerencia de la Compañía sobre la base de tasaciones realizadas por peritos 
+independientes. Para estimar los valores de mercado de las propiedades de inversión, la Gerencia 
+del Grupo ha utilizado su conocimiento del mercado y juicio profesional, y no solo se basó en 
+transacciones históricas comparables. El ajuste al valor razonable fue incluido en el rubro 
+“Cambios en el valor razonable de propiedades de inversión” del estado de resultados integrales. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 29 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+20 
+(e) A continuación se presenta los ingresos y costos operativos generados por las propiedades de 
+inversión: 
+ 
+ 2012 2011 
+ S/.(000) S/.(000) 
+   
+Ingresos por alquileres (i) 5,174 3,364 
+Costo de servicio alquileres  (1,835) (923)  _________ _________ 
+   
+ 3,339 2,441  _________ _________ 
+ 
+(i) Este rubro incorpora los siguientes conceptos: 
+ 
+ 2012 2011 
+ S/.(000) S/.(000) 
+   
+Arrendamientos relacionados 4,907 3,364 
+Arrendamientos terceros 267 -  _________ _________ 
+   
+ 5,174 3,364  _________ _________ 
+ 
+  9. Otras cuentas por pagar  
+(a) A continuación se presenta la composición del rubro a la fecha del estado de situación financiera: 
+ 
+ 
+2012 2011 
+ 
+S/.(000) S/.(000) 
+Mas 
+  Impuesto a las ganancias por pagar, neto de pagos a 
+cuenta (b) 248 2,955 
+Remuneraciones por pagar 74 83 
+Tributos 70 13 
+Otras provisiones 80 166 
+ ______ ______ 
+ 
+472 3,217  ______ ______ 
+ 
+(b) Al 31 de diciembre de 2012 y de 2011, corresponde a la provisión por impuesto a las ganancias 
+corriente ascendente a S/.935,000 y pagos a cuenta por impuesto a las ganancias por 
+S/.687,000. (Al 31 de diciembre de 2011, S/.4,657,000 y S/.1,702,000, respectivamente). 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 31 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+22 
+(c) A continuación se presenta, la reconciliación de la tasa efectiva del impuesto a las ganancias con 
+la tasa tributaria: 
+ 
+ 2012 2011  __________________________ __________________________ 
+ S/.(000) % S/.(000) % 
+     
+Utilidad contable 75,791 100.00 22,036 100.00  _________ _______ _________ _______      
+Gasto teórico (22,737) (30.00) (6,611) (30.00) 
+Gastos no deducibles (1,503) (1.98) 954 4.33  _________ _______ _________ _______      
+Impuesto a la renta (24,240) (31.98) (5,657) (25.67)  _________ _______ _________ _______ 
+ 
+11. Patrimonio neto 
+(a) Capital social - 
+Al 31 de diciembre de 2012 y de 2011, el capital social de la Compañía está representado por 
+31,049,829 acciones comunes, íntegramente suscritas y pagadas, cuyo valor nominal es de un 
+S/.1.00 por acción.  
+ 
+Al 31 de diciembre de 2012, la estructura societaria de la Compañía es la siguiente: 
+ 
+Porcentaje de participación individual del capital 
+Números de 
+accionistas 
+Porcentaje total de 
+participación    
+  % 
+Mayor a 10 1 91.31 
+De 1.01 al 10.00 2 7.67 
+Hasta 1.00 111 1.02  _______         _______ 
+ 114 100.00  _______      ______  
+ 
+(b) Otras reservas de capital - 
+Según lo dispone la Ley General de Sociedades, se requiere que un mínimo del 10 por ciento de la 
+utilidad distribuible de cada ejercicio, se transfiera a una reserva legal hasta que ésta sea igual al 
+20 por ciento del capital social.  La reserva legal puede compensar pérdidas o puede ser 
+capitalizada, existiendo en ambos casos la obligación de reponerla.  La Compañía registra la 
+apropiación de la reserva legal cuando ésta es aprobada por la Junta General de Accionistas. El 
+22 de marzo de 2012, la Junta General de Accionistas acordó transferir a la reserva legal 
+S/.2,559,000 de los resultados acumulados. 
+ 
+(c) Acciones en tesorería - 
+Al 31 de diciembre de 2012 y de 2011, las acciones de propia emisión están representadas por 
+841,126 acciones, cuyo valor nominal es de S/.1.41 por cada una.  A esas fechas, el monto de 
+S/.1,189,352  se presenta reduciendo el patrimonio neto de la Compañía. 
+ 
+(d) Resultados no realizados - 
+Corresponde al efecto de los cambios en el valor razonable de las inversiones disponibles para la 
+venta, neto del efecto del impuesto a las ganancias diferidas. Ver nota 7.  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 32 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+23 
+12. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario del país en el que opera. Al 31 de diciembre de 
+2012 y de 2011, la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad gravable en 
+Perú.   
+ 
+De acuerdo con las disposiciones legales vigentes al 31 de diciembre de 2012 y de 2011, los 
+dividendos en efectivo a favor de los accionistas no domiciliados están gravados con el impuesto 
+a la renta.  La tasa para Perú es de 4.1 por ciento. 
+ 
+(b) A partir del 1 de enero de 2010, únicamente se encuentran inafectos al impuesto a la renta los 
+intereses y ganancias de capital provenientes de bonos emitidos por la República del Perú, así 
+como los intereses y ganancias de capital provenientes de Certificados de Depósito del Banco 
+Central de Reserva del Perú, utilizados con fines de regularización monetaria.  De igual modo, se 
+encuentran inafectos los intereses y las ganancias de capital provenientes de bonos emitidos con 
+anterioridad al 11 de marzo de 2007. 
+ 
+De otro lado, también a partir del ejercicio 2010, se gravan las ganancias de capital resultantes 
+de enajenación, redención o rescate de valores mobiliarios a través de mecanismos centralizados 
+de negociación en el Perú. 
+ 
+En este contexto, la Ley del Impuesto a la Renta precisó que, para establecer la renta bruta 
+producida por la enajenación de valores mobiliarios adquiridos con anterioridad al 1 de enero de 
+2010, el costo computable de dichos valores será el precio de cotización al cierre del ejercicio 
+gravable 2009 o el costo de adquisición o el valor de ingreso al Patrimonio, el que resulte mayor.   
+ 
+Esta regla es aplicable para personas jurídicas cuando los valores sean enajenados dentro o fuera 
+de un mecanismo centralizado de negociación del Perú. 
+ 
+(c) Para propósito de la determinación del impuesto a las ganancias e impuesto general a las ventas, 
+los precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2012 y de 2011. 
+ 
+(d) A la fecha, las normas de precio de transferencia que se encuentran vigentes en Perú, regulan 
+que las transacciones con empresas vinculadas locales o del exterior deben de ser realizadas a 
+valor de mercado. 
+ 
+Las autoridades tributarias tienen el derecho de solicitar dicha información. Sobre la base del 
+análisis de las operaciones de la Compañía, la Gerencia y sus asesores legales consideran que 
+como consecuencia de la aplicación de las normas mencionadas, no surgirán contingencias de 
+importancia para la Compañía al 31 de diciembre de 2012 y de 2011. 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2012_Individual_Anual_EEFF Auditados 2012.pdf | PAGINA: 33 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+24 
+(e) Las autoridades tributarias tienen la facultad de revisar y, de ser aplicable, corregir el impuesto a 
+la renta calculado por la Compañía, por un período comprendido principalmente, en cuatro años 
+posteriores al año de la presentación de la declaración de impuestos.  Las declaraciones juradas 
+del impuesto a la renta del año 2012 e Impuesto general a las ventas de los años 2011 a 2012 se 
+encuentran pendientes de revisión por parte de las autoridades tributarias. 
+ 
+Debido a las posibles interpretaciones que las autoridades tributarias pueden dar a las normas 
+legales aplicables a la Compañía, no es posible determinar a la fecha, si de las revisiones que se 
+realicen resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto 
+o recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del 
+ejercicio en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores 
+legales, cualquier eventual liquidación adicional de impuestos no sería significativa para los 
+estados financieros al 31 de diciembre de 2012 y de 2011. 
+ 
+13. Gastos administrativos 
+A continuación se presenta la composición de este rubro: 
+ 
+ 
+ 2012 2011 
+ S/.(000) S/.(000) 
+   
+Servicios prestados por terceros 1,824 407 
+Asesoría y consultoría 138 107 
+Tributos 57 195 
+Otros 186 18  ______ ______ 
+  
+  2,205 727  ______ ______ 
+ 
+14. Saldos transacciones con empresas relacionadas 
+(a) Las principales operaciones con empresas relacionadas se resumen como sigue: 
+ 
+ 
+ 2012 2011 
+ S/.(000) S/.(000) 
+   
+Ingresos por servicios de arrendamiento 6,106 3,364 
+Otros ingresos operacionales - 3,370 
+Gastos por servicios de administración y asesoría 173 202 
+Compra de terrenos y otros activos 2,601 1,251 
+Otros gastos operacionales 331 196 
+Gastos por servicios de seguros y reaseguros 89 - 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2018_Individual_Anual_Futura EEFF 2018.pdf | PAGINA: 13 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+5 
+Para la transición a la NIIF 16, la Compañía ha decidido adoptar de manera anticipada la 
+NIIF 16 a partir del 1 de enero de 2017, aplicando el enfoque retrospectivo completo. 
+Como resultado de ello, la Compañía ha cambiado su política contable para los contratos 
+de arrendamiento conforme se detalla en la nota 2.3.7. 
+ 
+La aplicación de la NIIF 16 no originó el reconocimiento de ajustes en las cifras reportadas 
+en los estados financieros de los periodos comparativos. 
+ 
+2.2.4 CINIIF 22 “Transacciones en moneda extranjera y contraprestaciones anticipadas” 
+La interpretación aclara que al determinar el tipo de cambio a utilizar en el 
+reconocimiento inicial del activo, gasto o ingreso (o parte del mismo), relacionado con la 
+baja de un activo o pasivo no monetario relacionado con una contraprestación anticipada, 
+la fecha de la transacción es la fecha en la que la entidad reconoce inicialmente el activo o 
+pasivo no monetario que resulte de la contraprestación anticipada. Si hay varios pagos o 
+recibos por adelantado, la entidad debe determinar una fecha de transacción para cada 
+pago o recibo de la contraprestación anticipada. La Gerencia de la Compañía concluyó que 
+esta interpretación no tuvo efectos en sus estados financieros. 
+ 
+2.2.5 NIC 40 Propiedades de inversión – Modificaciones a la NIC 40 
+Las modificaciones aclaran cuándo una entidad debe transferir bienes, incluyendo 
+propiedades en construcción o desarrollo, desde o hacia propiedades inversión. Asimismo, 
+las modificaciones estipulan que un cambio en el uso ocurre cuando la propiedad cumple o 
+deja de cumplir la definición de propiedad de inversión y hay evidencia del cambio en el 
+uso. Un cambio en las intenciones de la Gerencia para el uso de una propiedad no 
+proporciona evidencia de un cambio en el uso. 
+ 
+2.3 Resumen de las políticas contables significativas 
+A continuación, se describen las políticas contables que se han modificado por la implementación 
+de las NIIF 9, 15 y 16; las demás políticas adoptadas en la preparación de los estados financieros 
+son consistentes con las seguidas en la preparación de los estados financieros por el año 
+terminado el 31 de diciembre de 2017:  
+ 
+2.3.1 Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+Como se indica al inicio de esta nota, las políticas contables para instrumentos financieros 
+están definidas en la NIIF 9, desde el 1 de enero de 2018. Un instrumento financiero es 
+cualquier acuerdo que da origen a un activo financiero de una entidad y a un pasivo 
+financiero o instrumento patrimonial de otra entidad. 
+ 
+(a) Activos financieros - 
+Reconocimiento y medición inicial - 
+- Con la adopción de la NIIF 9, los activos financieros dentro de su alcance se 
+clasifican en función del modelo de negocio y las características de los flujos 
+contractuales, medidos al: Costo amortizado 
+- Valor razonable con cambios en otro resultado integral (FVOCI por sus siglas 
+en inglés)  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2018_Individual_Anual_Futura EEFF 2018.pdf | PAGINA: 14 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+6 
+- Valor razonable con cambios en resultados  (FVPL por sus siglas en inglés) 
+ 
+La Compañía determina la clasificación de los activos financieros al momento de su 
+reconocimiento inicial. 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos financieros que no se contabilizan al valor razonable 
+con cambios en resultados, los costos directamente atribuibles.   
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un período de tiempo establecido por una norma o condición del mercado 
+(compra ventas convencionales) se reconocen en la fecha de la compraventa; es 
+decir, la fecha en que la Compañía se compromete a comprar o vender el activo. 
+ 
+Medición posterior - 
+Al 31 de diciembre de 2018 y de 2017, la Compañía mantiene sus activos 
+financieros clasificados de la siguiente manera: 
+ 
+Activos financieros medidos al costo amortizado - 
+La Compañía mantiene en esta categoría los rubros: efectivo y equivalentes de 
+efectivo, cuentas por cobrar comerciales, otras cuentas por cobrar, cuentas por 
+cobrar a entidades relacionadas y otras cuentas por cobrar. 
+ 
+La Compañía mide los activos mantenidos en la categoría de medidos al costo 
+amortizado si se cumplen las dos condiciones siguientes: 
+ 
+- El activo financiero se mantiene dentro de un modelo de negocio con el 
+objetivo de mantener los activos financieros para obtener flujos de efectivo 
+contractuales. 
+- Los términos contractuales del activo financiero dan lugar, en fechas 
+específicas, a flujos de efectivo que son solo pagos de capital e intereses 
+(SPPI) sobre el monto de capital pendiente. 
+ 
+Activos financieros medidos al valor razonable con cambios en otros resultados 
+integrales – 
+Un activo financiero se mide al valor razonable con cambios en otros resultados 
+integrales si se cumplen las dos condiciones siguientes:  
+ 
+(a) El activo financiero se conserva dentro de un modelo de negocio cuyo 
+objetivo se logra tanto obteniendo los flujos de efectivo contractuales 
+como vendiendo los activos financieros, y  
+(b) las condiciones contractuales del activo financiero dan lugar, en fechas 
+específicas, a flujos de efectivo que son únicamente pagos del principal e 
+intereses en otro resultado integral. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2018_Individual_Anual_Futura EEFF 2018.pdf | PAGINA: 15 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+7 
+Estos activos se miden posteriormente al valor razonable. El ingreso por intereses 
+calculado bajo el método de interés efectivo, las ganancias y pérdidas por 
+conversión de moneda extranjera y el deterioro se reconocen en resultados. Otras 
+ganancias y pérdidas netas se reconocen en otro resultado integral. En el momento 
+de la baja en cuentas, las ganancias y pérdidas acumuladas en otro resultado 
+integral se reclasifican en resultados.  
+ 
+Al 31 de diciembre de 2018 y de 2017, la Compañía no mantiene activos 
+financieros en esta categoría.  
+ 
+Activos financieros medidos al valor razonable con cambios en resultados – 
+Todos los activos financieros no clasificados como medidos al costo amortizado o al 
+valor razonable con cambios en otro resultado integral, son medidos al valor 
+razonable con cambios en resultados. Esto incluye todos los activos financieros 
+derivados. En el reconocimiento inicial, la Compañía puede designar 
+irrevocablemente un activo financiero al valor razonable con cambios en otro 
+resultado integral como al valor razonable con cambios en resultados si haciéndolo 
+elimina o reduce significativamente una incongruencia de medición o 
+reconocimiento que surgiría en otro caso.  
+ 
+Al 31 de diciembre de 2018 y de 2017, la Compañía no mantiene activos 
+financieros en esta categoría. 
+ 
+Inversiones en instrumentos de patrimonio - 
+Las inversiones en instrumentos de patrimonio se miden al valor razonable. En el 
+reconocimiento inicial de una inversión en un instrumento de patrimonio que no es 
+mantenida para negociación, la Compañía puede realizar una elección irrevocable 
+en el momento del reconocimiento inicial de presentar los cambios posteriores en 
+el valor razonable en otro resultado integral. Esta elección se hace individualmente 
+para cada inversión. Los dividendos se reconocen como ingreso en resultados a 
+menos que el dividendo claramente representa una recuperación de parte del costo 
+de la inversión. Otras ganancias y pérdidas netas se reconocen en otro resultado 
+integral y nunca se reclasifican en resultados.  
+ 
+La Compañía tiene inversiones en instrumentos de patrimonio por S/6,562,000, y 
+por S/6,835,000 al 31 de diciembre de 2018 y de 2017, respectivamente. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2018_Individual_Anual_Futura EEFF 2018.pdf | PAGINA: 39 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+31 
+Debido a las posibles interpretaciones que la Autoridad Tributaria puedan dar a las normas 
+legales vigentes, no es posible determinar, a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía por lo que cualquier mayor impuesto o recargo que 
+pudiera resultar de eventuales revisiones fiscales sería aplicado a los resultados del ejercicio en 
+que éste se determine.  Sin embargo, en opinión de la Gerencia de la Compañía y de sus asesores 
+legales, cualquier eventual liquidación adicional de impuestos no sería significativa para los 
+estados financieros al 31 de diciembre de 2018 y de 2017. 
+ 
+(d) Las principales normas tributarias emitidas durante el 2018 son las siguientes: 
+(i) Se modificó, a partir del 1 de enero de 2019, el tratamiento aplicable a las regalías y 
+retribuciones por servicios prestados por no domiciliados, eliminando la obligación de 
+abonar el monto equivalente a la retención con motivo del registro contable del costo o 
+gasto, debiendo ahora retenerse el impuesto a la renta con motivo del pago o acreditación 
+de la retribución. Para que dicho costo o gasto sea deducible para la empresa local, 
+deberá haberse pagado o acreditado la retribución hasta la fecha de presentación de la 
+declaración jurada anual del impuesto a la renta (Decreto Legislativo N°1369). 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+N°1372). Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo a lo establecido en el artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país. La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero en tanto: a) cuenten con 
+una sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural 
+o jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado 
+en el país y c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación será cumplida mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa, que deberá contener la información del beneficiario final 
+y ser presentada, de acuerdo con las normas reglamentarias y en los plazos que se 
+establezcan mediante Resolución de Superintendencia de la SUNAT. 
+ 
+(iii) Se modificó el Código Tributario en la aplicación de la norma antielusiva general (Norma 
+XVI del Título Preliminar del Código Tributario (Decreto Legislativo N°1422).  
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por la 
+Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que 
+tengan Directorio, corresponde a este órgano societario definir la estrategia tributaria de 
+la entidad debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones 
+económicas a realizarse en el marco de la planificación fiscal, siendo esta facultad 
+indelegable. Los actos, situaciones y relaciones económicas realizados en el marco de 
+planificaciones fiscales e implementados a la fecha de entrada en vigencia del Decreto 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2018_Individual_Anual_Futura EEFF 2018.pdf | PAGINA: 40 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+32 
+Legislativo N°1422 (14 de septiembre del 2018) y que sigan teniendo efectos, deben ser 
+evaluados por el Directorio de la persona jurídica para efecto de su ratificación o 
+modificación hasta el 29 de marzo de 2019, sin perjuicio de que la gerencia u otros 
+administradores de la sociedad hubieran aprobado en su momento los referidos actos, 
+situaciones y relaciones económicas.  
+ 
+Asimismo, se ha establecido que la aplicación de la Norma XVI, en lo que se refiere a la 
+recaracterización de los supuestos de elusión tributaria, se producirá en los 
+procedimientos de fiscalización definitiva en los que se revisen actos, hechos o situaciones 
+producidos desde el 19 de julio de 2012. 
+ 
+(iv) Se incluyeron modificaciones a la Ley del Impuesto a la Renta, con vigencia a partir del 1 
+de enero de 2019, para perfeccionar el tratamiento fiscal aplicable a (Decreto Legislativo 
+N°1424): 
+ 
+- Las rentas obtenidas por la enajenación indirecta de acciones o participaciones 
+representativas del capital de personas jurídicas domiciliadas en el país. Entre los 
+cambios más relevantes, se encuentra la inclusión de un nuevo supuesto de 
+enajenación indirecta, que se configura cuando el importe total de las acciones de 
+la persona jurídica domiciliada cuya enajenación indirecta se realice sea igual o 
+mayor a 40,000 UIT, ver literal (a).  
+ 
+- Los establecimientos permanentes de empresas unipersonales, sociedades y 
+entidades de cualquier naturaleza constituidas en el exterior; incorporándose 
+nuevos supuestos de establecimiento permanente, entre ellos, cuando se produzca 
+la prestación de servicios en el país, respecto de un mismo proyecto, servicio o 
+para uno relacionado, por un período que en total exceda de 183 días calendario 
+dentro de un período cualquiera de doce meses.  
+ 
+- El régimen de créditos contra el Impuesto a la Renta por impuestos pagados en el 
+exterior, incorporándose el crédito indirecto (impuesto corporativo pagado por 
+subsidiarias del exterior) como crédito aplicable contra el Impuesto a la Renta de 
+personas jurídicas domiciliadas, a fin de evitar la doble imposición económica. 
+ 
+- La deducción de gastos por intereses para la determinación del Impuesto a la Renta 
+empresarial. En los años 2019 y 2020, el límite de endeudamiento fijado en tres 
+veces el patrimonio neto al 31 de diciembre del año anterior será aplicable, tanto a 
+préstamos con partes vinculadas, como a préstamos con terceros contraídos a 
+partir del 14 de setiembre de 2018. A partir del 2021 el límite para la deducción de 
+gastos financieros será equivalente al 30 por ciento del EBITDA de la entidad. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2018_Individual_Anual_Futura EEFF 2018.pdf | PAGINA: 41 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+33 
+- Se han establecido normas para el devengo de ingresos y gastos para fines 
+tributarios a partir del 1 de enero de 2019 (Decreto Legislativo No 1425). Hasta el 
+año 2018 no se contaba con una definición normativa de este concepto, por lo que 
+en muchos casos se recurría a las normas contables para su interpretación. En 
+términos generales, con el nuevo criterio, para fines de la determinación del 
+Impuesto a la Renta ahora se considerará si se han producido los hechos 
+sustanciales para la generación del ingreso o gasto acordados por las partes, que 
+no estén sujetos a una condición suspensiva, en cuyo caso el reconocimiento se 
+dará cuando ésta se cumpla; no se tendrá en cuenta la oportunidad de cobro o 
+pago establecida; y, si la determinación de la contraprestación depende de un 
+hecho o evento futuro, se diferirá el total o la parte del ingreso o gasto que 
+corresponda hasta que ese hecho o evento ocurra. 
+ 
+11. Gastos administrativos 
+A continuación, se presenta la composición de este rubro: 
+ 
+ 2018 2017 
+ S/(000) S/(000) 
+   
+Asesoría y consultoría 307 352 
+Servicios de gestión inmobiliaria, nota 12 304 288 
+Servicios de soporte administrativo 252 228 
+Otros menores 99 80  ______ ______     
+962 948  ______ ______ 
+ 
+12. Transacciones con empresas relacionadas 
+(a) Las principales operaciones con empresas relacionadas se resumen como sigue: 
+ 
+ 2018 2017 
+ S/(000) S/(000) 
+   
+Ingresos por alquileres, nota 7(e) 7,929 7,603 
+Servicio y vigilancia 422 413 
+Gestión inmobiliaria, nota 11 304 288 
+Gastos por servicios de administración y asesoría 272 247 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2007_Individual_Anual_Soldexsa.pdf | PAGINA: 12 | vecina =====
+- 11 - 
+Permanente de Interpre tación (SIC) adoptadas por el IA SB, oficializadas por el Consejo 
+Normativo de Contabilidad (CNC) para su aplicación en Perú. A la fecha de los estados 
+financieros, el CNC ha oficializado la aplicación obligatoria de las NIC 1 a la 41, las NIIF 1 
+a la 6 y ciertas  SIC vigentes de la 1 a la 33, estando pendientes de revisión y aprobación las 
+NIIF 7 y 8 y los pronunciamientos del CINIIF; y (b) el Método de Participación Patrimonial 
+para la valuación de las invers iones en: subsidiarias, entidade s conjuntamente controladas, 
+y asociadas; que se presenten en estados  financieros individua les, como un método 
+adicional a los establecidos por las NIC 27 y 28. 
+ 
+En la preparación y presentación de los estados financieros de 2007 y 2006, la Compañía ha 
+observado el cumplimiento de las NIC y NIIF que le son aplicables,  de acuerdo con las 
+Resoluciones emitidas por el Consejo Normativo de Contabilidad 
+ 
+(b) Moneda Funcional 
+ 
+La Compañía prepara y presenta sus estados fina ncieros en nuevos soles, que es la moneda 
+funcional que le corresponde. La moneda func ional es la moneda del entorno económico 
+principal en el que opera una entidad, aquell a que influye en los precios de venta de los 
+bienes que comercializa, entre otros factores. 
+ 
+(c) Uso de estimaciones 
+ 
+La preparación de los estados financieros re quiere que la Gerencia realice estimaciones y 
+supuestos para la determinación de saldos de  activos, pasivos y m ontos de ingresos y 
+gastos, y para revelación de activos y pasivo s contingentes, a la fecha de los estados 
+financieros.  Si más adelante ocurriera algún cambio en las estimaciones o supuestos debido 
+a variaciones en las circunstancias en las que estuvieron basadas, el efecto del cambio sería 
+incluido en la determinación de la utilidad o pérdida neta del ejercicio en que ocurra el 
+cambio, y de ejercicios futuros de ser el caso.  Las estimaciones significativas relacionadas 
+con los estados financieros son: la provisi ón para cuentas de cobranza dudosa, para 
+desvalorización de existencias, la recuperabilidad del valor de las inversiones financieras, la 
+depreciación de inmuebles, maquinaria y equi po, la amortización de ac tivos intangibles, y 
+la determinación del impuesto a la renta y participación de los trabajadores diferido. 
+ 
+(d) Instrumentos financieros 
+ 
+Los instrumentos financieros se define n como cualquier contrato que origina 
+simultáneamente, un activo financiero en una empresa y un pasivo financiero o un 
+instrumento de patrimonio en otra empresa. Los principales activos y pasivos financieros 
+presentados en el balance general son: ef ectivo, cuenta por cobrar y por pagar a 
+comerciales, inversiones financieras, cuentas por cobrar y por pagar a vinculadas y otras 
+cuentas por cobrar y pagar. Las políticas contables para su reconocimiento y medición se 
+describen en las correspondientes notas de políticas contables. 
+ 
+La clasificación de un instrumento financiero  como pasivo financiero  o como instrumento 
+de patrimonio se hace de conformidad con la esencia del acuerdo contractual que lo origina.  
+Los intereses, pérdidas y ganancias relaciona dos con un instrumento financiero clasificado 
+como pasivo financiero se reconocen como gasto o ingreso.  Las distribuciones a los 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2007_Individual_Anual_Soldexsa.pdf | PAGINA: 13 | puntaje 10 =====
+- 12 - 
+tenedores de un instrumento fi nanciero clasificado como instrumento de patrimonio se 
+cargan directamente a resultados acumulados. 
+ 
+(e) Cuentas por cobrar comerciales 
+ 
+Las cuentas por cobrar comerciales se registran a su valor nominal y están presentadas netas 
+de provisión para cuentas de cobranza dudosa,  la cual es estimada de acuerdo con las 
+políticas establecidas por la Gerencia, cons iderando, entre otros factores, los saldos 
+vencidos pendientes de cobro con una antigüe dad mayor a 12 meses, sus posibilidades de 
+ser recuperados, y la evidencia de dificultade s financieras del deudor que incrementen mas 
+allá de lo normal el riesgo de incobrabilidad  de los saldos pendientes de cobro, de modo 
+que su monto tenga un nivel que la Gerencia estima adecuado para cubrir eventuales 
+pérdidas en las cuentas por cobrar a la fecha del balance general.  
+ 
+(f) Existencias 
+ 
+Las existencias se valúan al costo o al valor ne to realizable, el que sea menor.  El costo se 
+determina usando el método de promedio ponderado; el costo de las existencias por recibir, 
+usando el método de costo específico.  El valo r neto realizable es el precio de venta 
+estimado en el curso normal del negocio, me nos los costos estimados para poner las 
+existencias en condiciones de venta. Por las reducciones del valor en libros de las 
+existencias a su valor neto realizable, se c onstituye una provisión para desvalorización de 
+existencias con cargo a los resultados del ejercicio en el que ocurren tales reducciones.  
+ 
+(g) Inversiones financieras 
+ 
+La Compañía contabiliza las inversiones en compañías, esto es Subsidiarias y Asociadas, en 
+que se tiene una participación supe rior al 20 por ciento del capital social, bajo el método de 
+participación patrimonial.  Según este método,  la participación de la Compañía en las 
+utilidades ó pérdidas de las compañías en donde  se mantienen las inversiones es reconocida 
+en los resultados del período, y los dividendos re cibidos disminuyen el valor en libros de la 
+inversión. 
+ 
+Las inversiones que representa n menos del 20 por ciento del capital de la emisora se 
+presentan al valor razonable. La Compañía compara el valor en libros de estas inversiones 
+con su valor razonable y ajusta dicho valor.  
+ 
+(h) Acciones en tesorería 
+ 
+Las acciones de propia emisión adquiridas a trav és de la absorción del bloque patrimonial 
+de Exsa S.A., se presentan disminuyendo el patrimonio neto. 
+ 
+(i) Inmuebles, maquinaria y equipo 
+ 
+Inmuebles, maquinaria y equipo se registra n al costo, y los activos recibidos por 
+transferencia de bloque patrimonial por escisión  a su valor en libros; y están presentados 
+netos de depreciación acumulada.  La depreci ación anual se reconoce como gasto o costo 
+de otro activo y se determina siguiendo el método de línea rect a en base a la vida útil 
+estimada de los activos, representada por tasas de depreciación equivalentes.   
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2007_Individual_Anual_Soldexsa.pdf | PAGINA: 14 | vecina =====
+- 13 - 
+Los desembolsos incurridos después de que un activo fijo ha si do puesto en uso se 
+capitalizan como costo adicional de ese act ivo cuando pueden ser medidos confiablemente 
+y es probable que tales desembolsos resultaran en beneficios económicos futuros superiores 
+al rendimiento normal evaluado originalmente para dicho activo.  Los desembolsos para 
+mantenimiento y reparaciones se reconocen como gasto del ejercicio en el que son 
+incurridos.  Cuando un activo fijo se vende o es  retirado del uso, su costo y depreciación 
+acumulada se eliminan y la ganancia o pérdida resultante se reconoce como ingreso o gasto.  
+ 
+La Gerencia revisa periódicamen te la vida útil y el método de depreciación para asegurar 
+que ambos sean consistentes con el patrón previsto de beneficios económicos de los 
+inmuebles, maquinaria y equipo.   
+ 
+(j) Activos intangibles 
+ 
+Los intangibles se registran al costo de adquisición y los activ os recibidos por transferencia 
+de bloque patrimonial por escisión a su valo r en libros, y están presentados netos de 
+amortización acumulada. Un activo se reconoce como intangible si es probable que los 
+beneficios económicos futuros atribuibles que genere dicho activo fluyan a la Compañía y 
+su costo puede ser medido confiablemente. Después del reconocim iento inicial, los 
+intangibles se miden al costo menos la amortización acumulada y cualquier pérdida 
+acumulada por deterioro. 
+ 
+Los intangibles se amortizan bajo el método de línea recta, sobre la base de su vida útil 
+estimada. El período de amortización y el mét odo de amortización se revisan al final de 
+cada año. 
+ 
+(k) Costos de financiamiento 
+ 
+Los costos de financiamiento se reconocen  como gasto en el ejercicio en que son 
+incurridos. 
+ 
+(l) Pérdida por deterioro 
+ 
+Cuando existen acontecimientos o cambios ec onómicos que indiquen que el valor de un 
+activo de larga vida pueda no ser recuperable, la  Gerencia revisa el valor en libros de estos 
+activos. Si luego de este análisis resulta que su valor en libros excede su valor recuperable, 
+se reconoce una pérdida por deterioro en el estado de ganancias y pérdidas por un monto 
+equivalente al exceso del valor en libros. Los importes recuperables se estiman para cada 
+activo o, si no es posible, para cada unidad generadora de efectivo. 
+ 
+El valor recuperable de un activo de larga vida o de una unidad generadora de efectivo, es 
+el mayor valor entre su valor razonable menos los costos de venta y su valor de uso. El 
+valor razonable menos los costos de venta de un activo de larga vida o de una unidad 
+generadora de efectivo, es el  importe que se puede obtener al venderlo, en una transacción 
+efectuada en condiciones de i ndependencia mutua entre partes  bien informadas, menos los 
+correspondientes costos de venta.   El valor de uso es el valor presente de los flujos futuros 
+de efectivo estimados que se espera obtener de un activo o de una un idad generadora de 
+efectivo. 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2007_Individual_Anual_Soldexsa.pdf | PAGINA: 27 | vecina =====
+- 26 -  
+20 GASTOS DE VENTA  
+ 
+Gastos de venta comprende: 
+2007 2006
+S/. S/.
+Fletes y transporte 278,006       -              
+Servicios prestados por terceros 3,386,546    -              
+Cargas de personal 2,222,724    -              
+Comisiones -              -              
+Consumo de suministros 365,533       -              
+Tributos 144,425       -              
+Cargas diversas de gestión 33,498         -              
+Provisiones del ejercicio:
+Cobranza dudosa (Nota 5) 20,000         -              
+Desvalorización de existencias (Nota 7) 69,884         -              
+Compensación por tiempo de servicios 161,989       -              
+Otros 317,824       -              
+Total 7,000,429    -              
+ 
+ 
+21 GASTOS DE ADMINISTRACION  
+ 
+Gastos de administración comprende: 
+2007 2006
+S/. S/.
+Cargas de personal 22,734        -              
+Servicios prestados por terceros 4,365,281   -              
+Honorarios 27,974        14,499        
+Remuneración al Directorio 64,000        -              
+Tributos 139,889      -              
+Cargas diversas de gestión 98,054        -              
+Provisiones del ejercicio:
+Otros -              5,437          
+Total 4,717,932   19,936        
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2007_Individual_Anual_Soldexsa.pdf | PAGINA: 28 | puntaje 8 =====
+- 27 -  
+22. OTROS (GASTOS) INGRESOS, NETO 
+ 
+Otros (gastos) ingresos, neto comprende: 
+ 
+2007 2006
+S/. S/.
+Ingreso por enajenación de inmuebles, maquinaria
+  y equipo, neto 76,149       -             
+Devolución de impuestos (a) -             697,033     
+Otros (b) (741,239)    (184,872)    
+Total (665,090)    512,161     
+ 
+(a) Devolución de impuestos corresponde a recuperación de impuesto a la renta pagado en 
+exceso a la Administración Tributaria (SUNAT) por los ejercicios 2000 y 2001. A 
+través de diversas Resoluciones de Inte ndencia emitidas en junio de 2006, SUNAT 
+aprobó la devolución del importe reclamado por la Compañía. 
+ 
+ 
+(b) En 2007 corresponde principalmente al servic io de arrendamiento de inmuebles de su 
+vinculada Exsa. En 2006 corresponde princi palmente a honorarios de los asesores 
+tributarios por S/.139,407 por el reclamo pres entado a SUNAT, descrito en el párrafo 
+anterior. 
+ 
+ 
+23. INGRESOS FINANCIEROS 
+ 
+Ingresos financieros comprende: 
+ 
+2007 2006
+S/. S/.
+Ganancia por diferencia en cambio (Nota 3) 64,877       -            
+Intereses sobre cuentas por cobrar 46,987       -            
+Otros 323             2,357         
+Total 112,187     2,357         
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2007_Individual_Anual_Soldexsa.pdf | PAGINA: 29 | vecina =====
+- 28 -  
+24. GASTOS FINANCIEROS  
+ 
+Gastos financieros comprende: 
+ 
+2007 2006
+S/. S/.
+Pérdida por diferencia en cambio (Nota 3) 525,731     21,865       
+Impuesto a las transacciones financieras 62,059       -            
+Otros 45,257        403            
+Total 633,047     22,268       
+ 
+ 
+25. PARTICIPACION DE LOS TRABAJADORES 
+ 
+El gasto por participación de los trabajadores comprende: 
+ 
+2007 2006
+S/. S/.
+Participación en las utilidades corriente, que se otorga a los 
+  trabajadores de acuerdo con el Decreto Legislativo 892, 5% 
+  sobre la renta gravable antes de impuesto a la renta 
+  (Nota 26(c)) (330,716)    -             
+Participación diferida, ingreso (Nota 27) 8,415         -             
+Total (322,301)    -             
+ 
+26. IMPUESTO A LA RENTA 
+ 
+(a) Régimen tributario del Impuesto a la Renta: 
+ 
+(i) Tasa del impuesto 
+ 
+De conformidad con el Decreto Legislativo 945, del 23 de diciembre de 2003, a partir 
+del ejercicio gravable 2004, la tasa de im puesto a la renta de las personas jurídicas 
+domiciliadas es de 30%.  
+ 
+Las personas jurídicas se encuentran sujeta s a una tasa adicional de 4.1%, sobre toda 
+suma que pueda considerarse una disposici ón indirecta de utilidades, que incluyen 
+sumas cargadas a gastos e ingresos no declarados; esto es, gastos susceptibles de haber 
+beneficiado a los accionistas, participacionistas , entre otros; gastos particulares ajenos 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Futura.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Futura Consorcio Inmobiliario S.A. 
+Notas a los estados financieros  
+Al 31 de diciembre de 2015 y de 2014 
+  1. Actividad económica 
+Futura Consorcio Inmobiliario S.A., en adelante “la Compañía”, fue constituida en Lima y es una 
+subsidiaria de Inversiones Breca S.A., y como tal pertenece a Breca Grupo Empresarial. En el inicio de 
+sus operaciones en el año 1998 se dedicaba al negocio de soldaduras y al desarrollo inmobiliario en 
+general.  A partir del 1 de julio de 2011, luego de transferir los activos y pasivos relacionados a la 
+fabricación de soldaduras a Soldex S.A. la actividad económica de la Compañía comprende solo el 
+negocio inmobiliario.  
+ 
+El domicilio legal de la Compañía es Avenida Las Begonias N°415, piso 7, San Isidro, Lima, Perú.  
+ 
+Los estados financieros de la Compañía al 31 de diciembre de 2014 y por el año terminado en esa fecha 
+fueron aprobados para su emisión por la Gerencia el 15 de febrero de 2015. Los estados financieros de 
+la Compañía al 31 de diciembre de 2015 fueron aprobados por la Gerencia el 12 de febrero de 2016. 
+ 
+  2. Bases de preparación y resumen de políticas contables significativas 
+A continuación se presentan los principales principios y prácticas contables utilizados en la preparación 
+de los estados financieros de la Compañía: 
+ 
+2.1 Bases para la preparación y presentación – 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (en adelante “NIIF”) vigentes al 31 de diciembre de 2015 y de 2014. 
+ 
+Los estados financieros han sido preparados sobre la base del costo histórico, a partir de los 
+registros de contabilidad mantenidos por la Compañía, excepto por las inversiones disponibles 
+para la venta y las propiedades de inversión, las cuales han sido medidos a su valor razonable.  
+Los estados financieros se presentan en miles de Soles (moneda funcional y de presentación), 
+excepto cuando se indique lo contrario. 
+ 
+2.2 Resumen de las políticas contables significativas 
+A continuación se describe las políticas contables significativas de la Compañía para la 
+preparación de sus estados financieros: 
+ 
+2.2.1 Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+(a) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros incluidos en el alcance de la Norma Internacional de 
+Contabilidad (NIC) 39, se clasifican como activos financieros al valor razonable con 
+efecto en resultados, préstamos y cuentas por cobrar, inversiones mantenidas 
+hasta su vencimiento, inversiones financieras disponibles para la venta, o como 
+derivados designados como instrumentos de cobertura en una cobertura eficaz, 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Futura.pdf | PAGINA: 10 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+2 
+según corresponda. La Compañía determina la clasificación de sus activos 
+financieros al momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa, es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros que mantiene la Compañía comprenden las partidas de 
+efectivo y equivalentes de efectivo, cuentas por cobrar comerciales y a 
+relacionadas y las inversiones disponibles para la venta. 
+ 
+Medición posterior -  
+La medición posterior de los activos financieros depende de su clasificación, de la 
+siguiente manera: 
+ 
+Activos y pasivos financieros al valor razonable con efecto en resultados  
+Los activos financieros a valor razonable con efecto en resultados incluyen: (a) los 
+activos financieros mantenidos para negociación y (b) los activos financieros a 
+valor razonable con efecto en resultados designados desde el momento a su 
+reconocimiento inicial.  Los instrumentos financieros derivados también son 
+clasificados como mantenidos para negociar a menos que sean designados como 
+instrumentos de cobertura. 
+ 
+La Gerencia sólo puede designar un instrumento a valor razonable con efecto en 
+resultados desde el momento de su reconocimiento inicial cuando se cumplen los 
+siguientes criterios:  
+ 
+- La designación elimina o reduce significativamente el tratamiento 
+inconsistente que, de otro modo, surgiría de la medición de los activos o 
+pasivos o el reconocimiento de las ganancias o pérdidas que ellos generan 
+sobre una base diferente; o 
+- los activos y pasivos son parte de un grupo de activos financieros, pasivos 
+financieros o ambos; los cuales son gestionados y evaluados en base al 
+rendimiento sobre su valor razonable, de acuerdo con una gestión de riesgo 
+documentada o a una estrategia de inversión; o 
+- los instrumentos financieros contienen uno o más derivados incorporados, 
+los cuales modifican significativamente los flujos de caja que de otra manera 
+podrían ser requeridos por el contrato. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Futura.pdf | PAGINA: 11 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+3 
+La Compañía no mantiene ningún activo financiero a valor razonable con efecto en 
+resultados designados desde el momento de su reconocimiento inicial al 31 de 
+diciembre de 2015 y de 2014. 
+ 
+Préstamos y cuentas por cobrar 
+Los préstamos y cuentas por cobrar son activos financieros no derivados cuyos 
+cobros son fijos o determinables, que no se negocian en un mercado activo.  
+Después de su reconocimiento inicial, estos activos financieros se miden al costo 
+amortizado usando el método de tasa de interés efectiva, menos cualquier 
+deterioro del valor.  El costo amortizado se calcula tomando en cuenta cualquier 
+descuento o prima de adquisición, y las comisiones o los costos que son parte 
+integrante de la tasa de interés efectiva.  La amortización de la tasa de interés 
+efectiva se reconoce en el estado de resultados integrales como ingreso o gasto 
+financiero.  Las pérdidas originadas por el deterioro del valor se reconocen en el 
+estado de resultados integrales como gasto financiero. 
+ 
+Inversiones a ser mantenidas hasta su vencimiento 
+Son activos financieros no derivados con pagos fijos o determinables se clasifican 
+como mantenidos hasta su vencimiento cuando la Compañía  tiene  la intención y 
+capacidad de mantenerlos hasta su vencimiento.  Después de su reconocimiento 
+inicial, la Compañía mide las inversiones mantenidas  hasta su vencimiento al costo 
+amortizado usando el método de interés efectivo menos cualquier deterioro del 
+valor. El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición y las comisiones o los costos que son una parte integrante de 
+la tasa de interés efectiva. La amortización de la tasa de interés efectiva se 
+reconoce en el estado de resultados integrales como ingreso o gasto financiero. 
+Las pérdidas que resulten de un deterioro del valor se reconocen en el estado de 
+resultados integrales como costo financiero. 
+ 
+Al 31 de diciembre de 2015 y de 2014 la Compañía no mantiene inversiones a ser 
+mantenidas hasta su vencimiento. 
+ 
+Inversiones financieras disponibles para la venta 
+Los instrumentos de capital clasificados como disponibles para la venta son 
+aquellos que no son clasificados ni como mantenidos para negociación ni como a 
+valor razonable con efecto en resultados. Los instrumentos de deuda clasificados 
+en esta categoría son aquellos instrumentos con la intención de mantenerlos por un 
+periodo de tiempo indeterminado y que pueden ser vendidos en respuesta a 
+necesidades de liquidez o de cambios en las condiciones de mercado. Después del 
+reconocimiento inicial, las inversiones disponibles para la venta se miden a su valor 
+razonable, y las ganancias o pérdidas no realizadas se reconocen como otros 
+resultados integrales como parte de la reserva de inversiones disponibles para la 
+venta neta de su correspondiente impuesto a la renta hasta que la inversión es 
+vendida, en el cual la ganancia o pérdida acumulada es reconocida en el estado de 
+resultados integrales. Asimismo, si se determina un deterioro, el monto 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 12 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+3 
+(c) Efectivo y equivalentes de efectivo: corresponde a un ajuste proporcional entre los activos y 
+pasivos modificados. 
+ 
+Las modificaciones realizadas en los saldos de los activos y pasivos transferidos han sido aprobadas por 
+la Gerencia a la fecha de este informe. 
+ 
+  3. Bases de preparación y resumen de políticas contables significativas 
+3.1 Bases de presentación – 
+Los estados financieros han sido preparados sobre la base de costos históricos, excepto por las 
+inversiones inmobiliarias que se encuentran a su valor razonable.  Los estados financieros se 
+presentan en nuevos soles y todos los valores se redondean a miles según el valor más próximo 
+(S/.000), excepto donde se indique de otro modo. 
+ 
+3.2 Resumen de principios y prácticas contables significativas -  
+A continuación se describen las políticas contables significativas de la Compañía para la 
+preparación de sus estados financieros: 
+ 
+3.2.1 Transacciones con entidades bajo control común -   
+Fusión 
+Las NIIF no establecen un tratamiento contable específico para la fusión legal de una 
+compañía matriz con sus subsidiarias, razón por la que la Compañía, en base a lo 
+permitido por la NIC 8 y el Marco Conceptual, ha adoptado la siguiente política contable:  
+ 
+Una fusión legal donde la compañía matriz absorbe a sus subsidiarias es en sustancia 
+una redención de acciones de las subsidiarias a cambio de los activos y pasivos de dichas 
+subsidiarias.  En consecuencia, los activos y pasivos a incorporarse son reconocidos a 
+los valores en libros que se mantienen en los estados financieros consolidados a la fecha 
+de la fusión legal.  Estos valores en libros incluyen cualquier crédito mercantil, activo 
+intangible y/o ajustes de asignación de precio cuando la subsidiaria fue adquirida, neto 
+de la correspondiente amortización, depreciación o pérdidas por deterioro que fueran 
+aplicables.  La diferencia entre: (i) los importes asignados a los activos y pasivos en los 
+estados financieros separados de la Compañía después de la fusión legal y (ii) el valor en 
+libros de las inversiones en las subsidiarias absorbidas que se mantienen al costo, es 
+reconocida en los resultados del ejercicio. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 13 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+4 
+3.2.2 Instrumentos financieros: Reconocimiento inicial y medición posterior - 
+(a) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad N° 39, son clasificados como activos financieros al valor razonable 
+con cambios en resultados, préstamos y cuentas por cobrar, inversiones a ser 
+mantenidas hasta su vencimiento, inversiones financieras disponibles para la 
+venta, opciones de compra, o como derivados designados como instrumentos de 
+cobertura en una cobertura eficaz, según corresponda. La Compañía determina la 
+clasificación de sus activos financieros al momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa, es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes de efectivo, 
+cuentas por cobrar comerciales y diversas, e inversiones financieras disponibles 
+para la venta. 
+ 
+Medición posterior -  
+La medición posterior de los activos financieros depende de su clasificación, de la 
+siguiente manera: 
+ 
+Activos financieros al valor razonable con cambios en resultados – 
+Los activos financieros al valor razonable con cambios en resultados incluyen a los 
+activos financieros mantenidos para negociar y los activos financieros designados 
+al momento de  su reconocimiento inicial como al valor razonable con cambios en 
+resultados. Los activos financieros se clasifican como mantenidos para negociar si 
+se adquieren con el propósito de venderlos o recomprarlos en un futuro cercano. 
+Esta categoría incluye los instrumentos financieros derivados suscritos por la 
+Compañía que no están designados como instrumentos de cobertura en relaciones 
+de cobertura según se define en la NIC 39. Los activos financieros al valor 
+razonable con cambios en resultados se contabilizan en el estado de situación 
+financiera por su valor razonable, y los cambios en dicho valor razonable son 
+reconocidos como ingresos o costos financieros en el estado de resultados. 
+ 
+La Compañía no designó ningún activo financiero como un activo financiero al valor 
+razonable con cambios en resultados al 31 de diciembre de 2011 y de 2010. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo. Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+utilizando el método de la tasa de interés efectiva (TIE), menos cualquier deterioro 
+del valor. El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición, y las comisiones o los costos que son parte integrante de la 
+tasa de interés efectiva. La amortización de la tasa de interés efectiva se reconoce 
+en el estado de resultados como ingreso financiero.  Las pérdidas que resulten de 
+un deterioro del valor se reconocen en el estado de resultados como costo 
+financiero. 
+ 
+Inversiones a ser mantenidas hasta su vencimiento - 
+Los activos financieros no derivados con pagos fijos o determinables y 
+vencimientos fijos, se clasifican como mantenidos hasta su vencimiento cuando la 
+Compañía tiene la intención manifiesta y la capacidad de mantenerlos hasta su 
+vencimiento. Después de su reconocimiento inicial, las inversiones a ser 
+mantenidas hasta su vencimiento se miden al costo amortizado utilizando el 
+método de la tasa de interés efectiva, menos cualquier deterioro del valor. El costo 
+amortizado se calcula tomando en cuenta cualquier descuento o prima de 
+adquisición y las comisiones o los costos que son una parte integrante de la tasa de 
+interés efectiva. La amortización de la tasa de interés efectiva se reconoce en el 
+estado de resultados como ingreso financiero. Las pérdidas que resulten de un 
+deterioro del valor se reconocen en el estado de resultados como costo financiero. 
+ 
+La Compañía no mantuvo ninguna inversión en esta categoría durante los años 
+terminados el 31 de diciembre de 2011 y 2010. 
+ 
+Inversiones financieras disponibles para la venta - 
+Las inversiones financieras disponibles para la venta incluyen títulos de patrimonio. 
+Las inversiones en títulos de patrimonio clasificadas como disponibles para la venta 
+son aquellas que no se clasifican ni como mantenidas para negociar ni como al 
+valor razonable con cambios en resultados. Después del reconocimiento inicial, las 
+inversiones financieras disponibles para la venta se miden por su valor razonable, y 
+las ganancias o pérdidas no realizadas se reconocen como otros resultados 
+integrales en la reserva por actualización de inversiones financieras disponibles 
+para la venta hasta que la inversión sea dada de baja.  En ese momento, la 
+ganancia o pérdida acumulada se reconoce como una ganancia o pérdida, o se 
+considera como un deterioro del valor de la inversión, en cuyo caso la pérdida 
+acumulada se reclasifica al estado de resultados como costo financiero y se elimina 
+de la reserva respectiva. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 18 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+9 
+Respecto de las inversiones en títulos de patrimonio clasificadas como disponibles 
+para la venta, la evidencia objetiva debe incluir una disminución significativa o 
+prolongada del valor razonable de la inversión por debajo de su costo. El concepto 
+de “significativo” se evalúa respecto del costo original de la inversión, y el 
+concepto de “prolongado” se evalúa respecto del período en el que el valor 
+razonable haya estado por debajo del costo original. Cuando exista evidencia de un 
+deterioro del valor, la pérdida acumulada, medida como la diferencia entre el costo 
+de adquisición y el valor razonable actual, menos cualquier pérdida por deterioro 
+reconocida previamente en el estado de resultados, se elimina de otros resultados 
+integrales y se reconoce en el estado consolidado de resultados. Las pérdidas por 
+deterioro del valor de las inversiones en títulos de patrimonio clasificadas como 
+disponibles para la venta no se revierten a través del estado de resultados. Los 
+aumentos en el valor razonable después de haberse reconocido un deterioro se 
+reconocen directamente en otros resultados integrales. 
+ 
+(c) Pasivos financieros – 
+Reconocimiento inicial y medición - 
+Los pasivos financieros dentro del ámbito de la NIC 39 se clasifican como pasivos 
+financieros al valor razonable con cambios en resultados, opciones de venta sobre 
+el interés no controlador, préstamos y cuentas por pagar, o como derivados 
+designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda.  La Compañía determina la clasificación de los pasivos financieros al 
+momento del reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los préstamos y cuentas por pagar contabilizados al costo 
+amortizado, los costos de transacción directamente atribuibles. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales y 
+diversas y obligaciones financieras. 
+ 
+Medición posterior – 
+La medición posterior de los pasivos financieros depende de su clasificación de la 
+siguiente manera: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados - 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen los 
+pasivos financieros mantenidos para negociar y los pasivos financieros designados 
+al momento del reconocimiento inicial como al valor razonable con cambios en 
+resultados. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 19 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+10 
+Los pasivos financieros se clasifican como mantenidos para negociar si se contraen 
+con el propósito de negociarlos en un futuro cercano. Las ganancias o pérdidas por 
+pasivos mantenidos para negociar se reconocen en el estado consolidado de 
+resultados. 
+ 
+La Compañía no ha designado ningún pasivo financiero al valor razonable con 
+cambios en resultados al 31 de diciembre de 2011 y 2010. 
+ 
+Deudas y préstamos que devengan interés - 
+Después del reconocimiento inicial, las obligaciones financieras se miden al costo 
+amortizado, utilizando el método de la tasa de interés efectiva. Las ganancias y 
+pérdidas se reconocen en el estado de resultados cuando los pasivos se dan de 
+baja, como así también a través del proceso de amortización de la tasa de interés 
+efectiva. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en 
+la adquisición y las comisiones o los costos que sean una parte integrante de la tasa 
+de interés efectiva. La amortización de la tasa de interés efectiva se reconoce 
+como costo financiero en el estado de resultados integrales. 
+ 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación correspondiente ha sido 
+pagada o cancelada, o ha expirado. Cuando un pasivo financiero existente es 
+reemplazado por otro proveniente del mismo prestamista bajo condiciones 
+sustancialmente diferentes, o si las condiciones de un pasivo existente se modifican 
+de manera sustancial, tal permuta o modificación se trata como una baja del pasivo 
+original y el reconocimiento de un nuevo pasivo, y la diferencia en los importes 
+respectivos en libros se reconocen en el estado de resultados. 
+ 
+(d) Compensación de instrumentos financieros –  
+Los activos financieros y los pasivos financieros se compensan de manera que se 
+informa el importe neto en el estado de situación financiera, solamente si existe un 
+derecho actual legalmente exigible de compensar los importes reconocidos, y 
+existe la intención de liquidarlos por el importe neto, o de realizar los activos y 
+cancelar los pasivos en forma simultánea. 
+ 
+(e) Valor razonable de los instrumentos financieros –  
+A cada fecha de cierre del periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina en 
+base a los precios cotizados en el mercado, o a los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 20 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+11 
+Para los instrumentos financieros que no se negocian en mercados activos, el valor 
+razonable se determina utilizando técnicas de valoración adecuadas. Tales técnicas 
+pueden incluir el uso de transacciones de mercado recientes entre partes 
+interesadas y debidamente informadas que actúen en condiciones de 
+independencia mutua, la referencia a los valores razonables de otros instrumentos 
+financieros que sean esencialmente similares, el análisis de valores descontados de 
+flujos de efectivo y otros modelos de valoración. 
+ 
+En la nota 22 se incluye información sobre los valores razonables de los 
+instrumentos financieros y mayores detalles sobre cómo dichos valores se 
+determinaron. 
+ 
+3.2.3 Transacciones en moneda extranjera - 
+Los estados financieros de la Compañía se presentan en Nuevos Soles, que es también su 
+moneda funcional. 
+ 
+Transacciones y saldos - 
+Las transacciones en moneda extranjera son inicialmente registradas por la Compañía al 
+tipo de cambio de la moneda funcional a la fecha de la transacción. 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera se convierten al tipo 
+de cambio de cierre de la moneda funcional vigente a la fecha de cierre del periodo sobre 
+el que se informa. 
+ 
+Todas las diferencias se registran en el estado de resultados si se cumplen los criterios 
+específicos de reconocimiento. 
+ 
+Las partidas no monetarias que se miden en términos de su costo histórico en moneda 
+extranjera se convierten utilizando los tipos de cambio vigentes a la fecha de las 
+transacciones originales. 
+ 
+3.2.4 Efectivo y equivalentes de efectivo - 
+El rubro efectivo y equivalentes de efectivo del estado de situación financiera comprende 
+el efectivo en bancos y en caja y los depósitos con vencimientos de tres meses o menos. 
+Para propósitos de preparación del estado de flujos de efectivo, el efectivo y equivalentes 
+de efectivo incluye el efectivo y equivalentes de efectivo anteriormente definidos, netos 
+de los sobregiros bancarios. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 42 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+33 
+15. Servicios de alquiler 
+A continuación se muestra la composición de este rubro: 
+ 
+ 
+2011 2010 
+ 
+S/.(000) S/.(000) 
+Relacionadas, nota 13(a) 3,364 3,285 
+ ________ ________ 
+ 
+3,364 3,285 
+ ________ ________ 
+ 
+16. Costo de servicio 
+A continuación se muestra la composición del rubro: 
+ 
+ 
+2011 2010 
+ 
+S/.(000) S/.(000) 
+Servicio de Alquiler 923 909 
+ ________ ________ 
+ 
+923 909 
+ _______ _______ 
+ 
+17. Gastos administrativos 
+A continuación se presenta la composición de este rubro: 
+ 
+ 
+2011 2010 
+ 
+S/.(000) S/.(000) 
+Servicios prestados  por terceros 407 394 
+Asesoría y consultoría 107 279 
+Tributos 195 58 
+Otros 18 52 
+ ______ ______ 
+ 727 783  ______ ______ 
+ 
+18. Otros ingresos operativos 
+A continuación se presenta la composición de este rubro: 
+ 
+ 
+2011 2010 
+ 
+S/.(000) S/.(000) 
+Ganancia por enajenación de inmuebles, maquinaria y equipo 952 - 
+Valores razonables de inversiones inmovilizadas 13,655 9,053 
+ ________ ________ 
+ 
+14,607 9,053 
+ ________ ________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 43 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+34 
+19. Ingresos financieros 
+Corresponde, principalmente, a ingresos generados por las cuentas remuneradas mantenidas en bancos 
+locales, las cuales se presentan en el  rubro “Efectivo y equivalentes de efectivo”, ver nota 6. 
+ 
+20. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario del país en el que opera. Al 31 de diciembre de 
+2011 , 2010 y 1 de enero de 2010, la tasa del impuesto a la renta es de 30 por ciento sobre la 
+utilidad gravable en Perú.   
+ 
+De acuerdo con las disposiciones legales vigentes al 31 de diciembre de 2011 y de 2010, los 
+dividendos en efectivo a favor de los accionistas no domiciliados están gravados con el impuesto 
+a la renta.  La tasa para Perú es de 4.1 por ciento. 
+ 
+(b) A partir del 1 de enero de 2010, únicamente se encuentran inafectos al impuesto a la renta los 
+intereses y ganancias de capital provenientes de bonos emitidos por la República del Perú, así 
+como los intereses y ganancias de capital provenientes de Certificados de Depósito del Banco 
+Central de Reserva del Perú, utilizados con fines de regularización monetaria.  De igual modo, se 
+encuentran inafectos los intereses y las ganancias de capital provenientes de bonos emitidos con 
+anterioridad al 11 de marzo de 2007. 
+ 
+De otro lado, también a partir del ejercicio 2010, se gravan las ganancias de capital resultantes 
+de enajenación, redención o rescate de valores mobiliarios a través de mecanismos centralizados 
+de negociación en el Perú. 
+ 
+En este contexto, la Ley del Impuesto a la Renta precisó que, para establecer la renta bruta 
+producida por la enajenación de valores mobiliarios adquiridos con anterioridad al 1 de enero de 
+2010, el costo computable de dichos valores será el precio de cotización al cierre del ejercicio 
+gravable 2009 o el costo de adquisición o el valor de ingreso al Patrimonio, el que resulte mayor.   
+ 
+Esta regla es aplicable para personas jurídicas cuando los valores sean enajenados dentro o fuera 
+de un mecanismo centralizado de negociación del Perú. 
+ 
+(c) Para propósito de la determinación del impuesto a las ganancias e impuesto general a las ventas, 
+los precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2011 y de 2010. 
+ 
+(d) A la fecha, las normas de precio de transferencia que se encuentran vigentes en Perú, regulan 
+que las transacciones con empresas vinculadas locales o del exterior deben de ser realizadas a 
+valor de mercado. 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2011_Individual_Anual_Futura Cons. Inm.S.A. al 31-12-11-10.pdf | PAGINA: 44 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+35 
+Las autoridades tributarias tienen el derecho de solicitar dicha información. Sobre la base del 
+análisis de las operaciones de la Compañía, la Gerencia y sus asesores legales consideran que 
+como consecuencia de la aplicación de las normas mencionadas, no surgirán contingencias de 
+importancia para la Compañía al 31 de diciembre de 2011 y de 2010.  
+ 
+(e) Las autoridades tributarias tienen la facultad de revisar y, de ser aplicable, corregir el impuesto a 
+la renta calculado por la Compañía, por un período comprendido principalmente, en cuatro años 
+posteriores al año de la presentación de la declaración de impuestos.  Las declaraciones juradas 
+del impuesto a la renta e Impuesto general a las ventas de los años 2007 a 2011 se encuentran 
+pendientes de revisión por parte de las autoridades tributarias. 
+ 
+Debido a las posibles interpretaciones que las autoridades tributarias pueden dar a las normas 
+legales aplicables a la Compañía, no es posible determinar a la fecha, si de las revisiones que se 
+realicen resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto 
+o recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del 
+ejercicio en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores 
+legales, cualquier eventual liquidación adicional de impuestos no sería significativa para los 
+estados financieros al 31 de diciembre de 2011 y de 2010. 
+ 
+21. Gestión de riesgo financiero, objetivos y políticas 
+Los principales pasivos financieros de la Compañía incluyen obligaciones financieras, cuentas por pagar 
+comerciales, diversas y relacionadas. El principal propósito de dichos pasivos financieros es financiar las 
+operaciones de la Compañía. Asimismo, la Compañía mantiene efectivo y depósitos a corto plazo, 
+cuentas por cobrar comerciales y diversas que surgen directamente de sus operaciones. La Compañía 
+está expuesta a riesgo de créditos, mercado y liquidez. 
+ 
+La Alta Gerencia de la Compañía supervisa la gestión de dichos riesgos. La Alta Gerencia de la Compañía 
+está apoyada por la Gerencia Financiera que asesora sobre dichos riesgos y sobre el marco corporativo 
+de gestión del riesgo financiero que resulte más apropiado para la Compañía. La Gerencia Financiera 
+brinda seguridad a la Alta Gerencia de la Compañía de que las actividades de toma de riesgo financiero 
+de la Compañía se encuentran reguladas por políticas y procedimientos corporativos apropiados y que 
+esos riesgos financieros se identifican, miden y gestionan de conformidad con las políticas de la 
+Compañía y sus preferencias para contraer riesgos. 
+ 
+El Directorio revisa y aprueba las políticas para administrar cada uno de los riesgos, que se resumen a 
+Continuación: 
+ 
+Riesgo de crédito  
+El riesgo de crédito es el riesgo de que una contraparte no pueda cumplir con sus obligaciones en 
+relación con un instrumento financiero o contrato de venta, generando una pérdida financiera.  La 
+Compañía está expuesta a un riesgo de crédito por sus actividades operativas (principalmente cuentas 
+por cobrar) y por sus actividades de financiamiento, incluyendo depósitos en bancos. 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 5 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. 
+Estado de situación financiera  
+Al 31 de diciembre de 2013 y de 2012 
+ Nota 2013 2012 
+  S/.(000) S/.(000) 
+ 
+   
+Activo    
+Activo corriente    
+Efectivo y equivalentes de efectivo 4 8,269 11,680 
+Cuentas por cobrar a relacionadas 13(b) 1,166 166 
+Cuentas por cobrar comerciales 
+ 
+273 159 
+Otras cuentas por cobrar 5 173 1,972 
+Gastos pagados por anticipado  454 -   _________ _________ 
+ 
+ 10,335 13,977 
+Activo no corriente 
+ 
+  
+Inversiones disponibles para la venta 6 13,876 13,876 
+Propiedades de inversión 7 327,630 294,350 
+Equipos diversos, neto  194 -   _________ _________ 
+    
+Total activo  352,035 322,203   _________ _________ 
+ 
+   
+Pasivo y patrimonio neto    
+Pasivo corriente    
+Cuentas por pagar comerciales 
+ 
+237 248 
+Cuentas por pagar a relacionadas 13(b) 649 416 
+Otras cuentas por pagar 8 558 472 
+  _________ _________ 
+  
+1,444 1,136 
+    
+    
+Pasivo diferido por impuesto a las ganancias, neto 9(a) 89,433 78,213   _________ _________ 
+Total pasivo 
+ 
+90,877 79,349 
+  _________ _________ 
+Patrimonio neto 10   
+Capital social  31,050 31,050 
+Acciones de inversión  15,525 15,525 
+Acciones comunes en tesorería 
+ 
+(1,189) (1,189) 
+Resultados no realizados   5,689 5,921 
+Reserva legal  6,210 4,287 
+Resultados acumulados  203,873 187,260 
+  _________ _________ 
+Total patrimonio neto  261,158 242,854 
+  _________ _________ 
+    
+Total pasivo y patrimonio neto  352,035 322,203   _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 6 | puntaje 31 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ Nota 2013 2012 
+  S/.(000) S/.(000) 
+    
+    
+Ingreso por alquileres 7(e) 6,610 5,174 
+Otros ingresos operativos  70 - 
+Costo de servicio 7(e) (1,347) (1,835) 
+Otros egresos operativos  (10) (407)   __________ __________ 
+Ingresos de alquiler, neto  5,323 2,932   __________ __________ 
+    
+Ingreso por venta de inmuebles 7(c)(i) 249 - 
+Costo de enajenación de inmuebles 7(c)(i) (210) -   __________ __________ 
+Ganancia por venta de propiedades de inversión  39 -   __________ __________ 
+  5,362 2,932 
+    
+Cambios en el valor razonable de propiedades de 
+inversión 7(d) 33,863 71,452 
+Gastos administrativos 12 (2,352) (2,205)   __________ __________ 
+Utilidad operativa  36,873 72,179 
+    
+Ingreso por dividendos recibidos  299 - 
+Ingresos financieros  135 48 
+Venta de activos financieros  - 9,419 
+Costo de enajenación de activos financieros  - (5,681) 
+Diferencia en cambio, neta 14(a) 462 (174)   ________ ________ 
+Utilidad antes del impuesto a las ganancias  37,769 75,791 
+    
+Impuesto a las ganancias 9(b) (11,915) (24,240)   ________ ________ 
+    
+Utilidad neta   25,854 51,551   ________ ________ 
+Otros resultados integrales    
+Cambios en el impuesto a las ganancias diferido de 
+inversiones disponibles para la venta 9(a) (232) 232   __________ __________ 
+Otros resultados integrales, neto del impuesto a las 
+ganancias  (232) 232   __________ __________ 
+  
+  
+Total otros resultados integrales  25,622 51,783   __________ __________ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 7 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. 
+Estado de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ 
+Capital  
+social 
+Acciones de 
+inversión 
+Acciones en 
+tesorería 
+Resultados  
+No realizados Reserva legal 
+Resultados 
+acumulados Total 
+ S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) 
+        
+Saldos al 1 de enero de 2012 31,050 15,525 (1,189) 5,689 1,728 138,268 191,071 
+Transferencia – nota 10(b) - - - - 2,559 (2,559) - 
+Otros resultados integrales - - - 232 - - 232 
+Utilidad neta del año - - - - - 51,551 51,551  ________ ________ ________ ________ ________ _________ _________ 
+ 
+       
+Saldos al 31 de diciembre de 2012 31,050 15,525 (1,189) 5,921 4,287 187,260 242,854 
+ 
+       
+Transferencia – nota 10(b) - - - - 1,923 (1,923) - 
+Distribución de utilidades - - - - - (7,318) (7,318) 
+Otros resultados integrales - - - (232) - - (232) 
+Utilidad neta del año - - - - - 25,854 25,854  ________ ________ ________ ________ ________ _________ _________ 
+        
+Saldos al 31 de diciembre de 2013 31,050 15,525 (1,189) 5,689 6,210 203,873 261,158  ________ ________ ________ ________ ________ _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 8 | puntaje 8 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A.  
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ 
+2013 2012 
+ 
+S/.(000) S/.(000) 
+ 
+ 
+ Actividades de operación   
+Cobro de alquileres 6,157 7,444 
+Recupero de tributos 1,731 - 
+Pago a proveedores (2,422) (4,659) 
+Pagos de tributos (2,128) (3,932) 
+Otros cobros (pagos)  relativos a la actividad 92 (286) 
+  _________   _________ 
+Efectivo y equivalente de efectivo neto proveniente (utilizado 
+en) las actividades de operación 3,430 (1,433) 
+  _________   _________  
+Actividades de inversión   
+Cobro de dividendos por inversiones disponibles para la venta 299 - 
+Cobro de intereses por depósitos a plazo 135 - 
+Compra de activo fijo (206) - 
+Venta de propiedades de inversión 249 - 
+Venta de inversiones disponibles para la venta - 9,419 
+Adquisición de propiedades de inversión  - (2,832) 
+  _________   _________  
+Efectivo y equivalente de efectivo neto proveniente de 
+las actividades de inversión 477 6,587 
+  _________   _________  
+ 
+ 
+ Actividades de financiamiento   
+Pago de dividendos (7,318) - 
+  _________   _________  
+Efectivo y equivalente de efectivo neto utilizado en las 
+actividades de financiamiento (7,318) -   _________   _________  
+   
+Aumento (disminución) neta, del efectivo y equivalentes de 
+efectivo (3,411) 5,154 
+Saldo de efectivo y equivalentes de efectivo al inicio del año 11,680 6,526 
+  _________   _________  
+   
+Saldo de efectivo y equivalentes de efectivo al final del año 8,269 11,680 
+  _________   _________  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Futura Consorcio Inmobiliario S.A. 
+Notas a los estados financieros  
+Al 31 de diciembre de 2012 y de 2013 
+  1. Actividad económica 
+Futura Consorcio Inmobiliario S.A., en adelante “la Compañía”, fue constituida en Lima y es una 
+subsidiaria de Inversiones Breca S.A., y como tal pertenece a Breca Grupo Empresarial. En el inició de 
+sus operaciones en el año 1998 se dedicaba al negocio de soldaduras y al desarrollo inmobiliario en 
+general.  A partir del 1 de julio de 2011, luego de transferir los activos y pasivos relacionados a la 
+fabricación de soldaduras a Soldex S.A. la actividad económica de la Compañía comprende solo el 
+negocio inmobiliario.  
+ 
+El domicilio legal de la Compañía es la Avenida Las Begonias N° 441, Piso 14, San Isidro, Lima, Perú.  
+ 
+Los estados financieros de la Compañía al 31 de diciembre de 2012 y por el año terminado en esa fecha 
+fueron aprobados para su emisión por la Gerencia el 16 de febrero de 2013.  Los estados financieros de 
+la Compañía al 31 de diciembre de 2013 fueron aprobados por la Gerencia el 21 de enero de 2014. 
+ 
+  2 Bases de preparación y resumen de políticas contables significativas 
+A continuación se presentan los principales principios y prácticas contables utilizados en la preparación 
+de los estados financieros de la Compañía: 
+ 
+2.1 Bases para la preparación y presentación – 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (en adelante “NIIF”) vigentes al 31 de diciembre de 2013 y de 2012. 
+ 
+Los estados financieros han sido preparados sobre la base del costo histórico, a partir de los 
+registros de contabilidad mantenidos por la Compañía, excepto por las inversiones disponibles 
+para la venta y las propiedades de inversión, las cuales han sido medidos a su valor razonable.  
+Los estados financieros se presentan en miles de Nuevos Soles (moneda funcional y de 
+presentación), excepto cuando se indique lo contrario. 
+ 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, 
+excepto que la Compañía ha adoptado las nuevas NIIFs y NICs revisadas que son obligatorias para 
+periodos que se inician en o después del 1° de enero de 2013, según se describe a continuación; 
+sin embargo, debido a la estructura de la Compañía y la naturaleza de sus operaciones, la 
+adopción de dichas normas no tuvo un efecto significativo en su posición financiera y resultados; 
+por lo tanto, no ha sido necesario modificar los estados financieros separados comparativos de la 
+Compañía.  
+ 
+- NIC 1 “Presentación de los elementos de otros resultados integrales - Modificaciones a la 
+NIC 1”.  
+- NIC 19 “Beneficios a los empleados (modificada)”.  
+- NIC 28 “Inversiones en Asociadas y Negocios Conjuntos (revisada)”. 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 10 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+2 
+- NIIF 7 "Instrumentos financieros: Revelaciones – Compensación de activos y pasivos 
+financieros (modificación)". 
+- NIIF 10 "Estados financieros consolidados".  
+- NIIF 11 "Acuerdos conjuntos". 
+- NIIF 12 "Divulgación de Intereses en otras entidades". 
+- NIIF 13 "Medición del valor razonable" 
+ 
+Como resultado de la aplicación de la NIIF 13 por parte de la Compañía, únicamente se han 
+efectuado revelaciones adicionales en las notas individuales de los instrumentos financieros por 
+los cuales se determinaron valores razonables.  
+ 
+En la nota 2.3 se incluye información sobre los juicios, estimaciones y supuestos contables 
+significativos utilizados por la Gerencia de la Compañía para la preparación de los estados 
+financieros separados adjuntos. 
+ 
+2.2 Resumen de las políticas contables significativas 
+A continuación se describe las políticas contables significativas de la Compañía para la 
+preparación de sus estados financieros: 
+ 
+2.2.1 Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+(a) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros incluidos en el alcance de la Norma Internacional de 
+Contabilidad (NIC) 39, se clasifican como activos financieros al valor razonable con 
+efecto en resultados, préstamos y cuentas por cobrar, inversiones mantenidas 
+hasta su vencimiento, inversiones financieras disponibles para la venta, o como 
+derivados designados como instrumentos de cobertura en una cobertura eficaz, 
+según corresponda. La Compañía determina la clasificación de sus activos 
+financieros al momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa, es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 11 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+3 
+Los activos financieros que mantiene la Compañía comprenden las partidas de 
+efectivo y equivalentes de efectivo, cuentas por cobrar comerciales y a 
+relacionadas y las inversiones disponibles para la venta. 
+ 
+Medición posterior -  
+La medición posterior de los activos financieros depende de su clasificación, de la 
+siguiente manera: 
+ 
+Activos y pasivos financieros al valor razonable con efecto en resultados  
+Los activos financieros a valor razonable con efecto en resultados incluyen: (a) los 
+activos financieros mantenidos para negociación y (b) los activos financieros a 
+valor razonable con efecto en resultados designados desde el momento a su 
+reconocimiento inicial.  Los instrumentos financieros derivados también son 
+clasificados como mantenidos para negociar a menos que sean designados como 
+instrumentos de cobertura. 
+ 
+La Gerencia sólo puede designar un instrumento a valor razonable con efecto en 
+resultados desde el momento de su reconocimiento inicial cuando se cumplen los 
+siguientes criterios:  
+ 
+- La designación elimina o reduce significativamente el tratamiento 
+inconsistente que, de otro modo, surgiría de la medición de los activos o 
+pasivos o el reconocimiento de las ganancias o pérdidas que ellos generan 
+sobre una base diferente; o 
+- los activos y pasivos son parte de un grupo de activos financieros, pasivos 
+financieros o ambos; los cuales son gestionados y evaluados en base al 
+rendimiento sobre su valor razonable, de acuerdo con una gestión de riesgo 
+documentada o a una estrategia de inversión; o 
+- los instrumentos financieros contienen uno o más derivados incorporados, 
+los cuales modifican significativamente los flujos de caja que de otra manera 
+podrían ser requeridos por el contrato. 
+ 
+La Compañía no mantiene ningún activo financiero a valor razonable con efecto en 
+resultados designados desde el momento de su reconocimiento inicial al 31 de 
+diciembre de 2013 y de 2012. 
+ 
+Préstamos y cuentas por cobrar 
+Los préstamos y cuentas por cobrar son activos financieros no derivados cuyos 
+cobros son fijos o determinables, que no se negocian en un mercado activo.  
+Después de su reconocimiento inicial, estos activos financieros se miden al costo 
+amortizado usando el método de tasa de interés efectiva, menos cualquier 
+deterioro del valor.  El costo amortizado se calcula tomando en cuenta cualquier 
+descuento o prima de adquisición, y las comisiones o los costos que son parte 
+integrante de la tasa de interés efectiva.  La amortización de la tasa de interés 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 30 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+22 
+(c) A continuación se presenta, la reconciliación de la tasa efectiva del impuesto a las ganancias con 
+la tasa tributaria: 
+ 
+ 2013 2012  __________________________ __________________________ 
+ S/.(000) % S/.(000) % 
+     
+Utilidad contable 37,769 100.00 75,791 100.00  _________ _______ _________ _______      
+Gasto teórico (11,331) (30.00) (22,737) (30.00) 
+Gastos no deducibles (584) (1.55) (1,503) (1.98)  _________ _______ _________ _______      
+Impuesto a la renta (11,915) (31.55) (24,240) (31.98)  _________ _______ _________ _______ 
+ 
+10. Patrimonio neto 
+(a) Capital social - 
+Al 31 de diciembre de 2013 y de 2012, el capital social de la Compañía está representado por 
+31,049,829 acciones comunes, íntegramente suscritas y pagadas, cuyo valor nominal es de un 
+S/.1.00 por acción.  
+ 
+Al 31 de diciembre de 2013, la estructura societaria de la Compañía es la siguiente: 
+ 
+Porcentaje de participación individual del capital 
+Números de 
+accionistas 
+Porcentaje total de 
+participación 
+v  % 
+   
+Mayor a 10 1 91.31 
+De 1.01 al 10.00 2 7.67 
+Hasta 1.00 112 1.02  _______         _______    
+ 115 100.00  _______  _______ 
+ 
+(b) Reserva legal - 
+Según lo dispone la Ley General de Sociedades, se requiere que un mínimo del 10 por ciento de la 
+utilidad distribuible de cada ejercicio, se transfiera a una reserva legal hasta que ésta sea igual al 
+20 por ciento del capital social.  La reserva legal puede compensar pérdidas o puede ser 
+capitalizada, existiendo en ambos casos la obligación de reponerla.  La Compañía registra la 
+apropiación de la reserva legal cuando ésta es aprobada por la Junta General de Accionistas. El 
+26 de marzo de 2013 y el 22 de marzo de 2012, la Junta General de Accionistas acordó 
+transferir a reserva legal S/.1,923,000 y S/.2,559,000, respectivamente, de los resultados 
+acumulados. 
+ 
+(c) Dividendos – 
+La Junta Obligatoria Anual de Accionistas del 26 de marzo de 2013 acordó el pago de dividendos 
+por S/.7,318,000, las cuales corresponden a las utilidades del ejercicio 2012. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 31 | puntaje 7 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+23 
+(d) Acciones en tesorería - 
+Al 31 de diciembre de 2013 y de 2012, las acciones de propia emisión están representadas por 
+841,126 acciones, cuyo valor nominal es de S/.1.41 por cada una.  A esas fechas, el monto de 
+S/. 1,189,352 se presenta reduciendo el patrimonio neto de la Compañía. 
+ 
+(e) Resultados no realizados - 
+Corresponde al efecto de los cambios en el valor razonable de las inversiones disponibles para la 
+venta, neto del efecto del impuesto a las ganancias diferidas. Ver nota 7. 
+ 
+11. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario del país en el que opera. Al 31 de diciembre de 
+2013 y de 2012, la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad gravable en 
+Perú.   
+ 
+De acuerdo con las disposiciones legales vigentes al 31 de diciembre de 2013 y de 2012, los 
+dividendos en efectivo a favor de los accionistas no domiciliados están gravados con el impuesto 
+a la renta.  La tasa para Perú es de 30 por ciento. 
+ 
+(b) A partir del 1 de enero de 2010, únicamente se encuentran inafectos al impuesto a la renta los 
+intereses y ganancias de capital provenientes de bonos emitidos por la República del Perú, así 
+como los intereses y ganancias de capital provenientes de Certificados de Depósito del Banco 
+Central de Reserva del Perú, utilizados con fines de regularización monetaria.  De igual modo, se 
+encuentran inafectos los intereses y las ganancias de capital provenientes de bonos emitidos con 
+anterioridad al 11 de marzo de 2007. 
+ 
+De otro lado, también a partir del ejercicio 2010, se gravan las ganancias de capital resultantes 
+de enajenación, redención o rescate de valores mobiliarios a través de mecanismos centralizados 
+de negociación en el Perú. 
+ 
+En este contexto, la Ley del Impuesto a la Renta precisó que, para establecer la renta bruta 
+producida por la enajenación de valores mobiliarios adquiridos con anterioridad al 1 de enero de 
+2010, el costo computable de dichos valores será el precio de cotización al cierre del ejercicio 
+gravable 2009 o el costo de adquisición o el valor de ingreso al Patrimonio, el que resulte mayor.   
+ 
+Esta regla es aplicable para personas jurídicas cuando los valores sean enajenados dentro o fuera 
+de un mecanismo centralizado de negociación del Perú. 
+ 
+(c) Para propósito de la determinación del impuesto a las ganancias e impuesto general a las ventas, 
+los precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2013 y de 2012. 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2013_Individual_Anual_Auditados Futura al 31-12-12-13 VF.pdf | PAGINA: 32 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+24 
+(d) A la fecha, las normas de precio de transferencia que se encuentran vigentes en Perú, regulan 
+que las transacciones con empresas vinculadas locales o del exterior deben de ser realizadas a 
+valor de mercado. 
+ 
+Las autoridades tributarias tienen el derecho de solicitar dicha información. Sobre la base del 
+análisis de las operaciones de la Compañía, la Gerencia y sus asesores legales consideran que 
+como consecuencia de la aplicación de las normas mencionadas, no surgirán contingencias de 
+importancia para la Compañía al 31 de diciembre de 2013 y de 2012. 
+ 
+(e) Las autoridades tributarias tienen la facultad de revisar y, de ser aplicable, corregir el impuesto a 
+la renta calculado por la Compañía, por un período comprendido principalmente, en cuatro años 
+posteriores al año de la presentación de la declaración de impuestos.  Las declaraciones juradas 
+del impuesto a la renta del año 2013 e Impuesto general a las ventas de los años 2013 a 2012 se 
+encuentran pendientes de revisión por parte de las autoridades tributarias. 
+ 
+Debido a las posibles interpretaciones que las autoridades tributarias pueden dar a las normas 
+legales aplicables a la Compañía, no es posible determinar a la fecha, si de las revisiones que se 
+realicen resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto 
+o recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del 
+ejercicio en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores 
+legales, cualquier eventual liquidación adicional de impuestos no sería significativa para los 
+estados financieros al 31 de diciembre de 2013 y de 2012. 
+ 
+12. Gastos administrativos 
+A continuación se presenta la composición de este rubro: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Servicios prestados por terceros 824 450 
+Asesoría y consultoría 317 656 
+Tributos 294 57 
+Seguridad y vigilancia 762 775 
+Seguros 149 - 
+Participación y remuneración a los colaboradores - 181 
+Otros 6 86  ______ ______    
+ 2,352 2,205  ______ ______ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2017_Individual_Anual_Futura auditados 2017.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Futura Consorcio Inmobiliario S.A. 
+Notas a los estados financieros  
+Al 31 de diciembre de 2017 y de 2016 
+1. Identificación y Actividad económica  
+(a) Identificación - 
+Futura Consorcio Inmobiliario S.A., en adelante “la Compañía”, fue constituida en Lima, y su 
+principal accionista hasta el 31 de octubre de 2017, fue Inversiones Breca S.A. En el mes de 
+septiembre de 2017, Inversiones Breca S.A. decidió hacer una reorganización societaria y su 
+participación en el capital social de sus empresas subsidiarias, fue dividido en diferentes 
+segmentos de negocio, creando holdings para el control directo de dichos segmentos. Como 
+consecuencia de dicha distribución, la Compañía forma parte del segmento inmobiliario y está 
+bajo el control de Breca Inmobiliaria S.A.C. (en adelante “la Principal”) a partir del 1 de 
+noviembre de 2017. En base a ello la Compañía pertenece a Breca Grupo Empresarial. El 
+domicilio legal de la Compañía es Calle Las Begonias N°415, piso 7, San Isidro, Lima, Perú.  
+ 
+Los estados financieros al 31 de diciembre de 2016 fueron aprobados por la Gerencia el 17 de 
+febrero de 2017 y por Junta General de Accionistas el 23 de marzo de 2017. Los estados 
+financieros al 31 de diciembre de 2017 y por el año terminado en esa fecha fueron aprobados 
+por la Gerencia el 2 de marzo de 2018 y serán presentados para su aprobación a la Junta 
+General de Accionistas en los plazos establecidos por la Ley. La Gerencia de la Compañía estima 
+que dichos estados financieros serán aprobados sin modificación alguna. 
+ 
+(b) Actividad económica - 
+La actividad principal de la Compañía es la de realizar y gestionar inversiones en inmuebles, así 
+como, la venta y alquiler de inmuebles de su propiedad.  
+ 
+El 31 de diciembre de 2017 y de 2016, la Compañía ha incrementado su margen operativo 
+producto principalmente de incrementos en las tarifas, sin embargo durante dichos años 
+presenta pérdidas netas, debido principalmente a una disminución de los cambios en el valor 
+razonable de sus propiedades de inversión, por efecto de la disminución del tipo de cambio. 
+Asimismo, la Compañía cuenta con liquidez para cubrir sus pasivos por lo que sus operaciones no 
+se verían afectadas por dichos resultados negativos. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2017_Individual_Anual_Futura auditados 2017.pdf | PAGINA: 10 | puntaje 8 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+2 
+  2. Bases de preparación y resumen de políticas contables significativas 
+A continuación se presentan los principales principios y prácticas contables utilizados en la preparación 
+de los estados financieros de la Compañía: 
+ 
+2.1 Bases para la preparación y presentación – 
+Los estados financieros adjuntos han sido preparados de acuerdo con las Normas Internacionales 
+de Información Financiera (NIIF), emitidas por el International Accounting Standars Board (IASB 
+por sus siglas en inglés) y vigentes al 31 de diciembre del 2017 y de 2016, respectivamente. 
+ 
+La información contenida en estos estados financieros es responsabilidad de la Gerencia de la 
+Compañía, que manifiesta expresamente que se han aplicado en su totalidad los principios y 
+criterios incluidos en las Normas Internacionales de Información Financiera (NIIF) emitidas por el 
+IASB y vigentes a las fechas de los estados financieros. 
+ 
+Los estados financieros han sido preparados sobre la base del costo histórico, excepto por las 
+inversiones disponibles para la venta y las propiedades de inversión, que han sido medidos a su 
+valor razonable, ver nota 6 y 7, respectivamente. Los estados financieros se presentan en Soles 
+y todos los valores están redondeados a miles de Soles, excepto cuando se indique lo contrario. 
+ 
+2.2 Resumen de las políticas contables significativas 
+A continuación se describe las políticas contables significativas de la Compañía para la 
+preparación de sus estados financieros: 
+ 
+2.2.1 Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+(a) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros incluidos en el alcance de la Norma Internacional de 
+Contabilidad (NIC) 39, se clasifican como activos financieros al valor razonable con 
+efecto en resultados, préstamos y cuentas por cobrar, inversiones mantenidas 
+hasta su vencimiento, inversiones financieras disponibles para la venta, o como 
+derivados designados como instrumentos de cobertura en una cobertura eficaz, 
+según corresponda. La Compañía determina la clasificación de sus activos 
+financieros al momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa, es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2017_Individual_Anual_Futura auditados 2017.pdf | PAGINA: 11 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+3 
+Los activos financieros que mantiene la Compañía comprenden las partidas de 
+efectivo y equivalentes de efectivo, cuentas por cobrar comerciales y a 
+relacionadas, otras cuentas por cobrar y las inversiones disponibles para la venta. 
+ 
+Medición posterior -  
+La medición posterior de los activos financieros depende de su clasificación, de la 
+siguiente manera: 
+ 
+Activos y pasivos financieros al valor razonable con efecto en resultados  
+Los activos financieros a valor razonable con efecto en resultados incluyen: (a) los 
+activos financieros mantenidos para negociación y (b) los activos financieros a 
+valor razonable con efecto en resultados designados desde el momento a su 
+reconocimiento inicial.  Los instrumentos financieros derivados también son 
+clasificados como mantenidos para negociar a menos que sean designados como 
+instrumentos de cobertura. 
+ 
+La Gerencia sólo puede designar un instrumento a valor razonable con efecto en 
+resultados desde el momento de su reconocimiento inicial cuando se cumplen los 
+siguientes criterios:  
+ 
+- La designación elimina o reduce significativamente el tratamiento 
+inconsistente que, de otro modo, surgiría de la medición de los activos o 
+pasivos o el reconocimiento de las ganancias o pérdidas que ellos generan 
+sobre una base diferente; o 
+- los activos y pasivos son parte de un grupo de activos financieros, pasivos 
+financieros o ambos; los cuales son gestionados y evaluados en base al 
+rendimiento sobre su valor razonable, de acuerdo con una gestión de riesgo 
+documentada o a una estrategia de inversión; o 
+- los instrumentos financieros contienen uno o más derivados incorporados, 
+los cuales modifican significativamente los flujos de caja que de otra manera 
+podrían ser requeridos por el contrato. 
+ 
+La Compañía no mantiene ningún activo financiero a valor razonable con efecto en 
+resultados designados desde el momento de su reconocimiento inicial al 31 de 
+diciembre de 2017 y de 2016. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2016_Individual_Anual_Futura EEFF2016.pdf | PAGINA: 10 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+2 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, 
+excepto por las nuevas NIIF y NIC’s revisadas que son obligatorias para los periodos que se inician 
+en o después del 1 de enero de 2016 y que son aplicables a las operaciones de la Compañía. Sin 
+embargo, la naturaleza y el efecto de estos cambios no han sido significativos y no han requerido 
+revisar los estados financieros de años anteriores tal y como se describe a continuación: 
+ 
+- Mejoras anuales - Ciclo 2012 – 2014 
+Estas mejoras son efectivas para períodos anuales que comiencen en o después del 1 de 
+enero 2016 y se aplica prospectivamente.  
+ 
+- Modificación a la NIC 1, Iniciativa de divulgaciones 
+La modificación a la NIC 1, Presentación de Estados Financieros, no realiza mayores 
+cambios, pero clarifica ciertos requerimientos de la NIC 1, tales como: 
+ 
+- Los requisitos de materialidad de la norma. 
+- Las líneas específicas que deben desagregarse en los estados financieros 
+- La flexibilidad que tienen las entidades para ordenar las notas de los estados 
+financieros. 
+- Que la participación en otros resultados integrales en las asociadas y negocios 
+conjuntos que se registran utilizando el método de participación patrimonial, deben 
+ser presentados en forma agregada en una sola línea, y clasificadas entre aquellas 
+partidas que serán o no reclasificadas a los resultados del ejercicio. 
+ 
+Asimismo, clarifica los requerimientos que aplican cuando se presentan subtotales 
+adicionales en los estados financieros. Estas modificaciones no tuvieron ningún impacto 
+en la Compañía. 
+ 
+La Compañía no ha adoptado anticipadamente otras normas, interpretaciones o modificaciones 
+que hayan sido emitidas pero que no son efectivas. 
+ 
+2.2 Resumen de las políticas contables significativas 
+A continuación se describe las políticas contables significativas de la Compañía para la 
+preparación de sus estados financieros: 
+ 
+2.2.1 Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+(a) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros incluidos en el alcance de la Norma Internacional de 
+Contabilidad (NIC) 39, se clasifican como activos financieros al valor razonable con 
+efecto en resultados, préstamos y cuentas por cobrar, inversiones mantenidas 
+hasta su vencimiento, inversiones financieras disponibles para la venta, o como 
+derivados designados como instrumentos de cobertura en una cobertura eficaz, 
+según corresponda. La Compañía determina la clasificación de sus activos 
+financieros al momento del reconocimiento inicial.  
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2016_Individual_Anual_Futura EEFF2016.pdf | PAGINA: 11 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+3 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa, es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros que mantiene la Compañía comprenden las partidas de 
+efectivo y equivalentes de efectivo, cuentas por cobrar comerciales y a 
+relacionadas, otras cuentas por cobrar y las inversiones disponibles para la venta. 
+ 
+Medición posterior -  
+La medición posterior de los activos financieros depende de su clasificación, de la 
+siguiente manera: 
+ 
+Activos y pasivos financieros al valor razonable con efecto en resultados  
+Los activos financieros a valor razonable con efecto en resultados incluyen: (a) los 
+activos financieros mantenidos para negociación y (b) los activos financieros a 
+valor razonable con efecto en resultados designados desde el momento a su 
+reconocimiento inicial.  Los instrumentos financieros derivados también son 
+clasificados como mantenidos para negociar a menos que sean designados como 
+instrumentos de cobertura. 
+ 
+La Gerencia sólo puede designar un instrumento a valor razonable con efecto en 
+resultados desde el momento de su reconocimiento inicial cuando se cumplen los 
+siguientes criterios:  
+ 
+- La designación elimina o reduce significativamente el tratamiento 
+inconsistente que, de otro modo, surgiría de la medición de los activos o 
+pasivos o el reconocimiento de las ganancias o pérdidas que ellos generan 
+sobre una base diferente; o 
+- los activos y pasivos son parte de un grupo de activos financieros, pasivos 
+financieros o ambos; los cuales son gestionados y evaluados en base al 
+rendimiento sobre su valor razonable, de acuerdo con una gestión de riesgo 
+documentada o a una estrategia de inversión; o 
+- los instrumentos financieros contienen uno o más derivados incorporados, 
+los cuales modifican significativamente los flujos de caja que de otra manera 
+podrían ser requeridos por el contrato. 
+ 
+La Compañía no mantiene ningún activo financiero a valor razonable con efecto en 
+resultados designados desde el momento de su reconocimiento inicial al 31 de 
+diciembre de 2016 y de 2015. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2016_Individual_Anual_Futura EEFF2016.pdf | PAGINA: 12 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+4 
+Préstamos y cuentas por cobrar 
+Los préstamos y cuentas por cobrar son activos financieros no derivados cuyos 
+cobros son fijos o determinables, que no se negocian en un mercado activo.  
+Después de su reconocimiento inicial, estos activos financieros se miden al costo 
+amortizado usando el método de tasa de interés efectiva, menos cualquier 
+deterioro del valor.  El costo amortizado se calcula tomando en cuenta cualquier 
+descuento o prima de adquisición, y las comisiones o los costos que son parte 
+integrante de la tasa de interés efectiva.  La amortización de la tasa de interés 
+efectiva se reconoce en el estado de resultados integrales como ingreso o gasto 
+financiero.  Las pérdidas originadas por el deterioro del valor se reconocen en el 
+estado de resultados integrales como gasto financiero. 
+ 
+Inversiones a ser mantenidas hasta su vencimiento 
+Son activos financieros no derivados con pagos fijos o determinables se clasifican 
+como mantenidos hasta su vencimiento cuando la Compañía  tiene  la intención y 
+capacidad de mantenerlos hasta su vencimiento.  Después de su reconocimiento 
+inicial, la Compañía mide las inversiones mantenidas  hasta su vencimiento al costo 
+amortizado usando el método de interés efectivo menos cualquier deterioro del 
+valor. El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición y las comisiones o los costos que son una parte integrante de 
+la tasa de interés efectiva. La amortización de la tasa de interés efectiva se 
+reconoce en el estado de resultados integrales como ingreso o gasto financiero. 
+Las pérdidas que resulten de un deterioro del valor se reconocen en el estado de 
+resultados integrales como costo financiero. 
+ 
+Al 31 de diciembre de 2016 y de 2015 la Compañía no mantiene inversiones a ser 
+mantenidas hasta su vencimiento. 
+ 
+Inversiones financieras disponibles para la venta 
+Los instrumentos de capital clasificados como disponibles para la venta son 
+aquellos que no son clasificados ni como mantenidos para negociación ni como a 
+valor razonable con efecto en resultados. Los instrumentos de deuda clasificados 
+en esta categoría son aquellos instrumentos con la intención de mantenerlos por un 
+periodo de tiempo indeterminado y que pueden ser vendidos en respuesta a 
+necesidades de liquidez o de cambios en las condiciones de mercado. Después del 
+reconocimiento inicial, las inversiones disponibles para la venta se miden a su valor 
+razonable, y las ganancias o pérdidas no realizadas se reconocen como otros 
+resultados integrales como parte de la reserva de inversiones disponibles para la 
+venta neta de su correspondiente impuesto a la renta hasta que la inversión es 
+vendida, en el cual la ganancia o pérdida acumulada es reconocida en el estado de 
+resultados integrales. Asimismo, si se determina un deterioro, el monto 
+determinado es reconocido en el estado de resultados integrales y retirado de la 
+reserva de inversiones disponibles para la venta.  
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2009_Individual_Anual_Soldexa 31.12.09-08.pdf | PAGINA: 42 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+32 
+21. Gastos de personal 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2009 2008 
+ S/(000) S/(000) 
+   
+Sueldos, remuneraciones al Directorio  11,614 5,628 
+Beneficios sociales 1,246 589 
+Gratificaciones  1,777 869 
+Aportaciones  1,603 760 
+Vacaciones  1,059 654 
+Otros  1,760 750  _________ _________ 
+   
+ 19,059 9,250  _________ _________ 
+ 
+(b) La distribución de los gastos de personal es como sigue: 
+ 
+ 2009 2008 
+ S/(000) S/(000)    
+Costo de ventas, nota 18 5,107 652 
+Gastos de ventas, nota 19 6,850 7,335 
+Gastos de administración, nota 20 7,102 1,263  _________ _________ 
+   
+ 19,059 9,250  _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2009_Individual_Anual_Soldexa 31.12.09-08.pdf | PAGINA: 43 | puntaje 11 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+33 
+22. Otros, neto 
+A continuación se presenta la composición del rubro: 
+ 
+ 2009 2008 
+ S/(000) S/(000)    
+Ingresos   
+Alquileres Exsa 1,415 - 
+Enajenación de inmuebles, maquinaria y equipo 1,699 - 
+Sobrante de inventario 230 - 
+Venta de material inservible 125 - 
+Otros 387 692  _________ _________ 
+ 3,856 692  _________ _________    
+Gastos   
+Gasto por provisión de obsoletos y desvalorización 2,058 70 
+Costo de enajenación de inmuebles, maquinaria y equipo 1,348 - 
+Bonificación extraordinaria al personal 987 - 
+Bonos de gerencia 638 470 
+Bonificación extraordinaria por cese 562 - 
+Sanciones administrativas fiscales 444 27 
+Otros 1,697 357  _________ _________ 
+ 7,734 924  _________ _________ 
+ 
+23. Gastos financieros 
+A continuación se presenta la composición del rubro: 
+ 
+ 2009 2008 
+ S/(000) S/(000) 
+   
+Intereses por préstamos 15,260 6,252 
+Otras cargas financieras 959 1,838  _________ _________ 
+ 16,219 8,090  _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2009_Individual_Anual_Soldexa 31.12.09-08.pdf | PAGINA: 44 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+34 
+24. Saldos y transacciones con empresa vinculada 
+(a) Las principales operaciones empresas vinculadas resumen como sigue: 
+ 
+ 2009 2008 
+ S/(000) S/(000) 
+Exsa   
+Alquiler de inmuebles y maquinarias 2,424 3,455 
+Compra de activos fijos y mercadería 4,664 114,183 
+Servicios  de gerenciamiento 93 13,950 
+Otros 444 3,455 
+Soldaduras West Arco Ltd.   
+Servicios de asesoría 711 - 
+Venta de mercadería y/o productos 3 - 
+Soldaduras Megriweld   
+Venta de mercadería y/o productos 2,007 - 
+Comelven   
+Venta de mercadería y/o productos 136 - 
+ 
+(b) Como resultado de estas y otras transacciones menores, la Compañía mantiene los siguientes 
+saldos a la fecha del balance general: 
+ 
+ 2009 2008 
+ S/(000) S/(000) 
+   
+Cuentas por cobrar   
+Exsa S.A. - 1,548 
+Soldaduras West Arco Ltda. 17 - 
+Soldaduras Megriweld S.A. 861 - 
+Nitrocorp 57 - 
+Comelven 718 - 
+Otros 34 -  _________ _________ 
+ 1,687 1,548  _________ _________ 
+Cuentas por pagar   
+Exsa S.A. 89 10,920 
+Préstamos de accionistas 8,612 195,319  _________ _________ 
+ 8,701 206,239  _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 7 | vecina =====
+ 
+Las notas adjuntas son parte integrante de este estado. 
+Soldexa S.A. 
+Estados de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2010 y 2009 
+ Capital 
+Acciones de 
+inversión 
+Acciones en 
+tesorería 
+Reserva  
+legal 
+Resultados 
+acumulados 
+Resultados por 
+traslación 
+Resultados no 
+realizados Total 
+ S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) 
+         
+Saldos al 1° de enero de 2009  51,937 25,968 (6,870) 8,988 790 20,294 - 101,107 
+Aumento de capital, nota 14 (a) y (b) 124,159 62,079 - - - - - 186,238 
+Capitalización de resultados acumulados nota 14 (e) 3,263 1,630 - 25 (4,918) - - - 
+Resultados por traslación - - - - - (7,494) - (7,494) 
+Resultados no realizados - - - - - - 1,288 1,288 
+Utilidad neta - - - - 13,832 - - 13,832  _________ _________ _________ _________ _________ _________ _________ _________ 
+Saldos al 31 de diciembre de 2009  179,359 89,677 (6,870) 9,013 9,704 12,800 1,288 294,971 
+         
+Transferencia a reserva legal - - - 971 (971) - - - 
+Resultados por traslación - - - - - 9,968 - 9,968 
+Resultados no realizados, neto de su efecto diferido, nota 13 - - - - - - 474 474 
+Utilidad neta - - - - 30,239 - - 30,239  _________ _________ _________ _________ _________ _________ _________ _________ 
+         
+Saldos al 31 de diciembre de 2010 179,359 89,677 (6,870) 9,984 38,972 22,768 1,762 335,652  _________ _________ _________ _________ _________ _________ _________ _________ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 8 | puntaje 9 =====
+ 
+ 
+Soldexa S.A. 
+Estados de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2010 y 2009 
+ 2010 2009 
+ S/.(000) S/.(000) 
+   
+   
+Actividades de operación 
+Cobranza por:   
+Venta de bienes 157,994 148,055 
+Menos pago por:   
+Proveedores de bienes y servicios (101,107) (67,323) 
+Remuneraciones, beneficios sociales, tributos y otros (26,359) (13,729) 
+Impuesto a la renta (2,945) (4,609) 
+Intereses (11,985) (13,681) 
+Otros cobros en efectivo relativo a la actividad 17,190 2,681  __________ __________ 
+Aumento del efectivo y equivalente de efectivo proveniente de 
+las actividades de operación 32,788 51,394  __________ __________ 
+   
+Actividades de inversión 
+Cobranza por:   
+Venta de inmuebles, maquinaria y equipo 428 683 
+Menos pagos por:   
+Compras de inmueble, maquinaria y equipo (3,792) (7,975) 
+Inversión en subsidiarias - (285) 
+Compras y desarrollo de activos intangibles (639) (799)  __________ __________ 
+Disminución del efectivo y equivalente de efectivo utilizado en 
+las actividades de inversión (4,003) (8,376)  __________ __________ 
+   
+Actividades de financiamiento   
+Dividendos recibidos de las subsidiarias 20,151 5,192 
+Aportes de capital - 183,620 
+Menos pagos por:   
+Obligaciones financieras (35,659) (56,247) 
+Préstamos de accionistas (8,612) (180,898)  __________ __________ 
+Disminución del efectivo y equivalente de efectivo utilizado en 
+las actividades de financiamiento (24,120) (48,333)  __________ __________ 
+   
+Aumento (disminución) del efectivo y equivalente de efectivo 4,665 (5,315) 
+Saldo del efectivo y equivalente de efectivo al inicio del ejercicio 8,107 13,422  __________ __________ 
+   
+Saldo del efectivo y equivalentes de efectivo al final del ejercicio 12,772 8,107  __________ __________ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 9 | vecina =====
+Estados de flujos de efectivo (continuación) 
+ 
+ 
+ 
+Las notas adjuntas son parte integrante de este estado. 
+ 
+ 2010 2009 
+ S/.(000) S/.(000) 
+   
+Conciliación de la utilidad neta con el efectivo proveniente de las 
+actividades de operación    
+Utilidad neta 30,239 13,832 
+Más ajustes a la utilidad del ejercicio:   
+Depreciación 5,270 4,348 
+Amortización 334 502 
+Impuesto a la renta diferido  934 - 
+Otros 2,152 5,190 
+Menos ajustes a la utilidad del ejercicio:   
+Participación en los resultados de las subsidiarias (13,561) (11,994) 
+Impuesto a la renta diferido  - (1,749) 
+   
+Cargos y abonos por cambios netos en los activos corrientes y 
+pasivos corrientes   
+(Aumento) disminución de cuentas por cobrar comerciales  (3,979) 4,511 
+Aumento de cuentas por cobrar diversas a vinculadas (255) (284) 
+Disminución de cuentas por cobrar diversas 10,527 10,640 
+Disminución de cuentas por cobrar diversas a vinculadas - 968 
+Disminución de existencias 5,908 44,730 
+Aumento de gastos pagados por anticipado (489) (49) 
+(Disminución) aumento de cuentas por pagar comerciales  47 (8,603) 
+Aumento de cuentas por pagar diversas (4,339) (10,648)  __________ __________ 
+Efectivo y equivalente de efectivo provenientes de actividades 
+de operación 32,788 51,394  __________ __________ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+Al 31 de diciembre de 2010 y de 2009, la Compañía solo mantiene activos financieros 
+clasificados como inversiones disponibles para la venta, préstamos y cuentas por cobrar.   
+ 
+Los préstamos otorgados y cuentas por cobrar se reconocen inicialmente a su valor razonable y 
+subsecuentemente se valorizan al costo amortizado usando el método del interés efectivo, 
+menos la provisión por deterioro.  Las ganancias y pérdidas son reconocidas en el estado de 
+ganancias y pérdidas.  
+ 
+Pasivos financieros 
+Los pasivos financieros incluyen obligaciones financieras, cuentas por pagar comerciales, y otras 
+cuentas por pagar.  Estos pasivos financieros son inicialmente reconocidos al valor razonable 
+menos los costos directamente atribuibles a la transacción.  Luego del reconocimiento inicial, los 
+pasivos sujetos a intereses son posteriormente medidos al costo amortizado utilizando el método 
+del interés efectivo.  Las ganancias y pérdidas resultantes de la recompra, liquidación o 
+cancelación de pasivos afectos a intereses son reconocidos respectivamente como ingresos y 
+gastos financieros.   
+ 
+Los instrumentos financieros (activos y pasivos) se compensan cuando se tiene el derecho legal 
+de compensarlos y la Gerencia de la Compañía tiene la intención de cancelarlos sobre una base 
+neta o de realizar el activo y cancelar el pasivo simultáneamente. 
+ 
+Un activo financiero (o, cuando sea aplicable una parte de un activo financiero o una parte de un 
+grupo de activos financieros similares) es dado de baja cuando: 
+ 
+- Han expirado los derechos para recibir flujos de efectivo provenientes del activo. 
+ 
+- La Compañía retiene los derechos para recibir los flujos de efectivo provenientes del 
+activo, pero ha asumido una obligación para pagarlos sin un retraso significativo bajo un 
+acuerdo de transferencia; o 
+ 
+- La Compañía ha transferido sus derechos para recibir los flujos de efectivo provenientes 
+del activo y (a) ha transferido sustancialmente todos los riesgos y beneficios del activo, o 
+(b) la entidad no ha transferido ni retenido sustancialmente todos los riesgos y beneficios 
+del activo, pero ha transferido el control del activo. 
+ 
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se cancela o 
+expira.   
+ 
+(e) Efectivo y equivalente de efectivo - 
+Para fines del estado de flujos de efectivo, el efectivo y equivalente de efectivo corresponden a 
+caja y cuentas corrientes, todas ellas registradas en el balance general.  Dichas cuentas no están 
+sujetas a un riesgo significativo de cambios en su valor. 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 15 | puntaje 5 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+ 
+(f) Cuentas por cobrar y provisión para cuentas de cobranza dudosa - 
+Las cuentas por cobrar, cuyo vencimiento promedio no excede los 30 días, se registran al valor 
+nominal de las facturas comerciales, de acuerdo con los criterios indicados en el párrafo (n).  Las 
+cuentas por cobrar se presentan netas de la provisión para cuentas de cobranza dudosa.   
+ 
+La provisión para cuentas de cobranza dudosa se establece si existe evidencia objetiva de que la 
+Compañía no podrá recuperar los montos de las deudas de acuerdo con los términos originales de 
+venta.  Para tal efecto, la Gerencia evalúa periódicamente la suficiencia de la provisión a través 
+de estadísticas de cobrabilidad que la Compañía prepara en función a un análisis de antigüedad.  
+En base a la información anteriormente indicada, la Gerencia de la Compañía estima la provisión 
+para cuentas de cobranza dudosa para aquellos clientes que posean documentos que excedan los 
+180 días de vencidos y cuya cobranza total deja de ser probable, efectuando una evaluación de 
+las cuentas individuales, considerando las garantías recibidas y otra información pertinente, todo 
+ello conforme al juicio y experiencia de la Gerencia, y se registra con cargo a los resultados del 
+ejercicio en el cual la Gerencia determina la necesidad de dicha provisión. Las cuentas 
+incobrables se castigan cuando se identifican como tales.  
+ 
+(g) Existencias – 
+Las existencias están valuadas al costo o valor estimado de realización, el menor, después de 
+considerar la provisión para desvalorización.  El valor neto de realización es el precio de venta en 
+el curso normal del negocio, menos los costos para poner las existencias en condición de venta y 
+los gastos de comercialización y distribución relacionados. La valuación de las existencias no 
+incluye los costos de financiamiento. 
+ 
+El costo se determina sobre la base de un promedio mensual, con excepción de las existencias 
+por recibir, las cuales son valuadas a su costo específico de adquisición.  Para los productos 
+terminados y en proceso, el costo incluye el costo de materia prima, envases y suministros, mano 
+de obra y costos indirectos de fabricación en la capacidad operativa normal. 
+ 
+Al establecer el monto de la provisión por obsolescencia de las existencias, la Gerencia evalúa su 
+anticuamiento y estima la probabilidad de que el valor contable sea afectado por cambios en la 
+demanda del mercado. 
+ 
+(h) Inversiones financieras – 
+Inversiones disponibles para la venta 
+Las inversiones en activos financieros disponibles para la venta son aquellas designadas para 
+mantenerlas por un tiempo indefinido, las cuales pueden ser vendidas debido a necesidades de 
+liquidez o cambios en la tasa de interés, tipos de cambio o en el precio de capital; o no califican 
+para ser registradas como a valor razonable a través del estado de resultados, mantenidas hasta 
+su vencimiento o préstamos y cuentas por cobrar.   
+ 
+Después del reconocimiento inicial, las inversiones disponibles para la venta son posteriormente 
+medidas a su valor razonable.  Las ganancias y pérdidas no realizadas son reconocidas 
+directamente en el patrimonio neto, neto del correspondiente impuesto a la renta. 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+Cuando el valor es vendido, la ganancia o pérdida, es reconocida en el estado de ganancias y 
+pérdidas en el rubro “Ingresos financieros”.   El interés y los dividendos ganados en efectivo 
+durante el tiempo en que se mantuvieron las inversiones disponibles para la venta son 
+reconocidos en el estado de ganancias y pérdidas en el rubro “Ingresos financieros”.  
+ 
+El valor estimado de mercado de las inversiones disponibles para la venta es determinado 
+principalmente sobre la base de cotizaciones o, a falta de esta, en base a flujos de efectivo 
+descontados utilizando tasas de mercado acordes con la calidad crediticia y el plazo de 
+vencimiento de la inversión. 
+ 
+            La Compañía determina la existencia de un deterioro en las inversiones disponibles para la venta 
+cuando existe una significativa y prolongada declinación en su valor razonable por debajo de su 
+costo.  La determinación de la declinación significativa y prolongada requiere el juicio de la 
+Gerencia.  En desarrollo de este juicio, la Gerencia evalúa entre otros factores: la volatilidad en el 
+precio de la acción, la evidencia de deterioro en la situación financiera del emisor, el desempeño 
+de la industria y del sector, los cambios tecnológicos y los flujos de caja operacionales y 
+financieros.   Las pérdidas generadas por la desvalorización de estas inversiones, si las hubiera, 
+son reconocidas en el estado de ganancias y pérdidas en el rubro “Gastos financieros”. 
+ 
+ Inversiones en subsidiarias 
+Las inversiones en subsidiarias (aquellas en que se tiene el control a través de una participación 
+mayor al 50 por ciento del capital) se registran bajo el método de participación patrimonial.  De 
+acuerdo a este método, las inversiones se registran inicialmente al costo, incluyendo cualquier 
+ajuste para llevar los activos netos a su valor razonable y reconocer cualquier plusvalía mercantil 
+que se genere en su adquisición. 
+ 
+Posteriormente, su valor en libros se incrementa o disminuye para reconocer la participación de 
+la Compañía en las utilidades y/o pérdidas de dichas entidades incorporando el efecto a los 
+ajustes por valorización de los activos netos y considerando cualquier deterioro que se 
+identifique en el valor de la inversión. 
+ 
+(i) Inmuebles, maquinaria y equipo – 
+El rubro inmuebles, maquinaria y equipo se registra al costo histórico menos su depreciación y 
+menos la provisión por pérdida de valor de los activos de larga duración, ver párrafo (k).  El costo 
+histórico incluye los desembolsos directamente atribuibles a la adquisición de estas partidas. 
+ 
+El costo inicial comprende el precio de compra, incluyendo aranceles, impuestos de compra no 
+reembolsables y cualquier costo directamente atribuible para dejar al activo en condiciones de 
+trabajo y uso.  Los costos de mantenimiento y reparación se cargan a resultados, toda 
+renovación y mejora significativa se capitaliza únicamente cuando es probable que se produzcan 
+beneficios económicos futuros que excedan el rendimiento estándar originalmente evaluado para 
+el activo. 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 40 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+31 
+20. Gastos de personal 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2010 2009 
+ S/.(000) S/.(000) 
+   
+Sueldos 13,104 11,614 
+Gratificaciones  2,128 1,777 
+Bonificaciones 1,889 1,625 
+Aportaciones  1,767 1,603 
+Beneficios sociales 1,363 1,246 
+Vacaciones  1,251 1,059 
+Otros  2,775 1,760  _________ _________ 
+   
+ 24,277 20,684  _________ _________ 
+ 
+(b) La distribución de los gastos de personal es como sigue: 
+ 
+ 2010 2009 
+ S/.(000) S/.(000)    
+Costo de ventas, nota 17 8,470 5,107 
+Gastos de ventas, nota 18 7,782 6,850 
+Gastos de administración, nota 19 8,025 8,727  _________ _________ 
+   
+ 24,277 20,684  _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 41 | puntaje 11 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+32 
+21. Otros, neto 
+A continuación se presenta la composición del rubro: 
+ 
+ 2010 2009 
+ S/.(000) S/.(000)    
+Ingresos   
+Alquileres  3,319 1,415 
+Enajenación de inmuebles, maquinaria y equipo 428 1,699 
+Venta de material inservible 307 125 
+Sobrante de inventario 142 230 
+Otros 438 387  _________ _________ 
+   
+ 4,634 3,856  _________ _________    
+Gastos   
+Provisión por desvalorización de existencias, nota 6(b) 566 2,058 
+Costo de enajenación de inmuebles, maquinaria y equipo 332 1,348 
+Sanciones administrativas fiscales 16 444 
+Bonificación extraordinaria por cese - 562 
+Otros 293 1,697  _________ _________ 
+   
+ 1,207 6,109  _________ _________ 
+    _________ _________ 
+   
+Otros, neto 3,427 (2,253)  _________ _________ 
+ 
+22. Gastos financieros 
+A continuación se presenta la composición del rubro: 
+ 
+ 2010 2009 
+ S/.(000) S/.(000) 
+   
+Intereses por préstamos 11,431 15,260 
+Otras cargas financieras 65 959  _________ _________ 
+   
+ 11,496 16,219  _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2010_Individual_Anual_EEFF Auditados individuales 2010-12-31.pdf | PAGINA: 42 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+33 
+23. Saldos y transacciones con empresas vinculadas 
+(a) A continuación se presentan las principales transacciones efectuadas por la Compañía con sus 
+empresas vinculadas: 
+ 
+ 2010 2009 
+ S/.(000) S/.(000) 
+Exsa S.A.   
+Alquiler de inmuebles y maquinarias 3,319 2,424 
+Compra de activos fijos y mercadería - 4,664 
+Servicios  de gerenciamiento - 93 
+Otros 924 444 
+Soldaduras West Arco Ltd.   
+Servicios de asesoría 788 711 
+Compras de mercadería y/o productos  68 - 
+Venta de mercadería y/o productos 32 3 
+Soldaduras Megriweld   
+Venta de mercadería y/o productos 1,842 2,007 
+Comelven   
+Venta de mercadería y/o productos 140 136 
+ 
+(b) Como resultado de estas y otras transacciones menores, la Compañía mantiene los siguientes 
+saldos a la fecha del balance general: 
+ 
+ 2010 2009 
+ S/.(000) S/.(000) 
+   
+Cuentas por cobrar comerciales   
+Soldaduras Megriweld Ltda 711 861 
+Otros 83 -  _________ _________ 
+   
+ 794 861  _________ _________ 
+   
+Cuentas por cobrar diversas   
+Exsa S.A. 573 - 
+Soldaduras West Arco Ltda. 366 17 
+Nitrocorp 94 57 
+Comelven - 718 
+Otros 49 35  _________ _________ 
+   
+ 1,082 827  _________ _________ 
+ 
+ 
+ 
+   
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2014_Individual_Anual_Futura Consorcio Inmobiliario 31-12-13-14.pdf | PAGINA: 5 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. 
+Estado de situación financiera  
+Al 31 de diciembre de 2014 y de 2013 
+ Nota 2014 2013 
+  S/.(000) S/.(000) 
+ 
+   
+Activo    
+Activo corriente    
+Efectivo y equivalentes de efectivo 4 10,834 8,269 
+Cuentas por cobrar comerciales 
+ 
+93 273 
+Cuentas por cobrar a relacionadas 13(b) 610 1,166 
+Otras cuentas por cobrar  88 173 
+Impuestos y gastos pagados por anticipado 5 1,006 454   _________ _________ 
+ 
+ 12,631 10,335 
+Activo no corriente 
+ 
+  
+Inversiones disponibles para la venta 6 8,886 13,876 
+Propiedades de inversión 7 374,490 327,630 
+Equipos diversos, neto  173 194   _________ _________ 
+    
+Total activo  396,180 352,035   _________ _________ 
+ 
+   
+Pasivo y patrimonio neto    
+Pasivo corriente    
+Cuentas por pagar comerciales 
+ 
+36 236 
+Cuentas por pagar a relacionadas 13(b) 116 649 
+Otras cuentas por pagar 8 167 556 
+  _________ _________ 
+  
+319 1,441 
+                                                                                    
+    
+Pasivo diferido por impuesto a las ganancias, neto 9(a) 88,727 89,433   _________ _________ 
+Total pasivo 
+ 
+89,046 90,874 
+  _________ _________ 
+Patrimonio neto 10   
+Capital social  31,050 31,050 
+Acciones de inversión  15,525 15,525 
+Acciones comunes en tesorería 
+ 
+(1,189) (1,189) 
+Resultados no realizados   2,249 5,689 
+Reserva legal  6,210 6,210 
+Resultados acumulados  253,289 203,876 
+  _________ _________ 
+Total patrimonio neto  307,134 261,161 
+  _________ _________ 
+    
+Total pasivo y patrimonio neto  396,180 352,035   _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2014_Individual_Anual_Futura Consorcio Inmobiliario 31-12-13-14.pdf | PAGINA: 6 | puntaje 19 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2014 y de 2013 
+ Nota 2014 2013 
+  S/.(000) S/.(000) 
+    
+    
+Ingreso por alquileres 7(e) 7,157 6,610 
+Costo de servicio 7(e) (2,031) (1,274) 
+Ingreso por venta de inmuebles 7(c)(ii) - 249 
+Costo de enajenación de inmuebles 7(c)(ii) - (210)   __________ __________ 
+Ingresos por alquileres y otros neto  5,126 5,375     
+    
+Cambios en el valor razonable de propiedades de 
+inversión 7(d) 45,886 33,863 
+Gastos administrativos 12 (1,133) (2,425) 
+Otros ingresos operativos  31 70 
+Otros egresos operativos  (129) (10)   __________ __________ 
+Utilidad operativa  49,781 36,873 
+    
+Ingreso por dividendos recibidos 6 615 299 
+Ingresos financieros  8 135 
+Ganancia por diferencia en cambio, neta 14(a) 610 462   ________ ________ 
+Utilidad antes del impuesto a las ganancias  51,014 37,769 
+    
+Impuesto a las ganancias 9(b) (1,601) (11,915)   ________ ________ 
+    
+Utilidad neta   49,413 25,854   ________ ________ 
+Otros resultados integrales    
+Pérdida no realizada por inversiones disponibles 
+para la venta   (4,990) - 
+Cambio en el impuesto a las ganancias diferido de 
+inversiones disponibles para la venta 9(a) 1,550 (232)   __________ __________ 
+Otros resultados integrales, neto del impuesto a las 
+ganancias  (3,440) (232)   __________ __________ 
+  
+  
+Total otros resultados integrales  45,973 25,622   __________ __________ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2014_Individual_Anual_Futura Consorcio Inmobiliario 31-12-13-14.pdf | PAGINA: 7 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A. 
+Estado de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2014 y de 2013 
+ 
+Capital  
+social 
+Acciones de 
+inversión 
+Acciones en 
+tesorería 
+Resultados  
+no realizados Reserva legal 
+Resultados 
+acumulados Total 
+ S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) 
+        
+Saldos al 1 de enero de 2013 31,050 15,525 (1,189) 5,921 4,287 187,263 242,857 
+Transferencia – nota 10(b) - - - - 1,923 (1,923) - 
+Distribución de utilidades – nota 10(c) - - - - - (7,318) (7,318) 
+Otros resultados integrales – nota 10(e) - - - (232) - - (232) 
+Utilidad neta del año - - - - - 25,854 25,854  ________ ________ ________ ________ ________ _________ _________ 
+Saldos al 31 de diciembre de 2013 31,050 15,525 (1,189) 5,689 6,210 203,876 261,161 
+Otros resultados integrales – nota 10(e) - - - (3,440) - - (3,440) 
+Utilidad neta del año - - - - - 49,413 49,413  ________ ________ ________ ________ ________ _________ _________ 
+        
+Saldos al 31 de diciembre de 2014 31,050 15,525 (1,189) 2,249 6,210 253,289 307,134  ________ ________ ________ ________ ________ _________ _________ 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2014_Individual_Anual_Futura Consorcio Inmobiliario 31-12-13-14.pdf | PAGINA: 8 | puntaje 11 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Futura Consorcio Inmobiliario S.A.  
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2014 y de 2013 
+ 
+2014 2013 
+ 
+S/.(000) S/.(000) 
+   
+Actividades de operación   
+Cobro de alquileres 8,503 6,157 
+Pagos de tributos (2,782) (2,128) 
+Pago a proveedores (2,725) (2,422) 
+Otros cobros (pagos) relativos a la actividad (80) 92 
+Recupero de tributos - 1,731 
+  _________  _________  
+Efectivo y equivalente de efectivo neto proveniente de las 
+actividades de operación 2,916 3,430 
+  _________   _________  
+Actividades de inversión   
+Cobro de dividendos por inversiones disponibles para la venta 615 299 
+Cobro de intereses por depósitos a plazo 8 135 
+Adquisición de propiedades de inversión  (974) - 
+Venta de propiedades de inversión - 249 
+Compra de activo fijo - (206) 
+  _________   _________  
+Efectivo y equivalente de efectivo neto (utilizado en) 
+proveniente de las actividades de inversión (351) 477 
+  _________   _________  
+ 
+  
+Actividades de financiamiento   
+Pago de dividendos - (7,318) 
+  _________   _________  
+Efectivo y equivalente de efectivo neto utilizado en las 
+actividades de financiamiento - (7,318)   _________   _________  
+   
+Aumento (disminución) neta, del efectivo y equivalentes de 
+efectivo 2,565 (3,411) 
+Saldo de efectivo y equivalentes de efectivo al inicio del año 8,269 11,680 
+  _________   _________  
+   
+Saldo de efectivo y equivalentes de efectivo al final del año 10,834 8,269  _________  _________  
+   
+Transacción que no representó movimiento de efectivo   
+Cambios en el valor razonable de propiedades de inversión 45,886 33,863 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2014_Individual_Anual_Futura Consorcio Inmobiliario 31-12-13-14.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Futura Consorcio Inmobiliario S.A. 
+Notas a los estados financieros  
+Al 31 de diciembre de 2014 y de 2013 
+  1. Actividad económica 
+Futura Consorcio Inmobiliario S.A., en adelante “la Compañía”, fue constituida en Lima y es una 
+subsidiaria de Inversiones Breca S.A., y como tal pertenece a Breca Grupo Empresarial. En el inicio de 
+sus operaciones en el año 1998 se dedicaba al negocio de soldaduras y al desarrollo inmobiliario en 
+general.  A partir del 1 de julio de 2011, luego de transferir los activos y pasivos relacionados a la 
+fabricación de soldaduras a Soldex S.A. la actividad económica de la Compañía comprende solo el 
+negocio inmobiliario.  
+ 
+El domicilio legal de la Compañía es Avenida Las Begonias N°415, piso 7, San Isidro, Lima, Perú.  
+ 
+Los estados financieros de la Compañía al 31 de diciembre de 2013 y por el año terminado en esa fecha 
+fueron aprobados para su emisión por la Gerencia el 21 de enero de 2014. Los estados financieros de la 
+Compañía al 31 de diciembre de 2014 fueron aprobados por la Gerencia el 15 de febrero de 2015. 
+ 
+  2 Bases de preparación y resumen de políticas contables significativas 
+A continuación se presentan los principales principios y prácticas contables utilizados en la preparación 
+de los estados financieros de la Compañía: 
+ 
+2.1 Bases para la preparación y presentación – 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (en adelante “NIIF”) vigentes al 31 de diciembre de 2014 y de 2013. 
+ 
+Los estados financieros han sido preparados sobre la base del costo histórico, a partir de los 
+registros de contabilidad mantenidos por la Compañía, excepto por las inversiones disponibles 
+para la venta y las propiedades de inversión, las cuales han sido medidos a su valor razonable.  
+Los estados financieros se presentan en miles de Nuevos Soles (moneda funcional y de 
+presentación), excepto cuando se indique lo contrario. 
+ 
+2.2 Cambios en las políticas contables y de revelación -  
+La Compañía aplicó por primera vez ciertas normas y modificaciones, las cuales estuvieron 
+vigentes para los periodos anuales que empezaron el 1 de enero de 2014. 
+  
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2014_Individual_Anual_Futura Consorcio Inmobiliario 31-12-13-14.pdf | PAGINA: 10 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+2 
+Algunas de estas normas y modificaciones estuvieron referidas a excepciones a la consolidación 
+de entidades de inversión, compensación de activos financieros y pasivos financieros, novación 
+de instrumentos derivados y modificaciones de la NIIF 13 “Medición al Valor Razonable, entre 
+otras que a continuación detallamos: 
+ 
+- Entidades de inversión. Modificaciones a la NIIF 10, NIIF 12 y NIC 27.  
+- Compensación de activos financieros y pasivos financieros. Modificaciones a la NIC 32. 
+- Novación de derivados y continuidad de la contabilidad de coberturas. Modificaciones a la 
+NIC 39. 
+- CINIIF 21 Gravámenes. 
+- Mejoras anuales a las NIIF. Ciclo 2010-2012. 
+- Mejoras anuales a las NIIF. Ciclo 2011-2013. 
+ 
+En ese sentido, debido a la estructura de la Compañía y la naturaleza de sus operaciones, la 
+adopción de estas normas no tuvo un efecto significativo en su posición financiera y resultados; 
+por lo tanto, no ha sido necesario modificar los estados financieros comparativos de la Compañía. 
+ 
+Por otro lado la Principal adoptó de manera anticipada la Modificación a la NIC 27 Estados 
+financieros. En el caso de la Compañía este cambio no es aplicable. 
+ 
+2.3 Resumen de las políticas contables significativas 
+A continuación se describe las políticas contables significativas de la Compañía para la 
+preparación de sus estados financieros: 
+ 
+2.3.1 Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+(a) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros incluidos en el alcance de la Norma Internacional de 
+Contabilidad (NIC) 39, se clasifican como activos financieros al valor razonable con 
+efecto en resultados, préstamos y cuentas por cobrar, inversiones mantenidas 
+hasta su vencimiento, inversiones financieras disponibles para la venta, o como 
+derivados designados como instrumentos de cobertura en una cobertura eficaz, 
+según corresponda. La Compañía determina la clasificación de sus activos 
+financieros al momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa, es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+
+===== ARCHIVO: EEFFDD-Futura Consorcio Inmobiliario S.A.-Individual.zip/2014_Individual_Anual_Futura Consorcio Inmobiliario 31-12-13-14.pdf | PAGINA: 11 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+3 
+Los activos financieros que mantiene la Compañía comprenden las partidas de 
+efectivo y equivalentes de efectivo, cuentas por cobrar comerciales y a 
+relacionadas y las inversiones disponibles para la venta. 
+ 
+Medición posterior -  
+La medición posterior de los activos financieros depende de su clasificación, de la 
+siguiente manera: 
+ 
+Activos y pasivos financieros al valor razonable con efecto en resultados  
+Los activos financieros a valor razonable con efecto en resultados incluyen: (a) los 
+activos financieros mantenidos para negociación y (b) los activos financieros a 
+valor razonable con efecto en resultados designados desde el momento a su 
+reconocimiento inicial.  Los instrumentos financieros derivados también son 
+clasificados como mantenidos para negociar a menos que sean designados como 
+instrumentos de cobertura. 
+ 
+La Gerencia sólo puede designar un instrumento a valor razonable con efecto en 
+resultados desde el momento de su reconocimiento inicial cuando se cumplen los 
+siguientes criterios:  
+ 
+- La designación elimina o reduce significativamente el tratamiento 
+inconsistente que, de otro modo, surgiría de la medición de los activos o 
+pasivos o el reconocimiento de las ganancias o pérdidas que ellos generan 
+sobre una base diferente; o 
+- los activos y pasivos son parte de un grupo de activos financieros, pasivos 
+financieros o ambos; los cuales son gestionados y evaluados en base al 
+rendimiento sobre su valor razonable, de acuerdo con una gestión de riesgo 
+documentada o a una estrategia de inversión; o 
+- los instrumentos financieros contienen uno o más derivados incorporados, 
+los cuales modifican significativamente los flujos de caja que de otra manera 
+podrían ser requeridos por el contrato. 
+ 
+La Compañía no mantiene ningún activo financiero a valor razonable con efecto en 
+resultados designados desde el momento de su reconocimiento inicial al 31 de 
+diciembre de 2014 y de 2013. 
+ 
+Préstamos y cuentas por cobrar 
+Los préstamos y cuentas por cobrar son activos financieros no derivados cuyos 
+cobros son fijos o determinables, que no se negocian en un mercado activo.  
+Después de su reconocimiento inicial, estos activos financieros se miden al costo 
+amortizado usando el método de tasa de interés efectiva, menos cualquier 
+deterioro del valor.  El costo amortizado se calcula tomando en cuenta cualquier 
+descuento o prima de adquisición, y las comisiones o los costos que son parte 
+integrante de la tasa de interés efectiva.  La amortización de la tasa de interés 

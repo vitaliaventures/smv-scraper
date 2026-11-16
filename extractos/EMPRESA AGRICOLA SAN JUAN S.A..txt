@@ -1,0 +1,2819 @@
+EMPRESA: EMPRESA AGRICOLA SAN JUAN S.A.
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2009_Individual_Anual_2_NOTAS 2009.pdf | PAGINA: 3 | vecina =====
+  
+ - 10 - 
+La NIC 39 ha establecido cuatro categorías para la clasificación de los activos financieros: al valor razonable 
+con efecto en resultados, cuentas por cobrar, activos financieros mantenidos hasta el vencimiento y activos 
+financieros disponibles para la venta. La Gerencia, teniendo en cuenta la finalidad para la que los 
+instrumentos financieros fueron adquiridos y sus características, determina cual es la clasificación que les 
+corresponde. A la Compañía solo le aplica los acápites i) y ii) subsiguientes. 
+Los pasivos financieros se registran en su totalidad al costo amortizado y se reconocen cuando la Compañía 
+es parte de los acuerdos contractuales del instrumento. 
+Los activos y pasivos financieros se compensan cuando se tienen el derecho legal de compensarlos y la 
+Gerencia tiene la intención de cancelarlos sobre una base neta o de realizar el activo y cancelar el pasivo 
+simultáneamente. 
+(i) Activos financieros al valor razonable con efecto en resultados. 
+Incluye el efectivo y equivalente de efectivo que representan un medio de pago y por ello es la base sobre 
+la que se miden y reconocen todas las transacciones en los estados financieros. Está valuado a su valor 
+razonable. Los cambios en el valor razonable son registrados en el estado de ganancias y pérdidas. 
+(ii) Los préstamos y cuentas por cobrar 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos fijos o determinables 
+que no son cotizados en un mercado activo. Surgen cuando la Compañía provee dinero, bienes o 
+servicios directamente a un deudor sin intención de negociar la cuenta por cobrar. Se incluyen en el 
+activo corriente salvo por lo vencimientos mayores a doce meses después de la fecha del balance 
+general, que se clasifican como no corrientes. Los préstamos y cuenta por cobrar incluyen las cuentas por 
+cobrar comerciales y diversas del balance general. A estos instrumentos financieros no se les da de baja 
+hasta que se haya transferido el riesgo inherente a la propiedad de los mismos, hayan expirado sus 
+derechos de cobranza o ya no se retenga control alguno. El reconocimiento inicial de las cuentas por 
+cobrar es a su valor nominal y de ser el caso luego son llevadas al costo amortizado usando el método de 
+tasa de interés efectiva, menos la provisión para incobrables. El costo amortizado es calculado 
+considerando cualquier descuento o prima incurrido en la adquisición y comisiones y costos, que 
+constituyen una parte integral de la tasa de interés efectiva. Las pérdidas originadas por la 
+desvalorización son reconocidas en el estado de ganancias y pérdidas. 
+e).- Baja de activos y pasivos financieros 
+Activos Financieros: 
+Un activo financiero es dado de baja cuando: (i) los derechos de recibir flujos de efectivo del activo han 
+terminado; o (ii) la Compañía ha transferido sus derechos a recibir flujos de efectivo del activo o ha asumido 
+una obligación de pagar la totalidad de los flujos de efectivo recibidos inmediatamente a una tercera parte bajo 
+un acuerdo de traspaso y (iii) también la Compañía ha transferido sustancialmente todos los riesgos y 
+beneficios del activo o, de no haber transferido ni retenido sustancialmente todos los riesgos y beneficios del 
+activo, si ha transferido su control. 
+Pasivos Financieros: 
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se cancela o expira.Cuando un 
+pasivo financiero existente es reemplazado por otro del mismo prestatario en condiciones significativamente 
+diferentes, o las condiciones son modificadas en forma importante, dicho reemplazo o modificación se trata 
+como una baja del pasivo original, se reconoce el nuevo pasivo y la diferencia entre ambos se refleja en los 
+resultados del periodo en la cuenta gastos financieros. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2009_Individual_Anual_2_NOTAS 2009.pdf | PAGINA: 4 | puntaje 7 =====
+  
+ - 11 - 
+ 
+f).- Deterioro de activos financieros 
+La Compañía evalúa a la fecha de cada balance general si existe evidencia objetiva de que un activo 
+financiero o un grupo de activos financieros se encuentran deteriorados. Un activo financiero o un grupo de 
+activos de activos financieros se deterioran y generan pérdidas sólo si hay evidencias objetivas de deterioro 
+como resultado de uno o más eventos posteriores al reconocimiento inicial del activo ( un evento de pérdidas 
+incurrida) y cuando dicho evento de pérdida tiene un impacto sobre los flujos de caja proyectados estimados 
+del activo financieros o grupo de activos financieros que puede ser estimada de manera confiable. 
+Esta evidencia de deterioro puede incluir indicios de dificultades financieras importantes del prestatario o 
+grupo de prestatarios, incumpliendo o atraso en los pagos del principal o intereses, probabilidad de 
+reestructuración o quiebra de la empresa u otra reorganización empresarial en la que se demuestre que 
+existirá una reducción en los flujos futuros estimados, como cambios en circunstancias o condiciones 
+económicas que tienen correlación en incumplimientos de pago. El criterio utilizado para las cuentas por 
+cobrar es considerar como deterioradas todas aquellas partidas vencidas con una antigüedad mayor a 360 
+días por las cuales se ha efectuado las gestiones de cobranza sin obtener resultados y que a la fecha no se 
+encuentran refinanciadas. 
+g).- Existencias 
+Las existencias están valuadas al costo de adquisición o al valor de producción, según corresponda, el cual no 
+excede su valor de realización. El costo se determina utilizando el método del costo promedio. El valor neto de 
+realización es el precio de venta en el curso normal del negocio, menos los costos para poner las existencias 
+en condiciones de venta y los gastos de comercialización y distribución. 
+h).- Activos biológicos 
+Los activos biológicos (plantaciones de caña de azúcar y uva en proceso) se reconocen a su valor razonable 
+de acuerdo con la NIC 41 – Agricultura. El valor razonable es determinado usando el método del valor 
+presente de los flujos netos de efectivo esperados de las plantaciones de caña de azúcar y uva, descontado a 
+la tasa corriente antes de impuestos. Los cambios en el valor razonable son reconocidos en resultados en el 
+periodo en que se producen. El terreno y las instalaciones relacionadas se incluyen como inmuebles, 
+maquinaria y equipo.        
+i).- Inversiones financieras permanentes 
+Las inversiones en empresas subsidiarias y asociadas se registran al costo, el cual incluye los costos de la 
+transacción que estén relacionados directamente a su compra. Los dividendos, recibidos en efectivo o en 
+acciones, se reconocen como ingresos en el ejercicio que se toma el acuerdo de distribución o capitalización, 
+según corresponda. 
+Subsidiarias son todas aquellas entidades sobre las que la Compañía ejerce control, entendiéndose éste 
+como el poder para dirigir las políticas financieras y operativas de la subsidiaria. Se considera que existe 
+control cuando la participación de la Compañía es mayor al cincuenta por ciento del capital social de la 
+subsidiaria. 
+Asociadas son todas las entidades en las que la Compañía ejerce influencia significativa pero no el control. Se 
+considera que existe una influencia significativa cuando la Compañía mantiene una participación entre el 
+veinte y cincuenta por ciento del accionariado a la asociada. Se entiende por influencia significativa al poder 
+para intervenir en las decisiones de políticas financieras y operativas de la asociada. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2009_Individual_Anual_2_NOTAS 2009.pdf | PAGINA: 5 | vecina =====
+  
+ - 12 - 
+j).- Inmuebles, maquinarias y equipos y depreciación acumulada     
+Los inmuebles, maquinaria y equipos se presentan al costo de adquisición menos su depreciación acumulada 
+y el importe acumulado de las pérdidas por deterioró del valor. Dichos activos se expresan al valor razonable 
+determinado en la fecha de la tasación menos su depreciación acumulada y el importe acumulado de las 
+pérdidas por deterioró del valor. El costo histórico de adquisición incluye los desembolsos directamente 
+atribuibles a la adquisición de los activos. El mantenimiento y las reparaciones menores son reconocidos 
+como gastos según se incurren. La vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el patrón previsto de beneficios 
+económicos futuros. Los desembolsos posteriores y renovaciones de importancia se reconocen como activo, 
+cuando es probable que la Compañía obtenga los beneficios económicos futuros derivados del mismo y sus 
+costos pueda ser valorizado con fiabilidad. 
+Al vender o retirar los inmuebles, maquinaria y equipos la Compañía elimina el costo y la depreciación 
+acumulada correspondiente. Cualquier pérdida o ganancia que resultase de su disposición se incluye en el 
+estado de ganancias y pérdidas. 
+La depreciación se calcula por el método de línea recta, aplicando sobre la base de la vida útil estimada de los 
+bienes. Las tasas anuales de depreciación utilizadas son como sigue: 
+        % 
+i. Edificios y otras construcciones     03 
+ii. Maquinaria y Equipo   10 
+iii. Unidades de Transporte   10 
+iv. Muebles y Enseres   10 
+v. Equipos de Computo   25 
+vi. Equipo Diverso    10 
+k).- Desvalorización de activos 
+El valor de los inmuebles, maquinaria y equipos e inversiones financieras permanentes, son revisados 
+periódicamente para determinar si existe deterioró, cuando se producen circunstancias que originen que el 
+valor en libros puede no ser recuperable. De haber indicios de deterioró, la Compañía estima el importe 
+recuperable de los activos y reconoce una pérdida por desvalorización en el estado de ganancias y pérdidas. 
+El valor recuperable de un activo es el mayor entre su valor razonable menos los gastos de venta y su valor 
+de uso. El valor de uso es el valor presente de los flujos de efectivo futuros estimados que resultarán del uso 
+continuo de un activo así como de su disposición al final de su vida útil. Los importes recuperables se estiman 
+para cada activo o, si no es posible, para la menor unidad generadora de efectivo que haya sido identificada. 
+De existir una disminución de las pérdidas por desvalorización, determinada en años anteriores, se registra un 
+ingreso en el estado de ganancias y pérdidas. 
+l).- Arrendamiento Financiero 
+En las operaciones de arrendamiento financiero se sigue el método de mostrar en el activo fijo el costo total 
+del contrato y su correspondiente pasivo. Los gastos financieros se cargan a resultados en el período en que 
+se devengan y la depreciación de los activos se carga a resultados en función de su vida útil. El pasivo 
+resultante de estos contratos de arrendamiento se muestran en el rubro otras cuentas por pagar. 
+m).- Activos intangibles 
+Los desembolsos por adecuación del software de computadora son cargados a gastos cuando se incurren. 
+Los costos de software adquiridos para uso interno son capitalizados y amortizados en diez años. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2009_Individual_Anual_2_NOTAS 2009.pdf | PAGINA: 21 | vecina =====
+  
+ - 28 - 
+29).- GASTOS DE VENTAS 
+Los gastos de ventas por los años terminados el 31 de diciembre comprende: 
+  2009   2008 
+  S/.  S/. 
+Cargas de personal 129,904   7,220 
+Servicios Prestados por Terceros 698,090   552,318 
+Tributos por pagar 115,997   0 
+Cargas diversas de gestión 306,459   298,650 
+Provisiones del ejercicio    798,607 
+  
+               
+1,250,450    
+               
+1,656,795  
+ 
+ 
+30).- OTROS INGRESOS 
+Los otros ingresos por los años terminados el 31 de diciembre comprende: 
+  2009   2008 
+   S/.    S/.  
+Descuentos y rebajas obtenidas                                                                                                  -                          1,972  
+Subsidios recibidos                                                                                            -                       12,937  
+Servicios de asesoría                                                                                                 45,479      
+Servicios de alquiler de maquinaria                                                                                             -                     115,813  
+Servicios varios                                                                                                    139,631      
+Ventas varias                                                                                                       344,872                    245,074  
+Ingresos diversos generales                                                                                                     -                     119,268  
+Enajenación inm. Maq y equipo                                                                                         19,916      
+Ventas varias                                                                         1,925,707  
+Intereses                    606,656  
+                  549,898                3,027,427  
+ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2009_Individual_Anual_2_NOTAS 2009.pdf | PAGINA: 22 | puntaje 12 =====
+  
+ - 29 - 
+31).- OTROS GASTOS 
+Los otros gastos por los años terminados el 31 de diciembre comprende: 
+  2009   2008 
+   S/.    S/.  
+COSTO DE ENAJENACION DE I.M.E.                                                                                           5,506          3,832 
+COSTO DE ENAJENACION DE 
+VALORES                                                                                      4,909       
+CARGAS EJERCICIOS ANTERIORES                                                                                          29,878         8,812 
+SANCIONES FISCALES                                                                           18,474            898 
+SANCIONES POR IMPUESTOS 
+ATRAZADOS                                                                                        3,389      
+GASTOS EXTRAORDINARIOS                                                         666      
+OTRAS CARGAS EXCEPCIONALES                                                                                                  176      
+                   62,998    13,542 
+ 
+32).- INGRESOS FINANCIEROS 
+Los ingresos financieros por los años terminados el 31 de diciembre comprende: 
+  2009   2008 
+   S/.    S/.  
+INTERES POR DPTO A PLAZOS                                                                                             10,916          59,096 
+GANANCIA DIFERENCIA DE CAMBIO                                                                                   1,960,008         
+OTROS INGRESOS FINANCIEROS                                                                                            10,038          14,837 
+OTROS INGRESOS FINANCIEROS GENERALES                                                                                        245      
+              1,981,208    
+                       
+73,932 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2009_Individual_Anual_2_NOTAS 2009.pdf | PAGINA: 23 | vecina =====
+  
+ - 30 - 
+33).- GASTOS FINANCIEROS 
+Los ingresos financieros por los años terminados el 31 de diciembre comprende: 
+  2009   2008 
+   S/.    S/.  
+PERDIDA DIFERENCIA DE CAMBIO                                                                          180,455 
+INTERESES DOCUMENTOS POR PAGAR                                                                                        58,452    5,917 
+AJUSTE TRIBUTARIO POR ACTUALIZACION                                                                                             -     49 
+COMISIONES BANARIAS FIANZAS                                                                                           74,373    131,045 
+INTERESES - LEASING                                                                                             1,195,371    275,922 
+INTERESES PRESTAMOS BANCO 
+CONTINENTAL                                                                               809,622    694,341 
+OTRAS CARGAS FINANCIERAS DIVERSAS                                                                                        4,154   18,244 
+INTERESES PRESTAMOS INTERBANK                                                                                       151,585     214,844 
+INTERESES PRESTAMOS BANCO DE CREDITO                                                                  112,356   89,171 
+INTERESES DE FRACCIONAMIENTO DE RESIT                                                                                    8,203    18,610 
+CARGAS FINANCIERAS GENERALES                                                          87,857    0 
+             2,501,973                1,628,598  
+ 
+ 
+34).- CONTINGENCIAS 
+La compañía tiene pendientes de resolución varios procedimientos de orden administrativo y judicial; la 
+Gerencia y sus Asesores Legales, opinan que existen fundadas posibilidades de éxito en los procesos 
+pendientes, sin embargo, los resultados finales de dichos procesos no son posibles determinaros en la fecha. 
+En caso de originarse cargos por los procedimientos judiciales, extra judiciales, administrativos y otros que 
+pudieran surgir de los procesos pendientes, serán aplicados contra los resultados en los años que ocurran. 
+35) RIESGOS DE LIQUIDEZ CREDITICIO, DE INTERES Y DE CAMBIO 
+Las actividades de la Compañía la exponen a una variedad de riesgos financieros: riesgos de liquidez, riesgo 
+de crédito y riesgos de mercado ( incluyendo el riesgo de tasa de interés y riesgo de cambio). El programa de 
+administración de riesgos de la Compañía trata de minimizar los potenciales efectos adversos en su 
+desempeño financiero. 
+La Gerencia de la Compañía es conocedora de las condiciones existentes en el mercado y sobre la base de 
+su conocimiento y experiencia controla los riesgos de liquidez, crédito, tasa de interés y de cambio siguiendo 
+las políticas aprobadas por el Directorio. Los aspectos más importantes para la gestión de estos riesgos son: 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2013_Individual_Anual_Empresa Agricola San Juan SA 31.12.13-12(VF).pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+6 
+(ii) Pasivos financieros - 
+Reconocimiento inicial y medición – 
+Los pasivos financieros dentro del ámbito de la NIC 39 se clasifican como pasivos 
+financieros al valor razonable con cambios en resultados, préstamos y cuentas por 
+pagar, o como derivados designados como instrumentos de cobertura en una 
+cobertura eficaz, según corresponda. La Compañía determina la clasificación de los 
+pasivos financieros al momento del reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los préstamos y cuentas por pagar contabilizados al costo 
+amortizado, los costos de transacción directamente atribuibles. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales, 
+cuentas por pagar a partes relacionadas, obligaciones financieras, impuestos, 
+remuneraciones y otras cuentas por pagar. 
+ 
+Medición posterior - 
+La medición posterior de los pasivos financieros depende de su clasificación.  Al 31 
+de diciembre de 2013 y de 2012, la Compañía tiene únicamente pasivos 
+financieros en las categorías de préstamos y cuentas por pagar. 
+ 
+Deudas y préstamos que devengan intereses - 
+Después del reconocimiento inicial, las deudas y préstamos se miden al costo 
+amortizado, utilizando el método de la tasa de interés efectiva. Las ganancias y 
+pérdidas se reconocen en el estado de resultados integrales cuando los pasivos se 
+dan de baja, como así también a través del proceso de amortización, utilizando el 
+método de la tasa de interés efectiva. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en 
+la adquisición y las comisiones o los costos que sean una parte integrante de la tasa 
+de interés efectiva. La amortización de la tasa de interés efectiva se reconoce 
+como gasto financiero en el estado de resultados integrales. 
+ 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación especificada en el 
+correspondiente contrato se haya pagado o cancelado, o haya vencido. Cuando un 
+pasivo financiero existente es reemplazado por otro pasivo proveniente del mismo 
+prestamista bajo condiciones sustancialmente diferentes, o si las condiciones de un 
+pasivo existente se modifican de manera sustancial, tal permuta o modificación se 
+trata como una baja del pasivo original y el reconocimiento de un nuevo pasivo, y la 
+diferencia entre los importes en libros respectivos se reconoce en el estado de 
+resultados integrales. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2013_Individual_Anual_Empresa Agricola San Juan SA 31.12.13-12(VF).pdf | PAGINA: 15 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+7 
+(iii) Compensación de instrumentos financieros - 
+Los activos financieros y los pasivos financieros se compensan de manera que se 
+informa el importe neto en el estado de situación financiera, solamente si existe un 
+derecho actual legalmente exigible de compensar los importes reconocidos, y 
+existe la intención de liquidarlos por el importe neto, o de realizar los activos y 
+cancelar los pasivos en forma simultánea. 
+ 
+(iv) Valor razonable de los instrumentos financieros - 
+A cada fecha de cierre del periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina sobre 
+la base de los precios cotizados en el mercado, o de los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción. 
+ 
+Para los instrumentos financieros que no se negocian en mercados activos, el valor 
+razonable se determina utilizando técnicas de valoración. Tales técnicas pueden 
+incluir el uso de transacciones de mercado recientes entre partes interesadas y 
+debidamente informadas que actúen en condiciones de independencia mutua, la 
+referencia a los valores razonables de otros instrumentos financieros que sean 
+esencialmente similares, el análisis de valores descontados de flujos de efectivo y 
+otros modelos de valoración. 
+ 
+Al 31 de diciembre de 2013 y de 2012, no han habido cambios en las técnicas de 
+valuación para los instrumentos financieros que se negocian en mercados activos. 
+ 
+2.2.3 Transacciones en moneda extranjera – 
+La Compañía ha determinado que su moneda funcional y de presentación es el Nuevo Sol. 
+ 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional. Las transacciones en moneda extranjera son inicialmente 
+registradas en la moneda funcional usando los tipos de cambio vigentes en las fechas de 
+las transacciones. Los activos y pasivos monetarios denominados en moneda extranjera 
+son posteriormente ajustados a la moneda funcional usando el tipo de cambio vigente a la 
+fecha de liquidación de las operaciones o del estado de situación financiera, las ganancias 
+o pérdidas por diferencia en cambio resultante de la liquidación de dichas transacciones y 
+de la traslación de los activos y pasivos monetarios en moneda extranjera a los tipos de 
+cambio de la fecha del estado de situación financiera, son reconocidas en los rubros 
+“Diferencia en cambio, neta”, en el estado de resultados integrales. 
+ 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio 
+prevaleciente a la fecha de la transacción.  
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2013_Individual_Anual_Empresa Agricola San Juan SA 31.12.13-12(VF).pdf | PAGINA: 16 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+8 
+2.2.4 Inventarios - 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que 
+resulte menor.  Los costos incurridos para llevar a cada producto a su ubicación y sus 
+condiciones actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el 
+costo del material, mano de obra directa, otros costos directos y gastos generales 
+de fabricación (sobre la base de la capacidad de operación normal) y excluye los 
+gastos de financiamiento y las diferencias en cambio. 
+ 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de 
+reposición, el que resulte menor, sobre la base del método de costo promedio. 
+ 
+- El costo de la materia prima y mercaderías comprende el precio de compra, 
+aranceles de importación, impuestos no recuperables, transporte, almacenamiento 
+y otros costos atribuibles a su adquisición.  
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución.   
+ 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para 
+desvalorización y obsolescencia de inventarios.  Esta estimación es cargada a resultados 
+en el ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5 Activo biológico – 
+La Compañía sigue la Norma Internacional de Contabilidad 41 - NIC 41 “Agricultura”, que 
+establece que las plantaciones agrícolas se registran a su valor estimado de mercado, el 
+cual es determinado por la Compañía en base a los flujos de caja esperados y costos 
+erogados de sus cultivos agrícolas.  Asimismo, los costos relacionados al desarrollo y 
+mantenimiento de sus cultivos agrícolas se reconocen en los resultados del ejercicio con 
+los cuales se relacionan; e incluyen los gastos asociados a la adquisición de las cosechas 
+agrícolas y gastos generales fijos; la Compañía reconoce en sus resultados los ingresos 
+(gastos) por el cambio en el valor razonable,  los que corresponden a la variación del valor 
+razonable de mercado de los cultivos agrícolas realizados a la fecha del estado de 
+situación financiera.  De acuerdo con la NIC 41, cualquier cambio futuro que resulte de la 
+producción, cosecha, precios u otros factores se reconocerán en los resultados del 
+ejercicio, de tal manera que las utilidades o pérdidas operativas incluirán un ajuste por el 
+cambio en el valor razonable de los cultivos agrícolas en el año. 
+ 
+ En el caso de los activos biológicos para los que no esté disponibles precios o valores 
+fijados por el mercado y para los cuales se haya determinado claramente que no son 
+fiables, son medidos a su costo menos la depreciación acumulada y cualquier pérdida 
+acumulada por deterioro del valor. 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2013_Individual_Anual_Empresa Agricola San Juan SA 31.12.13-12(VF).pdf | PAGINA: 17 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+9 
+Al 31 de diciembre de 2013 y de 2012, la Compañía registró los cultivos de caña de 
+azúcar y uva al valor razonable, nota 7. 
+ 
+2.2.6 Terrenos, planta y equipo – 
+Los terrenos, planta y equipo se presentan al costo, neto de la depreciación acumulada 
+y/o las pérdidas acumuladas por deterioro, si las hubiere.  El costo inicial de un activo 
+comprende su precio de compra o su costo de fabricación, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo necesario para poner dicho 
+activo en operación y los costos de financiamiento para los proyectos de activos 
+calificados de largo plazo, en la medida en que se cumplan los requisitos para su 
+reconocimiento.   
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera 
+sean necesarios para cancelar cualquier costo de desmantelamiento y retiro de 
+equipamiento o de rehabilitación del emplazamiento físico donde se asienta, cuando 
+constituyan obligaciones incurridas bajo determinadas condiciones. Para los componentes 
+significativos de terrenos, planta y equipo que se deban reemplazar periódicamente, la 
+Compañía reconoce tales componentes como activos individuales separados, con sus 
+vidas útiles específicas y sus depreciaciones respectivas. Del mismo modo, cuando se 
+efectúa una inspección o reparación de gran envergadura, su costo se reconoce como un 
+reemplazo en el importe en libros de terrenos, planta y equipo, si se cumplen los criterios 
+para su reconocimiento. 
+ 
+Una partida de terrenos, planta y equipo o un componente significativo es retirado al 
+momento de su disposición o cuando no se esperan beneficios económicos de su uso o 
+disposición posterior.  Cualquier ganancia o pérdida que surja al momento del retiro del 
+activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor en libros 
+del activo) es incluida en el estado de resultados integrales en el año en que se retira el 
+activo. 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados, en 
+caso sea apropiado, al final de cada año. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la 
+etapa de construcción. Las obras en curso se capitalizan cuando se completan y su 
+depreciación se calcula desde el momento en que son puestas en operación.  
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2016_Individual_Anual_dictamen.pdf | PAGINA: 12 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+4 
+sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo, pero se haya transferido el control sobre el mismo. 
+ 
+Cuando se hayan transferido los derechos contractuales de recibir los flujos de 
+efectivo generados por el activo, o se haya celebrado un acuerdo de transferencia, 
+pero no se hayan ni transferido ni retenido sustancialmente todos los riesgos y 
+beneficios inherentes a la propiedad del activo, ni se haya transferido el control 
+sobre el mismo, ese activo se continuará reconociendo en la medida que la 
+Compañía siga comprometida con el activo. En este último caso, la Compañía 
+también reconocerá el pasivo relacionado. El activo transferido y el pasivo 
+relacionado se medirán de manera que reflejen los derechos y obligaciones que la 
+Compañía haya retenido. 
+ 
+Un compromiso firme que toma la forma de una garantía sobre el activo transferido 
+se mide como el menor importe entre el importe original en libros del activo, y el 
+importe máximo de contraprestación que la Compañía podría estar obligada a 
+pagar. 
+ 
+Deterioro de los activos financieros - 
+Al cierre de cada período sobre el que se informa, la Compañía evalúa si existe 
+alguna evidencia objetiva de que un activo financiero o un grupo de activos 
+financieros se encuentran deteriorados en su valor. Un activo financiero o un grupo 
+de activos financieros se consideran deteriorados en su valor solamente si existe 
+evidencia objetiva de deterioro de ese valor como resultado de uno o más eventos 
+ocurridos después del reconocimiento inicial del activo (el “evento que causa la 
+pérdida”), y ese evento que causa la pérdida tiene impacto sobre los flujos de 
+efectivo futuros estimados generados por el activo financiero o el grupo de activos 
+financieros, y ese impacto puede estimarse de manera fiable. La evidencia de un 
+deterioro del valor podría incluir, entre otros, indicios tales como que los deudores 
+o un grupo de deudores se encuentran con dificultades financieras significativas, el 
+incumplimiento o mora en los pagos de la deuda por capital o intereses. 
+ 
+(ii) Pasivos financieros - 
+Reconocimiento inicial y medición – 
+Los pasivos financieros dentro del ámbito de la NIC 39 se clasifican como pasivos 
+financieros al valor razonable con cambios en resultados, préstamos y cuentas por 
+pagar, o como derivados designados como instrumentos de cobertura en una 
+cobertura eficaz, según corresponda. La Compañía determina la clasificación de los 
+pasivos financieros al momento del reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los préstamos y cuentas por pagar contabilizados al costo 
+amortizado, los costos de transacción directamente atribuibles. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2016_Individual_Anual_dictamen.pdf | PAGINA: 13 | puntaje 5 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+5 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales, 
+cuentas por pagar a la Principal y partes relacionadas, impuestos, remuneraciones 
+y otras cuentas por pagar y obligaciones financieras. 
+ 
+Medición posterior - 
+La medición posterior de los pasivos financieros depende de su clasificación. Al 31 
+de diciembre de 2016 y de 2015, la Compañía tiene únicamente pasivos 
+financieros en las categorías de pasivos financieros al costo amortizado. 
+ 
+Deudas y préstamos que devengan intereses - 
+Después del reconocimiento inicial, las deudas y préstamos se miden al costo 
+amortizado, utilizando el método de la tasa de interés efectiva. Las ganancias y 
+pérdidas se reconocen en el estado de resultados integrales cuando los pasivos se 
+dan de baja, como así también a través del proceso de amortización, utilizando el 
+método de la tasa de interés efectiva. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en 
+la adquisición y las comisiones o los costos que sean una parte integrante de la tasa 
+de interés efectiva. La amortización de la tasa de interés efectiva se reconoce 
+como gasto financiero en el estado de resultados integrales. 
+ 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación especificada en el 
+correspondiente contrato se haya pagado o cancelado, o haya vencido. Cuando un 
+pasivo financiero existente es reemplazado por otro pasivo proveniente del mismo 
+prestamista bajo condiciones sustancialmente diferentes, o si las condiciones de un 
+pasivo existente se modifican de manera sustancial, tal permuta o modificación se 
+trata como una baja del pasivo original y el reconocimiento de un nuevo pasivo, y la 
+diferencia entre los importes en libros respectivos se reconoce en el estado de 
+resultados integrales. 
+ 
+(iii) Compensación de instrumentos financieros - 
+Los activos financieros y los pasivos financieros se compensan de manera que se 
+informa el importe neto en el estado de situación financiera, solamente si existe un 
+derecho actual legalmente exigible de compensar los importes reconocidos, y 
+existe la intención de liquidarlos por el importe neto, o de realizar los activos y 
+cancelar los pasivos en forma simultánea. 
+ 
+(iv) Valor razonable de los instrumentos financieros - 
+A cada fecha de cierre del periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina sobre 
+la base de los precios cotizados en el mercado, o de los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2016_Individual_Anual_dictamen.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+6 
+Para los instrumentos financieros que no se negocian en mercados activos, el valor 
+razonable se determina utilizando técnicas de valoración. Tales técnicas pueden 
+incluir el uso de transacciones de mercado recientes entre partes interesadas y 
+debidamente informadas que actúen en condiciones de independencia mutua, la 
+referencia a los valores razonables de otros instrumentos financieros que sean 
+esencialmente similares, el análisis de valores descontados de flujos de efectivo y 
+otros modelos de valoración. 
+ 
+Al 31 de diciembre de 2016 y de 2015, no ha habido cambios en las técnicas de 
+valuación para los instrumentos financieros que se negocian en mercados activos. 
+ 
+2.2.3 Transacciones en moneda extranjera – 
+La Compañía ha determinado que su moneda funcional y de presentación es el “Sol”, 
+debido a que refleja la naturaleza de los eventos económicos y las circunstancias 
+relevantes para la compañía. 
+ 
+Transacciones y saldos en moneda extranjera -  
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional. Las transacciones en moneda extranjera son inicialmente 
+registradas en la moneda funcional usando los tipos de cambio vigentes en las fechas de 
+las transacciones. 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente 
+ajustados a la moneda funcional usando el tipo de cambio vigente a la fecha de liquidación 
+de las operaciones o del estado de situación financiera, las ganancias o pérdidas por 
+diferencia en cambio resultante de la liquidación de dichas transacciones y de la traslación 
+de los activos y pasivos monetarios en moneda extranjera a los tipos de cambio de la 
+fecha del estado de situación financiera, son reconocidas en los rubros “Diferencia en 
+cambio, neta”, en el estado de resultados integrales. 
+ 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio 
+prevaleciente a la fecha de la transacción. 
+ 
+2.2.4 Inventarios - 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que 
+resulte menor. Los costos incurridos para llevar a cada producto a su ubicación y sus 
+condiciones actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el 
+costo del material, mano de obra directa, otros costos directos y gastos generales 
+de fabricación (sobre la base de la capacidad de operación normal) y excluye los 
+gastos de financiamiento y las diferencias en cambio. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2016_Individual_Anual_dictamen.pdf | PAGINA: 15 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+7 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de 
+reposición, el que resulte menor, sobre la base del método de costo promedio. 
+ 
+- El costo de la materia prima y mercaderías comprende el precio de compra, 
+aranceles de importación, impuestos no recuperables, transporte, almacenamiento 
+y otros costos atribuibles a su adquisición. 
+ 
+- Los inventarios por recibir se registran al costo por el método de identificación 
+específica de la compra. 
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución. 
+ 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para 
+desvalorización y obsolescencia de inventarios. Esta estimación es cargada a resultados 
+en el ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5 Productos agrícolas – 
+La Compañía sigue la Norma Internacional de Contabilidad 41 - NIC 41 “Agricultura”, que 
+establece registrar los productos agrícolas; es decir, la producción esperada en la próxima 
+cosecha, a su valor razonable de mercado, menos los costos de ventas, el cual, es 
+determinado conforme a los flujos de caja esperados y costos erogados de sus cultivos 
+agrícolas. 
+ 
+La Compañía reconoce en sus resultados los ingresos (gastos) por el cambio en el valor 
+razonable, los que corresponden a la variación del valor razonable de mercado de la 
+próxima cosecha realizado a la fecha del estado consolidado de situación financiera. De 
+acuerdo con la NIC 41, cualquier cambio futuro, que resulte de la producción, cosecha, 
+precios u otros factores, se reconocerá en los resultados del ejercicio, de tal manera que 
+las utilidades o pérdidas operativas incluirán un ajuste por el cambio en el valor razonable 
+del producto agrícola en el año 
+ 
+Al 31 de diciembre de 2016, la compañía procedió a valorar sus productos agrícolas 
+según su costo menos la amortización acumulada y cualquier pérdida acumulada, debido a 
+que el grado de avance de sus productos agrícolas es mínimo y por ende el valor razonable 
+de tales productos no puede ser determinado con fiabilidad. 
+  
+2.2.6 Propiedad, plantas productoras y equipo – 
+La propiedad, plantas productoras y equipo se presentan al costo, neto de la depreciación 
+acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere. El costo inicial de un 
+activo comprende su precio de compra o su costo de fabricación, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo necesario para poner dicho 
+activo en operación y los costos de financiamiento para los proyectos de activos 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2016_Individual_Anual_dictamen.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+8 
+calificados de largo plazo, en la medida en que se cumplan los requisitos para su 
+reconocimiento. 
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera 
+sean necesarios para cancelar cualquier costo de desmantelamiento y retiro de 
+equipamiento o de rehabilitación del emplazamiento físico donde se asienta, cuando 
+constituyan obligaciones incurridas bajo determinadas condiciones. Para los componentes 
+significativos de propiedad, plantas productoras y equipo que se deban reemplazar 
+periódicamente, la Compañía reconoce tales componentes como activos individuales 
+separados, con sus vidas útiles específicas y sus depreciaciones respectivas. Del mismo 
+modo, cuando se efectúa una inspección o reparación de gran envergadura, su costo se 
+reconoce como un reemplazo en el importe en libros de propiedad, plantas productoras y 
+equipos, si se cumplen los criterios para su reconocimiento. 
+ 
+Una partida de propiedad, plantas productoras y equipo o un componente significativo es 
+retirado al momento de su disposición o cuando no se esperan beneficios económicos de 
+su uso o disposición posterior. Cualquier ganancia o pérdida que surja al momento del 
+retiro del activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor 
+en libros del activo) es incluida en el estado de resultados integrales en el año en que se 
+retira el activo. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la 
+etapa de construcción. Las obras en curso se capitalizan cuando se completan y su 
+depreciación se calcula desde el momento en que son puestas en operación.  
+ 
+Los terrenos tienen vida útil ilimitada, en consecuencia no se deprecian. La depreciación 
+es calculada bajo el método de línea recta tomando en consideración las siguientes vidas 
+útiles: 
+ 
+ Años  
+  
+Edificios y otras construcciones Entre 20 y 50 
+Maquinaria y equipo Entre 5 y 20 
+Muebles y enseres 3, 5 y 10 
+Unidades de trasporte 5 y 10 
+Equipo diversos 2 y 10 
+Instalaciones 10 
+Plantas agrícolas 10 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados, en 
+caso sea apropiado, al final de cada año. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2019_Individual_Anual_Dictamen Auditado 2019.pdf | PAGINA: 15 | vecina =====
+ 
+8 
+ 
+En cada fecha de presentación, la Compañía evalúa si los activos financieros registrados al 
+costo amortizado y los instrumentos de deuda al valor razonable con cambios en otro resultado 
+integral tienen deterioro crediticio. Un activo financiero tiene deterioro crediticio cuando han 
+ocurrido uno o más sucesos que tienen un impacto perjudicial sobre los flujos de efectivo 
+futuros estimados del activo financiero. 
+ 
+Evidencia de que un activo financiero tiene deterioro crediticio incluye los siguientes datos 
+observables: 
+ 
+- Dificultades financieras significativas del emisor o del prestatario; 
+- Una infracción del contrato, tal como un incumplimiento o un suceso de mora de más de 90 
+días; 
+- La reestructuración de un préstamo o adelanto por parte de la Compañía en términos que 
+este no consideraría de otra manera; 
+- Se está convirtiendo en probable que el prestatario entre en quiebra o en otra forma de 
+reorganización financiera; o 
+- La desaparición de un mercado activo para el activo financiero en cuestión, debido a 
+dificultades financieras. 
+ 
+Las correcciones de valor para los activos financieros medidos al costo amortizado se deducen 
+del importe en libros bruto de los activos. 
+ 
+2.2.3 Transacciones en moneda extranjera – 
+ 
+La Compañía ha determinado que su moneda funcional y de presentación es el “Sol”, debido 
+a que refleja la naturaleza de los eventos económicos y las circunstancias relevantes para la 
+compañía. 
+ 
+Transacciones y saldos en moneda extranjera – 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional. Las transacciones en moneda extranjera son inicialmente 
+registradas en la moneda funcional usando los tipos de cambio vigentes en las fechas de las 
+transacciones. 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente 
+ajustados a la moneda funcional usando el tipo de cambio vigente a la fecha de liquidación de 
+las operaciones o del estado de situación financiera, las ganancias o pérdidas por diferencia 
+en cambio resultante de la liquidación de dichas transacciones y de la traslación de los activos 
+y pasivos monetarios en moneda extranjera a los tipos de cambio de la fecha del estado de 
+situación financiera, son reconocidas en el rubro “Diferencia de cambio”, en el estado de 
+resultados integrales. 
+ 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio 
+prevaleciente a la fecha de la transacción. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2019_Individual_Anual_Dictamen Auditado 2019.pdf | PAGINA: 16 | puntaje 6 =====
+ 
+9 
+ 
+ 
+2.2.4 Inventarios – 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que resulte 
+menor. Los costos incurridos para llevar a cada producto a su ubicación y sus condiciones 
+actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el costo del 
+material, mano de obra directa, otros costos directos y gastos generales de fabricación (sobre 
+la base de la capacidad de operación normal) y excluye los gastos de financiamiento y las 
+diferencias de cambio. 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de 
+reposición, el que resulte menor, sobre la base del método de costo promedio. 
+- El costo de la materia prima y mercaderías comprende el precio de compra, aranceles de 
+importación, impuestos no recuperables, transporte, almacenamiento y otros costos 
+atribuibles a su adquisición. 
+- Los inventarios por recibir se registran al costo por el método de identificación específica de 
+la compra. 
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución. 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para 
+desvalorización y obsolescencia de inventarios. Esta estimación es cargada a resultados en el 
+ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5 Productos agrícolas 
+La Compañía sigue la Norma Internacional de Contabilidad 41 - NIC 41 “Agricultura”, que 
+establece registrar los productos agrícolas; es decir, la producción esperada en la próxima 
+cosecha, a su valor razonable de mercado, menos los costos de ventas, el cual, es determinado 
+conforme a los flujos de caja esperados y costos erogados de sus cultivos agrícolas. 
+ 
+La Compañía reconoce en sus resultados los ingresos (gastos) por el cambio en el valor 
+razonable, los que corresponden a la variación del valor razonable de mercado de la próxima 
+cosecha realizado a la fecha del estado de situación financiera. De acuerdo con la NIC 41, 
+cualquier cambio futuro, que resulte de la producción, cosecha, precios u otros factores, se 
+reconocerá en los resultados del ejercicio, de tal manera que las utilidades o pérdidas 
+operativas incluirán un ajuste por el cambio en el valor razonable del producto agrícola en el 
+año. 
+ 
+Al 31 de diciembre de 2019, la compañía procedió a valorar sus productos agrícolas según su 
+costo menos la amortización acumulada y cualquier pérdida acumulada, debido a que el grado 
+de avance de sus productos agrícolas es mínimo y por ende el valor razonable de tales 
+productos no puede ser determinado con fiabilidad. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2019_Individual_Anual_Dictamen Auditado 2019.pdf | PAGINA: 17 | vecina =====
+ 
+10 
+ 
+ 
+2.2.6 Propiedades, planta, plantas productoras y equipo. - 
+Las propiedades, planta, plantas productoras y equipo se presentan al costo de adquisción, 
+neto de la depreciación acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere. 
+El costo de adquisición inicial de un activo comprende su precio de compra o su costo de 
+fabricación, incluyendo aranceles e impuestos de compra no reembolsables y cualquier costo 
+necesario para poner dicho activo en operación y los costos de financiamiento para los 
+proyectos de activos calificados de largo plazo, en la medida en que se cumplan los requisitos 
+para su reconocimiento. 
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera sean 
+necesarios para cancelar cualquier costo de desmantelamiento y retiro de equipamiento o de 
+rehabilitación del emplazamiento físico donde se asienta, cuando constituyan obligaciones 
+incurridas bajo determinadas condiciones. Para los componentes significativos de propiedad, 
+plantas productoras y equipo que se deban reemplazar periódicamente, la Compañía reconoce 
+tales componentes como activos individuales separados, con sus vidas útiles específicas y sus 
+depreciaciones respectivas. Del mismo modo, cuando se efectúa una inspección o reparación 
+de gran envergadura, su costo se reconoce como un reemplazo en el importe en libros de 
+propiedad, plantas productoras y equipos, si se cumplen los criterios para su reconocimiento. 
+ 
+Una partida de propiedad, plantas productoras y equipo o un componente significativo es 
+retirado al momento de su disposición o cuando no se esperan beneficios económicos de su 
+uso o disposición posterior. Cualquier ganancia o pérdida que surja al momento del retiro del 
+activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor en libros del 
+activo) es incluida en el estado de resultados integrales en el año en que se retira el activo. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa 
+de construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se 
+calcula desde el momento en que están en condiciones de uso. 
+ 
+Los terrenos tienen vida útil ilimitada, en consecuencia, no se deprecian. La depreciación es 
+calculada bajo el método de línea recta tomando en consideración las siguientes vidas útiles: 
+ 
+                Años 
+   Edificios y otras construcciones              Entre 20 y 50 
+   Maquinaria y equipo                   Entre 5 y 20 
+   Muebles y enseres                 3, 5 y 10 
+   Unidades de trasporte                  5 y 10 
+   Equipos diversos                  2 y 10 
+   Instalaciones                  10 
+   Plantas productoras                 10 
+ 
+El valor residual, la vida útil y los métodos de depreciación aplicados son revisados y ajustados, 
+en caso sea apropiado, al final de cada año. 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2017_Individual_Anual_Dictamen 2017 EASJ.pdf | PAGINA: 12 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+5 
+ 
+deudores se encuentran con dificultades financieras significativas, el incumplimiento o mora 
+en los pagos de la deuda por capital o intereses. 
+ 
+(ii) Pasivos financieros.- 
+Reconocimiento inicial y medición.-  
+Los pasivos financieros dentro del ámbito de la NIC 39 se clasifican como pasivos financieros 
+al valor razonable con cambios en resultados, préstamos y cuentas por pagar, o como 
+derivados designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda. La Compañía determina la clasificación de los pasivos financieros al momento 
+del reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable más, en el 
+caso de los préstamos y cuentas por pagar contabilizados al costo amortizado, los costos de 
+transacción directamente atribuibles. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales, cuentas por 
+pagar a la Principal y partes relacionadas, impuestos, remuneraciones y otras cuentas por 
+pagar y obligaciones financieras. 
+ 
+Medición posterior.- 
+La medición posterior de los pasivos financieros depende de su clasificación. Al 31 de 
+diciembre de 2017, la Compañía tiene únicamente pasivos financieros en las categorías de 
+pasivos financieros al costo amortizado. 
+ 
+Deudas y préstamos que devengan intereses – 
+Después del reconocimiento inicial, las deudas y préstamos se miden al costo amortizado, 
+utilizando el método de la tasa de interés efectiva. Las ganancias y pérdidas se reconocen 
+en el estado de resultados integrales cuando los pasivos se dan de baja, como así también 
+a través del proceso de amortización, utilizando el método de la tasa de interés efectiva. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en la 
+adquisición y las comisiones o los costos que sean una parte integrante de la tasa de interés 
+efectiva. La amortización de la tasa de interés efectiva se reconoce como gasto financiero en 
+el estado de resultados integrales. 
+ 
+Baja en cuentas.- 
+Un pasivo financiero se da de baja cuando la obligación especificada en el correspondiente 
+contrato se haya pagado o cancelado, o haya vencido. Cuando un pasivo financiero existente 
+es reemplazado por otro pasivo proveniente del mismo prestamista bajo condiciones 
+sustancialmente diferentes, o si las condiciones de un pasivo existente se modifican de 
+manera sustancial, tal permuta o modificación se trata como una baja del pasivo original y el 
+reconocimiento de un nuevo pasivo, y la diferencia entre los importes en libros respectivos se 
+reconoce en el estado de resultados integrales. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2017_Individual_Anual_Dictamen 2017 EASJ.pdf | PAGINA: 13 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+6 
+ 
+(iii) Compensación de instrumentos financieros.- 
+Los activos financieros y los pasivos financieros se compensan de manera que se informa el 
+importe neto en el estado de situación financiera, solamente si existe un derecho actual 
+legalmente exigible de compensar los importes reconocidos, existe la intención de liquidarlos 
+por el importe neto, o de realizar los activos y cancelar los pasivos en forma simultánea. 
+ 
+(iv) Valor razonable de los instrumentos financieros – 
+A cada fecha de cierre del periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina sobre la base 
+de los precios cotizados en el mercado, o de los precios cotizados por los agentes del 
+mercado (precio de compra para las posiciones largas y precio de venta para las posiciones 
+cortas), sin deducir los costos de transacción. 
+ 
+Para los instrumentos financieros que no se negocian en mercados activos, el valor razonable 
+se determina utilizando técnicas de valoración. Tales técnicas pueden incluir el uso de 
+transacciones de mercado recientes entre partes interesadas y debidamente informadas que 
+actúen en condiciones de independencia mutua, la referencia a los valores razonables de 
+otros instrumentos financieros que sean esencialmente similares, el análisis de valores 
+descontados de flujos de efectivo y otros modelos de valoración. 
+ 
+Al 31 de diciembre de 2017, no ha habido cambios en las técnicas de valuación para los 
+instrumentos financieros que se negocian en mercados activos. 
+ 
+2.2.3  Transacciones en moneda extranjera – 
+La Compañía ha determinado que su moneda funcional y de presentación es el “Sol”, debido 
+a que refleja la naturaleza de los eventos económicos y las circunstancias relevantes para la 
+compañía. 
+ 
+Transacciones y saldos en moneda extranjera – 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional. Las transacciones en moneda extranjera son inicialmente 
+registradas en la moneda funcional usando los tipos de cambio vigentes en las fechas de las 
+transacciones. 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente 
+ajustados a la moneda funcional usando el tipo de cambio vigente a la fecha de liquidación de 
+las operaciones o del estado de situación financiera, las ganancias o pérdidas por diferencia 
+en cambio resultante de la liquidación de dichas transacciones y de la traslación de los activos 
+y pasivos monetarios en moneda extranjera a los tipos de cambio de la fecha del estado de 
+situación financiera, son reconocidas en los rubros “Diferencia en cambio, neta”, en el estado 
+de resultados integrales. 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio 
+prevaleciente a la fecha de la transacción. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2017_Individual_Anual_Dictamen 2017 EASJ.pdf | PAGINA: 14 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+7 
+ 
+2.2.4  Inventarios – 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que resulte 
+menor. Los costos incurridos para llevar a cada producto a su ubicación y sus condiciones 
+actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el costo del 
+material, mano de obra directa, otros costos directos y gastos generales de fabricación (sobre 
+la base de la capacidad de operación normal) y excluye los gastos de financiamiento y las 
+diferencias de cambio. 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de 
+reposición, el que resulte menor, sobre la base del método de costo promedio. 
+- El costo de la materia prima y mercaderías comprende el precio de compra, aranceles de 
+importación, impuestos no recuperables, transporte, almacenamiento y otros costos 
+atribuibles a su adquisición. 
+- Los inventarios por recibir se registran al costo por el método de identificación específica de 
+la compra. 
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución. 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para 
+desvalorización y obsolescencia de inventarios. Esta estimación es cargada a resultados en el 
+ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5  Productos agrícolas 
+La Compañía sigue la Norma Internacional de Contabilidad 41 - NIC 41 “Agricultura”, que 
+establece registrar los productos agrícolas; es decir, la producción esperada en la próxima 
+cosecha, a su valor razonable de mercado, menos los costos de ventas, el cual, es determinado 
+conforme a los flujos de caja esperados y costos erogados de sus cultivos agrícolas. 
+ 
+La Compañía reconoce en sus resultados los ingresos (gastos) por el cambio en el valor 
+razonable, los que corresponden a la variación del valor razonable de mercado de la próxima 
+cosecha realizado a la fecha del estado consolidado de situación financiera. De acuerdo con la 
+NIC 41, cualquier cambio futuro, que resulte de la producción, cosecha, precios u otros factores, 
+se reconocerá en los resultados del ejercicio, de tal manera que las utilidades o pérdidas 
+operativas incluirán un ajuste por el cambio en el valor razonable del producto agrícola en el 
+año. 
+ 
+Al 31 de diciembre de 2017, la compañía procedió a valorar sus productos agrícolas según su 
+costo menos la amortización acumulada y cualquier pérdida acumulada, debido a que el grado 
+de avance de sus productos agrícolas es mínimo y por ende el valor razonable de tales 
+productos no puede ser determinado con fiabilidad. 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2017_Individual_Anual_Dictamen 2017 EASJ.pdf | PAGINA: 15 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+8 
+ 
+2.2.6  Propiedad, plantas productoras y equipo.- 
+La propiedad, plantas productoras y equipo se presentan al costo, neto de la depreciación 
+acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere. El costo inicial de un 
+activo comprende su precio de compra o su costo de fabricación, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo necesario para poner dicho activo en 
+operación y los costos de financiamiento para los proyectos de activos calificados de largo 
+plazo, en la medida en que se cumplan los requisitos para su reconocimiento. 
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera sean 
+necesarios para cancelar cualquier costo de desmantelamiento y retiro de equipamiento o de 
+rehabilitación del emplazamiento físico donde se asienta, cuando constituyan obligaciones 
+incurridas bajo determinadas condiciones. Para los componentes significativos de propiedad,  
+plantas productoras y equipo que se deban reemplazar periódicamente, la Compañía reconoce 
+tales componentes como activos individuales separados, con sus vidas útiles específicas y sus 
+depreciaciones respectivas. Del mismo modo, cuando se efectúa una inspección o reparación 
+de gran envergadura, su costo se reconoce como un reemplazo en el importe en libros de 
+propiedad, plantas productoras y equipos, si se cumplen los criterios para su reconocimiento. 
+ 
+Una partida de propiedad, plantas productoras y equipo o un componente significativo es 
+retirado al momento de su disposición o cuando no se esperan beneficios económicos de su 
+uso o disposición posterior. Cualquier ganancia o pérdida que surja al momento del retiro del 
+activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor en libros del 
+activo) es incluida en el estado de resultados integrales en el año en que se retira el activo. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa 
+de construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se 
+calcula desde el momento en que son puestas en operación. 
+ 
+Los terrenos tienen vida útil ilimitada, en consecuencia no se deprecian. La depreciación es 
+calculada bajo el método de línea recta tomando en consideración las siguientes vidas útiles: 
+ 
+                Años 
+   Edificios y otras construcciones              Entre 20 y 50 
+   Maquinaria y equipo                   Entre 5 y 20 
+   Muebles y enseres                 3, 5 y 10 
+   Unidades de trasporte                  5 y 10 
+   Equipo diversos                  2 y 10 
+   Instalaciones                  10 
+   Plantas agrícolas                 10 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados, en caso 
+sea apropiado, al final de cada año. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2014_Individual_Anual_Dictamen 2014.pdf | PAGINA: 13 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+5 
+efectivo futuros estimados generados por el activo financiero o el grupo de activos 
+financieros, y ese impacto puede estimarse de manera fiable. La evidencia de un 
+deterioro del valor podría incluir, entre otros, indicios tales como que los deudores 
+o un grupo de deudores se encuentran con dificultades financieras significativas, el 
+incumplimiento o mora en los pagos de la deuda por capital o intereses. 
+ 
+(ii) Pasivos financieros - 
+Reconocimiento inicial y medición – 
+Los pasivos financieros dentro del ámbito de la NIC 39 se clasifican como pasivos 
+financieros al valor razonable con cambios en resultados, préstamos y cuentas por 
+pagar, o como derivados designados como instrumentos de cobertura en una 
+cobertura eficaz, según corresponda. La Compañía determina la clasificación de los 
+pasivos financieros al momento del reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los préstamos y cuentas por pagar contabilizados al costo 
+amortizado, los costos de transacción directamente atribuibles. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales y 
+diversas, cuentas por pagar a relacionadas y obligaciones financieras. 
+ 
+Medición posterior - 
+La medición posterior de los pasivos financieros depende de su clasificación. Al 31 
+de diciembre de 2014 y de 2013, la Compañía tiene únicamente pasivos 
+financieros en las categorías de pasivos financieros al costo amortizado.  
+ 
+Deudas y préstamos que devengan intereses - 
+Después del reconocimiento inicial, las deudas y préstamos se miden al costo 
+amortizado, utilizando el método de la tasa de interés efectiva. Las ganancias y 
+pérdidas se reconocen en el estado de resultados integrales cuando los pasivos se 
+dan de baja, como así también a través del proceso de amortización, utilizando el 
+método de la tasa de interés efectiva. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en 
+la adquisición y las comisiones o los costos que sean una parte integrante de la tasa 
+de interés efectiva. La amortización de la tasa de interés efectiva se reconoce 
+como gasto financiero en el estado de resultados integrales. 
+ 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación especificada en el 
+correspondiente contrato se haya pagado o cancelado, o haya vencido. Cuando un 
+pasivo financiero existente es reemplazado por otro pasivo proveniente del mismo 
+prestamista bajo condiciones sustancialmente diferentes, o si las condiciones de un 
+pasivo existente se modifican de manera sustancial, tal permuta o modificación se 
+trata como una baja del pasivo original y el reconocimiento de un nuevo pasivo, y la 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2014_Individual_Anual_Dictamen 2014.pdf | PAGINA: 14 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+6 
+diferencia entre los importes en libros respectivos se reconoce en el estado de 
+resultados integrales. 
+ 
+(iii) Compensación de instrumentos financieros - 
+Los activos financieros y los pasivos financieros se compensan de manera que se 
+informa el importe neto en el estado de situación financiera, solamente si existe un 
+derecho actual legalmente exigible de compensar los importes reconocidos, y 
+existe la intención de liquidarlos por el importe neto, o de realizar los activos y 
+cancelar los pasivos en forma simultánea. 
+ 
+(iv) Valor razonable de los instrumentos financieros - 
+A cada fecha de cierre del periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina sobre 
+la base de los precios cotizados en el mercado, o de los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción. 
+ 
+Para los instrumentos financieros que no se negocian en mercados activos, el valor 
+razonable se determina utilizando técnicas de valoración. Tales técnicas pueden 
+incluir el uso de transacciones de mercado recientes entre partes interesadas y 
+debidamente informadas que actúen en condiciones de independencia mutua, la 
+referencia a los valores razonables de otros instrumentos financieros que sean 
+esencialmente similares, el análisis de valores descontados de flujos de efectivo y 
+otros modelos de valoración. 
+ 
+Al 31 de diciembre de 2014 y de 2013, no ha habido cambios en las técnicas de 
+valuación para los instrumentos financieros que se negocian en mercados activos. 
+ 
+2.2.3 Transacciones en moneda extranjera – 
+La Compañía ha determinado que su moneda funcional y de presentación es el Nuevo Sol, 
+debido a que refleja la naturaleza de los eventos económicos y las circunstancias 
+relevantes para la compañía.  
+ 
+Transacciones y saldos en moneda extranjera -  
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional. Las transacciones en moneda extranjera son inicialmente 
+registradas en la moneda funcional usando los tipos de cambio vigentes en las fechas de 
+las transacciones. Los activos y pasivos monetarios denominados en moneda extranjera 
+son posteriormente ajustados a la moneda funcional usando el tipo de cambio vigente a la 
+fecha de liquidación de las operaciones o del estado de situación financiera, las ganancias 
+o pérdidas por diferencia en cambio resultante de la liquidación de dichas transacciones y 
+de la traslación de los activos y pasivos monetarios en moneda extranjera a los tipos de 
+cambio de la fecha del estado de situación financiera, son reconocidas en los rubros 
+“Diferencia en cambio, neta”, en el estado de resultados integrales. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2014_Individual_Anual_Dictamen 2014.pdf | PAGINA: 15 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+7 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio 
+prevaleciente a la fecha de la transacción. 
+ 
+2.2.4 Inventarios - 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que 
+resulte menor.  Los costos incurridos para llevar a cada producto a su ubicación y sus 
+condiciones actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el 
+costo del material, mano de obra directa, otros costos directos y gastos generales 
+de fabricación (sobre la base de la capacidad de operación normal) y excluye los 
+gastos de financiamiento y las diferencias en cambio. 
+ 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de 
+reposición, el que resulte menor, sobre la base del método de costo promedio. 
+ 
+- El costo de la materia prima y mercaderías comprende el precio de compra, 
+aranceles de importación, impuestos no recuperables, transporte, almacenamiento 
+y otros costos atribuibles a su adquisición.  
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución.   
+ 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para 
+desvalorización y obsolescencia de inventarios.  Esta estimación es cargada a resultados 
+en el ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5 Activo biológico – 
+La Compañía sigue la Norma Internacional de Contabilidad 41 Agricultura (NIC 41), que 
+establece que las plantaciones agrícolas se registran a su valor estimado de mercado, el 
+cual es determinado por la Compañía en base a los flujos de caja esperados y costos 
+erogados de sus cultivos agrícolas.  Asimismo, los costos relacionados al desarrollo y 
+mantenimiento de sus cultivos agrícolas se reconocen en los resultados del ejercicio con 
+los cuales se relacionan; e incluyen los gastos asociados a la adquisición de las cosechas 
+agrícolas y gastos generales fijos; la Compañía reconoce en sus resultados los ingresos 
+(gastos) por el cambio en el valor razonable,  los que corresponden a la variación del valor 
+razonable de mercado de los cultivos agrícolas realizados a la fecha del estado de 
+situación financiera.  De acuerdo con la NIC 41, cualquier cambio futuro que resulte de la 
+producción, cosecha, precios u otros factores se reconocerán en los resultados del 
+ejercicio, de tal manera que las utilidades o pérdidas operativas incluirán un ajuste por el 
+cambio en el valor razonable de los cultivos agrícolas en el año. 
+ 
+  
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2014_Individual_Anual_Dictamen 2014.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+8 
+En el caso de los activos biológicos para los que no esté disponibles precios o valores 
+fijados por el mercado y para los cuales se haya determinado claramente que no son 
+fiables, son medidos a su costo menos la depreciación acumulada y cualquier pérdida 
+acumulada por deterioro del valor. 
+ 
+Al 31 de diciembre de 2014 y de 2013, la Compañía registró los cultivos de caña de 
+azúcar y uva al valor razonable, nota 7. 
+ 
+2.2.6 Terrenos, planta y equipo – 
+Los terrenos, planta y equipo se presentan al costo, neto de la depreciación acumulada 
+y/o las pérdidas acumuladas por deterioro, si las hubiere.  El costo inicial de un activo 
+comprende su precio de compra o su costo de fabricación, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo necesario para poner dicho 
+activo en operación y los costos de financiamiento para los proyectos de activos 
+calificados de largo plazo, en la medida en que se cumplan los requisitos para su 
+reconocimiento.   
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera 
+sean necesarios para cancelar cualquier costo de desmantelamiento y retiro de 
+equipamiento o de rehabilitación del emplazamiento físico donde se asienta, cuando 
+constituyan obligaciones incurridas bajo determinadas condiciones. Para los componentes 
+significativos de terrenos, planta y equipo que se deban reemplazar periódicamente, la 
+Compañía reconoce tales componentes como activos individuales separados, con sus 
+vidas útiles específicas y sus depreciaciones respectivas. Del mismo modo, cuando se 
+efectúa una inspección o reparación de gran envergadura, su costo se reconoce como un 
+reemplazo en el importe en libros de terrenos, planta y equipo, si se cumplen los criterios 
+para su reconocimiento. 
+ 
+Una partida de terrenos, planta y equipo o un componente significativo es retirado al 
+momento de su disposición o cuando no se esperan beneficios económicos de su uso o 
+disposición posterior.  Cualquier ganancia o pérdida que surja al momento del retiro del 
+activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor en libros 
+del activo) es incluida en el estado de resultados integrales en el año en que se retira el 
+activo. 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados, en 
+caso sea apropiado, al final de cada año. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la 
+etapa de construcción. Las obras en curso se capitalizan cuando se completan y su 
+depreciación se calcula desde el momento en que son puestas en operación.  
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2014_Individual_Anual_Dictamen 2014.pdf | PAGINA: 45 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+37 
+21. Gasto de personal 
+ (a) A continuación se presenta la composición del rubro: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Sueldos y salarios 17,066 13,469 
+Vacaciones 736 564 
+Régimen de prestación de salud 705 528 
+Alimentación y movilidad 594 298 
+Gratificaciones 260 264 
+Compensación por tiempo de servicios 146 149 
+Participación de los trabajadores 104 687 
+Otras remuneraciones 21 67  _________ _________ 
+   
+Total 19,632 16,026  _________ _________ 
+ 
+(b) A continuación se presenta la distribución del gasto de personal: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Costo de ventas, nota 18 18,066 14,697 
+Gastos de ventas, nota 19 131 77 
+Gastos de administración, nota 20 1,435 1,252  _________ _________    
+Total 19,632 16,026  _________ _________ 
+ 
+22. Gastos financieros 
+ A continuación se presenta la composición del rubro: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Intereses por obligaciones financieras, nota 12(c) 1,660 1,559 
+Otras cargas financieras diversas 16 13  __________ __________    
+Total 1,676 1,572  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2014_Individual_Anual_Dictamen 2014.pdf | PAGINA: 46 | puntaje 12 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+38 
+23. Otros ingresos (gastos) operativos, neto 
+(a) A continuación presentamos la composición del rubro: 
+  
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Otros ingresos    
+Ingresos por enajenación de inmuebles, planta y equipo (b) 341 - 
+Recuperación de cuentas en cobranza dudosa 92 76 
+Ingreso por subsidios 91 493 
+Venta de envases y embalajes  62 - 
+Servicio de empaque 56 - 
+Alquileres 17 54 
+Indemnización por incumplimiento de contrato - 431 
+Otros 133 106  _________ _________ 
+Total otros ingresos 792 1,160  _________ _________ 
+Otros gastos   
+Costo neto de enajenación de inmuebles, planta y equipo (b) (213) - 
+Sanciones administrativas y fiscales (c) (921) (196)  _________ _________ 
+Total otros gastos (1,134) (196)  _________ _________ 
+   
+Otros (gastos) ingresos operativos, neto (342) 964  _________ _________ 
+ 
+ (b) Corresponde a la venta de unidades de transporte realizada por la Compañía durante el 2014. 
+ 
+(c) Corresponde a multas interpuestas por la administración tributaria por los años 2010 y 2011, las 
+cuales fueron asignadas a la Compañía por responsabilidad solidaria, debido a que un proveedor 
+incumplió requisitos legales. A partir del 2012, la Compañía ya no mantiene relaciones 
+comerciales con dicho proveedor. 
+ 
+24. Utilidad por acción 
+El cálculo de la utilidad básica y diluida por acción, al 31 de diciembre de 2014 y de 2013, se presenta a 
+continuación: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Utilidad neta 3,791 6,506  _____________ _____________ 
+   
+Promedio ponderado del número de acciones en circulación 
+(Comunes)  60,000 60,000  _____________ _____________ 
+   
+Utilidad básica por acción  0.06 0.11  _____________ _____________ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2014_Individual_Anual_Dictamen 2014.pdf | PAGINA: 47 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+39 
+25. Contingencias   
+La Gerencia de la Compañía, junto con sus asesores legales, estiman que los procesos judiciales que 
+mantiene la Compañía (labores y civiles) no constituyen un riesgo significativo, debido a que es probable 
+que las sentencias sean favorables a la Compañía.  
+ 
+26. Objetivos y políticas de gestión de riesgos financieros 
+Los principales pasivos financieros de la Compañía, incluyen las cuentas por pagar comerciales y 
+diversas. La finalidad principal de estos pasivos financieros es obtener financiación para las operaciones 
+de la Compañía. La Compañía cuenta con efectivo, cuentas por cobrar comerciales y otras cuentas por 
+cobrar que provienen directamente de sus operaciones.  
+ 
+La Compañía se encuentra expuesta a los riesgos de mercado, de crédito y de liquidez. 
+ 
+Los altos ejecutivos de la Compañía supervisan la gestión de estos riesgos. Para ello, cuentan con el 
+apoyo de la Gerencia Financiera, que los asesora sobre los riesgos financieros y el marco corporativo 
+apropiado de gestión del riesgo financiero de la Compañía. La Gerencia Financiera  brinda seguridad a 
+los altos ejecutivos de la Compañía de que las actividades de toma de riesgo financiero de la Compañía 
+se encuentran reguladas por políticas y procedimientos corporativos apropiados, y que los riesgos 
+financieros se identifican, miden y gestionan de acuerdo con estas políticas corporativas y las 
+preferencias de la Compañía al momento de contraer riesgos. 
+ 
+El Directorio revisa y acuerda las políticas para la gestión de cada uno de estos riesgos, las que se 
+resumen en las secciones siguientes: 
+ 
+26.1 Riesgo de mercado - 
+El riesgo de mercado es el riesgo de que el valor razonable o los flujos futuros de efectivo de un 
+instrumento financiero fluctúen debido a los cambios en los precios de mercado. Los precios de 
+mercado involucran cuatro tipos de riesgo: el riesgo de tasa de interés, el riesgo de tipo de 
+cambio, el riesgo de precio de los productos y otros riesgos de precios. Los instrumentos 
+financieros afectados por el riesgo de mercado incluyen los depósitos bancarios. 
+Los análisis de sensibilidad incluidos en las siguientes secciones se relacionan con la situación 
+financiera al 31 de diciembre de 2014 y de 2013. 
+ 
+(i) Riesgo de tasa de interés – 
+El riesgo de tasa de interés es el riesgo de que el valor razonable o los flujos futuros de 
+efectivo de un instrumento financiero fluctúen debido a los cambios en las tasas de interés 
+de mercado. La Compañía no tiene activos o pasivos financieros a largo plazo a tasas de 
+interés variable. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2020_Individual_Anual_Dictamen Auditado 2020.pdf | PAGINA: 15 | vecina =====
+8  
+Evidencia de que un activo financiero tiene deterioro crediticio incluye los siguientes datos observables: 
+ 
+ 
+- Dificultades financieras significativas del emisor o del prestatario; 
+- Una infracción del contrato, tal como un incumplimiento o un suceso de mora de más de 90 días; 
+ 
+- La reestructuración de un préstamo o adelanto por parte de la Compañía en términos que este no 
+consideraría de otra manera; 
+- Se está convirtiendo en probable que el prestatario entre en quiebra o en otra forma de reorganización 
+financiera; o 
+- La desaparición de un mercado activo para el activo financiero en cuestión, debido a dificultades 
+financieras. 
+ 
+ 
+Las correcciones de valor para los activos financieros medidos al costo amortizado se deducen del importe 
+en libros bruto de los activos. 
+ 
+ 
+2.2.3 Transacciones en moneda extranjera – 
+ 
+ 
+La Compañía ha determinado que su moneda funcional y de presentación es el “Sol”, debido a que refleja 
+la naturaleza de los eventos económicos y las circunstancias relevantes para la compañía. 
+ 
+ 
+Transacciones y saldos en moneda extranjera – 
+ 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda diferente a la 
+moneda funcional. Las transacciones en moneda extranjera son inicialmente registradas en la moneda 
+funcional usando los tipos de cambio vigentes en las fechas de las transacciones. 
+ 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente ajustados a la 
+moneda funcional usando el tipo de cambio vigente a la fecha de liquidación de las operaciones o del 
+estado  de situación  financiera,  las ganancias  o pérdidas  por diferencia  en cambio resultante de la 
+liquidación de dichas transacciones y de la traslación de los activos y pasivos monetarios en moneda 
+extranjera a los tipos de cambio de la fecha del estado de situación financiera, son reconocidas en el rubro 
+“Diferencia de cambio”, en el estado de resultados integrales. 
+ 
+ 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio prevaleciente 
+a la fecha de la transacción. 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2020_Individual_Anual_Dictamen Auditado 2020.pdf | PAGINA: 16 | puntaje 6 =====
+9  
+ 
+2.2.4 Inventarios – 
+ 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que resulte menor. Los 
+costos incurridos para llevar a cada producto a su ubicación y sus condiciones actuales, se contabilizan 
+de la siguiente manera: 
+ 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el costo del material, 
+mano de obra directa, otros costos directos y gastos generales de fabricación (sobre la base de la 
+capacidad de operación normal) y excluye los gastos de financiamiento y las diferencias de cambio. 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de reposición, el que 
+resulte menor, sobre la base del método de costo promedio. 
+- El costo de la materia prima y mercaderías comprende el precio de compra, aranceles de importación, 
+impuestos no recuperables, transporte, almacenamiento y otros costos atribuibles a su adquisición. 
+- Los inventarios por recibir se registran al costo por el método de identificación específica de la compra. 
+ 
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del negocio, menos 
+los costos para poner los inventarios en condición de venta y los gastos de comercialización y distribución. 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para desvalorización y 
+obsolescencia  de inventarios. Esta estimación es cargada a resultados en el  ejercicio en el cual se 
+determina su necesidad. 
+ 
+ 
+2.2.5 Productos agrícolas 
+ 
+La Compañía sigue la Norma Internacional de Contabilidad 41 - NIC 41 “Agricultura”, que establece 
+registrar los productos agrícolas; es decir, la producción esperada en la próxima cosecha, a su valor 
+razonable de mercado, menos los costos de ventas, el cual, es determinado conforme a los flujos de caja 
+esperados y costos erogados de sus cultivos agrícolas. 
+ 
+ 
+La Compañía reconoce en sus resultados los ingresos (gastos) por el cambio en el valor razonable, los 
+que corresponden a la variación del valor razonable de mercado de la próxima cosecha realizado a la 
+fecha del estado de situación financiera. De acuerdo con la NIC 41, cualquier cambio futuro, que resulte 
+de la producción, cosecha, precios u otros factores, se reconocerá en los resultados del ejercicio, de tal 
+manera que las utilidades o pérdidas operativas incluirán un ajuste por el cambio en el valor razonable 
+del producto agrícola en el año. 
+ 
+ 
+Al 31 de diciembre de 2020, la compañía procedió a valorar sus productos agrícolas según su costo menos 
+la amortización acumulada y cualquier pérdida acumulada, debido a que el grado de avance de sus 
+productos agrícolas es mínimo y por ende el valor razonable de tales productos no puede ser determinado 
+con fiabilidad. 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2020_Individual_Anual_Dictamen Auditado 2020.pdf | PAGINA: 17 | vecina =====
+10  
+ 
+2.2.6 Propiedades, planta, plantas productoras y equipo. - 
+ 
+Las propiedades, planta, plantas productoras y equipo se presentan al costo de adquisición, neto de la 
+depreciación acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere. El costo de adquisición 
+inicial de un activo comprende su precio de compra o su costo de fabricación, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo necesario para poner dicho activo en operación 
+y los costos de financiamiento para los proyectos de activos calificados de largo plazo, en la medida en 
+que se cumplan los requisitos para su reconocimiento. 
+ 
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera sean necesarios 
+para cancelar cualquier costo de desmantelamiento y retiro de equipamiento o de rehabilitación del 
+emplazamiento físico donde se asienta, cuando constituyan obligaciones incurridas bajo determinadas 
+condiciones. Para los componentes significativos de propiedad, plantas productoras y equipo que se deban 
+reemplazar periódicamente, la Compañía reconoce tales componentes como activos individuales 
+separados, con sus vidas útiles específicas y sus depreciaciones respectivas. Del mismo modo, cuando se 
+efectúa una inspección o reparación de gran envergadura, su costo se reconoce como un reemplazo en el 
+importe  en libros  de propiedad,  plantas productoras  y equipos, si se cumplen los criterios para su 
+reconocimiento. 
+ 
+ 
+Una partida de propiedad, plantas productoras y equipo o un componente significativo es retirado al 
+momento de su disposición o cuando no se esperan beneficios económicos de su uso o disposición 
+posterior. Cualquier ganancia o pérdida que surja al momento del retiro del activo fijo (calculada como 
+la diferencia entre los ingresos por la venta y el valor en libros del activo) es incluida en el estado de 
+resultados integrales en el año en que se retira el activo. 
+ 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses financieros, y 
+los otros gastos directos atribuibles a dichas obras, devengados durante la etapa de construcción. Las obras 
+en curso se capitalizan cuando se completan y su depreciación se calcula desde el momento en que están 
+en condiciones de uso. 
+ 
+ 
+Los terrenos tienen vida útil ilimitada, en consecuencia, no se deprecian. La depreciación es calculada 
+bajo el método de línea recta tomando en consideración las siguientes vidas útiles: 
+ 
+ 
+Años 
+ 
+Edificios y otras construcciones                                                                              Entre 20 y 50 
+ 
+Maquinaria y equipo                                                                                                Entre 5 y 20 
+ 
+Muebles y enseres                                                                                                      3, 5 y 10 
+ 
+Unidades de trasporte                                                                                                5 y 10 
+ 
+Equipos diversos                                                                                                        2 y 10 
+ 
+Instalaciones                                                                                                             10 
+Plantas productoras                                                                                                   10 
+ 
+ 
+El valor residual, la vida útil y los métodos de depreciación aplicados son revisados y ajustados, en caso sea 
+apropiado, al final de cada año. 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2023_Individual_Anual_Dictamen Emp Agrícola San Juan SA 2023.pdf | PAGINA: 3 | vecina =====
+DICTAMEN DE LOS AUDITORES INDEPENDIENTES
+A los señores Accionistas de
+EMPRESA AGRÍCOLA SAN JUAN S.A.
+Opinión
+Hemos auditado los estados financieros de EMPRESA AGRÍCOLA SAN JUAN S.A. (una subsidiaria de
+Corporación Perhusa S.A.C. domiciliada en Perú) que comprenden el estado de situación
+financiera al 31 de diciembre de 2023, el estado de resultados integrales, el estado de cambios
+en el patrimonio y el estado de flujos de efectivo correspondientes al año terminado en esa
+fecha, así como las notas explicativas a los estados financieros, que incluyen un resumen de las
+políticas contables significativas y otra información explicativa.
+En nuestra opinión, los estados financieros presentan razonablemente, en todos sus aspectos
+significativos, la situación financiera de EMPRESA AGRÍCOLA SAN JUAN S.A.  al 31 de diciembre
+de 2023, sus resultados y sus flujos de efectivo por el año terminado en esa fecha, de
+conformidad con Normas Internacionales de Información Financiera (NIIF) emitidas por el
+International Accouting Standards Board (IASB).
+Fundamentos para nuestra opinión
+Efectuamos nuestra auditoria de conformidad con Normas Internacionales de Auditoría (NIA)
+aprobadas para su aplicación en el Perú por la Junta de Decanos de Colegios de Contadores
+Públicos del Perú. Nuestras responsabilidades de acuerdo con estas normas se describen más
+detalle en la sección Responsabilidades del Auditor con relación a la auditoría de los estados
+financieros de nuestro informe.
+Somos independientes de EMPRESA AGRÍCOLA SAN JUAN S.A. de conformidad con el Código de
+Ética para Profesionales de la Contabilidad del Consejo de Normas Internacionales de Ética para
+Contadores (Código de Ética del IESBA) junto con los requisitos éticos que son relevantes para
+nuestra auditoría de los estados financieros en el Perú, y hemos cumplido con nuestras otras
+responsabilidades de ética de conformidad con estos requisitos. Consideramos que la evidencia
+de auditoría que hemos obtenido es suficiente y apropiada para fundamentar nuestra opinión.
+Asuntos claves de auditoría
+Los asuntos claves de auditoría son aquellos que, a nuestro juicio profesional, han sido de mayor
+importancia en nuestra auditoría de los estados financieros del período actual. Estos asuntos
+claves de auditoría han sido tratados en el contexto de nuestra auditoría de los estados
+financieros en su conjunto y al formarnos nuestra opinión sobre los mismos; sin embargo, no
+emitimos una opinión por separado sobre estos asuntos.
+Tel: +511 2225600
+www.bdo.com.pe
+PIERREND, GÓMEZ & ASOCIADOS
+Sociedad Civil de Responsabilidad Limitada
+Av. Camino Real 456
+Torre Real, Piso 5
+San Isidro
+LIMA 27- PERU
+Pierrend, Gómez & Asociados Sociedad Civil de Responsabilidad Limitada, una sociedad civil peruana, es miembro de BDO International Limited, una compañía limitada por garantía del
+Reino Unido, y forma parte de la red internacional BDO, empresas independientes asociadas.
+BDO es el nombre comercial de la red BDO y de cada una de las empresas asociadas de BDO.
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2023_Individual_Anual_Dictamen Emp Agrícola San Juan SA 2023.pdf | PAGINA: 4 | puntaje 6 =====
+- 2 -
+Asunto clave de auditoría Cómo se trató el asunto clave en nuestra
+auditoria
+Valorización de los Activos Biológicos
+La Compañía cuenta con activos bilógicos como
+uvas, paltos y caña en su estado de situación
+financiera; sin embargo, la Compañía no realiza
+el cálculo por la uva, debido a la poca
+transformación biológica del activo; asimismo, su
+valor razonable no puede ser medido con
+fiabilidad hasta el periodo comprendido entre
+abril y mayo, donde cuenta con información
+suficiente para una estimación con el análisis de
+yemas y las toneladas esperadas.
+El valor razonable de estos activos biológicos es
+determinado por la gerencia utilizando modelos
+de flujos de efectivo netos descontados que
+incluyeron juicios y supuestos claves
+principalmente relacionados con el precio de
+venta, costos de cosecha, rendimiento de campo
+y tasa de descuento.
+La medición según la NIC 41 contempla un
+horizonte de proyección de flujos de hasta 12
+meses o un periodo menor, de acuerdo con el
+programa de cosecha de la campaña vigente.
+Los cambios en los supuestos claves podrían
+resultar en impactos significativos en el valor
+razonable de los activos biológicos y los
+resultados asociados en los estados financieros.
+Nuestros procedimientos de auditoría
+incluyeron, entre otros, obtener un
+entendimiento del proceso, metodología y
+juicios de la Compañía en la valorización de
+los activos.
+Evaluamos la razonabilidad del sustento
+técnico contable realizado por la Compañía
+en la aplicación de la Norma Internacional
+de Contabilidad 41 y evaluamos si hubo
+cambios en las políticas y juicios relevantes
+de la Compañía durante el año. Realizar
+pruebas sobre el valor contable.
+Realizamos pruebas sobre las aseveraciones
+de la Compañía respecto al cálculo del valor
+razonable, para lo cual comparamos los
+precios utilizados por la Compañía con
+información de transacciones del año reales
+y la cantidad de unidades estimadas por
+personal competente de la Compañía
+Otra información
+La Gerencia es responsable por la otra información. La otra información comprende la
+información incluida en la memoria anual y no forma parte integral de los estados financieros ni
+de nuestro informe de auditoría.
+Nuestra opinión sobre los estados financieros no cubre la otra información y no expresamos
+ningún tipo de seguridad ni conclusión sobre esa otra información.
+Con relación con nuestra auditoría de los estados financieros, nuestra responsabilidad es leer la
+otra información y, al hacerlo, considerar si existe una inconsistencia material entre la otra
+información y los estados financieros o con nuestro conocimiento obtenido en la auditoría o, de
+cualquier otro modo, si la otra información parece contener una incorrección material.
+No tenemos nada que informar en este sentido.
+Otro asunto
+Los estados financieros de EMPRESA AGRÍCOLA SAN JUAN S.A. al 31 de diciembre de 2022, fueron
+auditados por otros auditores quienes expresaron una opinión sin salvedades sobre dichos estados
+financieros el 13 de marzo de 2023.
+Pierrend, Gómez & Asociados Sociedad Civil de Responsabilidad Limitada, una sociedad civil peruana, es miembro de BDO International Limited, una compañía limitada por garantía del
+Reino Unido, y forma parte de la red internacional BDO, empresas independientes asociadas.
+BDO es el nombre comercial de la red BDO y de cada una de las empresas asociadas de BDO.
+PIERREND, GÓMEZ & ASOCIADOS
+Sociedad Civil de Responsabilidad Limitada
+
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2023_Individual_Anual_Dictamen Emp Agrícola San Juan SA 2023.pdf | PAGINA: 5 | vecina =====
+- 3 -
+Responsabilidades de la Gerencia y de los Encargados del Gobierno Corporativo por los
+estados financieros
+La Gerencia es responsable de la preparación y presentación razonable de los estados financieros
+de conformidad con Normas Internacionales de Información Financiera (NIIF) emitidas por el
+Internacional Accounting Standards Board (IASB), y del control interno que la Gerencia considere
+necesario para permitir la preparación de estados financieros libres de incorrecciones
+materiales, ya sea por fraude o error.
+Al preparar los estados financieros, la Gerencia es responsable de evaluar la capacidad de la
+Compañía de continuar como negocio en marcha, revelando, según sea aplicable, los asuntos
+relacionados a la continuidad de operaciones y utilizando el principio contable de empresa en
+marcha, a menos que la Gerencia tenga la intención de liquidar a la Compañía o cesar sus
+operaciones, o no tenga otra alternativa realista que liquidar o cesar sus operaciones.
+Los encargados del Gobierno Corporativo de EMPRESA AGRÍCOLA SAN JUAN S.A son responsables
+de la supervisión del proceso de información financiera de la Compañía.
+Responsabilidades del auditor con relación a la auditoría de los estados financieros
+Nuestros objetivos son obtener una seguridad razonable de que los estados financieros en su
+conjunto estén libres de incorrecciones materiales, ya sea por fraude o error, y emitir un
+informe de auditoría que incluya nuestra opinión. Seguridad razonable es un alto nivel de
+seguridad, pero no garantiza que una auditoría efectuada de conformidad con las NIA aprobadas
+para su aplicación en el Perú siempre detecte una incorrección material cuando esta exista. Las
+incorrecciones pueden surgir de fraude o error y son consideradas materiales si, individualmente
+o en su conjunto, podrían razonablemente influir en las decisiones económicas que los usuarios
+toman basándose en los estados financieros.
+Como parte de una auditoría de acuerdo con NIA, ejercemos nuestro juicio profesional y
+mantenemos escepticismo profesional durante toda la auditoría. Además:
+- Identificamos y evaluamos los riesgos de incorrecciones materiales en los estados
+financieros, ya sea por fraude o error, y diseñamos y aplicamos procedimientos de
+auditoría en respuesta a estos riesgos y obtenemos evidencia de auditoría que sea
+suficiente y apropiada en ofrecer fundamento para nuestra opinión. El riesgo de no
+detectar una incorrección material que resulte de fraude es más elevado que el no
+detectar uno que surge de un error, puesto que el fraude puede involucrar colusión,
+falsificación, omisiones intencionales, declaraciones falsas o la vulneración del control
+interno.
+- Obtuvimos conocimiento del control interno relevante para la auditoría con el propósito de
+diseñar procedimientos de auditoría que sean apropiados en las circunstancias, pero no
+con el propósito de expresar una opinión sobre la efectividad del control interno de
+EMPRESA AGRÍCOLA SAN JUAN S.A.
+- Evaluamos la idoneidad de las políticas contables aplicadas, la razonabilidad de las
+estimaciones contables y las respectivas revelaciones efectuadas por la Gerencia.
+- Concluimos sobre el adecuado uso del principio contable de empresa en marcha por parte
+de la Gerencia y, sobre la base de la evidencia obtenida, no se identificó alguna
+incertidumbre significativa relacionada a eventos o condiciones que pueden suscitar dudas
+significativas sobre la capacidad de EMPRESA AGRÍCOLA SAN JUAN S.A. de continuar como
+empresa en marcha. Si llegáramos a la conclusión que existe una incertidumbre
+significativa, estamos obligados de llamar la atención en nuestro dictamen de auditoría
+sobre la respectiva información revelada en los estados financieros o, si tales revelaciones
+Pierrend, Gómez & Asociados Sociedad Civil de Responsabilidad Limitada, una sociedad civil peruana, es miembro de BDO International Limited, una compañía limitada por garantía del
+Reino Unido, y forma parte de la red internacional BDO, empresas independientes asociadas.
+BDO es el nombre comercial de la red BDO y de cada una de las empresas asociadas de BDO.
+PIERREND, GÓMEZ & ASOCIADOS
+Sociedad Civil de Responsabilidad Limitada
+
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2015_Individual_Anual_Dictamen 2015.pdf | PAGINA: 13 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+5 
+Cuando se hayan transferido los derechos contractuales de recibir los flujos de 
+efectivo generados por el activo, o se haya celebrado un acuerdo de transferencia, 
+pero no se hayan ni transferido ni retenido sustancialmente todos los riesgos y 
+beneficios inherentes a la propiedad del activo, ni se haya transferido el control 
+sobre el mismo, ese activo se continuará reconociendo en la medida que la 
+Compañía siga comprometida con el activo. En este último caso, la Compañía 
+también reconocerá el pasivo relacionado. El activo transferido y el pasivo 
+relacionado se medirán de manera que reflejen los derechos y obligaciones que la 
+Compañía haya retenido. 
+ 
+Un compromiso firme que toma la forma de una garantía sobre el activo transferido 
+se mide como el menor importe entre el importe original en libros del activo, y el 
+importe máximo de contraprestación que la Compañía podría estar obligada a 
+pagar. 
+ 
+Deterioro de los activos financieros - 
+Al cierre de cada período sobre el que se informa, la Compañía evalúa si existe 
+alguna evidencia objetiva de que un activo financiero o un grupo de activos 
+financieros se encuentran deteriorados en su valor. Un activo financiero o un grupo 
+de activos financieros se consideran deteriorados en su valor solamente si existe 
+evidencia objetiva de deterioro de ese valor como resultado de uno o más eventos 
+ocurridos después del reconocimiento inicial del activo (el “evento que causa la 
+pérdida”), y ese evento que causa la pérdida tiene impacto sobre los flujos de 
+efectivo futuros estimados generados por el activo financiero o el grupo de activos 
+financieros, y ese impacto puede estimarse de manera fiable. La evidencia de un 
+deterioro del valor podría incluir, entre otros, indicios tales como que los deudores 
+o un grupo de deudores se encuentran con dificultades financieras significativas, el 
+incumplimiento o mora en los pagos de la deuda por capital o intereses. 
+ 
+(ii) Pasivos financieros - 
+Reconocimiento inicial y medición – 
+Los pasivos financieros dentro del ámbito de la NIC 39 se clasifican como pasivos 
+financieros al valor razonable con cambios en resultados, préstamos y cuentas por 
+pagar, o como derivados designados como instrumentos de cobertura en una 
+cobertura eficaz, según corresponda. La Compañía determina la clasificación de los 
+pasivos financieros al momento del reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los préstamos y cuentas por pagar contabilizados al costo 
+amortizado, los costos de transacción directamente atribuibles. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2015_Individual_Anual_Dictamen 2015.pdf | PAGINA: 14 | puntaje 5 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+6 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales, 
+cuentas por pagar a la Principal y partes relacionadas, impuestos, remuneraciones 
+y otras cuentas por pagar y obligaciones financieras. 
+ 
+Medición posterior - 
+La medición posterior de los pasivos financieros depende de su clasificación. Al 31 
+de diciembre de 2015 y de 2014, la Compañía tiene únicamente pasivos 
+financieros en las categorías de pasivos financieros al costo amortizado. 
+ 
+Deudas y préstamos que devengan intereses - 
+Después del reconocimiento inicial, las deudas y préstamos se miden al costo 
+amortizado, utilizando el método de la tasa de interés efectiva. Las ganancias y 
+pérdidas se reconocen en el estado de resultados integrales cuando los pasivos se 
+dan de baja, como así también a través del proceso de amortización, utilizando el 
+método de la tasa de interés efectiva. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en 
+la adquisición y las comisiones o los costos que sean una parte integrante de la tasa 
+de interés efectiva. La amortización de la tasa de interés efectiva se reconoce 
+como gasto financiero en el estado de resultados integrales. 
+ 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación especificada en el 
+correspondiente contrato se haya pagado o cancelado, o haya vencido. Cuando un 
+pasivo financiero existente es reemplazado por otro pasivo proveniente del mismo 
+prestamista bajo condiciones sustancialmente diferentes, o si las condiciones de un 
+pasivo existente se modifican de manera sustancial, tal permuta o modificación se 
+trata como una baja del pasivo original y el reconocimiento de un nuevo pasivo, y la 
+diferencia entre los importes en libros respectivos se reconoce en el estado de 
+resultados integrales. 
+ 
+(iii) Compensación de instrumentos financieros - 
+Los activos financieros y los pasivos financieros se compensan de manera que se 
+informa el importe neto en el estado de situación financiera, solamente si existe un 
+derecho actual legalmente exigible de compensar los importes reconocidos, y 
+existe la intención de liquidarlos por el importe neto, o de realizar los activos y 
+cancelar los pasivos en forma simultánea. 
+ 
+(iv) Valor razonable de los instrumentos financieros - 
+A cada fecha de cierre del periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina sobre 
+la base de los precios cotizados en el mercado, o de los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2015_Individual_Anual_Dictamen 2015.pdf | PAGINA: 15 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+7 
+Para los instrumentos financieros que no se negocian en mercados activos, el valor 
+razonable se determina utilizando técnicas de valoración. Tales técnicas pueden 
+incluir el uso de transacciones de mercado recientes entre partes interesadas y 
+debidamente informadas que actúen en condiciones de independencia mutua, la 
+referencia a los valores razonables de otros instrumentos financieros que sean 
+esencialmente similares, el análisis de valores descontados de flujos de efectivo y 
+otros modelos de valoración. 
+ 
+Al 31 de diciembre de 2015 y de 2014, no ha habido cambios en las técnicas de 
+valuación para los instrumentos financieros que se negocian en mercados activos. 
+ 
+2.2.3 Transacciones en moneda extranjera – 
+La Compañía ha determinado que su moneda funcional y de presentación es el “Sol”, 
+debido a que refleja la naturaleza de los eventos económicos y las circunstancias 
+relevantes para la compañía. 
+ 
+Transacciones y saldos en moneda extranjera -  
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional. Las transacciones en moneda extranjera son inicialmente 
+registradas en la moneda funcional usando los tipos de cambio vigentes en las fechas de 
+las transacciones. 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente 
+ajustados a la moneda funcional usando el tipo de cambio vigente a la fecha de liquidación 
+de las operaciones o del estado de situación financiera, las ganancias o pérdidas por 
+diferencia en cambio resultante de la liquidación de dichas transacciones y de la traslación 
+de los activos y pasivos monetarios en moneda extranjera a los tipos de cambio de la 
+fecha del estado de situación financiera, son reconocidas en los rubros “Diferencia en 
+cambio, neta”, en el estado de resultados integrales. 
+ 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio 
+prevaleciente a la fecha de la transacción. 
+ 
+2.2.4 Inventarios - 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que 
+resulte menor. Los costos incurridos para llevar a cada producto a su ubicación y sus 
+condiciones actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el 
+costo del material, mano de obra directa, otros costos directos y gastos generales 
+de fabricación (sobre la base de la capacidad de operación normal) y excluye los 
+gastos de financiamiento y las diferencias en cambio. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2015_Individual_Anual_Dictamen 2015.pdf | PAGINA: 16 | puntaje 7 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+8 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de 
+reposición, el que resulte menor, sobre la base del método de costo promedio. 
+ 
+- El costo de la materia prima y mercaderías comprende el precio de compra, 
+aranceles de importación, impuestos no recuperables, transporte, almacenamiento 
+y otros costos atribuibles a su adquisición. 
+ 
+- Los inventarios por recibir se registran al costo por el método de identificación 
+específica de la compra. 
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución. 
+ 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para 
+desvalorización y obsolescencia de inventarios. Esta estimación es cargada a resultados 
+en el ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5 Productos agrícolas – 
+La Compañía sigue la Norma Internacional de Contabilidad 41 - NIC 41 “Agricultura”, que 
+establece registrar los productos agrícolas; es decir, la producción esperada en la próxima 
+cosecha, a su valor razonable de mercado, menos los costos de ventas, el cual, es 
+determinado conforme a los flujos de caja esperados y costos erogados de sus cultivos 
+agrícolas. 
+ 
+2.2.6 Terrenos, plantas agrícolas y equipos – 
+Los terrenos, plantas agrícolas y equipos se presentan al costo, neto de la depreciación 
+acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere. El costo inicial de un 
+activo comprende su precio de compra o su costo de fabricación, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo necesario para poner dicho 
+activo en operación y los costos de financiamiento para los proyectos de activos 
+calificados de largo plazo, en la medida en que se cumplan los requisitos para su 
+reconocimiento. 
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera 
+sean necesarios para cancelar cualquier costo de desmantelamiento y retiro de 
+equipamiento o de rehabilitación del emplazamiento físico donde se asienta, cuando 
+constituyan obligaciones incurridas bajo determinadas condiciones. Para los componentes 
+significativos de terrenos, plantas agrícolas y equipos que se deban reemplazar 
+periódicamente, la Compañía reconoce tales componentes como activos individuales 
+separados, con sus vidas útiles específicas y sus depreciaciones respectivas. Del mismo 
+modo, cuando se efectúa una inspección o reparación de gran envergadura, su costo se 
+reconoce como un reemplazo en el importe en libros de terrenos, plantas agrícolas y 
+equipos, si se cumplen los criterios para su reconocimiento. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2015_Individual_Anual_Dictamen 2015.pdf | PAGINA: 17 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+9 
+Una partida de terrenos, plantas agrícolas y equipos o un componente significativo es 
+retirado al momento de su disposición o cuando no se esperan beneficios económicos de 
+su uso o disposición posterior. Cualquier ganancia o pérdida que surja al momento del 
+retiro del activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor 
+en libros del activo) es incluida en el estado de resultados integrales en el año en que se 
+retira el activo. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la 
+etapa de construcción. Las obras en curso se capitalizan cuando se completan y su 
+depreciación se calcula desde el momento en que son puestas en operación.  
+ 
+Los terrenos tienen vida útil ilimitada, en consecuencia no se deprecian. La depreciación 
+es calculada bajo el método de línea recta tomando en consideración las siguientes vidas 
+útiles: 
+ 
+ Años  
+  
+Edificios y otras construcciones Entre 20 y 50 
+Maquinaria y equipo Entre 5 y 20 
+Muebles y enseres 3, 5 y 10 
+Unidades de trasporte 5 y 10 
+Equipo diversos 2 y 10 
+Instalaciones 10 
+Plantas agrícolas 10 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados, en 
+caso sea apropiado, al final de cada año. 
+ 
+2.2.7 Arrendamientos - 
+La determinación de un acuerdo constituye o incluye un arrendamiento se basa en la 
+esencia del acuerdo a la fecha de su celebración, es decir, si el cumplimiento del acuerdo 
+depende del uso de uno o más activos específicos, o si el acuerdo concede el derecho de 
+uso del activo, incluso si tal derecho no se encuentra especificado de manera explícita en 
+el acuerdo. 
+ 
+Los arrendamientos financieros que transfieren a la Compañía sustancialmente todos los 
+riesgos y los beneficios inherentes a la propiedad del bien arrendado, se capitalizan al 
+inicio del arrendamiento, ya sea por el valor razonable de la propiedad arrendada o por el 
+valor presente de los pagos mínimos de arrendamiento, el que sea menor. Los pagos por 
+arrendamientos se distribuyen entre los cargos financieros y la reducción de la deuda de 
+manera tal de determinar un ratio constante de interés sobre el saldo remanente de la 
+deuda. Estos cargos financieros se reconocen como gastos financieros en el estado de 
+resultados integrales. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2015_Individual_Anual_Dictamen 2015.pdf | PAGINA: 45 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+37 
+(b) El número promedio de directores y empleados en la Compañía fue de 2,405 en el año 2015 y 
+1,947 en el año 2014. 
+ 
+(c) A continuación se presenta la distribución del gasto de personal: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Costo de ventas, nota 17 22,329 18,066 
+Gastos de ventas, nota 18 125 131 
+Gastos de administración, nota 19 1,793 1,435  _________ _________    
+ 24,247 19,632  _________ _________ 
+ 
+21. Gastos financieros 
+ (a) A continuación se presenta la composición del rubro: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Intereses por obligaciones financieras, nota 11(c) 2,022 1,660 
+Otros 3 16  __________ __________    
+ 2,025 1,676  __________ __________ 
+ 
+(b) Durante el año 2015, la Compañía ha capitalizado intereses de préstamos por un importe de 
+aproximadamente S/1,107,000. Durante el año 2014, la Compañía no ha capitalizado intereses 
+de préstamos.  
+ 
+22. Otros ingresos (gastos) operativos, neto 
+(a) A continuación presentamos la composición del rubro: 
+  
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Otros ingresos    
+Servicio de empaque 531 56 
+Venta de envases y embalajes  169 62 
+Ingreso por subsidios 47 91 
+Alquileres 11 17 
+Ingresos por enajenación de terrenos, plantas agrícolas y 
+equipos (b) 
+- 341 
+Recuperación de cuentas en cobranza dudosa, nota 6(g) - 92 
+Otros 127 133  _________ _________ 
+ 885 792  _________ _________ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2015_Individual_Anual_Dictamen 2015.pdf | PAGINA: 46 | puntaje 9 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+38 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Otros gastos   
+Estimación para deterioro de inventarios, nota 5(f) (1,924) (14) 
+Baja de activo biológico, nota 7(c) (854) - 
+Existencias destruidas (241) - 
+Baja de activo fijo, 8(a) (234) - 
+Sanciones administrativas y fiscales (175) (921) 
+Costo neto de enajenación de terrenos, plantas agrícolas y 
+equipos (b) - (213)  _________ _________ 
+ (3,428) (1,148)  _________ _________    
+ (2,543) (356)  _________ _________ 
+ 
+ (b) Corresponde a la venta de unidades de transporte realizada por la Compañía durante el 2014. 
+ 
+23. Utilidad por acción 
+El cálculo de la utilidad (pérdida) básica y diluida por acción, al 31 de diciembre de 2015 y de 2014, se 
+presenta a continuación: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Utilidad (pérdida) neta (1,546) 2,659  __________ __________    
+Promedio ponderado del número de acciones en circularización 
+(Comunes) 
+ 
+60,000 
+ 
+60,000  __________ __________    
+Utilidad (pérdida) básica por acción (0.03) 0.04  __________ __________ 
+ 
+24. Contingencias 
+La Gerencia de la Compañía, junto con sus asesores legales, estiman que los procesos judiciales que 
+mantiene la Compañía (labores y civiles) no constituyen un riesgo significativo, debido a que es probable 
+que las sentencias sean favorables a la Compañía. 
+ 
+25. Objetivos y políticas de gestión de riesgos financieros 
+Los principales pasivos financieros de la Compañía, incluyen las cuentas por pagar comerciales, cuentas 
+por pagar a la Principal y partes relacionadas, impuestos, remuneraciones y otras cuentas por pagar, y 
+obligaciones financieras. La finalidad principal de estos pasivos financieros es obtener financiación para 
+las operaciones de la Compañía. La Compañía cuenta con efectivo, cuentas por cobrar comerciales y 
+otras cuentas por cobrar que provienen directamente de sus operaciones.  
+ 
+La Compañía se encuentra expuesta a los riesgos de mercado, de crédito y de liquidez. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2015_Individual_Anual_Dictamen 2015.pdf | PAGINA: 47 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+39 
+Los altos ejecutivos de la Compañía supervisan la gestión de estos riesgos. Para ello, cuentan con el 
+apoyo de la Gerencia Financiera, que los asesora sobre los riesgos financieros y el marco corporativo 
+apropiado de gestión del riesgo financiero de la Compañía. La Gerencia Financiera brinda seguridad a los 
+altos ejecutivos de la Compañía de que las actividades de toma de riesgo financiero de la Compañía se 
+encuentran reguladas por políticas y procedimientos corporativos apropiados, y que los riesgos 
+financieros se identifican, miden y gestionan de acuerdo con estas políticas corporativas y las 
+preferencias de la Compañía al momento de contraer riesgos. 
+ 
+El Directorio revisa y acuerda las políticas para la gestión de cada uno de estos riesgos, las que se 
+resumen en las secciones siguientes: 
+ 
+25.1 Riesgo de mercado - 
+El riesgo de mercado es el riesgo de que el valor razonable o los flujos futuros de efectivo de un 
+instrumento financiero fluctúen debido a los cambios en los precios de mercado. Los precios de 
+mercado involucran cuatro tipos de riesgo: el riesgo de tasa de interés, el riesgo de tipo de 
+cambio, el riesgo de precio de los productos y otros riesgos de precios. Los instrumentos 
+financieros afectados por el riesgo de mercado incluyen los depósitos bancarios. 
+ 
+Los análisis de sensibilidad incluidos en las siguientes secciones se relacionan con la situación 
+financiera al 31 de diciembre de 2015 y de 2014. 
+ 
+(i) Riesgo de tasa de interés – 
+El riesgo de tasa de interés es el riesgo de que el valor razonable o los flujos futuros de 
+efectivo de un instrumento financiero fluctúen debido a los cambios en las tasas de interés 
+de mercado. La Compañía no tiene activos o pasivos financieros a largo plazo a tasas de 
+interés variable. 
+ 
+(ii) Riesgo de tipo de cambio - 
+El riesgo de tasa de cambio es el riesgo de que el valor razonable o los flujos futuros de 
+efectivo de un instrumento financiero fluctúen debido a los cambios en las tasas de 
+cambio. La exposición de la Compañía al riesgo de tipo de cambio se relaciona, en primer 
+lugar, con las actividades operativas de la Compañía (cuando los ingresos y los gastos se 
+encuentran denominados en una moneda diferente de su moneda funcional). La Gerencia 
+monitorea este riesgo a través del análisis de las variables macro-económicas del país. 
+ 
+Las operaciones en moneda extranjera se efectúan a las tasas de cambio del mercado 
+libre. Al 31 de diciembre de 2015, el tipo de cambio promedio ponderado del mercado 
+libre publicado por la SBS para las transacciones en dólares estadounidenses era de 
+S/3.408 para la compra y S/3.413 para la venta por cada US$1.00 (S/2.981 para la 
+compra y S/2.989 para la venta al 31 de diciembre de 2014 por cada US$1.00, 
+respectivamente). 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2025_Individual_Anual_Empresa Agrícola San Juan S A - EF 2025(1)_.pdf | PAGINA: 22 | vecina =====
+ - 11 - 
+El valor razonable de los activos biológicos generalmente se determina en base a los 
+flujos netos de efectivo (proyecciones de ingresos y costos) descontados que se esperan 
+obtener del respectivo producto agrícola. 
+ 
+Los flujos netos de efectivo operativos se descuentan usando una tasa que refleje las 
+valorizaciones actuales del mercado del valor del dinero en el tiempo y los respectivos 
+riesgos asociados. Los flujos netos son determinados de forma mensual. 
+ 
+Los cultivos en proceso incluyen los costos directos e indirectos que se acumulan 
+desde el inicio hasta el final de cada campaña agrícola, se valúan en función a los 
+costos incurridos en la compra de insumos, mano de obra y gastos indirectos y son 
+atribuidos al costo de producción de acuerdo con el grado de avance. 
+ 
+(k) Propiedades, planta y equipo y depreciación acumulada 
+ 
+Las propiedades, planta y equipo se presentan al costo de adquisición menos su 
+depreciación acumulada y si las hubiera, el importe acumulado de las pérdidas por 
+deterioro del valor.  
+ 
+El costo histórico de adquisición incluye los desembolsos directamente atribuibles a la 
+adquisición de los activos.  
+ 
+Los desembolsos posteriores y renovaciones de importancia se reconocen como activo, 
+cuando es probable que la Compañía obtenga beneficios económicos futuros derivados 
+del mismo y su costo pueda ser valorizado con fiabilidad.  
+ 
+El mantenimiento y las reparaciones menores son reconocidos como gastos según se 
+incurren. Los costos de mantenimientos mayores se capitalizan al reconocimiento 
+inicial del activo como un componente separado del bien y se deprecian en el 
+estimado del tiempo en que se requerirá el siguiente mantenimiento mayor. 
+ 
+La depreciación de las propiedades, planta y equipo es calculada siguiendo el método 
+de línea recta sobre la base de sus vidas útiles estimadas indicadas en la Nota 13 (a). 
+La vida útil, el valor residual y el método de depreciación de los activos se revisan 
+periódicamente para asegurar que el método y el período de la depreciación sean 
+consistentes con el patrón previsto de beneficios económicos futuros. 
+ 
+Al vender o retirar las propiedades, planta y equipo la Compañía elimina el costo y la 
+depreciación acumulada correspondiente. Cualquier pérdida o ganancia que resultase 
+de su disposición se incluye en el estado de resultados integrales. 
+ 
+Los trabajos en curso y unidades por recibir se capitalizan como componentes. A su 
+culminación, el costo de estos activos se transfiere a su categoría definitiva. Estos 
+activos, así como los terrenos no se deprecian. 
+Plantas productoras - 
+ 
+Una planta productora es una planta viva que se utiliza en la producción o suministro 
+de productos agrícolas; se espera que produzcan durante más de un ejercicio y tiene 
+solo una probabilidad remota de ser vendida como producto agrícola, excepto, por un 
+evento incidental.  
+ 
+Cuando las plantas productoras ya no se utilicen para obtener sus frutos puede que se 
+corten y se vendan como residuos, por ejemplo, para utilizarlas como leña. Estas 
+ventas accesorias como residuos no impedirán que el cultivo entre en la definición de 
+planta productora. El producto obtenido de las plantas productoras es un activo 
+biológico. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2025_Individual_Anual_Empresa Agrícola San Juan S A - EF 2025(1)_.pdf | PAGINA: 23 | puntaje 5 =====
+ - 12 - 
+Las plantas productoras son reconocidas inicialmente al costo histórico y su medición 
+posterior es al costo menos su depreciación acumulada y, si las hubiere, menos las 
+pérdidas acumuladas por deterioro. 
+ 
+Las plantas productoras que se encuentran en proceso de crecimiento para ser 
+productivas son reconocidas al costo histórico y clasificado en la partida “plantas en 
+desarrollo”; su proceso de siembra toma entre 1 a 3 años y su crecimiento hasta 
+lograr su madurez o producción plena luego del término de la siembra, dependiendo 
+del tipo de cultivo. 
+ 
+Consecuentemente la Compañía capitaliza los costos incurridos en cultivo que están 
+relacionados al incremento productivo tales como materia orgánica, mano de obra, 
+fertilizantes, agroquímicos, agua, maquinaria y gastos indirectos de campos. 
+ 
+(l) Intangibles y amortización acumulada 
+ 
+Los intangibles se contabilizan al costo inicial menos su amortización acumulada y 
+posteriormente menos cualquier pérdida acumulada por desvalorización. En el 
+reconocimiento inicial la Compañía evalúa si la vida útil de los intangibles es definida 
+o indefinida. 
+ 
+La Compañía solo cuenta con intangibles con vida útil definida que corresponden a 
+licencias de softwares, los cuales se amortizan bajo el método de línea recta sobre la 
+base de su vida útil estimada que es de 10 años. El período y el método de 
+amortización se revisan al final de cada año. 
+ 
+Un activo intangible se da de baja cuando se enajena (es decir, en la fecha en que el 
+receptor obtiene el control) o cuando no se espera obtener beneficios económicos 
+futuros derivados de su uso o enajenación. Cualquier ganancia o pérdida en el 
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto 
+procedente de la venta del activo y su importe en libros), se incluye en el estado de 
+resultados integrales cuando se da de baja el activo. 
+ 
+(m) Deterioro de activos no financieros de larga duración 
+ 
+El valor de los activos no financieros de larga duración es revisado periódicamente 
+para determinar si existe deterioro, cuando se producen circunstancias que indiquen 
+que su valor en libros puede no ser recuperable. 
+ 
+De haber indicios de deterioro, la Compañía estima el importe recuperable de los 
+activos y reconoce una pérdida por desvalorización en el estado de resultados 
+integrales.  
+ 
+El valor recuperable de un activo no financiero de larga duración es el mayor entre su 
+valor razonable menos los gastos de venta y su valor de uso. El valor de uso es el valor 
+presente de los flujos de efectivo futuros estimados que resultarán del uso continuo 
+de un activo, así como de su disposición al final de su vida útil. 
+ 
+Los importes recuperables se estiman para cada activo o, si no es posible, para la 
+menor unidad generadora de efectivo que haya sido identificada. De existir una 
+disminución de las pérdidas por desvalorización, determinada en años anteriores, se 
+registra un ingreso en el estado de resultado integrales. 
+ 
+La Compañía ha determinado el valor de uso de sus activos no financieros de larga 
+duración a través del valor presente de los flujos de efectivo futuros estimados que se 
+esperan recibir del funcionamiento o explotación continua de dichos activos. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2025_Individual_Anual_Empresa Agrícola San Juan S A - EF 2025(1)_.pdf | PAGINA: 24 | vecina =====
+ - 13 - 
+(n) Provisiones 
+ 
+Las provisiones por demandas legales, garantías de servicio y cumplimiento de 
+obligaciones se reconocen cuando la Compañía tiene una obligación legal presente o 
+implícita como resultado de eventos pasados, es probable que se requiera la salida de 
+flujos de efectivo para pagar la obligación y el monto puede ser estimado 
+fiablemente. No se reconoce provisiones por pérdidas operativas futuras. 
+ 
+Cuando existen obligaciones similares, la probabilidad de que se requiera de salidas 
+de flujos de efectivo para su pago se determina considerándolas como un todo. La 
+provisión se reconoce aún y cuando la probabilidad de la salida de flujos de efectivo 
+respecto de cualquier partida específica incluida en la misma clase de obligaciones 
+sea muy pequeña. 
+ 
+Las provisiones se reconocen al valor presente de la mejor estimación de la 
+administración de los desembolsos que se espera sean requeridos para cancelar la 
+obligación utilizando una tasa antes de impuestos que refleje las condiciones actuales 
+del mercado con respecto al valor del dinero y los riesgos específicos para dicha 
+obligación. El incremento de la provisión debido al transcurso del tiempo se reconoce 
+como un gasto por intereses. 
+ 
+(ñ) Beneficios a los empleados 
+ 
+La Compañía tiene obligaciones de corto plazo por beneficios a sus trabajadores que 
+incluyen sueldos, aportaciones sociales, gratificaciones de ley, bonificaciones, 
+vacaciones y participaciones en las utilidades. Estas obligaciones se registran con 
+cargo al estado de resultados integrales, a medida que se devengan. 
+ 
+(o) Clasificación de partidas en corrientes y no corrientes 
+ 
+La Compañía presenta los activos y pasivos en el estado de situación financiera, 
+clasificados en corrientes y no corrientes.  Un activo es clasificado como corriente 
+cuando la Compañía: 
+ 
+- Espera realizar el activo o tiene la intención de venderlo o consumirlo en su 
+ciclo normal de operación. 
+- Mantiene el activo principalmente con fines de negociación. 
+- Espera realizar el activo dentro de los doce meses siguientes del período sobre 
+el que se informa; o 
+- El activo es efectivo, a menos que se encuentre restringido y no pueda ser 
+intercambiado ni utilizado para cancelar un pasivo, por un período mínimo de 
+doce meses siguientes al período sobre el que se informa. 
+ 
+Todos los demás activos se clasifican como no corrientes. 
+ 
+Un pasivo se clasifica como corriente cuando la Compañía: 
+ 
+- Espera liquidar el pasivo en su ciclo normal de operación. 
+- Mantiene el pasivo principalmente con fines de negociación. 
+- El pasivo debe liquidarse dentro de los doce meses siguientes del período sobre 
+el que se informa; o 
+- No se tiene un derecho incondicional para aplazar la cancelación del pasivo 
+durante al menos, los doce meses siguientes al período sobre el que se informa. 
+ 
+Todos los demás pasivos se clasifican como no corrientes. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2012_Individual_Anual_Dictamen 2012.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+Medición posterior – 
+La medición posterior de los pasivos financieros depende de su clasificación, tal 
+como se muestra a continuación: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados - 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen los 
+pasivos financieros mantenidos para negociar y los pasivos financieros designados 
+al momento de su reconocimiento inicial como al valor razonable con cambios en 
+resultados. 
+ 
+Los pasivos financieros se clasifican como mantenidos para negociar si se 
+adquieren con el propósito de venderlos en un futuro cercano.  Esta categoría 
+incluye los instrumentos financieros derivados tomados por la Compañía, que no se 
+designan como instrumentos de cobertura en relaciones de cobertura según la 
+define la NIC 39.  Los derivados implícitos separados también se clasifican como 
+mantenidos para negociar, salvo que se designen como instrumentos de cobertura 
+eficaces. 
+ 
+Las ganancias o pérdidas por pasivos mantenidos para negociar se reconocen en el 
+estado de resultados integrales.   
+ 
+La Compañía no ha designado en el reconocimiento inicial pasivos financieros al 
+valor razonable con cambios en resultados al 31 de diciembre de 2012 y de 2011. 
+ 
+Préstamos que devengan interés - 
+Después del reconocimiento inicial, los préstamos que devengan intereses se miden 
+al costo amortizado utilizando el método de la tasa de interés efectiva.  Las 
+ganancias y pérdidas se reconocen en el estado de resultados integrales cuando los 
+pasivos se dan de baja, así como también a través del proceso de amortización 
+utilizando el método de la tasa de interés efectiva.  El costo amortizado se calcula 
+tomando en cuenta cualquier descuento o prima en la adquisición y las comisiones 
+o los costos que sean una parte integrante de la tasa de interés efectiva.  La 
+amortización se reconoce como costo financiero en el estado de resultados 
+integrales. 
+ 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación correspondiente ha sido 
+pagada o cancelada, o ha expirado.  Cuando un pasivo financiero existente es 
+reemplazado por otro proveniente del mismo prestamista bajo condiciones 
+sustancialmente diferentes, o si las condiciones de un pasivo existente se modifican 
+de manera sustancial, tal permuta o modificación se trata como una baja del pasivo 
+original y el reconocimiento de un nuevo pasivo, y la diferencia en los importes 
+respectivos en libros se reconocen en el estado de resultados integrales. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2012_Individual_Anual_Dictamen 2012.pdf | PAGINA: 15 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+(iv) Compensación de instrumentos financieros –  
+Los activos y pasivos financieros son objeto de compensación y se presentan netos 
+en el estado de situación financiera, solamente si existe en ese momento un 
+derecho legalmente exigible de compensar los importes reconocidos, y existe la 
+intención de liquidarlos por el importe neto, o de realizar los activos y cancelar los 
+pasivos en forma simultánea. 
+ 
+(v) Valor razonable de los instrumentos financieros –  
+Al final de cada periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina por 
+referencia a los precios cotizados en el mercado o a los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción. 
+ 
+Para los instrumentos financieros que no se negocian en un mercado activo, el 
+valor razonable se determina utilizando técnicas de valoración adecuadas.  Tales 
+técnicas pueden incluir el uso de transacciones de mercado recientes entre partes 
+interesadas y debidamente informadas que actúen en condiciones de 
+independencia mutua, referencias al valor razonable de otros instrumentos 
+financieros que sean esencialmente similares, el análisis de flujos de efectivo 
+descontados u otros modelos de valoración. 
+ 
+En la nota 25 se brinda información sobre los valores razonables de los 
+instrumentos financieros y mayores detalles sobre cómo estos se midieron. 
+ 
+2.2.3 Transacciones en moneda extranjera – 
+Las partidas incluidas en los estados financieros de la Compañía se expresan en Nuevos 
+Soles.  La Gerencia de la Compañía considera al Nuevo Sol como su moneda funcional y de 
+presentación, debido a que refleja la naturaleza de los eventos económicos y las 
+circunstancias relevantes para la Compañía. 
+ 
+Transacciones y saldos en moneda extranjera - 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional.  Las transacciones en moneda extranjera son 
+inicialmente registradas en la moneda funcional usando los tipos de cambio vigentes en 
+las fechas de las transacciones.  Los activos y pasivos monetarios denominados en 
+moneda extranjera son posteriormente ajustados a la moneda funcional usando el tipo de 
+cambio vigente a la fecha del estado de situación financiera.  Las ganancias o pérdidas por 
+diferencia en cambio resultante de la liquidación de dichas transacciones y de la 
+conversión de los activos y pasivos monetarias en moneda extranjera a los tipos de 
+cambio de la fecha del estado de situación financiera, son reconocidos en el rubro de 
+Diferencia en cambio, neta” del estado de resultados integrales.  Los activos y pasivos no 
+monetarios determinados en moneda extranjera son trasladados a la moneda funcional al 
+tipo de cambio prevaleciente a la fecha de la transacción.   
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2012_Individual_Anual_Dictamen 2012.pdf | PAGINA: 16 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+2.2.4 Inventarios - 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que 
+resulte menor.  Los costos incurridos para llevar cada producto a su ubicación y sus 
+condiciones actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el 
+costo del material, mano de obra directa, otros costos directos y gastos generales 
+de fabricación (sobre la base de la capacidad de operación normal) y excluye los 
+gastos de financiamiento y las diferencias en cambio. 
+ 
+- Los suministros diversos son valuados al costo o a su valor de reposición, el que 
+resulte menor, sobre la base del método de costo promedio. 
+ 
+- El costo de la materia prima y mercaderías comprende el precio de compra, 
+aranceles de importación, impuestos no recuperables, transporte, almacenamiento 
+y otros costos atribuibles a su adquisición.  
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución.   
+ 
+La Gerencia evalúa periódicamente la necesidad de constituir una provisión por 
+desvalorización y obsolescencia de inventarios.  Esta provisión es cargada a resultados en 
+el ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5 Activo biológico – 
+La Compañía sigue la Norma Internacional de Contabilidad 41 - NIC 41 “Agricultura”, que 
+establece que las plantaciones agrícolas se registran a su valor estimado de mercado, el 
+cual es determinado por la Compañía en base a los flujos de caja esperados y costos 
+erogados de sus cultivos agrícolas.  Asimismo, los costos relacionados al desarrollo y 
+mantenimiento de sus cultivos agrícolas se reconocen en los resultados del ejercicio con 
+los cuales se relacionan; e incluyen los gastos asociados a la adquisición de las cosechas 
+agrícolas y gastos generales fijos; la Compañía reconoce en sus resultados los ingresos 
+(gastos) por el cambio en el valor razonable,  los que corresponden a la variación del valor 
+razonable de mercado de los cultivos agrícolas realizados a la fecha del estado separado 
+de situación financiera.  De acuerdo con la NIC 41, cualquier cambio futuro que resulte de 
+la producción, cosecha, precios u otros factores se reconocerán en los resultados del 
+ejercicio, de tal manera que las utilidades o pérdidas operativas incluirán un ajuste por el 
+cambio en el valor razonable de los cultivos agrícolas en el año. 
+ 
+ En el caso de los activos biológicos para los que no esté disponibles precios o valores 
+fijados por el mercado y para los cuales se haya determinado claramente que no son 
+fiables, son medidos a su costo menos la depreciación acumulada y cualquier pérdida 
+acumulada por deterioro del valor. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2012_Individual_Anual_Dictamen 2012.pdf | PAGINA: 17 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+9 
+Al 31 de diciembre de 2012 y de 2011, la Compañía registró los cultivos de caña de 
+azúcar y uva al valor razonable, ver nota 6. 
+ 
+2.2.6 Inmuebles, maquinaria y equipo – 
+Los inmuebles, maquinaria y equipo se presentan al costo, neto de la depreciación 
+acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere.  El costo inicial de un 
+activo comprende su precio de compra o su costo de fabricación, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo necesario para poner dicho 
+activo en operación y los costos de financiamiento para los proyectos de activos 
+calificados de largo plazo, en la medida en que se cumplan los requisitos para su 
+reconocimiento.   
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera 
+sean necesarios para cancelar cualquier costo de desmantelamiento y retiro de 
+equipamiento o de rehabilitación del emplazamiento físico donde se asienta, cuando 
+constituyan obligaciones incurridas bajo determinadas condiciones. Para los componentes 
+significativos de inmueble, maquinarias y equipo que se deban reemplazar 
+periódicamente, la Compañía reconoce tales componentes como activos individuales 
+separados, con sus vidas útiles específicas y sus depreciaciones respectivas. Del mismo 
+modo, cuando se efectúa una inspección o reparación de gran envergadura, su costo se 
+reconoce como un reemplazo en el importe en libros de la inmueble, maquinaria y equipo, 
+si se cumplen los criterios para su reconocimiento. 
+ 
+Una partida de inmueble, maquinaria y equipo o un componente significativo es retirado al 
+momento de su disposición o cuando no se esperan beneficios económicos de su uso o 
+disposición posterior.  Cualquier ganancia o pérdida que surja al momento del retiro del 
+activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor en libros 
+del activo) es incluida en el estado de resultados integrales en el año en que se retira el 
+activo. 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados en 
+caso sea apropiado, al final de cada año. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la 
+etapa de construcción. Las obras en curso se capitalizan cuando se completan y su 
+depreciación se calcula desde el momento en que son puestas en operación.  
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2022_Individual_Anual_DICTAMEN EASJ 2022.pdf | PAGINA: 19 | vecina =====
+ 
+10 
+ 
+- La desaparición de un mercado activo para el activo financiero en cuestión, debido a 
+dificultades financieras. 
+ 
+Las correcciones de valor para los activos financieros medidos al costo amortizado se deducen 
+del importe en libros bruto de los activos. 
+2.2.3 Transacciones en moneda extranjera  
+ 
+La Compañía ha determinado que su moneda funcional y de presentación es el “Sol”, debido 
+a que refleja la naturaleza de los eventos económicos y las circunstancias relevantes para la 
+compañía. 
+ 
+Transacciones y saldos en moneda extranjera – 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional. Las transacciones en moneda extranjera son inicialmente 
+registradas en la moneda funcional usando los tipos de cambio vigentes en las fechas de las 
+transacciones. 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente 
+ajustados a la moneda funcional usando el tipo de cambio vigente a la fecha de liquidación de 
+las operaciones o del estado de situación financiera, las ganancias o pérdidas por diferencia 
+en cambio resultante de la liquidación de dichas transacciones y de la traslación de los activos 
+y pasivos monetarios en moneda extranjera a los tipos de cambio de la fecha del estado de 
+situación financiera, son reconocidas en el rubro “Diferencia de cambio”, en el estado de 
+resultados integrales. 
+ 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio 
+prevaleciente a la fecha de la transacción. 
+ 
+2.2.4 Inventarios – 
+ 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que resulte 
+menor. Los costos incurridos para llevar a cada producto a su ubicación y sus condiciones 
+actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el costo del 
+material, mano de obra directa, otros costos directos y gastos generales de fabricación (sobre 
+la base de la capacidad de operación normal) y excluye los gastos de financiamiento y las 
+diferencias de cambio. 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de 
+reposición, el que resulte menor, sobre la base del método de costo promedio. 
+- El costo de la materia prima y mercaderías comprende el precio de compra, aranceles de 
+importación, impuestos no recuperables, transporte, almacenamiento y otros costos 
+atribuibles a su adquisición. 
+- Los inventarios por recibir se registran al costo por el método de identificación específica de 
+la compra. 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2022_Individual_Anual_DICTAMEN EASJ 2022.pdf | PAGINA: 20 | puntaje 6 =====
+ 
+11 
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución. 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para 
+desvalorización y obsolescencia de inventarios. Esta estimación es cargada a resultados en el 
+ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5 Activos biológicos 
+ 
+Los activos biológicos que están conformados principalmente, por plantaciones de uva, caña de 
+azúcar y paltos que serán cosechados en el próximo corte, están valuados inicialmente al costo 
+y posteriormente a su valor razonable de mercado menos los costos estimados que se incurrirán 
+hasta el punto de venta. 
+ 
+El costo se aproxima a su valor razonable cuando haya pequeñas transformaciones biológicas 
+desde que los costos fueron originalmente incurridos o cuando no se espera que el impacto del 
+costo de la transformación biológica sea significativo. 
+ 
+Las pérdidas y ganancias que surjan de la medición de los activos biológicos a su valor razonable 
+menos los costos estimados hasta el punto de venta se reconocerán en el estado de resultados 
+en el período en que surjan en la partida “Cambio en el valor razonable de los activos biológicos”. 
+Las tierras de cultivo, los cultivos permanentes y las instalaciones relacionadas se incluyen como 
+“Propiedades, planta y equipo” en el estado de situación financiera. 
+ 
+La Compañía presenta sus activos biológicos como activos corrientes pues considera que serán 
+realizados en un plazo máximo de doce meses. 
+ 
+Cuando existe un mercado activo para el activo biológico, los precios de cotización en el mercado 
+más relevante se usarán como base para determinar el valor razonable. 
+ 
+Cuando no existe mercado activo o no se disponen de precios determinados por el mercado, el 
+valor razonable de los activos biológicos se determina a través del uso de técnicas de 
+valorización. El valor razonable de los activos biológicos generalmente se determina en base a 
+los flujos netos de efectivo (proyecciones de ingresos y costos) descontados que se esperan 
+obtener del respectivo producto agrícola. 
+ 
+Los flujos netos de efectivo operativos se descuentan usando una tasa que refleje las 
+valorizaciones actuales del mercado del valor del dinero en el tiempo y los respectivos riesgos 
+asociados. Los flujos netos son determinados de forma mensual. 
+  
+Los cultivos en proceso de los productos agrícolas incluyen los costos directos e indirectos que 
+se acumulan desde el inicio hasta el final de cada campaña agrícola, se valúan en función a los 
+costos incurridos en la compra de insumos, mano de obra y gastos indirectos y son atribuidos al 
+costo de producción de acuerdo al grado de avance. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2022_Individual_Anual_DICTAMEN EASJ 2022.pdf | PAGINA: 21 | vecina =====
+ 
+12 
+ 
+Los costos incurridos en la obtención de los frutos o productos agrícolas se capitalizan como 
+activos biológicos, si, y sólo si: 
+a) es probable que futuros beneficios económicos fluirán a la entidad; y 
+b) el costo puede ser medido confiablemente. 
+ 
+2.2.6 Propiedades, planta, plantas productoras y equipo. - 
+Las propiedades, planta, plantas productoras y equipo se presentan al costo de adquisición, 
+neto de la depreciación acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere. 
+El costo de adquisición inicial de un activo comprende su precio de compra o su costo de 
+fabricación, incluyendo aranceles e impuestos de compra no reembolsables y cualquier costo 
+necesario para poner dicho activo en operación y los costos de financiamiento para los 
+proyectos de activos calificados de largo plazo, en la medida en que se cumplan los requisitos 
+para su reconocimiento. 
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera sean 
+necesarios para cancelar cualquier costo de desmantelamiento y retiro de equipamiento o de 
+rehabilitación del emplazamiento físico donde se asienta, cuando constituyan obligaciones 
+incurridas bajo determinadas condiciones. Para los componentes significativos de propiedad, 
+plantas productoras y equipo que se deban reemplazar periódicamente, la Compañía reconoce 
+tales componentes como activos individuales separados, con sus vidas útiles específicas y sus 
+depreciaciones respectivas. Del mismo modo, cuando se efectúa una inspección o reparación 
+de gran envergadura, su costo se reconoce como un reemplazo en el importe en libros de 
+propiedad, plantas productoras y equipos, si se cumplen los criterios para su reconocimiento. 
+ 
+Una partida de propiedad, plantas productoras y equipo o un componente significativo es 
+retirado al momento de su disposición o cuando no se esperan beneficios económicos de su 
+uso o disposición posterior. Cualquier ganancia o pérdida que surja al momento del retiro del 
+activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor en libros del 
+activo) es incluida en el estado de resultados integrales en el año en que se retira el activo. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa 
+de construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se 
+calcula desde el momento en que están en condiciones de uso. 
+Los terrenos tienen vida útil ilimitada, en consecuencia, no se deprecian. La depreciación es 
+calculada bajo el método de línea recta tomando en consideración las siguientes vidas útiles: 
+ 
+                Años 
+   Edificios y otras construcciones              Entre 20 y 50 
+   Maquinaria y equipo                   Entre 5 y 20 
+   Muebles y enseres                 3, 5 y 10 
+   Unidades de trasporte                  5 y 10 
+   Equipos diversos                  2 y 10 
+   Instalaciones                  10 
+   Plantas productoras                 10 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2021_Individual_Anual_EASJ Dictamen 2021.pdf | PAGINA: 17 | vecina =====
+ 
+10 
+ 
+- La desaparición de un mercado activo para el activo financiero en cuestión, debido a 
+dificultades financieras. 
+ 
+Las correcciones de valor para los activos financieros medidos al costo amortizado se deducen 
+del importe en libros bruto de los activos. 
+2.2.3 Transacciones en moneda extranjera – 
+ 
+La Compañía ha determinado que su moneda funcional y de presentación es el “Sol”, debido 
+a que refleja la naturaleza de los eventos económicos y las circunstancias relevantes para la 
+compañía. 
+ 
+Transacciones y saldos en moneda extranjera – 
+Se consideran transacciones en moneda extranjera a aquellas realizadas en una moneda 
+diferente a la moneda funcional. Las transacciones en moneda extranjera son inicialmente 
+registradas en la moneda funcional usando los tipos de cambio vigentes en las fechas de las 
+transacciones. 
+ 
+Los activos y pasivos monetarios denominados en moneda extranjera son posteriormente 
+ajustados a la moneda funcional usando el tipo de cambio vigente a la fecha de liquidación de 
+las operaciones o del estado de situación financiera, las ganancias o pérdidas por diferencia 
+en cambio resultante de la liquidación de dichas transacciones y de la traslación de los activos 
+y pasivos monetarios en moneda extranjera a los tipos de cambio de la fecha del estado de 
+situación financiera, son reconocidas en el rubro “Diferencia de cambio”, en el estado de 
+resultados integrales. 
+ 
+Los activos y pasivos no monetarios se registran en la moneda funcional al tipo de cambio 
+prevaleciente a la fecha de la transacción. 
+ 
+2.2.4 Inventarios – 
+ 
+Los inventarios están valuados al costo promedio o valor neto de realización, el que resulte 
+menor. Los costos incurridos para llevar a cada producto a su ubicación y sus condiciones 
+actuales, se contabilizan de la siguiente manera: 
+ 
+- El costo de los productos terminados y de los productos en proceso comprende el costo del 
+material, mano de obra directa, otros costos directos y gastos generales de fabricación (sobre 
+la base de la capacidad de operación normal) y excluye los gastos de financiamiento y las 
+diferencias de cambio. 
+- Los envases, embalajes y suministros diversos son valuados al costo o a su valor de 
+reposición, el que resulte menor, sobre la base del método de costo promedio. 
+- El costo de la materia prima y mercaderías comprende el precio de compra, aranceles de 
+importación, impuestos no recuperables, transporte, almacenamiento y otros costos 
+atribuibles a su adquisición. 
+- Los inventarios por recibir se registran al costo por el método de identificación específica de 
+la compra. 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2021_Individual_Anual_EASJ Dictamen 2021.pdf | PAGINA: 18 | puntaje 6 =====
+ 
+11 
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución. 
+La Gerencia evalúa periódicamente la necesidad de constituir una estimación para 
+desvalorización y obsolescencia de inventarios. Esta estimación es cargada a resultados en el 
+ejercicio en el cual se determina su necesidad. 
+ 
+2.2.5 Activos biológicos 
+ 
+Los activos biológicos que están conformados principalmente, por plantaciones de uva, caña de 
+azúcar y paltos que serán cosechados en el próximo corte, están valuados inicialmente al costo 
+y posteriormente a su valor razonable de mercado menos los costos estimados que se incurrirán 
+hasta el punto de venta. 
+ 
+El costo se aproxima a su valor razonable cuando haya pequeñas transformaciones biológicas 
+desde que los costos fueron originalmente incurridos o cuando no se espera que el impacto del 
+costo de la transformación biológica sea significativo. 
+ 
+Las pérdidas y ganancias que surjan de la medición de los activos biológicos a su valor razonable 
+menos los costos estimados hasta el punto de venta se reconocerán en el estado de resultados 
+en el período en que surjan en la partida “Cambio en el valor razonable de los activos biológicos”. 
+Las tierras de cultivo, los cultivos permanentes y las instalaciones relacionadas se incluyen como 
+“Propiedades, planta y equipo” en el estado de situación financiera. 
+ 
+La Compañía presenta sus activos biológicos como activos corrientes pues considera que serán 
+realizados en un plazo máximo de doce meses. 
+ 
+Cuando existe un mercado activo para el activo biológico, los precios de cotización en el mercado 
+más relevante se usarán como base para determinar el valor razonable. 
+ 
+Cuando no existe mercado activo o no se disponen de precios determinados por el mercado, el 
+valor razonable de los activos biológicos se determina a través del uso de técnicas de 
+valorización. El valor razonable de los activos biológicos generalmente se determina en base a 
+los flujos netos de efectivo (proyecciones de ingresos y costos) descontados que se esperan 
+obtener del respectivo producto agrícola. 
+ 
+Los flujos netos de efectivo operativos se descuentan usando una tasa que refleje las 
+valorizaciones actuales del mercado del valor del dinero en el tiempo y los respectivos riesgos 
+asociados. Los flujos netos son determinados de forma mensual. 
+  
+Los cultivos en proceso de los productos agrícolas incluyen los costos directos e indirectos que 
+se acumulan desde el inicio hasta el final de cada campaña agrícola, se valúan en función a los 
+costos incurridos en la compra de insumos, mano de obra y gastos indirectos y son atribuidos al 
+costo de producción de acuerdo al grado de avance. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA AGRICOLA SAN JUAN S.A.-Individual.zip/2021_Individual_Anual_EASJ Dictamen 2021.pdf | PAGINA: 19 | vecina =====
+ 
+12 
+ 
+Los costos incurridos en la obtención de los frutos o productos agrícolas se capitalizan como 
+activos biológicos, si, y sólo si: 
+a) es probable que futuros beneficios económicos fluirán a la entidad; y 
+b) el costo puede ser medido confiablemente. 
+ 
+2.2.6 Propiedades, planta, plantas productoras y equipo. - 
+ 
+Las propiedades, planta, plantas productoras y equipo se presentan al costo de adquisición, 
+neto de la depreciación acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere. 
+El costo de adquisición inicial de un activo comprende su precio de compra o su costo de 
+fabricación, incluyendo aranceles e impuestos de compra no reembolsables y cualquier costo 
+necesario para poner dicho activo en operación y los costos de financiamiento para los 
+proyectos de activos calificados de largo plazo, en la medida en que se cumplan los requisitos 
+para su reconocimiento. 
+ 
+El costo del activo incluye también el valor presente de los desembolsos que se espera sean 
+necesarios para cancelar cualquier costo de desmantelamiento y retiro de equipamiento o de 
+rehabilitación del emplazamiento físico donde se asienta, cuando constituyan obligaciones 
+incurridas bajo determinadas condiciones. Para los componentes significativos de propiedad, 
+plantas productoras y equipo que se deban reemplazar periódicamente, la Compañía reconoce 
+tales componentes como activos individuales separados, con sus vidas útiles específicas y sus 
+depreciaciones respectivas. Del mismo modo, cuando se efectúa una inspección o reparación 
+de gran envergadura, su costo se reconoce como un reemplazo en el importe en libros de 
+propiedad, plantas productoras y equipos, si se cumplen los criterios para su reconocimiento. 
+ 
+Una partida de propiedad, plantas productoras y equipo o un componente significativo es 
+retirado al momento de su disposición o cuando no se esperan beneficios económicos de su 
+uso o disposición posterior. Cualquier ganancia o pérdida que surja al momento del retiro del 
+activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor en libros del 
+activo) es incluida en el estado de resultados integrales en el año en que se retira el activo. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los intereses 
+financieros, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa 
+de construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se 
+calcula desde el momento en que están en condiciones de uso. 
+ 
+Los terrenos tienen vida útil ilimitada, en consecuencia, no se deprecian. La depreciación es 
+calculada bajo el método de línea recta tomando en consideración las siguientes vidas útiles: 
+ 
+ 
+ 
+ 
+ 
+ 

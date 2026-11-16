@@ -1,0 +1,621 @@
+EMPRESA: COPEN INVERSIONES S.A.
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2025_Consolidada_Anual_Copenconsolidado.pdf | PAGINA: 18 | vecina =====
+ 
+- 16 - 
+Las ganancias y pérdidas que resulten de transacciones entre entidades relacionadas que son 
+reconocidas en activos también son eliminadas. Las políticas contables de las subsidiarias, si fuera 
+necesario, han sido modificadas para asegurar uniformidad con las políticas adoptadas por el Grupo. 
+ 
+2.4 Traducción de moneda extranjera - 
+ 
+Moneda funcional y moneda de presentación - 
+ 
+Las partidas incluidas en los estados financieros de cada una de las compañías del Grupo se 
+expresan en la moneda del ambiente económico primario donde opera cada entidad (moneda 
+funcional). La moneda funcional de la Compañía y la subsidiaria Atracciones Coney Island S.A.C. es 
+el sol (S/) en tanto que la moneda funcional de las subsidiarias Divertrónica Medellín S.A.S. y Yukids 
+SpA son pesos colombianos y pesos chilenos, respectivamente. Los estados financieros consolidados 
+se presentan en soles (S/), que es la moneda de presentación del Grupo. 
+ 
+Transacciones y saldos - 
+ 
+Las transacciones en moneda extranjera se traducen a la moneda funcional usando los tipos de 
+cambio vigentes a las fechas de las transacciones o de la valuación en los casos de las partidas que 
+son remedidas.  Los tipos de cambio usados corresponden a los publicados por la Superintendencia 
+de Banca, Seguros y AFP. 
+ 
+Las ganancias y pérdidas por diferencias en cambio que resulten del cobro y/o pago de tales 
+transacciones y de la traducción de activos y pasivos monetarios en moneda extranjera al tipo de 
+cambio de cierre del año, se reconocen en el rubro “Diferencia en cambio, neta” del estado 
+consolidado de resultados integrales. 
+ 
+Traslación de los estados financieros de las subsidiarias - 
+ 
+Los registros contables de las subsidiarias Divertrónica Medellín S.A.S. y Yukids SpA para propósitos 
+de consolidación y presentación han sido trasladados a soles. 
+ 
+El efecto de traslación de los estados financieros de estas subsidiarias es reconocido como otros 
+resultados integrales en el patrimonio hasta que se disponga estas subsidiarias.  
+ 
+Los saldos de los estados financieros de las subsidiarias cuya moneda funcional es distinta a la 
+moneda de presentación del Grupo fueron convertidos utilizando la metodología establecida en la NIC 
+21, “Efectos de las variaciones en las tasas de cambio de la moneda extranjera”, que se resume a 
+continuación: 
+ 
+• Los saldos de los activos y pasivos han sido convertidos utilizando los tipos de cambio de cierre a 
+la fecha de cada estado consolidado de situación financiera presentado. 
+ 
+• Los ingresos y gastos han sido convertidos utilizando el tipo de cambio promedio mensual que se 
+aproxima a los tipos de cambio de la fecha de registro de dichas transacciones. 
+ 
+• Las diferencias resultantes de la traslación han sido reconocidas como parte de ‘otros resultados 
+integrales’ y presentadas en el estado consolidado de cambios en el patrimonio en la partida de 
+“Efecto de traslación”. 
+ 
+2.5 Efectivo y equivalentes de efectivo (Nota 7) - 
+ 
+El efectivo y equivalentes de efectivo incluyen los fondos fijos, cuentas corrientes y depósitos a plazo 
+en bancos con vencimientos originales de tres meses o menos. 
+  
+Docusign Envelope ID: 6CB35908-F7E2-4E84-B8B2-D3042E16D21F
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2025_Consolidada_Anual_Copenconsolidado.pdf | PAGINA: 19 | puntaje 5 =====
+ 
+- 17 - 
+El efectivo y equivalentes de efectivo excluye los fondos en cuentas de fideicomiso, puesto que estos 
+no son de libre disponibilidad al estar restringidos. 
+ 
+Las remesas en tránsito no son consideradas como efectivo y equivalentes de efectivo ya que la libre 
+disponibilidad de dichos fondos al cierre del ejercicio no es de control del Grupo. 
+ 
+2.6 Activos financieros (Nota 7 y 8) - 
+ 
+i) Clasificación y medición -  
+ 
+El Grupo clasifica sus activos financieros en las siguientes categorías: i) activos financieros medidos a 
+valor razonable (sea a través de resultados o de otros resultados integrales), y ii) activos financieros 
+medidos a costo amortizado. La clasificación depende del modelo de negocio que el Grupo tiene para 
+administrar sus activos financieros y de si los términos contractuales representan únicamente pagos 
+de principal e intereses. 
+ 
+Al 31 de diciembre de 2025 y de 2024, el Grupo solo mantiene activos financieros en la categoría de 
+medición a costo amortizado. Los activos financieros del Grupo se incluyen en los siguientes rubros 
+del estado de situación financiera: “Efectivo y equivalentes de efectivo”, “Cuentas por cobrar 
+comerciales” y algunas partidas incluidas en “Otras cuentas por cobrar”. 
+ 
+Activos financieros a costo amortizado -  
+ 
+Los activos que se mantienen para el cobro de flujos de efectivo contractuales cuando dichos flujos de 
+efectivo representan únicamente pagos de principal e intereses se miden a costo amortizado. Los 
+ingresos recibidos de estos activos financieros se incluyen en los ingresos financieros utilizando el 
+método de tasa de interés efectiva. Cualquier ganancia o pérdida que surja de la baja en cuentas, se 
+reconoce directamente en resultados y se presenta en el rubro “Otros ingresos (gastos)”, la diferencia 
+en cambio, generada, se presenta de forma separada en el estado consolidado de resultados 
+integrales en el rubro “Diferencia en cambio, neta”. Las pérdidas por deterioro se presentan en una 
+partida separada del estado consolidado de resultados integrales. 
+ 
+ii) Deterioro -  
+ 
+El Grupo evalúa, con una perspectiva de futuro, las pérdidas crediticias esperadas asociadas con 
+instrumentos de deuda medidos a costo amortizado.  La metodología aplicada para determinar el 
+deterioro depende de si el riesgo de crédito de un activo ha experimentado un aumento significativo. 
+ 
+2.7 Inventarios (Notas 9) - 
+ 
+Los inventarios se registran al costo o a su valor neto de realización el que resulte menor. El costo se 
+determina usando el método de costo promedio ponderado; excepto en el caso de los inventarios por 
+recibir, las cuales se presentan al método de identificación especifica. El valor neto de realización es 
+el precio de venta estimado en el curso normal de operaciones, menos los gastos de venta para poner 
+las existencias en condiciones de venta. Asimismo, el Grupo para estimar la desvalorización de los 
+inventarios se base en el análisis específico que realiza la Gerencia sobre su rotación y fecha de 
+vencimiento. Si se identifica que el valor en libros de los inventarios excede su valor neto de 
+realización (o por otra desvalorización identificada), la diferencia se carga a resultados en el periodo 
+en que se determina esta situación en el rubro de “Costo de ventas”. 
+  
+Docusign Envelope ID: 6CB35908-F7E2-4E84-B8B2-D3042E16D21F
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2025_Consolidada_Anual_Copenconsolidado.pdf | PAGINA: 20 | vecina =====
+ 
+- 18 - 
+2.8 Instalaciones, maquinaria y equipo (Notas 10) - 
+ 
+El rubro se presenta al costo de adquisición menos su depreciación acumulada y, si las hubiere, las 
+pérdidas acumuladas por deterioro. 
+ 
+El costo de un elemento de instalaciones, maquinaria y equipo comprende su precio de compra o su 
+costo de fabricación, incluyendo aranceles e impuestos de compra no reembolsables y cualquier costo 
+necesario para poner dicho activo en operación y los costos de financiamiento para los proyectos de 
+construcción a largo plazo, en la medida en que se cumplan los requisitos para su reconocimiento. 
+Durante el 2025 y 2024 el Grupo no ha mantenido activos en proceso de construcción de larga 
+duración. 
+ 
+Cuando los componentes significativos de instalaciones, maquinaria y equipo requieren ser 
+reemplazados, el Grupo dan de baja el componente reemplazado y reconocen el componente nuevo 
+con su correspondiente vida útil y depreciación. 
+ 
+La depreciación es calculada siguiendo el método de línea recta en función de la vida útil estimada del 
+activo. Las vidas útiles estimadas son las siguientes: 
+ 
+  Años 
+    
+Instalaciones y otras construcciones  Entre 1 y 18 
+Maquinaria y equipo  Entre 3 y 25 
+Unidades de transporte  5 
+Muebles y enseres  10 
+Equipos diversos  10 
+Equipos de cómputo  4 
+ 
+Los métodos de depreciación, las vidas útiles y los valores residuales se revisarán a cada fecha de 
+balance y se ajustarán si es necesario. 
+ 
+El desembolso relacionado con una mejora sustancial del activo es reconocido como parte del costo 
+de las instalaciones, maquinaria y equipo, siempre y cuando se cumpla con el criterio de 
+reconocimiento. 
+ 
+Todos los costos de mantenimiento y reparaciones son cargados en el estado consolidado de 
+resultados integrales gastos cuando se incurren. 
+ 
+Una partida de instalaciones, maquinaria y equipo es retirada al momento de su disposición o cuando 
+no se esperan beneficios económicos de su uso o disposición posterior. Cualquier ganancia o pérdida 
+que surja al momento del retiro de las instalaciones, maquinaria y equipo es incluida en el estado 
+consolidado de resultados integrales en el año en que se retira el activo. 
+ 
+El valor en libros de los elementos de instalaciones, maquinaria y equipo se reduce inmediatamente a 
+su valor recuperable si el valor en libros del activo es mayor que el estimado de su valor recuperable 
+de acuerdo con lo descrito en la nota 2.11. 
+ 
+Las obras en curso representan activos en construcción y se registran al costo. Esto incluye el costo 
+de instalaciones e infraestructura y otros costos directos. Las obras en curso no se deprecian hasta 
+que los activos relevantes contribuyan al proceso productivo. 
+  
+Docusign Envelope ID: 6CB35908-F7E2-4E84-B8B2-D3042E16D21F
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2026_Consolidada_TrimestreI2_Consolidado Copen Inversiones.pdf | PAGINA: 8 | vecina =====
+ 
+ 
+ 
+7 
+2.7 Inventarios 
+ 
+Los inventarios se registran al costo o a su valor neto de realización el que resulte menor. El costo se 
+determina usando el método de costo promedio ponderado; excepto en el caso de los inventarios por 
+recibir, las cuales se presentan al método de identificación especifica. El valor neto de realización es el 
+precio de venta estimado en el curso normal de operaciones, menos los gastos de venta para poner 
+las existencias en condiciones de venta. Asimismo, el Grupo para estimar la desvalorización de los 
+inventarios se base en el análisis específico que realiza la Gerencia sobre su rotación y fecha de 
+vencimiento. Si se identifica que el valor en libros de los inventarios excede su valor neto de realización 
+(o por otra desvalorización identificada), la diferencia se carga a resultados en el periodo en que se 
+determina esta situación en el rubro de “Costo de ventas”. 
+ 
+2.8 Instalaciones, maquinaria y equipo 
+ 
+El rubro se presenta al costo de adquisición menos su depreciación acumulada y, si las hubiere, las 
+pérdidas acumuladas por deterioro. 
+El costo de un elemento de instalaciones, maquinaria y equipo comprende su precio de compra o su 
+costo de fabricación, incluyendo aranceles e impuestos de compra no reembolsables y cualquier costo 
+necesario para poner dicho activo en operación y los costos de financiamiento para los proyectos de 
+construcción a largo plazo, en la medida en que se cumplan los requisitos para su reconocimiento. 
+Durante junio del 2026 y Diciembre 2025 el Grupo no ha mantenido activos en proceso de construcción 
+de larga duración. 
+Cuando los componentes significativos de instalaciones, maquinaria y equipo requieren ser 
+reemplazados, el Grupo dan de baja el componente reemplazado y reconocen el componente nuevo 
+con su correspondiente vida útil y depreciación. 
+La depreciación es calculada siguiendo el método de línea recta en función de la vida útil estimada del 
+activo. Las vidas útiles estimadas son las siguientes: 
+ 
+  Años 
+    
+Instalaciones y otras construcciones  Entre 1 y 18 
+Maquinaria y equipo  Entre 3 y 25 
+Unidades de Transporte  5 
+Muebles y enseres  10 
+Equipos diversos  10 
+Equipos de cómputo  4 
+ 
+Los métodos de depreciación, las vidas útiles y los valores residuales se revisarán a cada fecha de 
+balance y se ajustarán si es necesario. 
+El desembolso relacionado con una mejora sustancial del activo es reconocido como parte del costo 
+de las instalaciones, maquinaria y equipo, siempre y cuando se cumpla con el criterio de 
+reconocimiento. 
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2026_Consolidada_TrimestreI2_Consolidado Copen Inversiones.pdf | PAGINA: 9 | puntaje 5 =====
+ 
+ 
+ 
+8 
+Todos los costos de mantenimiento y reparaciones son cargados en el estado consolidado de 
+resultados integrales gastos cuando se incurren. 
+Una partida de instalaciones, maquinaria y equipo es retirada al momento de su disposición o cuando 
+no se esperan beneficios económicos de su uso o disposición posterior. Cualquier ganancia o pérdida 
+que surja al momento del retiro de las instalaciones, maquinaria y equipo es incluida en el estado 
+consolidado de resultados integrales en el año en que se retira el activo. 
+El valor en libros de los elementos de instalaciones, maquinaria y equipo se reduce inmediatamente a 
+su valor recuperable si el valor en libros del activo es mayor que el estimado de su valor recuperable 
+de acuerdo con lo descrito en la nota 2.11. 
+Las obras en curso representan activos en construcción y se registran al costo. Esto incluye el costo de 
+instalaciones e infraestructura y otros costos directos. Las obras en curso no se deprecian hasta que 
+los activos relevantes contribuyan al proceso productivo. 
+ 
+2.9 Arrendamientos  
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por arrendamiento, 
+desde la fecha en que el activo arrendado está disponible para su uso por parte del Grupo. 
+Los activos y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores 
+presentes. Los pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos por 
+arrendamiento: 
+• Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos fijos ‘en 
+sustancia’), menos cualquier saldo por cobrar por incentivos recibidos para iniciar el arrendamiento; 
+• Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales se miden, 
+inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del arrendamiento; 
+• Los importes de cualquier garantía de valor residual, que el Grupo se haya obligado a pagar; 
+• El precio de ejercer opciones de compra, si el Grupo considera que es razonablemente seguro que 
+las ejercerá; y 
+• Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que el Grupo ejercerá esta opción. 
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de arrendamiento 
+del plazo extendido también se incluyen en la medición del pasivo. 
+Los pagos de arrendamiento se descuentan utilizando la tasa de interés implícita en el arrendamiento. 
+Si esa tasa no puede ser determinada de forma simple, se utiliza la tasa incremental de endeudamiento 
+del arrendatario, que representa la tasa que se cargaría al arrendatario para captar los fondos 
+necesarios para adquirir un activo de valor similar al activo subyacente al derecho de uso, en un 
+contexto económico similar y bajo términos similares, en lo referido al plazo, garantías y condiciones. 
+Para determinar la tasa de endeudamiento incremental, el Grupo toma en cuenta los siguientes 
+criterios: 
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2026_Consolidada_TrimestreI2_Consolidado Copen Inversiones.pdf | PAGINA: 10 | vecina =====
+ 
+ 
+ 
+9 
+• En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos. 
+• Cotiza en el mercado en el mercado el producto deseado, revisando la tasa que los diversos bancos 
+nacionales ofrecen, para finalmente optar por la mejor opción, que le permita tener un balance 
+positivo en la inversión a realizar. 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interés periódica y constante aplicada sobre el 
+saldo del pasivo a la fecha de cierre. 
+Los activos por derecho de uso se miden a su costo, el cual incluye: 
+• El valor de la medición inicial del pasivo por arrendamiento. 
+• Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido. 
+• Los costos directos iniciales, y 
+• Los costos de restauración o rehabilitación a los que el Grupo esté obligada a incurrir. 
+Los activos por derecho de uso se deprecian, generalmente, en línea recta en el plazo más corto entre 
+la vida útil del activo arrendado y el plazo del arrendamiento. Si el Grupo considera que es 
+razonablemente seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en el 
+plazo de vida útil del activo subyacente. 
+Excepciones al reconocimiento - 
+El Grupo no reconoce los activos por derecho de uso y pasivos por arrendamiento, para los 
+arrendamientos a corto plazo de bienes que tienen un plazo de arrendamiento de 12 meses o menos 
+y los arrendamientos de activos de bajo valor. El Grupo reconoce los pagos de arrendamiento 
+asociados a estos contratos de arrendamiento como un gasto de forma lineal durante el plazo del 
+arrendamiento. 
+2.10 Activos Intangibles 
+ 
+El rubro se presenta al costo de adquisición menos su amortización acumulada y, si las hubiere, las 
+pérdidas acumuladas por deterioro. 
+El costo de un elemento de activos intangibles adquiridos en combinaciones de negocios es su valor 
+razonable a la fecha de la adquisición. 
+Las vidas útiles de los activos intangibles pueden ser finitas o indefinidas. 
+Los activos intangibles con vidas útiles finitas - 
+ 
+Los activos intangibles con vidas útiles finitas se amortizan a lo largo de su vida útil económica y se 
+evalúan para determinar si tuvieron algún deterioro del valor siempre que exista un indicio de que el 
+activo intangible pudiera haber sufrido dicho deterioro. 
+ 
+La amortización es calculada siguiendo el método de línea recta en función de la vida útil estimada del 
+activo. Las vidas útiles estimadas son las siguientes: 
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2024_Consolidada_Anual_2024 EEFF Copen Inversiones SA.pdf | PAGINA: 17 | vecina =====
+ 
+- 15 - 
+La plusvalía mercantil se mide inicialmente como el exceso de la suma del costo de compra y el valor 
+de la participación no controlante respecto del valor de los activos netos identificables adquiridos y los 
+pasivos asumidos. 
+ 
+Las transacciones, los saldos y las ganancias no realizadas entre compañías del Grupo se eliminan.   
+ 
+Las ganancias y pérdidas que resulten de transacciones entre entidades relacionadas que son 
+reconocidas en activos también son eliminadas. Las políticas contables de las subsidiarias, si fuera 
+necesario, han sido modificadas para asegurar uniformidad con las políticas adoptadas por el Grupo. 
+ 
+2.4 Traducción en moneda extranjera - 
+ 
+Moneda funcional y moneda de presentación - 
+ 
+Las partidas incluidas en los estados financieros de cada una de las compañías del Grupo se 
+expresan en la moneda del ambiente económico primario donde opera cada entidad (moneda 
+funcional).  Los estados financieros consolidados se presentan en Soles (S/), que es la moneda de 
+presentación del Grupo. 
+ 
+Transacciones y saldos - 
+ 
+Las transacciones en moneda extranjera se traducen a la moneda funcional usando los tipos de 
+cambio vigentes a las fechas de las transacciones o de la valuación en los casos de las partidas que 
+son remedidas.  Los tipos de cambio usados corresponden a los publicados por la Superintendencia 
+de Banca, Seguros y AFP. 
+ 
+Las ganancias y pérdidas por diferencias en cambio que resulten del cobro y/o pago de tales 
+transacciones y de la traducción de activos y pasivos monetarios denominados en moneda extranjera 
+al tipo de cambio de cierre del año, se reconocen en el rubro “Diferencia en cambio, neta” del estado 
+consolidado de resultados integrales. 
+ 
+Traslación de los estados financieros de las subsidiarias - 
+ 
+Los registros contables y moneda funcional de las subsidiarias Divertrónica Medellín S.A.S. y Yukids 
+SpA son pesos colombianos y pesos chilenos, respectivamente, los cuales para propósitos de 
+consolidación y presentación han sido trasladados a Soles. 
+ 
+El efecto de traslación de los estados financieros de estas subsidiarias es reconocido como otros 
+resultados integrales en el patrimonio hasta que se disponga estas subsidiarias.  
+ 
+Los saldos de los estados financieros de las subsidiarias cuya moneda funcional es distinta a la 
+moneda de presentación del Grupo fueron convertidos utilizando la metodología establecida en la NIC 
+21, “Efectos de las variaciones en las tasas de cambio de la moneda extranjera”, que se resume a 
+continuación: 
+ 
+• Los saldos de los activos y pasivos han sido convertidos utilizando los tipos de cambio de cierre a 
+la fecha de cada estado consolidado de situación financiera presentado. 
+ 
+• Los ingresos y gastos han sido convertidos utilizando el tipo de cambio promedio mensual que se 
+aproxima a los tipos de cambio de la fecha de registro de dichas transacciones. 
+ 
+• Las diferencias resultantes de la traslación han sido reconocidas como parte de ‘otros resultados 
+integrales’ y presentadas en el estado consolidado de cambios en el patrimonio en la partida de 
+“Efecto de traslación acumulado”. 
+  
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2024_Consolidada_Anual_2024 EEFF Copen Inversiones SA.pdf | PAGINA: 18 | puntaje 5 =====
+ 
+- 16 - 
+2.5 Efectivo y equivalente de efectivo (Nota 7) - 
+ 
+El efectivo y equivalente de efectivo incluyen los fondos fijos, cuentas corrientes y depósitos a plazo 
+en bancos con vencimientos originales de tres meses o menos. 
+ 
+El efectivo y equivalente de efectivo excluye los fondos en cuentas de fideicomiso, puesto que estos 
+no son de libre disponibilidad al estar restringidos. 
+ 
+Las remesas en tránsito no son consideradas como efectivo y equivalente de efectivo ya que la libre 
+disponibilidad de dichos fondos al cierre del ejercicio no es de control del Grupo. 
+ 
+2.6 Activos financieros (Nota 7 y 8) - 
+ 
+i) Clasificación y medición -  
+ 
+El Grupo clasifica sus activos financieros en las siguientes categorías: i) Activos financieros medidos a 
+valor razonable (sea a través de resultados o de otros resultados integrales), y ii) Activos financieros 
+medidos a costo amortizado.  La clasificación depende del modelo de negocio que el Grupo tiene para 
+administrar sus activos financieros y de si los términos contractuales representan únicamente pagos 
+de principal e intereses. 
+ 
+Al 31 de diciembre de 2024 y de 2023, el Grupo solo mantiene activos financieros en la categoría de 
+medición a costo amortizado.  Los activos financieros del Grupo se incluyen en los siguientes rubros 
+del estado de situación financiera: “Efectivo y equivalente de efectivo”, “Cuentas por cobrar 
+Comerciales” y algunas partidas incluidas en “Otras cuentas por cobrar”. 
+ 
+Activos financieros a costo amortizado -  
+ 
+Los activos que se mantienen para el cobro de flujos de efectivo contractuales cuando dichos flujos de 
+efectivo representan únicamente pagos de principal e intereses se miden a costo amortizado.  Los 
+ingresos recibidos de estos activos financieros se incluyen en los ingresos financieros utilizando el 
+método de tasa de interés efectiva.  Cualquier ganancia o pérdida que surja de la baja en cuentas, se 
+reconoce directamente en resultados y se presenta en el rubro “Otros ingresos (gastos)”, la diferencia 
+en cambio, generada, se presenta de forma separada en el estado consolidado de resultados 
+integrales en el rubro “Diferencia en cambio, neta”.  Las pérdidas por deterioro se presentan en una 
+partida separada del estado consolidado de resultados integrales. 
+ 
+ii) Deterioro -  
+ 
+El Grupo evalúa, con una perspectiva de futuro, las pérdidas crediticias esperadas asociadas con 
+instrumentos de deuda medidos a costo amortizado.  La metodología aplicada para determinar el 
+deterioro depende de si el riesgo de crédito de un activo ha experimentado un aumento significativo. 
+ 
+2.7 Inventarios (Notas 9) - 
+ 
+Los inventarios se registran al costo o a su valor neto de realización el que resulte menor. El costo se 
+determina usando el método de costo promedio ponderado; excepto en el caso de los inventarios por 
+recibir, las cuales se presentan al método de identificación especifica. El valor neto de realización es 
+el precio de venta estimado en el curso normal de operaciones, menos los gastos de venta para poner 
+las existencias en condiciones de venta. Asimismo, el Grupo para estimar la desvalorización de los 
+inventarios se base en el análisis específico que realiza la Gerencia sobre su rotación y fecha de 
+vencimiento. Si se identifica que el valor en libros de los inventarios excede su valor neto de 
+realización (o por otra desvalorización identificada), la diferencia se carga a resultados en el periodo 
+en que se determina esta situación en el rubro de costo de ventas. 
+  
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2024_Consolidada_Anual_2024 EEFF Copen Inversiones SA.pdf | PAGINA: 19 | vecina =====
+ 
+- 17 - 
+2.8 Instalaciones, maquinaria y equipo (Notas 10) - 
+ 
+El rubro se presenta al costo de adquisición menos su depreciación acumulada y, si las hubiere, las 
+pérdidas acumuladas por deterioro. 
+ 
+El costo de un elemento de instalaciones, maquinaria y equipo comprende su precio de compra o su 
+costo de fabricación, incluyendo aranceles e impuestos de compra no reembolsables y cualquier costo 
+necesario para poner dicho activo en operación y los costos de financiamiento para los proyectos de 
+construcción a largo plazo, en la medida en que se cumplan los requisitos para su reconocimiento. 
+Durante el 2024 y 2023 el Grupo no ha mantenido activos en proceso de construcción de larga 
+duración. 
+ 
+Cuando los componentes significativos de instalaciones, maquinaria y equipo requieren ser 
+reemplazados, el Grupo dan de baja el componente reemplazado y reconocen el componente nuevo 
+con su correspondiente vida útil y depreciación. 
+ 
+La depreciación es calculada siguiendo el método de línea recta en función de la vida útil estimada del 
+activo. Las vidas útiles estimadas son las siguientes: 
+ 
+  Años 
+    
+Instalaciones y otras construcciones  Entre 1 y 18 
+Maquinaria y equipo  Entre 3 y 25 
+Unidades de Transporte  5 
+Muebles y enseres  10 
+Equipos diversos  10 
+Equipos de cómputo  4 
+ 
+Los métodos de depreciación, las vidas útiles y los valores residuales se revisarán a cada fecha de 
+balance y se ajustarán si es necesario. 
+ 
+El desembolso relacionado con una mejora sustancial del activo es reconocido como parte del costo 
+de las instalaciones, maquinaria y equipo, siempre y cuando se cumpla con el criterio de 
+reconocimiento. 
+ 
+Todos los costos de mantenimiento y reparaciones son cargados en el estado consolidado de 
+resultados integrales gastos cuando se incurren. 
+ 
+Una partida de instalaciones, maquinaria y equipo es retirada al momento de su disposición o cuando 
+no se esperan beneficios económicos de su uso o disposición posterior. Cualquier ganancia o pérdida 
+que surja al momento del retiro de las instalaciones, maquinaria y equipo es incluida en el estado 
+consolidado de resultados integrales en el año en que se retira el activo. 
+ 
+El valor en libros de los elementos de instalaciones, maquinaria y equipo se reduce inmediatamente a 
+su valor recuperable si el valor en libros del activo es mayor que el estimado de su valor recuperable 
+de acuerdo con lo descrito en la nota 2.11. 
+ 
+Las obras en curso representan activos en construcción y se registran al costo. Esto incluye el costo 
+de instalaciones e infraestructura y otros costos directos. Las obras en curso no se deprecian hasta 
+que los activos relevantes contribuyan al proceso productivo. 
+  
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2026_Consolidada_TrimestreI3_Consolidado Copen.pdf | PAGINA: 8 | vecina =====
+ 
+ 
+ 
+7 
+2.7 Inventarios 
+ 
+Los inventarios se registran al costo o a su valor neto de realización el que resulte menor. El costo se 
+determina usando el método de costo promedio ponderado; excepto en el caso de los inventarios por 
+recibir, las cuales se presentan al método de identificación especifica. El valor neto de realización es el 
+precio de venta estimado en el curso normal de operaciones, menos los gastos de venta para poner 
+las existencias en condiciones de venta. Asimismo, el Grupo para estimar la desvalorización de los 
+inventarios se base en el análisis específico que realiza la Gerencia sobre su rotación y fecha de 
+vencimiento. Si se identifica que el valor en libros de los inventarios excede su valor neto de realización 
+(o por otra desvalorización identificada), la diferenc ia se carga a resultados en el periodo en que se 
+determina esta situación en el rubro de “Costo de ventas”. 
+ 
+2.8 Instalaciones, maquinaria y equipo 
+ 
+El rubro se presenta al costo de adquisición menos su depreciación acumulada y, si las hubiere, las 
+pérdidas acumuladas por deterioro. 
+El costo de un elemento de instalaciones, maquinaria y equipo comprende su precio de compra o su 
+costo de fabricación, incluyendo aranceles e impuestos de compra no reembolsables y cualquier costo 
+necesario para poner dicho activo en operación y los costos  de financiamiento para los proyectos de 
+construcción a largo plazo, en la medida en que se cumplan los requisitos para su reconocimiento. 
+Durante setiembre del 2026 y Diciembre 2025 el Grupo no ha mantenido activos en proceso de 
+construcción de larga duración. 
+Cuando los componentes significativos de instalaciones, maquinaria y equipo requieren ser 
+reemplazados, el Grupo dan de baja el componente reemplazado y reconocen el componente nuevo 
+con su correspondiente vida útil y depreciación. 
+La depreciación es calculada siguiendo el método de línea recta en función de la vida útil estimada del 
+activo. Las vidas útiles estimadas son las siguientes: 
+ 
+  Años 
+    
+Instalaciones y otras construcciones  Entre 1 y 18 
+Maquinaria y equipo  Entre 3 y 25 
+Unidades de Transporte  5 
+Muebles y enseres  10 
+Equipos diversos  10 
+Equipos de cómputo  4 
+ 
+Los métodos de depreciación, las vidas útiles y los valores residuales se revisarán a cada fecha de 
+balance y se ajustarán si es necesario. 
+El desembolso relacionado con una mejora sustancial del activo es reconocido como parte del costo 
+de las instalaciones, maquinaria y equipo, siempre y cuando se cumpla con el criterio de 
+reconocimiento. 
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2026_Consolidada_TrimestreI3_Consolidado Copen.pdf | PAGINA: 9 | puntaje 5 =====
+ 
+ 
+ 
+8 
+Todos los costos de mantenimiento y reparaciones son cargados en el estado consolidado de 
+resultados integrales gastos cuando se incurren. 
+Una partida de instalaciones, maquinaria y equipo es retirada al momento de su disposición o cuando 
+no se esperan beneficios económicos de su uso o disposición posterior. Cualquier ganancia o pérdida 
+que surja al momento del retiro de las instalaciones, maquinaria y equipo es incluida en el estado 
+consolidado de resultados integrales en el año en que se retira el activo. 
+El valor en libros de los elementos de instalaciones, maquinaria y equipo se reduce inmediatamente a 
+su valor recuperable si el valor en libros del activo es mayor que el estimado de su valor recuperable 
+de acuerdo con lo descrito en la nota 2.11. 
+Las obras en curso representan activos en construcción y se registran al costo. Esto incluye el costo de 
+instalaciones e infraestructura y otros costos directos. Las obras en curso no se deprecian hasta que 
+los activos relevantes contribuyan al proceso productivo. 
+ 
+2.9 Arrendamientos  
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por arrendamiento, 
+desde la fecha en que el activo arrendado está disponible para su uso por parte del Grupo. 
+Los activos y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores 
+presentes. Los pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos por 
+arrendamiento: 
+• Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos fijos ‘en 
+sustancia’), menos cualquier saldo por cobrar por incentivos recibidos para iniciar el arrendamiento; 
+• Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales se miden, 
+inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del arrendamiento; 
+• Los importes de cualquier garantía de valor residual, que el Grupo se haya obligado a pagar; 
+• El precio de ejercer opciones de compra, si el Grupo considera que es razonablemente seguro que 
+las ejercerá; y 
+• Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que el Grupo ejercerá esta opción. 
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de arrendamiento 
+del plazo extendido también se incluyen en la medición del pasivo. 
+Los pagos de arrendamiento se descuentan utilizando la tasa de interés implícita en el arrendamiento. 
+Si esa tasa no puede ser determinada de forma simple, se utiliza la tasa incremental de endeudamiento 
+del arrendatario, que representa la tasa que se cargaría al arrendatario para captar los fondos 
+necesarios para adquirir un activo de valor similar al act ivo subyacente al derecho de uso, en un 
+contexto económico similar y bajo términos similares, en lo referido al plazo, garantías y condiciones. 
+Para determinar la tasa de endeudamiento incremental, el Grupo toma en cuenta los siguientes 
+criterios: 
+
+===== ARCHIVO: EEFFDD-COPEN INVERSIONES S.A.-Consolidado.zip/2026_Consolidada_TrimestreI3_Consolidado Copen.pdf | PAGINA: 10 | vecina =====
+ 
+ 
+ 
+9 
+• En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos. 
+• Cotiza en el mercado en el mercado el producto deseado, revisando la tasa que los diversos bancos 
+nacionales ofrecen, para finalmente optar por la mejor opción, que le permita tener un balance 
+positivo en la inversión a realizar. 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interé s periódica y constante aplicada sobre el 
+saldo del pasivo a la fecha de cierre. 
+Los activos por derecho de uso se miden a su costo, el cual incluye: 
+• El valor de la medición inicial del pasivo por arrendamiento. 
+• Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido. 
+• Los costos directos iniciales, y 
+• Los costos de restauración o rehabilitación a los que el Grupo esté obligada a incurrir. 
+Los activos por derecho de uso se deprecian, generalmente, en línea recta en el plazo más corto entre 
+la vida útil del activo arrendado y el plazo del arrendamiento. Si el Grupo considera que es 
+razonablemente seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en el 
+plazo de vida útil del activo subyacente. 
+Excepciones al reconocimiento - 
+El Grupo no reconoce los activos por derecho de uso y pasivos por arrendamiento, para los 
+arrendamientos a corto plazo de bienes que tienen un plazo de arrendamiento de 12 meses o menos 
+y los arrendamientos de activos de bajo valor. El Grupo reconoce los p agos de arrendamiento 
+asociados a estos contratos de arrendamiento como un gasto de forma lineal durante el plazo del 
+arrendamiento. 
+2.10 Activos Intangibles 
+ 
+El rubro se presenta al costo de adquisición menos su amortización acumulada y, si las hubiere, las 
+pérdidas acumuladas por deterioro. 
+El costo de un elemento de activos intangibles adquiridos en combinaciones de negocios es su valor 
+razonable a la fecha de la adquisición. 
+Las vidas útiles de los activos intangibles pueden ser finitas o indefinidas. 
+Los activos intangibles con vidas útiles finitas - 
+ 
+Los activos intangibles con vidas útiles finitas se amortizan a lo largo de su vida útil económica y se 
+evalúan para determinar si tuvieron algún deterioro del valor siempre que exista un indicio de que el 
+activo intangible pudiera haber sufrido dicho deterioro. 
+ 
+La amortización es calculada siguiendo el método de línea recta en función de la vida útil estimada del 
+activo. Las vidas útiles estimadas son las siguientes: 

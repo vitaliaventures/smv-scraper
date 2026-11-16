@@ -1,0 +1,1245 @@
+EMPRESA: INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+Cuando un pasivo financiero existente es reemplazado por otro pasivo proveniente 
+del mismo prestamista bajo condiciones sustancialmente diferentes, o si las 
+condiciones de un pasivo existente se modifican de manera sustancial, tal permuta 
+o modificación se trata como una baja del pasivo original y el reconocimiento de un 
+nuevo pasivo, y la diferencia entre los importes respectivos en libros se reconoce 
+en el estado de resultados integrales. 
+ 
+ (iii) Compensación de instrumentos financieros - 
+Los activos financieros y los pasivos financieros se compensan de manera que se 
+informa el importe neto en el estado de situación financiera, solamente si existe un 
+derecho actual legalmente exigible de compensar los importes reconocidos, y 
+existe la intención de liquidarlos por el importe neto, o de realizar los activos y 
+cancelar los pasivos en forma simultánea. 
+ 
+Al 31 de diciembre de 2019 y de 2018, la Compañía no presenta ningún activo o 
+pasivo financiero por un monto neto; ni presenta importes brutos sujetos a 
+derechos de compensación.  
+ 
+(iv) Valor razonable - 
+La Compañía mide sus instrumentos financieros, tales como derivados implícitos, 
+instrumentos financieros de cobertura, sus activos financieros con cambios en 
+otros resultados y activos financieros al valor razonable con cambios en resultados 
+a la fecha del estado de situación financiera cuyo efecto se verá reflejado en el 
+estado de resultados integrales. Los valores razonables de los instrumentos 
+financieros medidos por su costo amortizado se revelan en la nota 25. 
+ 
+La Compañía usa técnicas de valuación que son apropiadas en las circunstancias y 
+por las cuales tiene suficiente información disponible para medir al valor razonable, 
+maximizando el uso de datos observables relevantes y minimizando el uso de datos 
+no observables. 
+ 
+Todos los activos y pasivos que se registran al valor razonable o por los cuales se 
+revelan valores razonables en los estados financieros son clasificados dentro de la 
+jerarquía de valor razonable, descritas a continuación: 
+ 
+- Nivel 1 - Precios cotizados (no ajustados) en mercados activos para activos 
+o pasivos idénticos. 
+- Nivel 2 - Técnicas de valorización por las cuales el nivel más bajo de 
+información, que es significativo para la medición al valor razonable es 
+directa o indirectamente observable. 
+- Nivel 3 - Técnicas de valorización por las cuales el nivel más bajo de 
+información, que es significativo para la medición al valor razonable no es 
+observable. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 17 | puntaje 5 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+9 
+Para propósitos de las revelaciones del valor razonable, la Compañía ha 
+determinado clases de activos y pasivos sobre la base de su naturaleza, 
+características y riesgos del activo o pasivo y el nivel de la jerarquía de valor 
+razonable tal como se explicó anteriormente. 
+ 
+ (c) Efectivo y equivalentes de efectivo – 
+Para fines del estado de flujos de efectivo, el efectivo y equivalentes de efectivo 
+corresponden a caja y cuentas corrientes todas ellas registradas en el estado de situación 
+financiera.  Dichas cuentas no están sujetas a un riesgo significativo de cambios en su 
+valor. 
+ 
+(d) Inventarios – 
+Los inventarios, incluyendo los productos terminados y en proceso, materia prima y 
+suministros diversos y existencias por recibir, están valuados al costo o al valor neto de 
+realización, el menor; después de considerar la estimación para desvalorización de 
+inventarios obsoletos.   
+ 
+Los costos incurridos para llevar cada producto a su ubicación actual y darle su condición 
+actual se contabilizan de la siguiente manera: 
+ 
+- Materia prima: al costo de adquisición según el método del costo promedio.  
+- Productos terminados y en proceso: al costo de los materiales y la mano de obra 
+directa, más una proporción de los costos fijos de fabricación, basada en la 
+capacidad normal de operación, excluyendo los costos por préstamos. 
+- Inventarios por recibir: según el método del costo específico para efectuar la venta. 
+ 
+El valor neto de realización es el precio de venta en el curso normal del negocio, menos los 
+costos necesarios, para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución relacionados. 
+ 
+La estimación por desvalorización en el valor de realización es calculada sobre la base de 
+un análisis específico que realiza anualmente la Gerencia y cualquier efecto es registrado 
+en el estado de resultados integrales en el ejercicio en el cual se determina. 
+ 
+(e) Propiedades, planta y equipo – 
+Las partidas de la cuenta propiedades, planta y equipo se registran al costo menos su 
+depreciación acumulada y, si las hubiere, las pérdidas acumuladas por deterioro.  El costo 
+de un elemento de propiedades, planta y equipo comprende su precio de compra e incluye 
+los desembolsos directamente atribuibles a la adquisición de estas partidas. 
+ 
+El costo histórico de adquisición incluye los gastos que son directamente atribuibles a la 
+adquisición de los activos.  Los costos de mantenimiento y reparación se cargan a 
+resultados, toda renovación y mejora significativa se capitaliza únicamente cuando es 
+probable que se produzcan beneficios económicos futuros que excedan el rendimiento 
+estándar originalmente evaluado para el activo. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 18 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+10 
+Para los componentes significativos de propiedades, planta y equipo que deben ser 
+reemplazados periódicamente, la Compañía da de baja el componente reemplazado y 
+reconoce el componente nuevo con su correspondiente vida útil y depreciación.  Del 
+mismo modo, cuando se efectúa una inspección de gran envergadura, el costo de la misma 
+se reconoce como un reemplazo en la medida en que se cumplan los requisitos para su 
+reconocimiento.  Todos los demás costos rutinarios de reparación y mantenimiento se 
+reconocen como gasto en el estado de resultados integrales a medida que se incurren.  El 
+valor presente del costo estimado para el desmantelamiento del activo después de su uso 
+se incluye en el costo de ese activo, en la medida en que se cumplan los requisitos para el 
+reconocimiento de la provisión respectiva. 
+ 
+Los trabajos en curso se capitalizan como un componente separado de propiedades, 
+planta y equipo y, al término de su construcción, se transfieren a la categoría pertinente.  
+Los trabajos en curso y los terrenos no se deprecian.  La depreciación de los demás bienes 
+se calcula siguiendo el método de línea recta en función de la vida útil estimada de los 
+activos. La depreciación anual se reconoce como gasto o costo de otro activo. Las tasas 
+utilizadas para el cálculo de la depreciación anual son las siguientes: 
+ 
+ Años 
+  
+Edificios y otras construcciones  Entre 10 y 48 
+Maquinaria y equipo Entre 4 y 25 
+Unidades de transporte Entre 2 y 20 
+Muebles y enseres    Entre 4 y 10 
+ 
+Las estimaciones de los valores residuales, las vidas útiles y el método de depreciación de 
+los activos se revisan y ajustan a la fecha de cierre de cada ejercicio para asegurar que el 
+método y el período de depreciación sean consistentes con el patrón previsto de 
+beneficios económicos de las partidas de propiedades, planta y equipo. 
+ 
+El valor en libros de una partida de propiedades, planta y equipo se castiga 
+inmediatamente a su valor recuperable si el valor en libros es mayor que el estimado de su 
+valor recuperable.   
+ 
+Una partida del rubro propiedades, planta y equipo y cualquier parte significativa se dan 
+de baja al momento de su venta o cuando no se espera obtener beneficios económicos 
+futuros de su uso o venta. Cualquier ganancia o pérdida en el momento de dar de baja el 
+activo (calculada como la diferencia entre el ingreso neto procedente de la venta del 
+activo y su importe en libros) se incluye en el estado de resultados integrales cuando se da 
+de baja el activo. 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan 
+como costo adicional de este activo cuando es probable que tales desembolsos resulten en 
+beneficios económicos futuros superiores al rendimiento normal evaluado originalmente 
+para dicho activo. Los desembolsos para mantenimiento y reparaciones se reconocen 
+como gasto del ejercicio en que son incurridos.  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 41 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+33 
+16. Situación tributaria 
+(a) Marco tributario del Perú 
+La Compañía está sujeta al régimen tributario peruano.  
+ 
+Mediante Decreto Legislativo N° 1261 publicado el 10 de diciembre de 2016, el Gobierno 
+Peruano introdujo ciertas modificaciones a la Ley del Impuesto a la Renta, vigentes a partir del 1 
+de enero de 2017. Las más relevantes se presentan a continuación: 
+ 
+- Se fija una tasa de impuesto a la renta de 29.5 por ciento.  
+- Se establece una tasa de 5 por ciento del impuesto a la renta a los dividendos o cualquier 
+otra forma de distribución de utilidades. Se considerará la tasa aplicable a los dividendos 
+teniendo en cuenta el ejercicio en que los resultados o utilidades que formen parte de la 
+distribución hayan sido obtenidos, de acuerdo con lo siguiente: 4.1 por ciento respecto a 
+los resultados obtenidos hasta el 31 de diciembre de 2014; 6.8 por ciento respecto a los 
+resultados obtenidos durante los años 2015 y 2016; y 5 por ciento respecto a los 
+resultados obtenidos a partir del 1 de enero de 2017. 
+ 
+En julio 2018 se publicó la Ley 30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera. En este 
+sentido, las principales normas tributarias emitidas fueron las siguientes: 
+ 
+(i) Se modificó a partir del 1 de enero de 2019 el tratamiento aplicable a las regalías y 
+retribuciones por servicios prestados por no domiciliados, eliminando la obligación de 
+abonar el monto equivalente a la retención con motivo del registro contable del costo o 
+gasto, debiendo ahora retenerse el impuesto a la renta con motivo del pago o acreditación 
+de la retribución (Decreto Legislativo N°1369). 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+N°1372). Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo a lo establecido en el artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país. La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten con 
+una sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural 
+o jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado 
+en el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación será cumplida mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa, que deberá contener la información del beneficiario final 
+y ser presentada, de acuerdo con las normas reglamentarias y en los plazos que se 
+establezcan mediante Resolución de Superintendencia de la SUNAT. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 42 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+34 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma antielusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo N°1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por la 
+Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que 
+tengan Directorio, corresponde a este órgano societario definir la estrategia tributaria de 
+la entidad debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones 
+económicas a realizarse en el marco de la planificación fiscal, siendo esta facultad 
+indelegable. Los actos, situaciones y relaciones económicas realizados en el marco de 
+planificaciones fiscales e implementados a la fecha de entrada en vigencia del Decreto 
+Legislativo N°1422 (14 de septiembre del 2018) y que sigan teniendo efectos, deben ser 
+evaluados por el Directorio de la persona jurídica para efecto de su ratificación o 
+modificación hasta el 29 de marzo de 2019, sin perjuicio de que la Gerencia u otros 
+administradores de la sociedad hubieran aprobado en su momento los referidos actos, 
+situaciones y relaciones económicas. 
+ 
+Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recaracterización de los supuestos de elusión tributaria, se producirá en los 
+procedimientos de fiscalización definitiva en los que se revisen actos, hechos o situaciones 
+producidos desde el 19 de julio de 2012. 
+ 
+(iv) Se incluyeron modificaciones a la Ley del Impuesto a la Renta, con vigencia a partir del 1 
+de enero de 2019, para perfeccionar el tratamiento fiscal aplicable a (Decreto Legislativo 
+N°1424): 
+ 
+- Las rentas obtenidas por la enajenación indirecta de acciones o participaciones 
+representativas del capital de personas jurídicas domiciliadas en el país. Entre los 
+cambios más relevantes, se encuentra la inclusión de un nuevo supuesto de 
+enajenación indirecta, que se configura cuando el importe total de las acciones de 
+la persona jurídica domiciliada cuya enajenación indirecta se realice sea igual o 
+mayor a 40,000 UIT. 
+ 
+- Los establecimientos permanentes de empresas unipersonales, sociedades y 
+entidades de cualquier naturaleza constituidas en el exterior. A tal efecto, se han 
+incluido nuevos supuestos de establecimiento permanente, entre ellos, cuando se 
+produzca la prestación de servicios en el país, respecto de un mismo proyecto, 
+servicio o para uno relacionado, por un período que en total exceda de 183 días 
+calendario dentro de un período cualquiera de doce meses. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 43 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+35 
+- El régimen de créditos contra el Impuesto a la Renta por impuestos pagados en el 
+exterior, para incorporar al crédito indirecto (impuesto corporativo pagado por 
+subsidiarias del exterior) como crédito aplicable contra el Impuesto a la Renta de 
+personas jurídicas domiciliadas, a fin de evitar la doble imposición económica. 
+ 
+- La deducción de gastos por intereses para la determinación del Impuesto a la Renta 
+empresarial. A tal efecto, se establecieron límites tanto a préstamos con partes 
+vinculadas, como a préstamos con terceros contraídos a partir del 14 de setiembre 
+de 2018 sobre la base del patrimonio y EBITDA. 
+ 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a 
+partir del 1 de enero de 2019 (Decreto Legislativo No 1425). Hasta el año 2018 no se 
+contaba con una definición normativa de este concepto, por lo que en muchos casos se 
+recurría a las normas contables para su interpretación. En términos generales, con el 
+nuevo criterio, para fines de la determinación del Impuesto a la Renta ahora importa si se 
+han producido los hechos sustanciales para la generación del ingreso o gasto acordados 
+por las partes, que no estén sujetos a una condición suspensiva, en cuyo caso el 
+reconocimiento se dará cuando ésta se cumpla y no se tendrá en cuenta la oportunidad de 
+cobro o pago establecida. 
+ 
+(vi) Mediante el Decreto Legislativo N° 1425, que modifica la Ley del Impuesto a la Renta se 
+han establecido que en el caso de los Instrumentos Financieros Derivados que consideran 
+consideren como elemento subyacente exclusivamente el tipo de cambio de una moneda 
+extranjera, las rentas y pérdidas se imputan al cierre de cada ejercicio gravable aun 
+cuando la fecha de vencimiento del contrato corresponda a un ejercicio posterior.  
+ 
+(b) Años abiertos para revisión fiscal - 
+Para propósito de la determinación del Impuesto a las Ganancias e Impuesto General a las 
+Ventas, las autoridades tributarias tienen la facultad de revisar y, de ser aplicable, corregir el 
+Impuesto a las ganancias calculado por la Compañía en los cuatro años posteriores al año de 
+presentación de la declaración jurada de impuestos. Las declaraciones juradas del impuesto a las 
+ganancias y del impuesto general a las ventas de los años 2015 al 2019 se encuentran 
+pendientes de fiscalización por parte de la Autoridad Tributaria en el Perú.  
+ 
+Debido a las posibles interpretaciones que las autoridades tributarias pueden dar a las normas 
+legales vigentes, no es posible determinar si de las revisiones que se realicen resultarán o no 
+pasivos para la Compañía, por lo que cualquier mayor impuesto o recargo que pudiera surgir de 
+eventuales revisiones fiscales sería aplicado a los resultados del año en el cual éste sea 
+determinado. En opinión de la Gerencia de la Compañía, cualquier eventual liquidación adicional 
+de impuestos en las entidades mencionadas en el cuadro anterior, no tendría efectos 
+significativos en los estados financieros al 31 de diciembre de 2019 y de 2018. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 45 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+37 
+18. Costo de ventas 
+(a) A continuación se presenta la composición del rubro:  
+ 
+ 2019 2018 
+ US$(000) US$(000) 
+  Reexpresado 
+Saldo inicial de productos terminados, nota 6 11,466 8,541 
+Saldo inicial de productos en proceso, nota 6 3,983 4,140  __________ __________ 
+ 15,449 12,681  __________ __________
+Consumo de materia prima:
+Saldo inicial, nota 6 9,977 3,772 
+Compra de materia prima 87,192 137,012 
+Saldo final, nota 6                                                   (7,062) (9,977) __________ __________ 
+ 90,107 130,807  __________ __________    
+Suministros diversos 2,796 3,625 
+Depreciación por propiedades, planta y equipo, nota 7(c) 1,172 1,102 
+Depreciación por activo por derecho de uso, nota 9(b) 414 411 
+Gasto de personal 1,388 1,831 
+Gastos de fabricación  6,505 7,334 
+Provisión por desvalorización de inventarios, nota 6(d) 163 - 
+Restitución de derechos arancelarios (b) (1,976) (3,315)  __________ __________ 
+ 10,462 10,988  __________ __________    
+Saldo final de productos terminados, nota 6 (6,664) (11,466) 
+Saldo final de productos en proceso, nota 6 (2,070) (3,983)  __________ __________ 
+ (8,734) (15,449)  __________ __________    
+ 107,284 139,027  __________ __________ 
+ 
+(b) El valor de restitución simplificada de derechos arancelarios Ad-Valorem corresponde al 
+acogimiento según Decreto Supremo No.104-95-EF y sus normas modificatorias, que es aplicable 
+a las empresas productoras-exportadoras. El menor costo es reconocido en el momento que la 
+Administración Tributaria informa a la Compañía que la solicitud presentada ha sido aprobada. 
+Para efecto del cálculo del Impuesto a la renta corriente la devolución de estos derechos 
+arancelarios está inafecta. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 46 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+38 
+19. Gastos de venta 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ US$(000) US$(000) 
+  Reexpresado 
+Servicios prestados por terceros (b) 2,794 3,263 
+Gastos de personal 914 872 
+Cargas diversas de gestión 467 434 
+Depreciación por activo por derecho de uso, nota 9(b) 66 65 
+Depreciación por propiedades, planta y equipo, nota 7(c) 7 8 
+Tributos 8 8  ____________ ____________    
+ 4,256 4,650  ____________ ____________ 
+ 
+(b) Corresponde principalmente a servicios logísticos, gastos de embarque, gastos de 
+comercialización al exterior, gastos de aduanas, comisiones del exterior, entre otros. 
+ 
+20. Gastos administrativos 
+A continuación se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ US$(000) US$(000) 
+  Reexpresado 
+Gastos de personal 2,380 2,424 
+Servicios prestados por terceros 358 355 
+Cargas diversas de gestión 168 195 
+Depreciación por propiedades, planta y equipo, nota 7(c) 143 140 
+Depreciación por activo por derecho de uso, nota 9(b) 51 51 
+Tributos 25 25  ____________ ____________    
+ 3,125 3,190  ____________ ____________ 
+ 
+21. Otros ingresos (gastos) 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ US$(000) US$(000) 
+  Reexpresado 
+Ingresos:   
+Extorno de provisión de derechos arancelarios (b) 646 - 
+Indemnización por siniestro 148 11 
+Alquiler de inmueble, nota 8 106 106 
+Ingreso por diferencia en precio de Metal 86 225 
+Enajenación por venta de vehículos 4 - 
+Otros 111 67   __________ __________    
+ 1,101 409  __________ __________ 
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2019_Individual_Anual_Auditado IEQSA 2019.pdf | PAGINA: 47 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+39 
+(b) El Tribunal Fiscal mediante la Resolución N°09231-A-2017 notificada el 27 de diciembre de 
+2017, resolvió que se devuelva a la Administración Aduanera el monto de S/2,363,053 
+(equivalente a US$699,335) por el supuesto acogimiento indebido del Régimen de Restitución de 
+Derechos Arancelarios del año 2009, especificando la no aplicación de multa ni de intereses. La 
+Administración Aduanera determinó que se había aplicado incorrectamente las Subpartida 
+Nacional 7905.00.00.91 y 7905.00.00.99, en lugar de la Subpartida Nacional 7905.00.00.12 a 
+la mercancía exportada y que, a consecuencia de ello, la mercancía en cuestión superaba el límite 
+de los US$20,000,000 que establece el artículo 3 del Reglamento del Procedimiento de 
+Restitución de Derechos Arancelarios, aprobado por Decreto Supremo N°104-95-WF. Con fecha 
+22 de marzo de 2018 se interpuso ante el Poder Judicial una demanda de nulidad del acto 
+administrativo. Este proceso aún no ha sido resuelto. 
+ 
+El Tribunal Fiscal mediante la Resolución N°02209-A-2018 notificada el 15 de mayo de 2018, 
+resuelve que se reembolse  a la Administración Aduanera lo indebidamente restituido  en las 
+solicitudes de Restitución de Derechos Arancelarios del año 2010 , que inicialmente la Aduana 
+estimó el monto de S/2,764,237 (equivalente a US$818,063), el Tribunal Fiscal ordenó a la 
+Administración Aduanera re-liquide la deuda de aquellas solicitudes de Restitución de Derechos 
+Arancelarios que se refieran a exportaciones de discos de zinc y a la vez, a exportaciones de 
+hexágonos de zinc. 
+ 
+El Tribunal Fiscal mediante la Resolución N°02218-A-2018 notificada el 15 de mayo de 2018, 
+resuelve que se reembolse  a la Administración Aduanera lo indebidamente restituido  en las 
+solicitudes de Restitución de Derechos Arancelarios del año 2011 , que inicialmente la Aduana 
+estimó el monto de S/2,765,587 (equivalente a US$818,463), el Tribunal Fiscal ha ordenado a la 
+Administración Aduanera re-liquide la deuda de aquellas solicitudes de Restitución de Derechos 
+Arancelarios que se refieran a exportaciones de discos de zinc y a la vez, a exportaciones de 
+hexágonos de zinc. 
+ 
+La Gerencia de la Compañía en aplicación de su política contable descrita en el párrafo 2.3(k) por 
+la complejidad del proceso, decidió registrar en el año 2017 una provisión por esta contingencia 
+tributaria cuyo saldo al 31 de diciembre de 2018 ascendía a US$2,336,000 (ver nota 12). 
+ 
+Durante el año 2019 la Gerencia de la Compañía presentó recursos de queja ante el Tribunal 
+Fiscal por las solicitudes de Restitución de Derechos Arancelarios cuestionados por la 
+Administración Aduanera de los años 2010 y 2011, en contra de las resoluciones de cobranza 
+coactiva por esta autoridad. A través de estos recursos de queja, la Gerencia de la Compañía 
+solicitó dejar sin efecto parte de estas cobranzas coactivas debido a la prescripción de una parte 
+de las Solicitudes de Restitución de Derechos Arancelarios emitidas por la Administración 
+Aduanera. El Tribunal Fiscal mediante Expedientes: 9748-2019 y 9320-2019 declaró fundados 
+los recursos de queja presentados por la Compañía y confirmar la prescripción de parte de las 
+Solicitudes de Restitución de Derechos Arancelarios de los años 2010 y 2011. Por aquellas 
+solicitudes no prescritas, la Compañía efectuó el pago de las mismas por un monto de 
+US$1,404,000 (equivalente a S/4,656,000). El importe de las resoluciones prescritas de los 
+años 2010 y 2011, cuyo desembolso había sido provisionado en la cuenta “Provisión por 
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2025_Individual_Anual_Notas a los EEFF 2025-2024.pdf | PAGINA: 19 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+Cuando un pasivo financiero existente es reemplazado por otro pasivo proveniente 
+del mismo prestamista bajo condiciones sustancialmente diferentes, o si las 
+condiciones de un pasivo existente se modifican de manera sustancial, tal permuta 
+o modificación se trata como una baja del pasivo original y el reconocimiento de un 
+nuevo pasivo, y la diferencia entre los importes respectivos en libros se reconoce 
+en el estado de resultados integrales. 
+ 
+(iii) Compensación de instrumentos financieros - 
+Los activos y los pasivos financieros se compensan de manera que se informa el 
+importe neto en el estado de situación financiera, solamente si existe un derecho 
+actual legalmente exigible de compensar los importes reconocidos, y existe la 
+intención de liquidarlos por el importe neto, o de realizar los activos y cancelar los 
+pasivos en forma simultánea. 
+ 
+Al 31 de diciembre de 2025 y de 2024, la Compañía no presenta ningún activo o 
+pasivo financiero por un monto neto; ni presenta importes brutos sujetos a 
+derechos de compensación.  
+ 
+(iv) Valor razonable - 
+La Compañía mide sus instrumentos financieros, tales como derivados implícitos, 
+instrumentos financieros de cobertura, sus activos financieros con cambios en 
+otros resultados y activos financieros al valor razonable con cambios en resultados 
+a la fecha del estado de situación financiera cuyo efecto se verá reflejado en el 
+estado de resultados integrales. Los valores razonables de los instrumentos 
+financieros medidos por su costo amortizado se revelan en la nota 25. 
+ 
+La Compañía usa técnicas de valuación que son apropiadas en las circunstancias y 
+por las cuales tiene suficiente información disponible para medir al valor razonable, 
+maximizando el uso de datos observables relevantes y minimizando el uso de datos 
+no observables. 
+ 
+Todos los activos y pasivos que se registran al valor razonable o por los cuales se 
+revelan valores razonables en los estados financieros son clasificados dentro de la 
+jerarquía de valor razonable, descritas a continuación: 
+ 
+- Nivel 1 - Precios cotizados (no ajustados) en mercados activos para activos 
+o pasivos idénticos. 
+- Nivel 2 - Técnicas de valorización por las cuales el nivel más bajo de 
+información, que es significativo para la medición al valor razonable es 
+directa o indirectamente observable. 
+- Nivel 3 - Técnicas de valorización por las cuales el nivel más bajo de 
+información, que es significativo para la medición al valor razonable no es 
+observable. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2025_Individual_Anual_Notas a los EEFF 2025-2024.pdf | PAGINA: 20 | puntaje 5 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+Para propósitos de las revelaciones del valor razonable, la Compañía ha 
+determinado clases de activos y pasivos sobre la base de su naturaleza, 
+características y riesgos del activo o pasivo y el nivel de la jerarquía de valor 
+razonable tal como se explicó anteriormente. 
+ 
+(c) Efectivo y equivalentes de efectivo, ver nota 3(a) – 
+Para fines del estado de flujos de efectivo, el efectivo y equivalentes de efectivo 
+corresponden a caja, cuentas corrientes y depósitos a plazo con vencimientos menores a 
+90 días, todas ellas registradas en el estado de situación financiera.  Dichas cuentas no 
+están sujetas a un riesgo significativo de cambios en su valor. 
+ 
+ 
+(d) Inventarios, ver nota 6(a) –  
+Los inventarios, incluyendo los productos terminados y en proceso, materia prima, 
+envases y embalajes, suministros diversos y existencias por recibir, están valuados al 
+costo o al valor neto de realización, el menor; después de considerar la estimación para 
+desvalorización de inventarios obsoletos. 
+ 
+Los costos incurridos para llevar cada producto a su ubicación actual y darle su condición 
+actual se contabilizan de la siguiente manera: 
+ 
+- Materia prima, envases y embalajes y suministros diversos: al costo de adquisición 
+según el método del costo promedio.  
+- Productos terminados y en proceso: al costo de los materiales y la mano de obra 
+directa, más una proporción de los costos fijos de fabricación, basada en la 
+capacidad normal de operación, excluyendo los costos por préstamos. 
+- Inventarios por recibir: según el método del costo específico. 
+ 
+El valor neto de realización es el precio de venta en el curso normal del negocio, menos los 
+costos necesarios, para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución relacionados. 
+ 
+La estimación por desvalorización en el valor de realización es determinada sobre la base 
+de un análisis específico que realiza anualmente la Gerencia y cualquier efecto es 
+registrado en el estado de resultados integrales en el ejercicio en el cual se determina. 
+ 
+(e) Propiedades, planta y equipo, ver nota 7(a) – 
+Las partidas de la cuenta propiedades, planta y equipo se registran al costo menos su 
+depreciación acumulada y, si las hubiere, las pérdidas acumuladas por deterioro.  El costo 
+de un elemento de propiedades, planta y equipo comprende su precio de compra e incluye 
+los desembolsos directamente atribuibles a la adquisición de estas partidas. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2025_Individual_Anual_Notas a los EEFF 2025-2024.pdf | PAGINA: 21 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+El costo histórico de adquisición incluye los gastos que son directamente atribuibles a la 
+adquisición de los activos.  Los costos de mantenimiento y reparación se cargan a 
+resultados, toda renovación y mejora significativa se capitaliza únicamente cuando es 
+probable que se produzcan beneficios económicos futuros que excedan el rendimiento 
+estándar originalmente evaluado para el activo. 
+ 
+Para los componentes significativos de propiedades, planta y equipo que deben ser 
+reemplazados periódicamente, la Compañía da de baja el componente reemplazado y 
+reconoce el componente nuevo con su correspondiente vida útil y depreciación.  Del 
+mismo modo, cuando se efectúa una inspección de gran envergadura, el costo de la misma 
+se reconoce como un reemplazo en la medida en que se cumplan los requisitos para su 
+reconocimiento.  Todos los demás costos rutinarios de reparación y mantenimiento se 
+reconocen como gasto en el estado de resultados integrales a medida que se incurren.  El 
+valor presente del costo estimado para el desmantelamiento del activo después de su uso 
+se incluye en el costo de ese activo, en la medida en que se cumplan los requisitos para el 
+reconocimiento de la provisión respectiva. 
+ 
+Los trabajos en curso se capitalizan como un componente separado de propiedades, 
+planta y equipo y, al término de su construcción, se transfieren a la categoría pertinente.  
+Los trabajos en curso y los terrenos no se deprecian.  La depreciación de los demás bienes 
+se calcula siguiendo el método de línea recta en función de la vida útil estimada de los 
+activos. La depreciación anual se reconoce como gasto o costo de otro activo. Las tasas 
+utilizadas para el cálculo de la depreciación anual son las siguientes: 
+ 
+ Años 
+  
+Edificios y otras instalaciones Entre 10 y 48 
+Maquinaria y equipo Entre 4 y 25 
+Unidades de transporte 5 
+Muebles y enseres Entre 4 y 10 
+ 
+Las estimaciones de los valores residuales, las vidas útiles y el método de depreciación de 
+los activos se revisan y ajustan a la fecha de cierre de cada ejercicio para asegurar que el 
+método y el período de depreciación sean consistentes con el patrón previsto de 
+beneficios económicos de las partidas de propiedades, planta y equipo. 
+ 
+El valor en libros de una partida de propiedades, planta y equipo se castiga 
+inmediatamente a su valor recuperable si el valor en libros es mayor que el estimado de su 
+valor recuperable.   
+ 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2021_Individual_Anual_Auditado IEQSA 2021.pdf | PAGINA: 50 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+41 
+(b) El valor de restitución simplificada de derechos arancelarios Ad-Valorem corresponde al 
+acogimiento según Decreto Supremo No.104-95-EF y sus normas modificatorias, que es aplicable 
+a las empresas productoras-exportadoras. El menor costo es reconocido en el momento que se 
+factura al cliente, efectuándose la provisión correspondiente. Para efecto del cálculo del Impuesto 
+a la renta corriente la devolución de estos derechos arancelarios está inafecta. 
+ 
+20. Gastos de venta 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2021 2020 
+ US$(000) US$(000) 
+   
+Servicios prestados por terceros (b) 3,052 2,626 
+Gastos de personal 631 968 
+Cargas diversas de gestión 510 524 
+Depreciación por activo por derecho de uso, nota 9(b) 116 61 
+Depreciación por propiedades, planta y equipo, nota 7(b) 6 6 
+Tributos 7 8  ____________ ____________    
+ 4,322 4,193  ____________ ____________ 
+ 
+(b) Corresponde principalmente a servicios logísticos, gastos de embarque, gastos de 
+comercialización al exterior, gastos de aduanas, comisiones del exterior, entre otros. 
+ 
+21. Gastos administrativos 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2021 2020 
+ US$(000) US$(000) 
+   
+Gastos de personal 1,644 2,136 
+Servicios prestados por terceros 330 274 
+Cargas diversas de gestión 131 153 
+Depreciación por propiedades, planta y equipo, nota 7(b) 95 121 
+Depreciación por activo por derecho de uso, nota 9(b) 87 51 
+Tributos 22 24  ____________ ____________    
+ 2,309 2,759  ____________ ____________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2021_Individual_Anual_Auditado IEQSA 2021.pdf | PAGINA: 51 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+42 
+22. Otros ingresos (gastos) 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2021 2020 
+ US$(000) US$(000) 
+   
+Ingresos:   
+Extorno de provisión de derechos arancelarios, nota 24(b) - 120 
+Alquiler de inmueble, nota 8 106 101 
+Indemnización por siniestro - 16 
+Ingreso por diferencia en precio de Metal 74 6 
+Enajenación por venta de vehículos 6 - 
+Otros 64 79   __________ __________    
+ 250 322  __________ __________ 
+ 
+23. Garantías otorgadas y compromisos 
+Al 31 de diciembre de 2021 y de 2020, por los créditos obtenidos de su principal proveedor la 
+Compañía ha otorgado la siguiente garantía: 
+ 
+Institución 
+Tipo de 
+garantía Descripción Importe 
+   US$ 
+    
+Nexa Resources Cajamarquilla S.A. Hipoteca 
+Inmueble, ubicado en la Av. Elmer 
+Faucett No.1920 - Callao 4’000,000    ___________ 
+ 
+24. Compromisos y contingencias  
+Contingencias - 
+En opinión de la Gerencia de la Compañía y de sus asesores legales, no existen juicios ni demandas 
+importantes adicionales pendientes de resolver en contra de la Compañía que tengan un efecto 
+significativo en los estados financieros al 31 de diciembre de 2021 y de 2020.  
+ 
+Procesos tributarios –  
+(a) Al 31 de diciembre de 2021 la Compañía ha presentado Recurso de apelación contra la 
+Resolución de División No. 323100/2020-000159 (proceso contencioso tributario) y las 
+liquidaciones de cobranza, mediante la cual la Administración Aduanera determinó un incorrecto 
+acogimiento al Régimen de Restitución de Derechos Arancelarios (Drawback) en las solicitudes 
+del año 2014. La Administración Aduanera sostiene indebidamente, que se había aplicado 
+incorrectamente la Subpartida Nacional 7907.00.90.00, por lo que solicita la devolución de 
+S/2,785,170 por la supuesta indebida restitución de los derechos arancelarios, multas e 
+intereses moratorios (equivalente a US$696,641). A la fecha el expediente fue elevado al 
+Tribunal Fiscal y se encuentra pendiente de ser asignado a la sala de aduanas y se encuentra 
+pendiente de resolver. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2021_Individual_Anual_Auditado IEQSA 2021.pdf | PAGINA: 52 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+43 
+La Gerencia de la Compañía y los asesores legales sostienen que sí hubo un correcto acogimiento 
+al régimen de Drawback, habida cuenta de que los productos “bolas de zinc, medias bolas de zinc 
+y domes de zinc” fueron correctamente clasificados en la SPN 7907.00.90.00 en base a la 
+Resolución de Intendencia Nacional (Resolución de clasificación arancelaria) No. 2131-1998 y la 
+correcta aplicación de las reglas de clasificación arancelaria.  
+ 
+La Gerencia de la Compañía y sus asesores legales consideran que cuentan con argumentos 
+sólidos para obtener un resultado favorable este proceso y por lo tanto no es necesario 
+reconocer ningún pasivo por este proceso.  
+ 
+(b) Al 31 de diciembre de 2021 la Compañía ha presentado Recurso de apelación contra la 
+Resolución de División No. 323100/2020-000154 (proceso contencioso tributario) y las 
+liquidaciones de cobranza, mediante la cual la Administración Aduanera determinó un incorrecto 
+acogimiento al Régimen de Restitución de Derechos Arancelarios (Drawback) en las solicitudes 
+del año 2015. La Administración Aduanera sostiene que se había aplicado incorrectamente la 
+Subpartida Nacional 7907.00.90.00, por lo que solicita la devolución de un total de S/3,309,162 
+por la supuesta indebida restitución de los derechos arancelarios, multas e intereses moratorios 
+(equivalente a US$827,704).  A la fecha el expediente fue elevado al Tribunal Fiscal y se 
+encuentra pendiente de ser asignado a la sala de aduanas y se encuentra pendiente de resolver. 
+ 
+La Gerencia de la Compañía y los asesores legales sostienen que sí hubo un correcto acogimiento 
+al régimen de Drawback, habida cuenta de que los productos “bolas de zinc, medias bolas de zinc 
+y domes de zinc” fueron correctamente clasificados en la SPN 7907.00.90.00 en base a la 
+Resolución de Intendencia Nacional (Resolución de clasificación arancelaria) No. 2131-1998 y la 
+correcta aplicación de las reglas de clasificación arancelaria.  
+ 
+La Gerencia de la Compañía y sus asesores legales consideran que cuentan con argumentos 
+sólidos para obtener un resultado favorable este proceso y por lo tanto no es necesario 
+reconocer ningún pasivo por este proceso.  
+ 
+(c) Al 31 de diciembre de 2021 la Compañía ha presentado Recurso de apelación contra la 
+Resolución de División No. 000077-2021-Sunat/323200 (proceso contencioso tributario) y sus 
+liquidaciones de cobranza, mediante las cuales la Administración Aduanera determinó un 
+incorrecto acogimiento al Régimen de Restitución de Derechos Arancelarios (Drawback) en las 
+solicitudes del año 2016. La Administración Aduanera sostiene que se había aplicado 
+incorrectamente la Subpartida Nacional 7907.00.90.00, por lo que solicita la devolución de un 
+total de S/2,601,003 por la supuesta indebida restitución de los derechos arancelarios, multas e 
+intereses moratorios (equivalente a US$650,576). A la fecha el expediente fue elevado al 
+Tribunal Fiscal y se encuentra pendiente de ser asignado a la sala de aduanas y se encuentra 
+pendiente de resolver. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2018_Individual_Anual_Auditado IEQSA 2018.pdf | PAGINA: 13 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+- Aplicación de la NIIF 9 “Instrumentos financieros” con la NIIF 4 “Contratos de seguro - 
+modificaciones a la NIIF 4” 
+Las modificaciones abordan las inquietudes que surgen de la implementación de la nueva 
+norma de instrumentos financieros, NIIF 9, antes de implementar la NIIF 17, que 
+reemplaza a la NIIF 4. Las modificaciones introducen dos opciones para las entidades 
+emisoras de contratos de seguro: una exención temporal de la aplicación de la NIIF 9 y un 
+enfoque de superposición. Debido a la naturaleza de las operaciones de la Compañía, 
+estas modificaciones no les son aplicables. 
+ 
+- Modificaciones a la NIC 28 Inversiones en asociadas y negocios conjuntos - Aclaración de 
+que medir las inversiones a valor razonable con cambios en resultados es una decisión de 
+inversión por inversión. Debido a la naturaleza de las operaciones de la Compañía, estas 
+modificaciones no les son aplicables. 
+ 
+2.3. Políticas contables significativas 
+(a) Moneda funcional y moneda de presentaci6n - 
+La Compañía ha determinado que su moneda funcional y de presentación es el Dólar 
+estadounidense a partir del 1 de enero 2017. Se consideran transacciones en moneda 
+extranjera a aquellas realizadas en una moneda diferente a la moneda funcional. Las 
+transacciones en moneda extranjera son inicialmente registradas en la moneda funcional 
+usando los tipos de cambio vigentes en las fechas de las transacciones. Los activos y 
+pasivos monetarios denominados en moneda extranjera son posteriormente ajustados a la 
+moneda funcional usando el tipo de cambio vigente a la fecha del estado separado de 
+situación financiera. 
+ 
+En el 2016, la moneda funcional de la Compañía fue el Sol y, en consecuencia, los estados 
+financieros de la Compañía eran preparados y presentados en dicha moneda. En el 2017, 
+la Gerencia de la Compañía revisó esta política contable concluyendo que la moneda que 
+mejor refleja sus transacciones es el dólar estadounidense; y consecuentemente, la 
+moneda funcional de la Compañía fue modificada a esta moneda. 
+ 
+En este contexto, en aplicación con lo que establece la NIC 21, "Efecto de las variaciones 
+en los tipos de cambio", la Compañía reviso los factores con los que originalmente 
+determino su moneda funcional y concluyo que los factores y características del negocio 
+se mantienen constantes y que el dólar estadounidense siempre debió ser su moneda 
+funcional. Teniendo en consideraci6n que este cambio no representa un impacto material 
+en los estados financieros de periodos anteriores ni del periodo corriente, la aplicación de 
+la NIC 21 se ha efectuado de forma prospectiva a partir del 1 de enero de 2017. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2018_Individual_Anual_Auditado IEQSA 2018.pdf | PAGINA: 14 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+(b) Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+(i) Activos financieros 
+Reconocimiento inicial y medición - 
+Antes del 1 de enero de 2018, la Compañía clasificaba los activos financieros 
+dentro del alcance de la NIC 39 como:  
+- Activos financieros al valor razonable con cambios a resultados  
+- Préstamos y cuentas por cobrar (costo amortizado) 
+- Inversiones mantenidas hasta el vencimiento (costo amortizado) 
+- Activos financieros disponibles para la venta 
+ 
+A partir del 1 de enero de 2018, los activos financieros dentro del alcance de la 
+NIIF 9 se clasifican en función del modelo de negocio y las características de los 
+flujos contractuales, medidos al: 
+- Costo amortizado 
+- Valor razonable con cambios en otro resultado integral (FVOCI por sus siglas 
+en inglés) 
+- Valor razonable con cambios en resultados (FVPL por sus siglas en inglés) 
+ 
+La Compañía determina la clasificación de los activos financieros al momento de su 
+reconocimiento inicial. 
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos financieros que no se contabilizan al valor razonable 
+con cambios en resultados, los costos directamente atribuibles.   
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un período de tiempo establecido por una norma o condición del mercado 
+(compra ventas convencionales) se reconocen en la fecha de la compraventa; es 
+decir, la fecha en que la Compañía se compromete a comprar o vender el activo. 
+ 
+Medición posterior - 
+Al 31 de diciembre de 2018 y de 2017, la Compañía mantiene sus activos 
+financieros clasificados de la siguiente manera: 
+ 
+(a.i.1)  Activos medidos al costo amortizado - 
+La Compañía mantiene en esta categoría los rubros: efectivo y equivalentes 
+de efectivo, fondos operativos del servicio, cuentas por cobrar comerciales, 
+cuentas por cobrar por sistema de compensación y otras cuentas por 
+cobrar. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2018_Individual_Anual_Auditado IEQSA 2018.pdf | PAGINA: 15 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+Antes del 1 de enero de 2018, la Compañía clasificaba dichos instrumentos 
+como “Préstamos y cuentas por cobrar”, los cuales son activos financieros 
+no derivados cuyos cobros son fijos o determinables, que no se negocian en 
+un mercado activo. Después del reconocimiento inicial, estos activos 
+financieros se miden al costo amortizado mediante el uso del método de la 
+tasa de interés efectiva (TIE), menos cualquier deterioro del valor. El costo 
+amortizado se calcula tomando en cuenta cualquier descuento o prima en la 
+adquisición y las comisiones o los costos que son una parte integrante de la 
+TIE. La amortización de la TIE se incluye en el rubro “Ingresos financieros” y 
+las pérdidas que resulten del deterioro del valor se reconocen en el rubro 
+“Otros gastos, neto”, del estado de resultados integrales.  
+ 
+A partir del 1 de enero de 2018, la Compañía mide el efectivo y equivalentes 
+de efectivo, fondos operativos del servicio, cuentas por cobrar comerciales, 
+cuentas por cobrar por sistema de compensación y otras cuentas por cobrar 
+al costo amortizado si se cumplen las dos condiciones siguientes: 
+ 
+- El activo financiero se mantiene dentro de un modelo de negocio con 
+el objetivo de mantener los activos financieros para obtener flujos de 
+efectivo contractuales. 
+- Los términos contractuales del activo financiero dan lugar, en fechas 
+específicas, a flujos de efectivo que son solo pagos de capital e 
+intereses (SPPI) sobre el monto de capital pendiente. 
+-  
+(a.i.2) Instrumentos de patrimonio a valor razonable con cambios en otros 
+resultados integrales - 
+ 
+Las Inversiones disponibles para la venta, que son aquellas que se espera 
+mantener por un tiempo indefinido, pero que se pueden vender ante una 
+necesidad de liquidez o ante cambios en las condiciones del mercado. 
+ 
+Después del reconocimiento inicial, las inversiones disponibles para la venta 
+se miden por su valor razonable, y las ganancias o pérdidas no realizadas se 
+reconocen como otros resultados integrales en el patrimonio neto como 
+parte del rubro “Resultados no realizados ” hasta que la inversión se da de 
+baja; en ese momento, la ganancia o pérdida acumulada se reconoce en el 
+rubro “Ingresos financieros”, “Gastos financieros”, respectivamente, o se 
+considera como un deterioro del valor de la inversión, en cuyo caso, la 
+pérdida acumulada es reclasificada al rubro “Gastos financieros” del estado 
+de resultados integrales y eliminada del patrimonio neto.  
+ 
+Los intereses devengados de los instrumentos de patrimonio a valor 
+razonable con cambios en otros resultados integrales se registran como 
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2018_Individual_Anual_Auditado IEQSA 2018.pdf | PAGINA: 18 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+10 
+(ii) Pasivos financieros 
+Reconocimiento inicial y medición - 
+Los pasivos financieros (dentro del alcance de la NIC 39 y NIIF 9) se clasifican como 
+pasivos financieros al valor razonable con cambios en resultados, préstamos y 
+cuentas por pagar, o como derivados designados como instrumentos de cobertura 
+en una cobertura eficaz, según corresponda. La Compañía determina la 
+clasificación de los pasivos financieros al momento de su reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los préstamos y cuentas por pagar contabilizados al costo 
+amortizado, los costos de transacción directamente atribuibles. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales, 
+cuentas por pagar por fondo de operaciones, tributos y contribuciones por pagar y 
+otras cuentas por pagar.   
+ 
+Medición posterior - 
+Al 31 de diciembre de 2018 y de 2017, la Compañía no mantiene pasivos 
+financieros a valor razonable con cambios a resultados. En este sentido, la 
+medición de los pasivos financieros mantenidos por la Compañía depende de su 
+clasificación como se describe a continuación: 
+ 
+Después del reconocimiento inicial, las deudas y préstamos que devengan intereses 
+se miden posteriormente al costo amortizado, utilizando la TIE. Las ganancias y 
+pérdidas se reconocen en el estado de resultados integrales cuando los pasivos se 
+dan de baja, así como a través del proceso de amortización, a través de la TIE. 
+ 
+El costo amortizado se calcula tomando en cuenta cualquier descuento o prima en 
+la adquisición y las comisiones o los costos que sean una parte integrante de la TIE. 
+La amortización de la TIE se reconoce como gasto financiero en el estado de 
+resultados integrales. 
+ 
+Baja en cuentas -  
+Un pasivo financiero se da de baja cuando la obligación especificada en el 
+correspondiente contrato se haya pagado o cancelado, o haya vencido. 
+ 
+Cuando un pasivo financiero existente es reemplazado por otro pasivo proveniente 
+del mismo prestamista bajo condiciones sustancialmente diferentes, o si las 
+condiciones de un pasivo existente se modifican de manera sustancial, tal permuta 
+o modificación se trata como una baja del pasivo original y el reconocimiento de un 
+nuevo pasivo, y la diferencia entre los importes en libros respectivos se reconoce 
+en el estado de resultados integrales. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2018_Individual_Anual_Auditado IEQSA 2018.pdf | PAGINA: 19 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+11 
+(iii) Compensación de instrumentos financieros  
+Los activos financieros y los pasivos financieros se compensan de manera que se 
+informa el importe neto en el estado de situación financiera, solamente si existe un 
+derecho actual legalmente exigible de compensar los importes reconocidos, y 
+existe la intención de liquidarlos por el importe neto, o de realizar los activos y 
+cancelar los pasivos en forma simultánea. 
+ 
+Al 31 de diciembre de 2018 y de 2017, la Compañía no presenta ningún activo o 
+pasivo financiero por un monto neto; ni presenta importes brutos sujetos a 
+derechos de compensación.  
+ 
+(iv) Valor razonable de los instrumentos financieros  
+A cada fecha de cierre del periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina por 
+referencia a los precios cotizados en el mercado, o a los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción.  
+ 
+Para los instrumentos financieros que no se negocian en mercados activos, el valor 
+razonable se determina utilizando técnicas de valoración adecuadas. Tales técnicas 
+pueden incluir el uso de transacciones de mercado recientes entre partes 
+interesadas y debidamente informadas que actúen en condiciones de 
+independencia mutua, la referencia a los valores razonables de otros instrumentos 
+financieros que sean esencialmente similares, el análisis de valores descontados de 
+flujos de efectivo y otros modelos de valoración. 
+ 
+En la nota 24 se incluye información sobre los valores razonables de los 
+instrumentos financieros, así como mayor detalle acerca de cómo han sido 
+determinados. 
+ 
+(c) Efectivo y equivalentes de efectivo – 
+Para fines del estado de flujos de efectivo, el efectivo y equivalentes de efectivo 
+corresponden a caja y cuentas corrientes todas ellas registradas en el estado de situación 
+financiera.  Dichas cuentas no están sujetas a un riesgo significativo de cambios en su 
+valor. 
+ 
+(d) Inventarios – 
+Los inventarios, incluyendo los productos terminados y en proceso, materia prima y 
+suministros diversos y existencias por recibir, están valuados al costo o al valor neto de 
+realización, el menor; después de considerar la estimación para desvalorización de 
+inventarios obsoletos.   
+ 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2018_Individual_Anual_Auditado IEQSA 2018.pdf | PAGINA: 20 | puntaje 12 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+12 
+Los costos incurridos para llevar cada producto a su ubicación actual y darle su condición 
+actual se contabilizan de la siguiente manera: 
+ 
+- Materia prima: al costo de adquisición según el método del costo promedio.  
+- Productos terminados y en proceso: al costo de los materiales y la mano de obra 
+directa, más una proporción de los costos fijos de fabricación, basada en la 
+capacidad normal de operación, excluyendo los costos por préstamos. 
+- Inventarios por recibir: según el método del costo específico para efectuar la venta. 
+ 
+El valor neto de realización es el precio de venta en el curso normal del negocio, menos los 
+costos necesarios, para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución relacionados. 
+ 
+La estimación por desvalorización en el valor de realización es calculada sobre la base de 
+un análisis específico que realiza anualmente la Gerencia y cualquier efecto es registrado 
+en el estado de resultados integrales en el ejercicio en el cual se determina. 
+ 
+(e) Propiedades, planta y equipo – 
+Las propiedades, planta y equipo son registrados a su costo histórico de adquisición, más 
+la revaluación menos la depreciación acumulada y, si es aplicable menos la provisión por 
+deterioro del valor de los activos de larga duración, ver acápite (h) a excepción de los 
+terrenos que son registrados a su costo revaluado. Los terrenos se presentan a su valor 
+revaluado determinado por un profesional independiente y el superávit de revaluación con 
+abono a la cuenta de patrimonio.  Las revaluaciones se realizan para asegurar que el 
+importe en libros, en todo momento, no difiera significativamente del que podría 
+determinarse utilizando el valor razonable al final del período sobre el que se informa.  La 
+referida medición es hecha de manera periódica en plazos no mayores a cinco años o 
+cuando ocurran cambios significativos en las bases de medición utilizadas.   
+ 
+El costo histórico de adquisición incluye los gastos que son directamente atribuibles a la 
+adquisición de los activos.  Los costos de mantenimiento y reparación se cargan a 
+resultados, toda renovación y mejora significativa se capitaliza únicamente cuando es 
+probable que se produzcan beneficios económicos futuros que excedan el rendimiento 
+estándar originalmente evaluado para el activo. 
+ 
+Para los componentes significativos de propiedades, planta y equipo que deben ser 
+reemplazados periódicamente, la Compañía da de baja el componente reemplazado y 
+reconoce el componente nuevo con su correspondiente vida útil y depreciación.  Del 
+mismo modo, cuando se efectúa una inspección de gran envergadura, el costo de la misma 
+se reconoce como un reemplazo en la medida en que se cumplan los requisitos para su 
+reconocimiento.  Todos los demás costos rutinarios de reparación y mantenimiento se 
+reconocen como gasto en el estado separado de resultados integrales a medida que se 
+incurren.  El valor presente del costo estimado para el desmantelamiento del activo 
+después de su uso se incluye en el costo de ese activo, en la medida en que se cumplan los 
+requisitos para el reconocimiento de la provisión respectiva. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2018_Individual_Anual_Auditado IEQSA 2018.pdf | PAGINA: 21 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+13 
+Los trabajos en curso se capitalizan como un componente separado de propiedades, 
+planta y equipo y, al término de su construcción, se transfieren a la categoría pertinente.  
+Los trabajos en curso y los terrenos no se deprecian.  La depreciación de los demás bienes 
+se calcula siguiendo el método de línea recta en función de la vida útil estimada de los 
+activos. La depreciación anual se reconoce como gasto o costo de otro activo. Las tasas 
+utilizadas para el cálculo de la depreciación anual son las siguientes: 
+ 
+ Años 
+  
+Edificios y otras construcciones  Entre 10 y 48 
+Maquinaria y equipo Entre 4 y 25 
+Unidades de transporte Entre 2 y 20 
+Muebles y enseres    Entre 4 y 10 
+ 
+Las estimaciones de los valores residuales, las vidas útiles y el método de depreciación de 
+los activos se revisan y ajustan a la fecha de cierre de cada ejercicio para asegurar que el 
+método y el período de depreciación sean consistentes con el patrón previsto de 
+beneficios económicos de las partidas de propiedades, planta y equipo. 
+ 
+El valor en libros de una partida de propiedades, planta y equipo se castiga 
+inmediatamente a su valor recuperable si el valor en libros es mayor que el estimado de su 
+valor recuperable.   
+ 
+Una partida del rubro propiedades, planta y equipo y cualquier parte significativa se dan 
+de baja al momento de su venta o cuando no se espera obtener beneficios económicos 
+futuros de su uso o venta. Cualquier ganancia o pérdida en el momento de dar de baja el 
+activo (calculada como la diferencia entre el ingreso neto procedente de la venta del 
+activo y su importe en libros) se incluye en el estado de resultados integrales cuando se da 
+de baja el activo. 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan 
+como costo adicional de este activo cuando es probable que tales desembolsos resulten en 
+beneficios económicos futuros superiores al rendimiento normal evaluado originalmente 
+para dicho activo. Los desembolsos para mantenimiento y reparaciones se reconocen 
+como gasto del ejercicio en que son incurridos. 
+ 
+(f) Propiedades de inversión - 
+Las inversiones inmobiliarias se registran al costo histórico menos su depreciación 
+acumulada. El costo incluye los desembolsos directamente atribuibles a la adquisición de 
+estas partidas. 
+ 
+Los costos subsecuentes atribuibles a los bienes de las inversiones inmobiliarias se 
+capitalizan solo cuando es probable que beneficios económicos futuros asociados con el 
+activo se generen para la Compañía y el costo de estos activos puede ser medido 
+razonablemente, caso contrario se imputan al gasto según corresponda. 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2020_Individual_Anual_Auditado IEQSA 2020.pdf | PAGINA: 48 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+39 
+ 
+19. Costo de ventas 
+(a) A continuación se presenta la composición del rubro:  
+ 
+ 2020 2019 
+ US$(000) US$(000) 
+   
+Saldo inicial de productos terminados, nota 6(a) 6,664 11,466 
+Saldo inicial de productos en proceso, nota 6(a) 2,070 3,983  __________ __________ 
+ 8,734 15,449  __________ __________    
+Consumo de materia prima:   
+Saldo inicial, nota 6(a) 7,062 9,977 
+Compra de materia prima 82,538 87,192 
+Saldo final, nota 6(a) (5,818) (7,062)  __________ __________ 
+ 83,782 90,107  __________ __________    
+Suministros diversos 2,694 2,796 
+Depreciación por propiedades, planta y equipo, nota 7(b) 1,147 1,172 
+Depreciación por activo por derecho de uso, nota 9(b) 381 414 
+Gasto de personal 1,510 1,388 
+Gastos de fabricación  6,021 6,505 
+Provisión por desvalorización de inventarios, neto, nota 
+6(d) 30 163 
+Restitución de derechos arancelarios (b) y nota 17(c) (1,700) (1,976)  __________ __________ 
+ 10,083 10,462  __________ __________    
+Saldo final de productos terminados, nota 6(a) (8,708) (6,664) 
+Saldo final de productos en proceso, nota 6(a) (3,283) (2,070)  __________ __________ 
+ (11,991) (8,734)  __________ __________    
+ 90,608 107,284  __________ __________ 
+ 
+(b) El valor de restitución simplificada de derechos arancelarios Ad-Valorem corresponde al 
+acogimiento según Decreto Supremo No.104-95-EF y sus normas modificatorias, que es aplicable 
+a las empresas productoras-exportadoras. El menor costo es reconocido en el momento que la 
+Administración Tributaria informa a la Compañía que la solicitud presentada ha sido aprobada. 
+Para efecto del cálculo del Impuesto a la renta corriente la devolución de estos derechos 
+arancelarios está inafecta. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2020_Individual_Anual_Auditado IEQSA 2020.pdf | PAGINA: 49 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+40 
+20. Gastos de venta 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ US$(000) US$(000) 
+   
+Servicios prestados por terceros (b) 2,626 2,794 
+Gastos de personal 968 914 
+Cargas diversas de gestión 524 467 
+Depreciación por activo por derecho de uso, nota 9(b) 61 66 
+Depreciación por propiedades, planta y equipo, nota 7(b) 6 7 
+Tributos 8 8  ____________ ____________    
+ 4,193 4,256  ____________ ____________ 
+ 
+(b) Corresponde principalmente a servicios logísticos, gastos de embarque, gastos de 
+comercialización al exterior, gastos de aduanas, comisiones del exterior, entre otros. 
+ 
+21. Gastos administrativos 
+A continuación se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ US$(000) US$(000) 
+   
+Gastos de personal 2,136 2,380 
+Servicios prestados por terceros 274 358 
+Cargas diversas de gestión 153 168 
+Depreciación por propiedades, planta y equipo, nota 7(b) 121 143 
+Depreciación por activo por derecho de uso, nota 9(b) 51 51 
+Tributos 24 25  ____________ ____________    
+ 2,759 3,125  ____________ ____________ 
+ 
+22. Otros ingresos (gastos) 
+A continuación se presenta la composición del rubro: 
+ 
+ 2020 2019 
+ US$(000) US$(000) 
+   
+Ingresos:   
+Extorno de provisión de derechos arancelarios, nota 24(b) 120 646 
+Alquiler de inmueble, nota 8 101 106 
+Indemnización por siniestro 16 148 
+Ingreso por diferencia en precio de Metal 6 86 
+Enajenación por venta de vehículos - 4 
+Otros 79 111   __________ __________    
+ 322 1,101  __________ __________ 
+
+===== ARCHIVO: EEFFDD-INDUSTRIAS ELECTRO QUIMICAS S.A. IEQSA-Individual.zip/2020_Individual_Anual_Auditado IEQSA 2020.pdf | PAGINA: 50 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+41 
+23. Garantías otorgadas y compromisos 
+Al 31 de diciembre de 2020 y de 2019, por los créditos obtenidos de su principal proveedor la 
+Compañía ha otorgado la siguiente garantía: 
+ 
+Institución 
+Tipo de 
+garantía Descripción Importe 
+   US$ 
+    
+Nexa Resources Cajamarquilla S.A. Hipoteca 
+Inmueble, ubicado en la Av. Elmer 
+Faucett No.1920 - Callao 4,000,000    ___________ 
+ 
+24. Compromisos y contingencias  
+Contingencias - 
+En opinión de la Gerencia de la Compañía y de sus asesores legales, no existen juicios ni demandas 
+importantes adicionales pendientes de resolver en contra de la Compañía que tengan un efecto 
+significativo en los estados financieros al 31 de diciembre de 2020 y de 2019.  
+ 
+Procesos tributarios –  
+(a) El Tribunal Fiscal mediante la Resolución N°09231-A-2017 notificada el 27 de diciembre de 
+2017, resolvió que se devuelva a la Administración Aduanera el monto de S/2,363,053 
+(equivalente a US$699,335) por el supuesto acogimiento indebido del Régimen de Restitución de 
+Derechos Arancelarios del año 2009, especificando la no aplicación de multa ni de intereses. La 
+Administración Aduanera determinó que se había aplicado incorrectamente las Subpartida 
+Nacional 7905.00.00.91 y 7905.00.00.99, en lugar de la Subpartida Nacional 7905.00.00.12 a 
+la mercancía exportada y que, a consecuencia de ello, la mercancía en cuestión superaba el límite 
+de los US$20,000,000 que establece el artículo 3 del Reglamento del Procedimiento de 
+Restitución de Derechos Arancelarios, aprobado por Decreto Supremo N°104-95-WF. Con fecha 
+22 de marzo de 2018 se interpuso ante el Poder Judicial una demanda de nulidad del acto 
+administrativo.  
+ 
+El Tribunal Fiscal mediante Resolución N° 01145-Q-2020 declaró la prescripción del proceso 
+relacionado sobre la Restitución de Derechos Arancelarios del año 2009. 
+ 
+(b) El Tribunal Fiscal mediante la Resolución N°02209-A-2018 notificada el 15 de mayo de 2018, 
+resuelve que se reembolse  a la Administración Aduanera lo indebidamente restituido  en las 
+solicitudes de Restitución de Derechos Arancelarios del año 2010 , que inicialmente la Aduana 
+estimó el monto de S/2,764,237 (equivalente a US$818,063), el Tribunal Fiscal ordenó a la 
+Administración Aduanera re-liquide la deuda de aquellas solicitudes de Restitución de Derechos 
+Arancelarios que se refieran a exportaciones de discos de zinc y a la vez, a exportaciones de 
+hexágonos de zinc. 
+  

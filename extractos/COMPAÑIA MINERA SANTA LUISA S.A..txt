@@ -1,0 +1,1770 @@
+EMPRESA: COMPAÑIA MINERA SANTA LUISA S.A.
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2018_Individual_Anual_Informe_Auditoria_EEFF_2018.pdf | PAGINA: 18 | vecina =====
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+Medición posterior. 
+ 
+La medición posterior de pasivos financieros depende de su clasificación, tal como se detalla                  
+a continuación: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados. 
+ 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen pasivos                              
+financieros mantenidos como negociables y pasivos financieros designados en el momento                   
+de su reconocimiento inicial al valor razonable con cambios en resultados.  
+ 
+Préstamos que devengan intereses. 
+ 
+Después de su reconocimiento inicial, los préstamos que devengan intereses se miden 
+posteriormente a su costo amortizado usando el método de la tasa de interés efectiva.                           
+Las ganancias y pérdidas se reconocen en el estado de resultados cuando los pasivos son                     
+dados de baja, así como a través del proceso de amortización de la tasa de interés efectiva.                  
+Los costos amortizados se calculan tomando en cuenta cualquier descuento o prima sobre                   
+la adquisición y las comisiones o costos que sean parte integrante de la tasa de interés                   
+efectiva. La amortización de la tasa de interés efectiva se incluye en el costo financiero                           
+en el estado de resultados. 
+ 
+ 
+f) Baja de activos y pasivos financieros 
+ 
+Activos financieros. 
+ 
+Un activo financiero (o, cuando sea aplicable una parte de un activo financiero o una parte                 
+de un grupo de activos financieros similares) es dado de baja cuando: 
+ 
+(i) Los derechos de recibir flujos de efectivo del activo han terminado; o la Compañía                       
+ha transferido sus derechos a recibir flujos de efectivo del activo o ha asumido una               
+obligación de pagar la totalidad de los flujos de efectivo recibidos inmediatamente                                                         
+a una tercera parte bajo un acuerdo de traspaso; y 
+ 
+(ii) La Compañía ha transferido sustancialmente todos los riesgos y beneficios del activo o,                
+de no haber transferido ni retenido sustancialmente todos los riesgos y beneficios del activo,               
+si ha transferido su control. 
+ 
+En caso que la Compañía transfiera sus derechos de recibir flujos de efectivo de un activo                         
+o suscriba un acuerdo de transferencia, pero no haya transferido sustancialmente la totalidad                  
+de los riesgos y aún mantiene el control del activo, debe reconocer un pasivo asociado.                                 
+El activo transferido y el pasivo asociado se miden sobre una base que refleje los derechos                      
+y obligaciones que haya retenido la Compañía. 
+  
+ 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2018_Individual_Anual_Informe_Auditoria_EEFF_2018.pdf | PAGINA: 19 | puntaje 5 =====
+ 
+ 
+ 
+ 
+9 
+ 
+Pasivos financieros. 
+ 
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se cancela                      
+o expira. Cuando un pasivo financiero existente es reemplazado por otro del mismo prestatario   
+en condiciones significativamente diferentes, o las condiciones son modificadas en forma                         
+importante, dicho reemplazo o modificación se trata como una baja del pasivo original                          
+y el reconocimiento de un nuevo pasivo, reconociéndose la diferencia entre ambos en los 
+resultados del periodo. 
+ 
+ 
+g) Compensación de instrumentos financieros 
+ 
+Los activos y pasivos financieros son compensados y el monto neto es reportado en el estado                   
+de situación financiera si existe un derecho legal vigente en ese momento para compensar                            
+los montos reconocidos y si existe la intención de liquidar en términos netos o de realizar                      
+los activos y liquidar los pasivos simultáneamente. 
+ 
+ 
+h) Riesgo de los Instrumentos Financieros 
+ 
+La evaluación efectuada sobre la naturaleza y alcance de los riesgos de crédito, liquidez, de mercado                    
+y otros están expuestos en la Nota 29. 
+ 
+ 
+i) Efectivo y equivalente de efectivo (Nota 4) 
+ 
+El rubro efectivo y equivalente de efectivo presentado en el estado de situación financiera                              
+y en el estado de flujos de efectivo de la Compañía incluye todos los saldos en efectivo, en caja, 
+cuentas corrientes y depósitos a plazo cuyos vencimientos son menores a tres meses. 
+ 
+     
+j) Cuentas por cobrar comerciales (Nota 5) 
+ 
+Las cuentas por cobrar comerciales son reconocidas inicialmente a su valor razonable y 
+subsecuentemente se valorizan al costo amortizado usando el método de interés efectivo                       
+y se presentan menos la estimación para créditos que califican como de dudosa recuperación.                 
+Esta estimación se reconoce cuando existe evidencia objetiva de que la Compañía no podrá                            
+cobrar todos los montos vencidos de acuerdo a los términos originales de la cuenta por cobrar                
+y su monto representa la diferencia entre el valor en libros del activo y su valor recuperable.                 
+El monto de la estimación es aprobado por la Gerencia General, en base a los informes                           
+de los asesores legales y se reconoce como cargo en el estado de resultados. 
+ 
+ 
+k) Inventarios (Nota 8) 
+ 
+Las existencias de concentrados se miden al costo promedio de producción o valor neto                      
+de realización el que resulte menor. El valor neto de realización es el precio de venta en el curso 
+normal del negocio, menos los costos para poner las existencias en condición de venta y, los 
+gastos de comercialización y distribución. 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2018_Individual_Anual_Informe_Auditoria_EEFF_2018.pdf | PAGINA: 20 | vecina =====
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+Los suministros diversos se miden al costo o a su valor neto de realización el que resulte               
+menor sobre la base del neto del costo promedio. Las existencias por recibir se registran                       
+al costo de identificación específica. 
+ 
+La estimación para desvalorización de los repuestos y suministros es calculada sobre la base                 
+de una evaluación técnica e individual que realiza periódicamente la Gerencia y es cargada                
+a resultados en el ejercicio en el cual se determina su necesidad. 
+ 
+ 
+l) Propiedades, planta y equipo (Nota 9) 
+ 
+Las propiedades, planta y equipos, se reconocen al costo. Los costos por desmantelamiento               
+y remoción de activos (Cierre de Minas) se reconocen como parte de las propiedades, planta               
+y equipos.  
+ 
+Las propiedades, planta y equipo está presentada menos la depreciación acumulada y la pérdida 
+por desvalorización cuando resulte aplicable. La depreciación anual se reconoce como gasto                      
+y se determina siguiendo el método de línea recta para asignar su costo menos su valor                       
+residual durante el estimado de su vida útil como sigue: 
+ 
+ Instalaciones fijas 10-30 años 
+ Maquinarias y equipo 5-15 años 
+ Muebles y enseres 5-10 años 
+ Equipo de procesamiento de datos 3-5 años 
+ Unidades de transporte 5-10 años 
+ 
+La estimación de la vida útil, valores residuales y el método de depreciación se revisan 
+anualmente para asegurar que sean consistentes con el patrón previsto de beneficios económicos 
+de las partidas de propiedades, planta y equipo. 
+ 
+El importe en libros de un activo se castiga inmediatamente a su importe recuperable                           
+si el importe en libros del activo es mayor que el estimado de su importe recuperable. 
+ 
+Los desembolsos incurridos después que los bienes del activo fijo han sido puestos en uso                    
+se capitalizan como costo adicional únicamente cuando tales desembolsos generen               
+beneficios económicos futuros y el costo del activo pueda ser medido confiablemente. 
+  
+Mantenimiento y reparaciones mayores 
+ 
+Los gastos de mantenimiento y reparaciones mayores comprenden el costo de reemplazo                  
+de los activos o partes de los activos y los costos de reacondicionamiento. El desembolso                  
+es capitalizado cuando se reemplaza un activo o una parte de un activo que se depreció                      
+de manera separada y que se elimina en libros, y es probable que los beneficios económicos 
+futuros asociados con dicho activo o parte de activo fluyan a la Compañía durante un período                    
+de vida útil adicional. 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2018_Individual_Anual_Informe_Auditoria_EEFF_2018.pdf | PAGINA: 58 | vecina =====
+ 
+ 
+ 
+ 
+48 
+ 
+ 
+ 
+ 
+NOTA  29. ADMINISTRACION DE RIESGOS 
+ 
+ 
+Las actividades de la Compañía la exponen a una variedad de riesgos financieros, los principales                      
+riesgos que pueden afectar adversamente a los activos y pasivos financieros de la Compañía, así                
+como   a sus flujos de caja futuros son: riesgo de las variaciones en las cotizaciones de los minerales, 
+riesgos de tasa de interés, riesgo de liquidez, riesgo de crédito y riesgo de capital.  El programa                          
+de administración de riesgos de la Compañía trata de minimizar los potenciales efectos adversos                      
+en su desempeño financiero. 
+ 
+La Gerencia de la Compañía es conocedora de las condiciones existentes en el mercado y sobre                         
+la base de su conocimiento y experiencia revisa y administra los riesgos descritos a continuación.                     
+El Directorio revisa y aprueba las políticas para administrar cada uno de estos riesgos: 
+ 
+ 
+ Riesgo de mercado 
+ 
+La Compañía está expuesta a riesgos provenientes de la variación del precio de mercado                          
+del Zinc, Plomo y Cobre, los cuales podrían dañar la Situación Económica y los Flujos Operativos 
+de la Compañía. Históricamente se tiene conocimiento de que el precio del Zinc, plomo y cobre 
+han fluctuado por diversos factores externos más allá del control de la Compañía.  La Gerencia 
+General de la Compañía en el periodo 2017 suscribió contratos derivados de cobertura del precio 
+de Zinc       que califican como coberturas de flujos de efectivo según la NIC 39 (Ver Nota 30). 
+ 
+Para el control y manejo de los Derivados la Compañía dispone de una política de operaciones                  
+de cobertura, cuyo objetivo es establecer las reglas de control interno de las transacciones 
+derivadas.  
+ 
+Al 31.12.2018, el valor razonable de los derivados contratados asciende a S/ 9,593 miles                      
+(Nota 30).  Este resultado afecta a Otros Resultados Integrales en S/ 6,763 miles. 
+ 
+Así mismo la Compañía ha planificado las ventas de los tres concentrados con una estrategia                         
+de diversificación por cada concentrado, el concentrado de zinc bajo la modalidad de contrato                                             
+anual con MMS, el concentrado de plomo y cobre con la modalidad de tenders local cada                       
+dos a tres meses de acuerdo a stock. Con esta estrategia de diversificación reducimos la exposición                           
+al riesgo por variaciones imprevistas de los precios en el mercado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2018_Individual_Anual_Informe_Auditoria_EEFF_2018.pdf | PAGINA: 59 | puntaje 12 =====
+ 
+ 
+ 
+ 
+49 
+ 
+  Análisis de sensibilidad 
+ 
+El comportamiento de los precios de los metales básicos, Zinc, Cobre y Plomo durante el cuarto 
+trimestre del 2018, presentó una leve recuperación respecto al tercer trimestre y continuó                    
+con la tendencia negativas respecto al primero y segundo trimestre. las razones fundamentales                                
+se deben a la incertidumbre generada por  la guerra comercial entre  Estados Unidos y China,                     
+la balanza comercial negativas de EEUU frente a China y el supuesto robo de tecnología                 
+Americana por China, las constantes  amenazas de mayor incremento de aranceles en ambas 
+economías generaron mucha turbulencia en los inversionistas, durante el cuarto trimestre                    
+los stocks en la bolsa de Londres tuvieron una tendencia a la baja el concentrado de zinc                            
+bajó 37.56% respecto al tercer trimestre cerrando el año en 117,914 TN, el concentrado                    
+de cobre en Londres bajó 32.9% respecto a al tercer trimestre cerrando el año en                    
+138,810 TN y el concentrado de plomo bajó ligeramente menos de 1% cerrando el stock final                           
+en 109,964 TN, es importante tener en cuenta el comportamiento de los costos de tratamiento                          
+(T/C) en condición spot CIF china  en el cuarto  trimestre, el zinc pasó de 70 $/T del mes                                       
+de julio a 130 $/T en el mes de Diciembre, los costos de tratamiento del cobre y del plomo                             
+fueron bastante estables sin variación significativa.  
+ 
+En general los precios tuvieron una tendencia positiva de recuperación en el cuarto trimestre       
+respecto al tercer trimestre sin embargo respecto a la tendencia del año fue negativo, con menor          
+stock en la Bolsa de valores de Londres y con mayor TC para el Zinc. 
+ 
+La tendencia negativa de los precios, así como el incremento de los costos de tratamiento                    
+dependerán de como evoluciona las variables externas tales como la guerra comercial, el Brexit                                 
+y el crecimiento de la economía China. 
+ 
+  
+   
+Las ventas realizadas en el 4to. Trimestre 2018 fueron de la siguiente manera: 
+La venta del concentrado zinc fue de 20,260 tms, el concentrado de cobre se vendió 1,427 tms                       
+y el concentrado de plomo se vendió 3,955 tms. 
+6,959.29 6,871.81 
+6,102.65 6,167.33 
+3,422.49 
+3,113.22 
+2,534.15 2,630.11 2,522.53 2,387.33 
+2,102.00 1,963.59 
+-
+1,000.00 
+2,000.00 
+3,000.00 
+4,000.00 
+5,000.00 
+6,000.00 
+7,000.00 
+8,000.00 
+ TRIM-I  TRIM-II  TRIM-III  TRIM-IV
+Precios metales básicos    
+Cu Zinc Plomo Lineal (Cu) Lineal (Zinc) Lineal (Plomo)
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2018_Individual_Anual_Informe_Auditoria_EEFF_2018.pdf | PAGINA: 60 | vecina =====
+ 
+ 
+ 
+ 
+50 
+ 
+ 
+ Riesgo de tipo de cambio 
+ 
+La Compañía compra y vende sus productos, en moneda extranjera (principalmente Dólares                                  
+de los Estados Unidos de América); por consiguiente, está expuesta a fluctuaciones en el tipo                       
+de cambio de moneda extranjera. La Compañía no utiliza instrumentos financieros derivados                
+para cubrir este riesgo. 
+ 
+La Gerencia considera que las fluctuaciones futuras en el tipo de cambio de la moneda peruana 
+frente al dólar estadounidense no afectarían significativamente en forma adversa los resultados                        
+de sus operaciones de la Compañía. 
+ 
+ 
+ Riesgo de tasa de interés 
+ 
+La exposición de la Compañía a este riesgo se presenta por cambios en las tasas de interés, 
+básicamente por sus obligaciones financieras. La Compañía no usa instrumentos financieros 
+derivados para cubrir este riesgo. 
+ 
+La Gerencia considera que las fluctuaciones futuras en las tasas de interés no afectarán 
+significativamente los resultados de operaciones futuras de la Compañía. 
+ 
+ 
+ Riesgo de crédito 
+ 
+El riesgo de crédito originado por la incapacidad de los deudores de cumplir con el pago de sus 
+obligaciones a la Compañía a medida que vencen (sin tomar en cuenta el valor razonable                    
+de cualquier garantía u otros valores en prenda); y por el incumplimiento de las contrapartes                 
+en transacciones en efectivo, está limitado, si hubiere, a los saldos depositados en bancos                                       
+y a las cuentas por cobrar a la fecha del estado de situación financiera. Por ello, deposita sus 
+excedentes de fondos en instituciones financieras de primer orden, establece políticas de crédito 
+conservadoras, y evalúa constantemente las condiciones del mercado en que se desenvuelve.  
+ 
+Al respecto, la Compañía cuenta con un número reducido de clientes de reconocido prestigio                          
+y de primer orden en el mercado nacional e internacional. Basada en el conocimiento de sus 
+clientes, la Gerencia de la Compañía, considera que no hay riesgo de crédito en las cuentas                      
+por cobrar. 
+ 
+ 
+ Riesgo de liquidez 
+ 
+La liquidez se controla a través del calce de los vencimientos de sus activos y pasivos, mantener                   
+una adecuada cantidad de fuentes de financiamiento y de la obtención de líneas de crédito                    
+que le permiten desarrollar sus actividades normalmente. La Compañía tiene un nivel apropiado                      
+de recursos. En consecuencia, en opinión de la Gerencia no existe riesgo significativo de liquidez                      
+al 31 de diciembre de 2018 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2022_Individual_Anual_Informacion Financiera Auditada SL 2022.pdf | PAGINA: 16 | vecina =====
+ 
+- 14 - 
+El cargo por impuesto a las ganancias corriente se calcula sobre la base de las leyes tributarias 
+promulgadas o sustancialmente promulgadas a la fecha del estado separado de situación 
+financiera.  La gerencia evalúa periódicamente la posición asumida en las declaraciones juradas 
+de impuestos respecto de situaciones en las que las leyes tributarias son objeto de interpretación.  
+La Compañía, cuando corresponde, constituye provisiones sobre los montos que espera deberá 
+pagar a las autoridades tributarias.  Asimismo, en forma mensual efectúa pagos a cuenta del 
+impuesto a las ganancias que se muestran en el estado de situación financiera como crédito por 
+impuesto a las ganancias cuando al término del período no se compensa totalmente con el 
+impuesto resultante anual por pagar a la administración tributaria. 
+ 
+c) Activos financieros - 
+ 
+Reconocimiento y medición inicial -  
+ 
+Los activos financieros se clasificarán, en el reconocimiento inicial, como medidos subsecuentemente 
+al costo amortizado, al valor razonable a través de otros resultados integrales, y valor razonable a 
+través de resultados. 
+ 
+La clasificación de los activos financieros en el momento del reconocimiento inicial depende de las 
+características contractuales del flujo de efectivo de los activos financieros y del modelo de negocios 
+de la Compañía para su gestión.  Con la excepción de las cuentas por cobrar comerciales que no 
+contienen un componente de financiamiento significativo, la Compañía mide inicialmente un activo 
+financiero a su valor razonable más sus costos de transacción, en el caso de un activo financiero que 
+no se encuentra a su valor razonable a través de resultados.  Para que un activo financiero sea 
+clasificado y medido al costo amortizado o al valor razonable a través de otros resultados integrales, 
+debe dar lugar a flujos de efectivo que son “únicamente pagos de principal e intereses” sobre el monto 
+de capital pendiente.  Esta evaluación se realiza a nivel de cada instrumento.  El modelo de negocios 
+de la Compañía para la gestión de activos financieros se refiere a cómo administra sus activos 
+financieros para generar flujos de efectivo.  El modelo de negocio determina si los flujos de efectivo 
+resultarán de la recopilación de flujos de efectivo contractuales, la venta de activos financieros o 
+ambos.  Las compras o ventas de activos financieros que requieren la entrega de activos dentro de un 
+marco de tiempo establecido por regulación o convención en el mercado (transacciones de manera 
+regular) se reconocen en la fecha de negociación. 
+ 
+Medición posterior -   
+ 
+Para efecto de la medición posterior, los activos financieros son clasificados en las siguientes 
+categorías: 
+ 
+- Activos financieros al costo amortizado. 
+- Activos financieros al valor razonable con cambios en otros resultados integrales. 
+- Activos financieros al valor razonable con cambios en resultados. 
+ 
+Activos financieros al costo amortizado -  
+ 
+La Compañía mide los activos financieros al costo amortizado si se cumplen las dos condiciones 
+siguientes: 
+ 
+- El activo financiero se mantiene dentro de un modelo de negocio con el objetivo de mantener 
+activos financieros para cobrar flujos de efectivo contractuales, y  
+ 
+- Los términos contractuales del activo financiero dan lugar en fechas específicas a los flujos de 
+efectivo que son únicamente pagos del principal e intereses sobre el monto del principal 
+pendiente. 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2022_Individual_Anual_Informacion Financiera Auditada SL 2022.pdf | PAGINA: 17 | puntaje 12 =====
+ 
+- 15 - 
+Los activos financieros al costo amortizado son subsecuentemente medidos usando el método de 
+interés efectivo y son sujetas a la evaluación de deterioro.  Las ganancias y pérdidas son reconocidas 
+en resultados cuando el activo es dado de baja, modificado o deteriorado. 
+ 
+Esta categoría generalmente aplica a los rubros de “Cuentas por cobrar no comerciales a partes 
+relacionadas y otras cuentas por cobrar”. 
+ 
+Activos financieros al valor razonable con cambios en otros resultados integrales -  
+ 
+Los activos financieros son clasificados y medidos al valor razonable con cambios en otros resultados 
+integrales si ellos son mantenidos en un modelo de negocio cuyo objetivo es colectar flujos 
+contractuales y vender los activos financieros.  Esta categoría generalmente aplicara al rubro 
+“Instrumentos financieros derivados de cobertura”.  Sin embargo, al 31 de diciembre de 2022 la 
+Compañía no mantiene este tipo de instrumentos financieros.  
+ 
+Activos financieros al valor razonable con cambios en resultados.  
+ 
+Los activos financieros al valor razonable a través de resultados incluyen los activos financieros 
+mantenidos para la venta y activos financieros designados luego del reconocimiento inicial al valor 
+razonable con efectos en resultados o activos financieros obligatoriamente requeridos de ser medidos 
+al valor razonable.  Los activos financieros son clasificados como mantenidos para la venta si ellos 
+son adquiridos con el propósito de vender o recomprar en el mediano plazo.  
+ 
+Los derivados, incluyendo los derivados implícitos, son clasificados como mantenidos para la venta si 
+ellos son designados como un instrumento financiero de cobertura de efectivo.  Los activos financieros 
+con flujos de efectivo que no son únicamente pagos del principal e intereses son clasificados y 
+medidos al valor razonable con efectos en resultados, independientemente del modelo de negocio.  A 
+pesar de los criterios para que los instrumentos de deuda se clasifiquen a costo amortizado o al valor 
+razonable a través de resultados integrales, como se describe anteriormente, los instrumentos de 
+deuda pueden ser designados al valor razonable a través de ganancias o pérdidas en el 
+reconocimiento inicial si al hacerlo elimina o reduce significativamente una asimetría contable.  Los 
+activos financieros al valor razonable con cambios en resultados se contabilizan en los estados 
+financieros de posición financiera al valor razonable con cambios netos en el valor razonable 
+reconocidos en los estados de resultados. 
+ 
+Esta categoría generalmente aplica al rubro “Cuentas por cobrar comerciales”, a terceros y partes 
+relacionadas, debido a que no pasa una evaluación pagos de principal e intereses sobre el monto del 
+principal pendiente. 
+ 
+Deterioro de activos financieros.  
+ 
+La Compañía reconoce una provisión para pérdidas crediticias esperadas para todos los instrumentos 
+de deuda que no se mantienen a valor razonable con cambios en resultados. 
+ 
+Las provisiones para pérdidas crediticias esperadas se reconocerán para las cuentas por cobrar no 
+comerciales a partes relacionadas y otras cuentas por cobrar.  La Compañía aplicará el “enfoque 
+simplificado” en el cálculo de las provisiones.  Por lo tanto, la Compañía no hace un seguimiento de 
+los cambios en el riesgo de crédito, sino que reconoce una provisión para pérdidas basada en las 
+provisiones de por vida en cada fecha de reporte.  La Compañía determinara una matriz de 
+provisiones que se basa en su experiencia histórica de pérdidas crediticias, ajustada por factores 
+prospectivos específicos para los deudores y el entorno económico.  La Compañía considerara un 
+activo financiero en incumplimiento cuando los pagos contractuales están vencidos de acuerdo con 
+cada contrato.  Sin embargo, en ciertos casos, la Compañía también puede considerar que un activo 
+financiero está en incumplimiento cuando la información interna o externa indica que es poco probable 
+que la Compañía reciba los montos contractuales pendientes en su totalidad antes de tener en cuenta 
+las mejoras crediticias mantenidas por la Compañía. 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2022_Individual_Anual_Informacion Financiera Auditada SL 2022.pdf | PAGINA: 18 | vecina =====
+ 
+- 16 - 
+Un activo financiero se dará de baja cuando no hay una expectativa razonable de recuperar los flujos 
+de efectivo contractuales. 
+ 
+La Compañía aplica el “enfoque simplificado” en el cálculo de las provisiones en 5 pasos: 
+ 
+1. Determinará las agrupaciones apropiadas de las cuentas por cobrar en categorías de categorías 
+compartidas de riesgo de crédito. 
+2. Determinará el período durante el cual las tasas históricas de pérdida son obtenidas para 
+desarrollar estimados de las tasas esperadas de pérdidas futuras. 
+3. Determinará las tasas históricas de pérdida. 
+4. Considerará los factores macroeconómicos prospectivos y ajustes a las tasas históricas de 
+pérdida para reflejar las condiciones económicas futuras relevantes. 
+5. Determinará las pérdidas de crédito esperada. 
+ 
+Al 31 de diciembre de 2022 y de 2021 la Compañía, en base al análisis efectuado, concluyó que el 
+saldo de las cuentas por cobrar no comerciales a parte relacionadas y otras cuentas por cobrar no 
+requieren de una provisión por estimación de perdida crediticia esperada, debido principalmente a que 
+estas cuentas por cobrar son cobradas a su vencimiento y no hay un historial de morosidad.  
+ 
+d) Pasivos financieros - 
+ 
+Reconocimiento y medición inicial - 
+ 
+Los pasivos financieros serán clasificados, en el momento de reconocimiento inicial, como pasivos 
+financieros al valor razonable con cambios en resultados, cuentas por pagar comerciales y diversas, 
+obligaciones financieras o como derivados designados como instrumentos de cobertura, según sea 
+pertinente. 
+ 
+Todos los pasivos financieros se reconocen inicialmente al valor razonable y, en el caso de cuentas 
+por pagar y obligaciones financieras, neto de los costos directamente atribuibles a la transacción. 
+ 
+Medición posterior -  
+ 
+La medición posterior de pasivos financieros depende de su clasificación, tal como se detalla a 
+continuación: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados -  
+ 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen pasivos financieros 
+mantenidos como negociables y pasivos financieros designados en el momento de su reconocimiento 
+inicial al valor razonable con cambios en resultados. 
+ 
+Los pasivos financieros son clasificados como mantenidos para negociar si son adquiridos con el 
+propósito de venderlos en el corto plazo. 
+ 
+Las ganancias o pérdidas sobre pasivos mantenidos como negociables serán reconocidas en el 
+estado de resultados. 
+ 
+Los pasivos financieros designados en su reconocimiento inicial al valor razonable con cambios en 
+resultados son designados en el momento inicial, si y solo si los criterios de la NIIF 9, “Instrumentos 
+financieros”, se cumplen.  
+ 
+Al 31 de diciembre de 2022 y de 2021 la Compañía no cuenta con este tipo de pasivos. 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2016_Individual_Anual_Informe_Auditoria_Santa_Luisa_2016.pdf | PAGINA: 19 | vecina =====
+ 
+ 
+ 10 
+ 
+ 
+ 
+(iii) La Compañía ha transferido sustancialment e todos los riesgos y beneficios del activo                     
+o, de no haber transferido ni retenido su stancialmente todos los riesgos y beneficios                  
+del activo, si ha transferido su control. 
+ 
+En caso que la Compañía transfiera sus derechos de recibir flujos de efectivo de un activo                
+o suscriba un acuerdo de transferencia, pero no  haya transferido sustancialmente la totalidad 
+de los riesgos y aún mantiene el control del activo, debe reco nocer un pasivo asociado.                     
+El activo transferido y el pasivo asociado se miden sobre una ba se que refleje los derechos                    
+y obligaciones que haya retenido la Compañía. 
+ 
+ 
+Pasivos financieros. 
+ 
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se cancela                
+o expira. Cuando un pasivo financiero existente es reemplazado por otro del mismo 
+prestatario en condiciones significativam ente diferentes, o las condiciones son modificadas                
+en forma importante, dicho reemplazo o modificación se trata como una baja del pasivo 
+original y el reconocimiento de un nuevo pasivo, reconociéndose la diferencia entre ambos                     
+en  los resultados del periodo. 
+ 
+ 
+g) Compensación de instrumentos financieros 
+ 
+Los activos y pasivos financieros son compensados y el monto neto es reportado en                     
+el estado de situación financiera si existe un derecho lega l vigente en ese momento                     
+para compensar los montos reconocidos y si existe la intenció n de liquidar en términos                   
+netos o de realizar los activos y liquidar los pasivos simultáneamente. 
+ 
+ 
+h) Riesgo de los Instrumentos Financieros 
+ 
+La evaluaci ón efectuada sobre la naturaleza y alcance de los riesgos de crédito, liquidez,                     
+de mercado y otros están expuestos en la Nota 29 
+ 
+ 
+i) Efectivo y equivalente de efectivo (Nota 4) 
+ 
+El rubro efectivo y equivalente de efectivo presentado en el es tado de situación financiera                     
+y en el estado de flujos de efectivo de la Compañía incluy e todos los saldos en efectivo,                
+en caja, cuentas corrientes y depósitos a plazo cuyos vencimientos son menores a tres meses.  
+ 
+     
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2016_Individual_Anual_Informe_Auditoria_Santa_Luisa_2016.pdf | PAGINA: 20 | puntaje 5 =====
+ 
+ 
+ 11 
+ 
+ 
+j) Cuentas por cobrar comerciales (Nota 5) 
+ 
+Las cuentas por cobrar comerciales son reconocidas inicialm ente a su valor razonable                
+y subsecuentemente se valorizan al cost o amortizado usando el método de interés efectivo               
+y se presentan menos la estimación para créditos que califican como de dudosa 
+recuperación. Esta estimación se reconoce cuando existe evidencia objetiva de que la 
+Compañía no podrá cobrar todos los montos vencidos de acuerdo a los términos            
+originales de la cuenta por cobrar y su monto representa la diferencia entre el valor                     
+en libros del activo y su valor recupera ble. El monto de la estimación es aprobada                     
+por la Gerencia General, en base a los informes de los ases ores legales y se reconoce                  
+como cargo en el estado de resultados. 
+ 
+ 
+k) Inventarios (Nota 8) 
+ 
+Las existencias de concentrados se miden al costo promedio de producción o valor neto                     
+de realización el que resulte menor. El valor neto de realiz ación es el precio de venta                  
+en el curso normal del negocio, menos los costos para po ner las existencias en condición              
+de venta y, los gastos de comercialización y distribución. 
+ 
+Los suministros diversos se miden al costo o a su valor neto de realización el que resulte 
+menor sobre la base del neto del costo promedio. Las existencias por recibir se registran                  
+al costo de identificación específica. 
+ 
+La estimación para desvalorización de los repuestos y sumini stros es calculada sobre                     
+la base de una evaluación técnica e individual que realiza pe riódicamente la Gerencia                     
+y es cargada a resultados en el ejercicio en el cual se determina su necesidad.  
+ 
+ 
+l) Propiedades, planta y equipo (Nota 9) 
+ 
+Las propiedades, planta y equipos, se reconoce n al costo. Los costos por desmantelamiento  
+y remoción de activos (Cierre de Minas) se re conocen como parte de las propiedades, planta 
+y equipos.  
+ 
+Las propiedades, planta y equipo está presentada menos la depreciación acumulada y la 
+pérdida por desvalorización cuando resulte aplicable. La depreciación anual se reconoce 
+como gasto y se determina siguiendo el método de línea recta para asignar su costo                     
+menos su valor residual durante el estimado de su vida útil como sigue: 
+ 
+ Instalaciones fijas  10-30 años 
+ Maquinarias y equipo  5-15 años 
+ Muebles y enseres  5-10 años 
+ Equipo de procesamiento de datos  3-5 años 
+ Unidades de transporte  5-10 años 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2016_Individual_Anual_Informe_Auditoria_Santa_Luisa_2016.pdf | PAGINA: 21 | vecina =====
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+La estimación de la vida útil, valores residuales y el método de depreciación se revisan 
+anualmente para asegurar que sean consiste ntes con el patrón previsto de beneficios 
+económicos  de las partidas de propiedades, planta y equipo. 
+ 
+El importe en libros de un activo se castiga inmediatamente a su importe recuperable                     
+si el importe en libros del activo es mayor que el estimado de su importe  recuperable. 
+ 
+Los desembolsos incurridos después que los bienes del activo fijo han sido puestos                     
+en uso se capitalizan como costo adicional únicamente cuando tales desembolsos generen 
+beneficios económicos futuros y el costo del activo pueda ser medido confiablemente.  
+ 
+ 
+Mantenimiento y reparaciones mayores  
+ 
+Los gastos de mantenimiento y reparaciones mayores comprenden  el costo de reemplazo                   
+de los activos o partes de los activos y los costos de reacondicionamiento. El desembolso                     
+es capitalizado cuando se reemplaza un activo o una parte de un activo que se depreció                     
+de manera separada y que se elimina en libros, y es probable  que los beneficios económicos                
+futuros asociados con dich o activo o parte de activo fluy an a la Compañía durante                     
+un período de vida útil adicional. 
+ 
+Cuando la parte reemplazada del activo no fue consid erada separadamente como un              
+componente, el valor de reemplaz o es usado para estimar el valor en libros de los activos 
+reemplazados, el cual es inmediatamente castigado. 
+ 
+Al 31 de diciembre de 2016 no existen activos fijos abandonados ni unidades disponibles                     
+para su venta. 
+ 
+ 
+m) Activos Intangibles (Nota 10) 
+ 
+Derechos Mineros 
+ 
+La Compañía reconoce como activo inta ngible los derechos por denuncios mineros 
+adquiridos y los derechos de inscripción en las oficinas administrativas del sector.                     
+Los derechos están registrados al costo y son amortizados a partir del inicio de la explotación 
+de los yacimientos. 
+ 
+Costo de exploración  
+ 
+La Compañía carga a los resultados del año los gastos de expl oración de los yacimientos                     
+en el año en que son incurridos. Este procedimiento contable se aplica uniformemente                     
+año a año y está en armonía con las disposiciones de las Leyes General de Minería                     
+y de Impuesto a la Renta. 
+  
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2024_Individual_Anual_INFORME AUDITADO 2024.pdf | PAGINA: 16 | vecina =====
+ 
+ 
+14 
+ 
+proyección de factores económicos, así como la elección de la tasa de descuento a ser 
+aplicada a los flujos de las UGE. 
+ 
+El valor en uso normalmente se determina sobre la base de los flujos de efectivo futuros 
+estimados y descontados. La determinación de si un activo se ha deteriorado y cuánto, 
+involucra estimados de la Gerencia sobre temas altamente inciertos, tales como: las ventas 
+futuras, el efecto de la inflación en los costos y gastos operativos, las tasas de descuento y 
+las perspectivas respecto a las condiciones de mercado. 
+ 
+Los flujos de caja proyectados tienen como base las proyecciones de ganancias operativas 
+de la unidad generadora de efectivo por un período de 5 años y posteriormente aplicando 
+tasa de crecimiento valor terminal. 
+ 
+La tasa de descuento WACC utilizada para el cálculo del flujo de caja descontado es un 
+estimado que implica una evaluación del mercado, del valor del dinero en el tiempo y de los 
+riesgos inherentes a las UGE en donde se genera los flujos de caja la Compañía. 
+ 
+Los flujos de caja proyectados y los supuestos clave han sido aprobados por la Gerencia de 
+la Compañía. Estos corresponden a estimados conservadores que no exceden la tasa de 
+crecimiento a largo plazo de la industria y el mercado en el que opera las UGE y están 
+basados en el conocimiento y experiencia de la Gerencia de la Compañía. 
+ 
+c) Activos financieros – Reconocimiento y medición inicial 
+ 
+Los activos financieros se clasifican, en el reconocimiento inicial, como medidos 
+subsecuentemente al costo amortizado, al valor razonable a través de otros resultados 
+integrales, y valor razonable a través de resultados. 
+ 
+La clasificación de los activos financieros en el momento del reconocimiento inicial depende 
+de las características contractuales del flujo de efectivo de los activos financieros y del modelo 
+de negocios de la Compañía para su gestión. Con la excepción de las cuentas por cobrar 
+comerciales que no contienen un componente de financiamiento significativo, la Compañía 
+mide inicialmente un activo financiero a su valor razonable más sus costos de transacción, en 
+el caso de un activo financiero que no se encuentra a su valor razonable a través de 
+resultados. Para que un activo financiero sea clasificado y medido al costo amortizado o al 
+valor razonable a través de otros resultados integrales, debe dar lugar a flujos de efectivo que 
+son “únicamente pagos de principal e intereses” sobre el monto de capital pendiente. Esta 
+evaluación se realiza a nivel de cada instrumento. El modelo de negocios de la Compañía 
+para la gestión de activos financieros se refiere a cómo administra sus activos financieros 
+para generar flujos de efectivo. El modelo de negocio determina si los flujos de efectivo 
+resultarán de la recopilación de flujos de efectivo contractuales, la venta de activos financieros 
+o ambos. Las compras o ventas de activos financieros que requieren la entrega de activos 
+dentro de un marco de tiempo establecido por regulación o convención en el mercado 
+(transacciones de manera regular) se reconocen en la fecha de negociación.  
+ 
+Medición posterior - 
+ 
+Para efecto de la medición posterior, los activos financieros son clasificados en las siguientes 
+categorías: 
+ 
+- Activos financieros al costo amortizado. 
+- Activos financieros al valor razonable con cambios en otros resultados integrales. 
+- Activos financieros al valor razonable con cambios en resultados.  
+ 
+Activos financieros al costo amortizado – 
+ 
+La Compañía mide los activos financieros al costo amortizado si se cumplen las dos 
+condiciones siguientes: 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2024_Individual_Anual_INFORME AUDITADO 2024.pdf | PAGINA: 17 | puntaje 12 =====
+ 
+ 
+15 
+ 
+- El activo financiero se mantiene dentro de un modelo de negocio con el objetivo de 
+mantener activos financieros para cobrar flujos de efectivo contractuales, y 
+ 
+- Los términos contractuales del activo financiero dan lugar en fechas específicas a los 
+flujos de efectivo que son únicamente pagos del principal e intereses sobre el monto del 
+principal pendiente. 
+ 
+Los activos financieros al costo amortizado son subsecuentemente medidos usando el 
+método de interés efectivo y son sujetas a la evaluación de deterioro. Las ganancias y 
+pérdidas son reconocidas en resultados cuando el activo es dado de baja, modificado o 
+deteriorado. 
+ 
+Esta categoría generalmente aplica a los rubros de “Cuentas por cobrar no comerciales a 
+partes relacionadas y otras cuentas por cobrar”. 
+ 
+Activos financieros al valor razonable con cambios en otros resultados integrales - 
+ 
+Los activos financieros son clasificados y medidos al valor razonable con cambios en otros 
+resultados integrales si ellos son mantenidos en un modelo de negocio cuyo objetivo es 
+colectar flujos contractuales y vender los activos financieros. Esta categoría generalmente 
+aplicara al rubro “Instrumentos financieros derivados de cobertura”. Sin embargo, al 31 de 
+diciembre de 2024 y de 2023 la Compañía no mantiene este tipo de instrumentos financieros. 
+ 
+Activos financieros al valor razonable con cambios en resultados - 
+ 
+Los activos financieros al valor razonable a través de resultados incluyen los activos 
+financieros mantenidos para la venta y activos financieros designados luego del 
+reconocimiento inicial al valor razonable con efectos en resultados o activos financieros 
+obligatoriamente requeridos de ser medidos al valor razonable. Los activos financieros son 
+clasificados como mantenidos para la venta si ellos son adquiridos con el propósito de vender 
+o recomprar en el mediano plazo. 
+ 
+Los derivados, incluyendo los derivados implícitos, son clasificados como mantenidos para la 
+venta si ellos son designados como un instrumento financiero de cobertura de efectivo. Los 
+activos financieros con flujos de efectivo que no son únicamente pagos del principal e 
+intereses son clasificados y medidos al valor razonable con efectos en resultados, 
+independientemente del modelo de negocio. A pesar de los criterios para que los instrumentos 
+de deuda se clasifiquen a costo amortizado o al valor razonable a través de resultados 
+integrales, como se describe anteriormente, los instrumentos de deuda pueden ser 
+designados al valor razonable a través de ganancias o pérdidas en el reconocimiento inicial 
+si al hacerlo elimina o reduce significativamente una asimetría contable. Los activos 
+financieros al valor razonable con cambios en resultados se contabilizan en los estados 
+financieros de posición financiera al valor razonable con cambios netos en el valor razonable 
+reconocidos en los estados de resultados.  
+ 
+Esta categoría generalmente aplica al rubro “Cuentas por cobrar comerciales”, a terceros y 
+partes relacionadas, debido a que no pasa una evaluación de pagos de principal e intereses 
+sobre el monto del principal pendiente. 
+ 
+Deterioro de activos financieros - 
+ 
+La Compañía reconoce una provisión para pérdidas crediticias esperadas para todos los 
+instrumentos de deuda que no se mantienen a valor razonable con cambios en resultados. 
+ 
+Las provisiones para pérdidas crediticias esperadas se reconocerán para las cuentas por 
+cobrar no comerciales a partes relacionadas y otras cuentas por cobrar. La Compañía aplica 
+el “enfoque simplificado” en el cálculo de las provisiones, en el que determina una matriz de 
+provisiones que se basa en su experiencia histórica de pérdidas crediticias, ajustada por 
+factores prospectivos específicos para los deudores y el entorno económico. La Compañía 
+considera un activo financiero en incumplimiento cuando los pagos contractuales están 
+vencidos de acuerdo con cada contrato. Sin embargo, en ciertos casos, la Compañía también  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2024_Individual_Anual_INFORME AUDITADO 2024.pdf | PAGINA: 18 | vecina =====
+ 
+ 
+16 
+ 
+puede considerar que un activo financiero está en incumplimiento cuando la información 
+interna o externa indica que es poco probable que la Compañía reciba los montos 
+contractuales pendientes en su totalidad antes de tener en cuenta las mejoras crediticias 
+mantenidas por la Compañía. 
+ 
+Un activo financiero se dará de baja cuando no hay una expectativa razonable de recuperar 
+los flujos de efectivo contractuales. 
+ 
+La Compañía aplica el “enfoque simplificado” en el cálculo de las provisiones en 5 pasos: 
+ 
+1. Determinará las agrupaciones apropiadas de las cuentas por cobrar en categorías de 
+categorías compartidas de riesgo de crédito. 
+2. Determinará el período durante el cual las tasas históricas de pérdida son obtenidas para 
+desarrollar estimados de las tasas esperadas de pérdidas futuras. 
+3. Determinará las tasas históricas de pérdida. 
+4. Considerará los factores macroeconómicos prospectivos y ajustes a las tasas históricas 
+de pérdida para reflejar las condiciones económicas futuras relevantes. 
+5. Determinará las pérdidas de crédito esperada. 
+ 
+Al 31 de diciembre de 2024 y al 31 de diciembre de 2023 la Compañía, en base al análisis 
+efectuado, concluyó que el saldo de las cuentas por cobrar no comerciales a parte 
+relacionadas y otras cuentas por cobrar no requieren de una provisión por estimación de 
+perdida crediticia esperada, debido principalmente a que estas cuentas por cobrar son 
+cobradas a su vencimiento y no hay un historial de morosidad. 
+ 
+d) Pasivos financieros – Reconocimiento y medición inicial - 
+ 
+Los pasivos financieros serán clasificados, en el momento de reconocimiento inicial, como 
+pasivos financieros al valor razonable con cambios en resultados, cuentas por pagar 
+comerciales y diversas, obligaciones financieras o como derivados designados como 
+instrumentos de cobertura, según sea pertinente. 
+ 
+Todos los pasivos financieros se reconocen inicialmente al valor razonable y, en el caso de 
+cuentas por pagar y obligaciones financieras, neto de los costos directamente atribuibles a la 
+transacción.  
+ 
+Medición posterior - 
+ 
+La medición posterior de pasivos financieros depende de su clasificación, tal como se detalla 
+a continuación: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados - 
+ 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen pasivos 
+financieros mantenidos como negociables y pasivos financieros designados en el momento 
+de su reconocimiento inicial al valor razonable con cambios en resultados. 
+ 
+Los pasivos financieros son clasificados como mantenidos para negociar si son adquiridos 
+con el propósito de venderlos en el corto plazo. 
+ 
+Las ganancias o pérdidas sobre pasivos mantenidos como negociables serán reconocidas en 
+el estado de resultados. 
+ 
+Los pasivos financieros designados en su reconocimiento inicial al valor razonable con 
+cambios en resultados son designados en el momento inicial, si y solo si los criterios de la 
+NIIF 9, “Instrumentos financieros”, se cumplen. 
+ 
+Al 31 de diciembre de 2024 y de 2023 la Compañía no cuenta con este tipo de pasivos. 
+Pasivos financieros al costo amortizado - 
+Después de su reconocimiento inicial, las deudas y préstamos que devengan interés se 
+medirán posteriormente a su costo amortizado usando el método de la tasa de interés 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2021_Individual_Anual_PWC Auditoria SL 21.pdf | PAGINA: 14 | vecina =====
+ 
+- 12 - 
+cuando corresponde, constituye provisiones sobre los montos que espera deberá pagar a las 
+autoridades tributarias.  Asimismo, en forma mensual efectúa pagos a cuenta del impuesto a las 
+ganancias que se muestran en el estado de situación financiera como crédito por impuesto a las 
+ganancias cuando al término del período no se compensa totalmente con el impuesto resultante anual 
+por pagar a la administración tributaria. 
+ 
+c) Activos financieros - 
+ 
+Reconocimiento y medición inicial -  
+  
+Los activos financieros se clasificarán, en el reconocimiento inicial, como medidos subsecuentemente 
+al costo amortizado, al valor razonable a través de otros resultados integrales, y valor razonable a 
+través de resultados. 
+ 
+La clasificación de los activos financieros en el momento del reconocimiento inicial depende de las 
+características contractuales del flujo de efectivo de los activos financieros y del modelo de negocios 
+de la Compañía para su gestión. Con la excepción de las cuentas por cobrar comerciales que no 
+contienen un componente de financiamiento significativo, la Compañía mide inicialmente un activo 
+financiero a su valor razonable más sus costos de transacción, en el caso de un activo financiero que 
+no se encuentra a su valor razonable a través de resultados. Para que un activo financiero sea 
+clasificado y medido al costo amortizado o al valor razonable a través de otros resultados integrales, 
+debe dar lugar a flujos de efectivo que son “únicamente pagos de principal e intereses” sobre el monto 
+de capital pendiente. Esta evaluación se realiza a nivel de cada instrumento. El modelo de negocios 
+de la Compañía para la gestión de activos financieros se refiere a cómo administra sus activos 
+financieros para generar flujos de efectivo. El modelo de negocio determina si los flujos de efectivo 
+resultarán de la recopilación de flujos de efectivo contractuales, la venta de activos financieros o 
+ambos. Las compras o ventas de activos financieros que requieren la entrega de activos dentro de un 
+marco de tiempo establecido por regulación o convención en el mercado (transacciones de manera 
+regular) se reconocen en la fecha de negociación. 
+ 
+Medición posterior -   
+ 
+Para efecto de la medición posterior, los activos financieros son clasificados en las siguientes 
+categorías: 
+ 
+- Activos financieros al costo amortizado. 
+- Activos financieros al valor razonable con cambios en otros resultados integrales. 
+- Activos financieros al valor razonable con cambios en resultados. 
+ 
+Activos financieros al costo amortizado -  
+ 
+La Compañía mide los activos financieros al costo amortizado si se cumplen las dos condiciones 
+siguientes: 
+ 
+- El activo financiero se mantiene dentro de un modelo de negocio con el objetivo de mantener 
+activos financieros para cobrar flujos de efectivo contractuales, y  
+ 
+- Los términos contractuales del activo financiero dan lugar en fechas específicas a los flujos de 
+efectivo que son únicamente pagos del principal e intereses sobre el monto del principal 
+pendiente. 
+ 
+Los activos financieros al costo amortizado son subsecuentemente medidos usando el método de 
+interés efectivo y son sujetas a la evaluación de deterioro. Las ganancias y pérdidas son 
+reconocidas en resultados cuando el activo es dado de baja, modificado o deteriorado. 
+ 
+Esta categoría generalmente aplica a los rubros de “Cuentas por cobrar a partes relacionadas y otras 
+cuentas por cobrar”.  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2021_Individual_Anual_PWC Auditoria SL 21.pdf | PAGINA: 15 | puntaje 12 =====
+ 
+- 13 - 
+Activos financieros al valor razonable con cambios en otros resultados integrales -  
+ 
+Los activos financieros son clasificados y medidos al valor razonable con cambios en otros resultados 
+integrales si ellos son mantenidos en un modelo de negocio cuyo objetivo es colectar flujos 
+contractuales y vender los activos financieros. Esta categoría generalmente aplicara al rubro 
+“Instrumentos financieros derivados de cobertura”. Sin embargo al 31 de diciembre de 2021 la 
+Compañía no mantiene este tipo de instrumentos financieros.  
+ 
+Activos financieros al valor razonable con cambios en resultados.  
+ 
+Los activos financieros al valor razonable a través de resultados incluyen los activos financieros 
+mantenidos para la venta y activos financieros designados luego del reconocimiento inicial al valor 
+razonable con efectos en resultados o activos financieros obligatoriamente requeridos de ser medidos 
+al valor razonable. Los activos financieros son clasificados como mantenidos para la venta si ellos son 
+adquiridos con el propósito de vender o recomprar en el mediano plazo.  
+ 
+Los derivados, incluyendo los derivados implícitos, son clasificados como mantenidos para la venta si 
+ellos son designados como un instrumento financiero de cobertura de efectivo. Los activos financieros 
+con flujos de efectivo que no son únicamente pagos del principal e intereses son clasificados y 
+medidos al valor razonable con efectos en resultados, independientemente del modelo de negocio. A 
+pesar de los criterios para que los instrumentos de deuda se clasifiquen al costo amortizado o al valor 
+razonable a través de resultados integrales, como se describe anteriormente, los instrumentos de 
+deuda pueden ser designados al valor razonable a través de ganancias o pérdidas en el 
+reconocimiento inicial si al hacerlo elimina o reduce significativamente una asimetría contable. Los 
+activos financieros al valor razonable con cambios en resultados se contabilizan en los estados 
+financieros de posición financiera al valor razonable con cambios netos en el valor razonable 
+reconocidos en los estados de resultados. 
+ 
+Esta categoría generalmente aplica al rubro “Cuentas por cobrar comerciales”, debido a que no pasa 
+una evaluación pagos de principal e intereses sobre el monto del principal pendiente. 
+ 
+Deterioro de activos financieros.  
+ 
+La Compañía reconoce una provisión para pérdidas crediticias esperadas para todos los instrumentos 
+de deuda que no se mantienen a valor razonable con cambios en resultados. 
+ 
+Las provisiones para pérdidas crediticias esperadas se reconocerán para las cuentas por cobrar 
+comerciales, cuentas por cobrar a partes relacionadas y otras cuentas por cobrar. La Compañía 
+aplicará el “enfoque simplificado” en el cálculo de las provisiones. Por lo tanto, la Compañía no hace 
+un seguimiento de los cambios en el riesgo de crédito, sino que reconoce una provisión para pérdidas 
+basada en las provisiones de por vida en cada fecha de reporte. La Compañía determinara una matriz 
+de provisiones que se basa en su experiencia histórica de pérdidas crediticias, ajustada por factores 
+prospectivos específicos para los deudores y el entorno económico. La Compañía considerara un 
+activo financiero en incumplimiento cuando los pagos contractuales están vencidos de acuerdo con 
+cada contrato. Sin embargo, en ciertos casos, la Compañía también puede considerar que un activo 
+financiero está en incumplimiento cuando la información interna o externa indica que es poco probable 
+que la Compañía reciba los montos contractuales pendientes en su totalidad antes de tener en cuenta 
+las mejoras crediticias mantenidas por la Compañía. 
+ 
+Un activo financiero se dará de baja cuando no hay una expectativa razonable de recuperar los flujos 
+de efectivo contractuales. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2021_Individual_Anual_PWC Auditoria SL 21.pdf | PAGINA: 16 | vecina =====
+ 
+- 14 - 
+La compañía aplicará el “enfoque simplificado” en el cálculo de las provisiones en 5 pasos. 
+ 
+1.- Determinará las agrupaciones apropiadas de las cuentas por cobrar en categorías de categorías 
+compartidas de riesgo de crédito. 
+2.- Determinará el período durante el cual las tasas históricas de pérdida son obtenidas para 
+desarrollar estimados de las tasas esperadas de pérdidas futuras. 
+3.- Determinará las tasas históricas de pérdida. 
+4.- Considerará los factores macroeconómicos prospectivos y ajustes a las tasas históricas de 
+pérdida para reflejar las condiciones económicas futuras relevantes. 
+5.- Determinará las pérdidas de crédito esperada. 
+ 
+Al 31 de diciembre de 2021 y de 2020 la Compañía, en base al análisis efectuado, concluyó que el 
+saldo de las cuentas por cobrar a parte relacionadas y otras cuentas por cobrar no requieren de una 
+provisión por estimación de perdida crediticia esperada, debido principalmente a que estas cuentas 
+por cobrar son cobradas a su vencimiento y no hay un historial de morosidad.  
+  
+d) Pasivos financieros - 
+ 
+Reconocimiento y medición inicial - 
+ 
+Los pasivos financieros serán clasificados, en el momento de reconocimiento inicial, como pasivos 
+financieros al valor razonable con cambios en resultados, cuentas por pagar comerciales y diversas, 
+obligaciones financieras o como derivados designados como instrumentos de cobertura, según sea 
+pertinente. 
+ 
+Todos los pasivos financieros se reconocen inicialmente al valor razonable y, en el caso de cuentas 
+por pagar y obligaciones financieras, neto de los costos directamente atribuibles a la transacción. 
+ 
+Los pasivos financieros de la Compañía incluyen cuentas por pagar comerciales y diversas, 
+préstamos bancarios, obligaciones e instrumentos financieros derivados. 
+ 
+Medición posterior -  
+ 
+La medición posterior de pasivos financieros depende de su clasificación, tal como se detalla a 
+continuación: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados -  
+ 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen pasivos financieros 
+mantenidos como negociables y pasivos financieros designados en el momento de su reconocimiento 
+inicial al valor razonable con cambios en resultados. 
+ 
+Los pasivos financieros son clasificados como mantenidos para negociar si son adquiridos con el 
+propósito de venderlos en el corto plazo. 
+ 
+Las ganancias o pérdidas sobre pasivos mantenidos como negociables serán reconocidas en el 
+estado de resultados. 
+ 
+Los pasivos financieros designados en su reconocimiento inicial al valor razonable con cambios en 
+resultados son designados en el momento inicial, si y solo si los criterios de la NIIF 9 se cumplen. La 
+Compañía ha designado al valor razonable con cambios en resultados al pasivo por contraprestación 
+contingente. 
+ 
+Al 31 de diciembre de 2021 y de 2020 la Compañía no cuenta con este tipo de pasivos. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2021_Individual_Anual_PWC Auditoria SL 21.pdf | PAGINA: 17 | vecina =====
+ 
+- 15 - 
+Pasivos financieros al costo amortizado - 
+ 
+Después de su reconocimiento inicial, las deudas y préstamos que devengan interés se medirán 
+posteriormente a su costo amortizado usando el método de la tasa de interés efectiva. Las ganancias 
+y pérdidas se reconocen en el estado de resultados cuando los pasivos son dados de baja, así como 
+a través del proceso de amortización. 
+ 
+El costo amortizado se calculará tomando en cuenta cualquier descuento o prima al momento de la 
+adquisición y los honorarios o costos que sean parte integrante de la tasa de interés efectiva. La 
+amortización según el método de la tasa de interés efectiva se presenta en el rubro de “Costos 
+financieros” en el estado de resultados. Esta categoría generalmente aplica a las deudas y préstamos 
+que generan intereses. Al 31 de diciembre de 2021 y de 2020 los pasivos incluidos en esta categoría 
+comprenden a “Obligaciones financieras”, “Cuentas por pagar comerciales”, “Cuentas por pagar a 
+partes relacionadas” y “Otras cuentas por pagar”. 
+ 
+e) Baja de activos y pasivos financieros - 
+ 
+Activos financieros. 
+ 
+Un activo financiero (o, cuando sea aplicable, una parte de un activo financiero o una parte de un 
+grupo de activos financieros similares) es dado de baja cuando: 
+ 
+• Los derechos de recibir flujos de efectivo de dicho activo han terminado, o 
+ 
+• La Compañía ha transferido sus derechos a recibir flujos de efectivo del activo o ha asumido 
+una obligación de pagar a una tercera parte la totalidad de los flujos de efectivo recibidos en 
+virtud de un acuerdo de transferencia; y: 
+ 
+- la Compañía ha transferido sustancialmente la totalidad de sus riesgos y beneficios del 
+activo o, 
+- la Compañía no ha transferido ni retenido sustancialmente la totalidad de los riesgos y 
+beneficios del activo, pero ha transferido el control del activo. 
+ 
+Cuando la Compañía transfiere sus derechos a recibir flujos de efectivo de un activo o suscribe un 
+acuerdo de transferencia, evalúa si y en qué medida ha retenido los riesgos y beneficios de la 
+propiedad. Cuando no ha transferido ni retenido sustancialmente todos los riesgos y beneficios del 
+activo, ni ha transferido el control del activo, el activo es reconocido en la medida que la Compañía 
+continúe involucrado con el activo. En este caso, la Compañía también reconoce el pasivo asociado. 
+El activo transferido y el pasivo asociado se miden sobre una base que refleje derechos y obligaciones 
+que la Compañía ha retenido. 
+ 
+Pasivos financieros -  
+ 
+Un pasivo financiero será dado de baja cuando la obligación derivada del pasivo se termina, se 
+cancela o expira. Cuando un pasivo financiero existente es reemplazado por otro del mismo 
+prestatario en condiciones significativamente diferentes, o las condiciones del pasivo existente son 
+modificadas en forma importante, dicho reemplazo o modificación se trata como una baja del pasivo 
+original y el reconocimiento de un nuevo pasivo. La diferencia en los valores en libros respectivos se 
+reconoce en el estado de resultados. 
+ 
+f) Compensación de instrumentos financieros - 
+ 
+Los activos y pasivos financieros son compensados y el monto neto es reportado en el estado de 
+situación financiera si existe un derecho legal vigente en ese momento para compensar los montos 
+reconocidos y si existe la intención de liquidar en términos netos o de realizar los activos y liquidar los 
+pasivos simultáneamente. 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2021_Individual_Anual_PWC Auditoria SL 21.pdf | PAGINA: 18 | puntaje 5 =====
+ 
+- 16 - 
+ 
+g) Riesgo de los Instrumentos Financieros - 
+ 
+La evaluación efectuada sobre la naturaleza y alcance de los riesgos de crédito, liquidez, de mercado 
+y otros están expuestos en la Nota 30. 
+ 
+h) Efectivo y equivalente de efectivo (Nota 4) -  
+ 
+El rubro efectivo y equivalente de efectivo presentado en el estado de situación financiera y en el 
+estado de flujos de efectivo de la Compañía incluye todos los saldos en efectivo, en caja y cuentas 
+corrientes cuyos vencimientos son menores a tres meses. 
+ 
+i) Cuentas por cobrar comerciales (Nota 5) -  
+ 
+Las cuentas por cobrar comerciales son reconocidas inicialmente a su valor razonable y 
+subsecuentemente se valorizan al costo amortizado usando el método de interés efectivo y se 
+presentan menos la estimación para créditos que califican como de dudosa recuperación. Esta 
+estimación se reconoce cuando existe evidencia objetiva de que la Compañía no podrá cobrar todos 
+los montos vencidos de acuerdo con los términos originales de la cuenta por cobrar y su monto 
+representa la diferencia entre el valor en libros del activo y su valor recuperable. El monto de la 
+estimación es aprobado por la Gerencia General, en base a los informes de los asesores legales y se 
+reconoce como cargo en el estado de resultados. 
+ 
+j) Inventarios (Nota 8) - 
+ 
+Los inventarios se miden al costo promedio de producción o al valor neto de realización, el que resulte 
+menor. El valor neto de realización es el precio de venta en el curso normal del negocio, menos los 
+costos para poner las existencias en condición de venta y, los gastos de comercialización y 
+distribución. 
+ 
+El costo de los productos terminados comprende el costo de la extracción del mineral, mano de 
+obra directa, los costos directos y gastos generales y excluye los gastos de financiamiento y las 
+diferencias en cambio. 
+ 
+Los suministros diversos se miden al costo o a su valor neto de realización el que resulte menor sobre 
+la base del neto del costo promedio. Las existencias por recibir se registran al costo de identificación 
+específica. 
+ 
+La estimación para desvalorización de los repuestos y suministros es calculada sobre la base de una 
+evaluación técnica e individual que realiza periódicamente la Gerencia y es cargada a resultados en el 
+ejercicio en el cual se determina su necesidad. 
+ 
+k) Propiedades, planta y equipo (Nota 9) - 
+ 
+Las propiedades, planta y equipos, se reconocen al costo. Los costos por desmantelamiento y 
+remoción de activos (Cierre de Minas) se reconocen como parte de las propiedades, planta y equipos.  
+ 
+Las propiedades, planta y equipo están presentada menos la depreciación acumulada y la pérdida por 
+desvalorización cuando resulte aplicable. La depreciación anual se reconoce como gasto y se 
+determina siguiendo el método de línea recta para asignar su costo menos su valor residual durante el 
+estimado de su vida útil como sigue: 
+ 
+• Instalaciones fijas 10-30 años 
+• Maquinarias y equipo 5-15 años 
+• Muebles y enseres 5-10 años 
+• Equipo de procesamiento de datos 3-5 años 
+• Unidades de transporte 5-10 años 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2021_Individual_Anual_PWC Auditoria SL 21.pdf | PAGINA: 19 | vecina =====
+ 
+- 17 - 
+ 
+La estimación de la vida útil, valores residuales y el método de depreciación se revisan anualmente 
+para asegurar que sean consistentes con el patrón previsto de beneficios económicos de las partidas 
+de propiedades, planta y equipo. 
+ 
+El importe en libros de un activo se castiga inmediatamente a su importe recuperable si el importe en 
+libros del activo es mayor que el estimado de su importe recuperable. 
+ 
+Los desembolsos incurridos después que los bienes del activo fijo han sido puestos en uso se 
+capitalizan como costo adicional únicamente cuando tales desembolsos generen beneficios 
+económicos futuros y el costo del activo pueda ser medido confiablemente. 
+ 
+Los activos en etapa de construcción se capitalizan como un componente separado.  A su 
+culminación, el costo de estos activos se transfiere a su categoría definitiva.  Los trabajos en curso no 
+se deprecian. 
+ 
+Mantenimiento y reparaciones mayores - 
+ 
+Los gastos de mantenimiento y reparaciones mayores comprenden el costo de reemplazo de los 
+activos o partes de los activos y los costos de reacondicionamiento. El desembolso es capitalizado 
+cuando se reemplaza un activo o una parte de un activo que se depreció de manera separada y que 
+se elimina en libros, y es probable que los beneficios económicos futuros asociados con dicho activo o 
+parte de activo fluyan a la Compañía durante un período de vida útil adicional. 
+ 
+Cuando la parte reemplazada del activo no fue considerada separadamente como un componente, el 
+valor de reemplazo es usado para estimar el valor en libros de los activos reemplazados, el cual es 
+inmediatamente castigado. 
+ 
+l) Activos Intangibles (Nota 10) - 
+ 
+Derechos Mineros - 
+ 
+La Compañía reconoce como activo intangible los derechos por denuncios mineros adquiridos y los 
+derechos de inscripción en las oficinas administrativas del sector. Los derechos están registrados al 
+costo y son amortizados a partir del inicio de la explotación de los yacimientos. 
+ 
+m) Costo de exploración y evaluación - 
+ 
+La Compañía carga a los resultados del año los gastos de exploración de los yacimientos en el año en 
+que son incurridos. Este procedimiento contable se aplica uniformemente año a año.  
+  
+n) Deterioro de activos no financieros - 
+ 
+Los activos sujetos a depreciación y amortización se someten a pruebas de deterioro cuando se 
+producen eventos o circunstancias que indican que su valor en libros podría no recuperarse.  Las 
+pérdidas por deterioro se miden como el monto en el que el valor en libros del activo excede a su valor 
+recuperable y se reconocen en estado de resultados integrales. 
+ 
+El valor recuperable de un activo de larga vida es el mayor valor entre su valor razonable menos los 
+costos de venta y su valor de uso.  El valor razonable menos los costos de venta es el importe que se 
+puede obtener al venderlo, en una transacción efectuada en condiciones de independencia mutua 
+entre partes bien informadas, menos los correspondientes costos de venta.  El valor de uso es el valor 
+presente de los flujos futuros de efectivo estimados que se espera obtener de un activo. 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2015_Individual_Anual_Informacion Financiera Auditada 2015.pdf | PAGINA: 19 | vecina =====
+10 
+ 
+ 
+La medición posterior de pasivos financieros depende de su clasificación, tal como se detalla 
+a continuación: 
+ 
+ 
+Pasivos financieros al valor razonable con cambios en resultados. 
+ 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen pasivos 
+financieros mantenidos como negociables y pasivos financieros designados en el momento               
+de su reconocimiento inicial al valor razonable con cambios en resultados.  
+ 
+ 
+Préstamos que devengan intereses. 
+ 
+Después de su reconocimiento inicial, los préstamos que devengan intereses se miden 
+posteriormente a su costo amortizado usando el método de la tasa de interés efectiva.               
+Las ganancias y pérdidas se reconocen en el estado de resultados cuando los pasivos                      
+son dados de baja, así como a través del proceso de amortización de la tasa de interés 
+efectiva. Los costos amortizados se calculan tomando en cuenta cualquier descuento                
+o prima sobre la adquisición y las comisiones o costos que sean parte integrante de la  tasa             
+de interés efectiva. La amortización de la tasa de interés efectiva se incluye en el costo 
+financiero en el estado de resultados. 
+ 
+ 
+f) Baja de activos y pasivos financieros 
+ 
+Activos financieros. 
+ 
+Un activo financiero (o, cuando sea aplicable una parte de un activo financiero o una parte              
+de un grupo de activos financieros similares) es dado de baja cuando: 
+ 
+(i) Los derechos de recibir flujos de efectivo del activo han terminado; o 
+(ii) La Compañía ha transferido sus derechos a recibir flujos de efectivo del activo                    
+o ha asumido una obligación de pagar la totalidad de los flujos de efectivo recibidos 
+inmediatamente a una tercera parte bajo un acuerdo de traspaso; y 
+(iii) La Compañía ha transferido sustancialmente todos los riesgos y beneficios del activo               
+o, de no haber transferido ni retenido sustancialmente todos los riesgos                      
+y beneficios del activo, si ha transferido su control. 
+ 
+En caso que la Compañía transfiera sus derechos de recibir flujos de efectivo de un activo                
+o suscriba un acuerdo de transferencia, pero no haya transferido sustancialmente la totalidad 
+de los riesgos y aún mantiene el control del activo, debe reconocer un pasivo asociado. El 
+activo transferido y el pasivo asociado se miden sobre una base que refleje los derechos y 
+obligaciones que haya retenido la Compañía. 
+ 
+ 
+ 
+ 
+ Pasivos financieros. 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2015_Individual_Anual_Informacion Financiera Auditada 2015.pdf | PAGINA: 20 | puntaje 5 =====
+11 
+ 
+ 
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se cancela                
+o expira. Cuando un pasivo financiero existente es reemplazado por otro del mismo 
+prestatario en condiciones significativamente diferentes, o las condiciones son modificadas 
+en forma importante, dicho reemplazo o modificación se trata como una baja del pasivo 
+original y el reconocimiento de un nuevo pasivo, reconociéndose la diferencia entre ambos 
+en los resultados del periodo. 
+ 
+ 
+g) Compensación de instrumentos financieros 
+ 
+Los activos y pasivos financieros son compensados y el monto neto es reportado en                       
+el estado de situación financiera si existe un derecho legal vigente en ese momento                     
+para compensar los montos reconocidos y si existe la intención de liquidar en términos netos 
+o de realizar los activos y liquidar los pasivos simultáneamente. 
+ 
+ 
+h) Efectivo y equivalente de efectivo (Nota 4) 
+ 
+El rubro efectivo y equivalentes de efectivo presentados en el estado de situación financiera y 
+en el estado de flujos de efectivo de la Compañía incluyen todos los saldos en efectivo,                
+en caja, cuentas corrientes y depósitos a plazo cuyos vencimientos son menores a tres meses.  
+ 
+     
+ 
+i) Cuentas por cobrar comerciales (Nota 5) 
+ 
+Las cuentas por cobrar comerciales son reconocidas inicialmente a su valor razonable                
+y subsecuentemente se valorizan al costo amortizado usando el método de interés efectivo               
+y se presentan menos la estimación para créditos que califican como de dudosa recuperación. 
+Esta estimación se reconoce cuando existe evidencia objetiva de que la Compañía no podrá 
+cobrar todos los montos vencidos de acuerdo a los términos originales de la cuenta por cobrar 
+y su monto representa la diferencia entre el valor en libros del activo y su valor recuperable. 
+El monto de la estimación es aprobada por la Gerencia General, en base a los informes de los 
+asesores legales y se reconoce como cargo en el estado de resultados. 
+ 
+ 
+j) Inventarios (Nota 7) 
+ 
+Las existencias de concentrados se miden al costo promedio de producción o valor neto                      
+de realización el que resulte menor. El valor neto de realización es el precio de venta                  
+en el curso normal del negocio, menos los costos para poner las existencias en condición              
+de venta y, los gastos de comercialización y distribución. 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2015_Individual_Anual_Informacion Financiera Auditada 2015.pdf | PAGINA: 21 | vecina =====
+12 
+ 
+ 
+Los suministros diversos se miden al costo o a su valor neto de realización el que resulte 
+menor sobre la base del neto del costo promedio. Las existencias por recibir se registran                  
+al costo de identificación específica. 
+ 
+La estimación para desvalorización de los repuestos y suministros es calculada sobre                     
+la base de una evaluación técnica e individual que realiza periódicamente la Gerencia                      
+y es cargada a resultados en el ejercicio en el cual se determina su necesidad.  
+ 
+ 
+k) Propiedades, planta y equipo (Nota 8) 
+ 
+Las propiedades, planta y equipos, se reconocen al costo. Los costos por desmantelamiento                 
+y remoción de activos (Cierre de Minas) se reconocen como parte de las propiedades, planta                  
+y equipos. La política sobre provisión de cierre de minas se describe en la Nota 2 b i) 
+ 
+Las propiedades, planta y equipo está presentada menos la depreciación acumulada y la 
+pérdida por desvalorización cuando resulte aplicable. La depreciación anual se reconoce 
+como gasto y se determina siguiendo el método de línea recta para asignar su costo                       
+o monto revaluado, menos su valor residual durante el estimado de su vida útil como sigue: 
+ 
+ Instalaciones fijas  10-30 años 
+ Maquinarias y equipo  5-15 años 
+ Muebles y enseres  5-10 años 
+ Equipo de procesamiento de datos  3-5 años 
+ Unidades de transporte  5-10 años 
+ 
+La estimación de la vida útil, valores residuales y el método de depreciación se revisan 
+anualmente para asegurar que sean consistentes con el patrón previsto de beneficios 
+económicos  de las partidas de propiedades, planta y equipo. 
+ 
+El importe en libros de un activo se castiga inmediatamente a su importe recuperable                      
+si el importe en libros del activo es mayor que el estimado de su importe  recuperable. 
+ 
+Los desembolsos incurridos después que los bienes del activo fijo han sido puestos                      
+en uso se capitalizan como costo adicional únicamente cuando tales desembolsos generen 
+beneficios económicos futuros y el costo del activo pueda ser medido confiablemente.  
+ 
+ 
+Mantenimiento y reparaciones mayores  
+ 
+Los gastos de mantenimiento y reparaciones mayores comprenden el costo de reemplazo                   
+de los activos o partes de los activos y los costos de reacondicionamiento. El desembolso                       
+es capitalizado cuando se reemplaza un activo o una parte de un activo que se depreció                      
+de manera separada y que se elimina en libros, y es probable que los beneficios económicos                
+futuros asociados con dicho activo o parte de activo fluyan a la Compañía durante                      
+un período de vida útil adicional. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2025_Individual_Anual_INFORME AUDITADO 2025.pdf | PAGINA: 16 | vecina =====
+ 
+ 
+14 
+ 
+proyección de factores económicos, así como la elección de la tasa de descuento a ser 
+aplicada a los flujos de las UGE. 
+ 
+El valor en uso normalmente se determina sobre la base de los flujos de efectivo futuros 
+estimados y descontados. La determinación de si un activo se ha deteriorado y cuánto, 
+involucra estimados de la Gerencia sobre temas altamente inciertos, tales como: las ventas 
+futuras, el efecto de la inflación en los costos y gastos operativos, las tasas de descuento y 
+las perspectivas respecto a las condiciones de mercado. 
+ 
+Los flujos de caja proyectados tienen como base las proyecciones de ganancias operativas 
+de la unidad generadora de efectivo por un período de 5 años y posteriormente aplicando 
+tasa de crecimiento valor terminal. 
+ 
+La tasa de descuento WACC utilizada para el cálculo del flujo de caja descontado es un 
+estimado que implica una evaluación del mercado, del valor del dinero en el tiempo y de los 
+riesgos inherentes a las UGE en donde se genera los flujos de caja la Compañía. 
+ 
+Los flujos de caja proyectados y los supuestos clave han sido aprobados por la Gerencia de 
+la Compañía. Estos corresponden a estimados conservadores que no exceden la tasa de 
+crecimiento a largo plazo de la industria y el mercado en el que opera las UGE y están 
+basados en el conocimiento y experiencia de la Gerencia de la Compañía. 
+ 
+c) Activos financieros – Reconocimiento y medición inicial 
+ 
+Los activos financieros se clasifican, en el reconocimiento inicial, como medidos 
+subsecuentemente al costo amortizado, al valor razonable a través de otros resultados 
+integrales, y valor razonable a través de resultados. 
+ 
+La clasificación de los activos financieros en el momento del reconocimiento inicial depende 
+de las características contractuales del flujo de efectivo de los activos financieros y del modelo 
+de negocios de la Compañía para su gestión. Con la excepción de las cuentas por cobrar 
+comerciales que no contienen un componente de financiamiento significativo, la Compañía 
+mide inicialmente un activo financiero a su valor razonable más sus costos de transacción, en 
+el caso de un activo financiero que no se encuentra a su valor razonable a través de 
+resultados. Para que un activo financiero sea clasificado y medido al costo amortizado o al 
+valor razonable a través de otros resultados integrales, debe dar lugar a flujos de efectivo que 
+son “únicamente pagos de principal e intereses” sobre el monto de capital pendiente. Esta 
+evaluación se realiza a nivel de cada instrumento. El modelo de negocios de la Compañía 
+para la gestión de activos financieros se refiere a cómo administra sus activos financieros 
+para generar flujos de efectivo. El modelo de negocio determina si los flujos de efectivo 
+resultarán de la recopilación de flujos de efectivo contractuales, la venta de activos financieros 
+o ambos. Las compras o ventas de activos financieros que requieren la entrega de activos 
+dentro de un marco de tiempo establecido por regulación o convención en el mercado 
+(transacciones de manera regular) se reconocen en la fecha de negociación.  
+ 
+Medición posterior - 
+ 
+Para efecto de la medición posterior, los activos financieros son clasificados en las siguientes 
+categorías: 
+ 
+- Activos financieros al costo amortizado. 
+- Activos financieros al valor razonable con cambios en otros resultados integrales. 
+- Activos financieros al valor razonable con cambios en resultados.  
+ 
+Activos financieros al costo amortizado – 
+ 
+La Compañía mide los activos financieros al costo amortizado si se cumplen las dos 
+condiciones siguientes: 
+ 
+- El activo financiero se mantiene dentro de un modelo de negocio con el objetivo de 
+mantener activos financieros para cobrar flujos de efectivo contractuales, y 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2025_Individual_Anual_INFORME AUDITADO 2025.pdf | PAGINA: 17 | puntaje 12 =====
+ 
+ 
+15 
+ 
+ 
+- Los términos contractuales del activo financiero dan lugar en fechas específicas a los 
+flujos de efectivo que son únicamente pagos del principal e intereses sobre el monto del 
+principal pendiente. 
+ 
+Los activos financieros al costo amortizado son subsecuentemente medidos usando el 
+método de interés efectivo y son sujetas a la evaluación de deterioro. Las ganancias y 
+pérdidas son reconocidas en resultados cuando el activo es dado de baja, modificado o 
+deteriorado. 
+ 
+Esta categoría generalmente aplica a los rubros de “Cuentas por cobrar no comerciales a 
+partes relacionadas y otras cuentas por cobrar”. 
+ 
+Activos financieros al valor razonable con cambios en otros resultados integrales - 
+ 
+Los activos financieros son clasificados y medidos al valor razonable con cambios en otros 
+resultados integrales si ellos son mantenidos en un modelo de negocio cuyo objetivo es 
+colectar flujos contractuales y vender los activos financieros. Esta categoría generalmente 
+aplicara al rubro “Instrumentos financieros derivados de cobertura”. Sin embargo, al 31 de 
+diciembre de 2025 y de 2024 la Compañía no mantiene este tipo de instrumentos financieros. 
+ 
+Activos financieros al valor razonable con cambios en resultados - 
+ 
+Los activos financieros al valor razonable a través de resultados incluyen los activos 
+financieros mantenidos para la venta y activos financieros designados luego del 
+reconocimiento inicial al valor razonable con efectos en resultados o activos financieros 
+obligatoriamente requeridos de ser medidos al valor razonable. Los activos financieros son 
+clasificados como mantenidos para la venta si ellos son adquiridos con el propósito de vender 
+o recomprar en el mediano plazo. 
+ 
+Los derivados, incluyendo los derivados implícitos, son clasificados como mantenidos para la 
+venta si ellos son designados como un instrumento financiero de cobertura de efectivo. Los 
+activos financieros con flujos de efectivo que no son únicamente pagos del principal e 
+intereses son clasificados y medidos al valor razonable con efectos en resultados, 
+independientemente del modelo de negocio. A pesar de los criterios para que los instrumentos 
+de deuda se clasifiquen a costo amortizado o al valor razonable a través de resultados 
+integrales, como se describe anteriormente, los instrumentos de deuda pueden ser 
+designados al valor razonable a través de ganancias o pérdidas en el reconocimiento inicial 
+si al hacerlo elimina o reduce significativamente una asimetría contable. Los activos 
+financieros al valor razonable con cambios en resultados se contabilizan en los estados 
+financieros de posición financiera al valor razonable con cambios netos en el valor razonable 
+reconocidos en los estados de resultados.  
+ 
+Esta categoría generalmente aplica al rubro “Cuentas por cobrar comerciales”, a terceros y 
+partes relacionadas, debido a que no pasa una evaluación de pagos de principal e intereses 
+sobre el monto del principal pendiente. 
+ 
+Deterioro de activos financieros - 
+ 
+La Compañía reconoce una provisión para pérdidas crediticias esperadas para todos los 
+instrumentos de deuda que no se mantienen a valor razonable con cambios en resultados. 
+ 
+Las provisiones para pérdidas crediticias esperadas se reconocerán para las cuentas por 
+cobrar no comerciales a partes relacionadas y otras cuentas por cobrar. La Compañía aplica 
+el “enfoque simplificado” en el cálculo de las provisiones, en el que determina una matriz de 
+provisiones que se basa en su experiencia histórica de pérdidas crediticias, ajustada por 
+factores prospectivos específicos para los deudores y el entorno económico. La Compañía 
+considera un activo financiero en incumplimiento cuando los pagos contractuales están 
+vencidos de acuerdo con cada contrato. Sin embargo, en ciertos casos, la Compañía también 
+puede considerar que un activo financiero está en incumplimiento cuando la información 
+interna o externa indica que es poco probable que la Compañía reciba los montos 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2025_Individual_Anual_INFORME AUDITADO 2025.pdf | PAGINA: 18 | vecina =====
+ 
+ 
+16 
+ 
+contractuales pendientes en su totalidad antes de tener en cuenta las mejoras crediticias 
+mantenidas por la Compañía. 
+ 
+Un activo financiero se dará de baja cuando no hay una expectativa razonable de recuperar 
+los flujos de efectivo contractuales. 
+ 
+La Compañía aplica el “enfoque simplificado” en el cálculo de las provisiones en 5 pasos: 
+ 
+1. Determinará las agrupaciones apropiadas de las cuentas por cobrar en categorías de 
+categorías compartidas de riesgo de crédito. 
+2. Determinará el período durante el cual las tasas históricas de pérdida son obtenidas para 
+desarrollar estimados de las tasas esperadas de pérdidas futuras. 
+3. Determinará las tasas históricas de pérdida. 
+4. Considerará los factores macroeconómicos prospectivos y ajustes a las tasas históricas 
+de pérdida para reflejar las condiciones económicas futuras relevantes. 
+5. Determinará las pérdidas de crédito esperada. 
+ 
+Al 31 de diciembre de 2025 y al 31 de diciembre de 2024 la Compañía, en base al análisis 
+efectuado, concluyó que el saldo de las cuentas por cobrar no comerciales a parte 
+relacionadas y otras cuentas por cobrar no requieren de una provisión por estimación de 
+perdida crediticia esperada, debido principalmente a que estas cuentas por cobrar son 
+cobradas a su vencimiento y no hay un historial de morosidad. 
+ 
+d) Pasivos financieros – Reconocimiento y medición inicial - 
+ 
+Los pasivos financieros serán clasificados, en el momento de reconocimiento inicial, como 
+pasivos financieros al valor razonable con cambios en resultados, cuentas por pagar 
+comerciales y diversas, obligaciones financieras o como derivados designados como 
+instrumentos de cobertura, según sea pertinente. 
+ 
+Todos los pasivos financieros se reconocen inicialmente al valor razonable y, en el caso de 
+cuentas por pagar y obligaciones financieras, neto de los costos directamente atribuibles a la 
+transacción.  
+ 
+Medición posterior - 
+ 
+La medición posterior de pasivos financieros depende de su clasificación, tal como se detalla 
+a continuación: 
+ 
+Pasivos financieros al valor razonable con cambios en resultados - 
+ 
+Los pasivos financieros al valor razonable con cambios en resultados incluyen pasivos 
+financieros mantenidos como negociables y pasivos financieros designados en el momento 
+de su reconocimiento inicial al valor razonable con cambios en resultados. 
+ 
+Los pasivos financieros son clasificados como mantenidos para negociar si son adquiridos 
+con el propósito de venderlos en el corto plazo. 
+ 
+Las ganancias o pérdidas sobre pasivos mantenidos como negociables serán reconocidas en 
+el estado de resultados. 
+ 
+Los pasivos financieros designados en su reconocimiento inicial al valor razonable con 
+cambios en resultados son designados en el momento inicial, si y solo si los criterios de la 
+NIIF 9, “Instrumentos financieros”, se cumplen. 
+ 
+Al 31 de diciembre de 2025 y de 2024 la Compañía no cuenta con este tipo de pasivos. 
+Pasivos financieros al costo amortizado - 
+Después de su reconocimiento inicial, las deudas y préstamos que devengan interés se 
+medirán posteriormente a su costo amortizado usando el método de la tasa de interés 
+efectiva. Las ganancias y pérdidas se reconocen en el estado de resultados cuando los 
+pasivos son dados de baja, así como a través del proceso de amortización. 
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2023_Individual_Anual_Informacion Financiera Auditada 2023.pdf | PAGINA: 17 | vecina =====
+ 
+- 15 - 
+El valor recuperable de los activos corresponde al monto que se obtendría de su venta o su valor 
+en uso, el mayor.  Para efectos de evaluar el deterioro, los activos se agrupan a los niveles más 
+pequeños en los que se genera flujos de efectivo identificables (unidades generadoras de 
+efectivo).  La Gerencia ha determinado que la Compañía representa dos Unidades Generadoras 
+de Efectivo ("UGE"), las cuales son unidades mineras (Huanzalla y Pallca) y proyecto minero 
+(Atalaya). Adicionalmente, el valor recuperable ha sido determinado en función del cálculo de sus 
+valores en uso. 
+ 
+Esta evaluación requiere el uso del juicio profesional de la Gerencia para analizar los indicadores 
+que podrían señalar deterioro, así como el uso de estimaciones para la determinación del valor en 
+uso, que incluye la elaboración de flujos de caja futuros, la proyección de factores económicos, así 
+como la elección de la tasa de descuento a ser aplicada a los flujos de las UGE’s.  
+ 
+El valor en uso normalmente se determina sobre la base de los flujos de efectivo futuros 
+estimados y descontados.  La determinación de si un activo se ha deteriorado y cuánto, involucra 
+estimados de la Gerencia sobre temas altamente inciertos, tales como: las ventas futuras, el 
+efecto de la inflación en los costos y gastos operativos, las tasas de descuento y las perspectivas 
+respecto a las condiciones de mercado. 
+ 
+Los flujos de caja proyectados tienen como base las proyecciones de ganancias operativas de la 
+unidad generadora de efectivo por un período de 5 años y posteriormente aplicando tasa de 
+crecimiento valor terminal. 
+ 
+La tasa de descuento WACC utilizada para el cálculo del flujo de caja descontado es un estimado 
+que implica una evaluación del mercado, del valor del dinero en el tiempo y de los riesgos 
+inherentes a las UGE’s en donde se genera los flujos de caja la Compañía.   
+ 
+Los flujos de caja proyectados y los supuestos clave han sido aprobados por la Gerencia de la 
+Compañía.  Estos corresponden a estimados conservadores que no exceden la tasa de 
+crecimiento a largo plazo de la industria y el mercado en el que opera las UGE’s y están basados 
+en el conocimiento y experiencia de la Gerencia de la Compañía. 
+ 
+c) Activos financieros - 
+ 
+Reconocimiento y medición inicial -  
+ 
+Los activos financieros se clasifican, en el reconocimiento inicial, como medidos subsecuentemente al 
+costo amortizado, al valor razonable a través de otros resultados integrales, y valor razonable a través 
+de resultados. 
+ 
+La clasificación de los activos financieros en el momento del reconocimiento inicial depende de las 
+características contractuales del flujo de efectivo de los activos financieros y del modelo de negocios 
+de la Compañía para su gestión. Con la excepción de las cuentas por cobrar comerciales que no 
+contienen un componente de financiamiento significativo, la Compañía mide inicialmente un activo 
+financiero a su valor razonable más sus costos de transacción, en el caso de un activo financiero que 
+no se encuentra a su valor razonable a través de resultados.  Para que un activo financiero sea 
+clasificado y medido al costo amortizado o al valor razonable a través de otros resultados integrales, 
+debe dar lugar a flujos de efectivo que son “únicamente pagos de principal e intereses” sobre el monto 
+de capital pendiente.  Esta evaluación se realiza a nivel de cada instrumento.  El modelo de negocios 
+de la Compañía para la gestión de activos financieros se refiere a cómo administra sus activos 
+financieros para generar flujos de efectivo.  El modelo de negocio determina si los flujos de efectivo 
+resultarán de la recopilación de flujos de efectivo contractuales, la venta de activos financieros o 
+ambos. Las compras o ventas de activos financieros que requieren la entrega de activos dentro de un 
+marco de tiempo establecido por regulación o convención en el mercado (transacciones de manera 
+regular) se reconocen en la fecha de negociación. 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2023_Individual_Anual_Informacion Financiera Auditada 2023.pdf | PAGINA: 18 | puntaje 12 =====
+ 
+- 16 - 
+Medición posterior -   
+ 
+Para efecto de la medición posterior, los activos financieros son clasificados en las siguientes 
+categorías: 
+ 
+- Activos financieros al costo amortizado. 
+- Activos financieros al valor razonable con cambios en otros resultados integrales. 
+- Activos financieros al valor razonable con cambios en resultados. 
+ 
+Activos financieros al costo amortizado -  
+ 
+La Compañía mide los activos financieros al costo amortizado si se cumplen las dos condiciones 
+siguientes: 
+ 
+- El activo financiero se mantiene dentro de un modelo de negocio con el objetivo de mantener 
+activos financieros para cobrar flujos de efectivo contractuales, y  
+ 
+- Los términos contractuales del activo financiero dan lugar en fechas específicas a los flujos de 
+efectivo que son únicamente pagos del principal e intereses sobre el monto del principal 
+pendiente. 
+ 
+Los activos financieros al costo amortizado son subsecuentemente medidos usando el método de 
+interés efectivo y son sujetas a la evaluación de deterioro. Las ganancias y pérdidas son reconocidas 
+en resultados cuando el activo es dado de baja, modificado o deteriorado. 
+ 
+Esta categoría generalmente aplica a los rubros de “Cuentas por cobrar no comerciales a partes 
+relacionadas y otras cuentas por cobrar”. 
+Activos financieros al valor razonable con cambios en otros resultados integrales -  
+ 
+Los activos financieros son clasificados y medidos al valor razonable con cambios en otros resultados 
+integrales si ellos son mantenidos en un modelo de negocio cuyo objetivo es colectar flujos 
+contractuales y vender los activos financieros.  Esta categoría generalmente aplicara al rubro 
+“Instrumentos financieros derivados de cobertura”. Sin embargo, al 31 de diciembre de 2023 y de 
+2022 la Compañía no mantiene este tipo de instrumentos financieros.  
+ 
+Activos financieros al valor razonable con cambios en resultados -  
+ 
+Los activos financieros al valor razonable a través de resultados incluyen los activos financieros 
+mantenidos para la venta y activos financieros designados luego del reconocimiento inicial al valor 
+razonable con efectos en resultados o activos financieros obligatoriamente requeridos de ser medidos 
+al valor razonable.  Los activos financieros son clasificados como mantenidos para la venta si ellos 
+son adquiridos con el propósito de vender o recomprar en el mediano plazo.  
+ 
+Los derivados, incluyendo los derivados implícitos, son clasificados como mantenidos para la venta si 
+ellos son designados como un instrumento financiero de cobertura de efectivo.  Los activos financieros 
+con flujos de efectivo que no son únicamente pagos del principal e intereses son clasificados y 
+medidos al valor razonable con efectos en resultados, independientemente del modelo de negocio.  A 
+pesar de los criterios para que los instrumentos de deuda se clasifiquen a costo amortizado o al valor 
+razonable a través de resultados integrales, como se describe anteriormente, los instrumentos de 
+deuda pueden ser designados al valor razonable a través de ganancias o pérdidas en el 
+reconocimiento inicial si al hacerlo elimina o reduce significativamente una asimetría contable.  Los 
+activos financieros al valor razonable con cambios en resultados se contabilizan en los estados 
+financieros de posición financiera al valor razonable con cambios netos en el valor razonable 
+reconocidos en los estados de resultados. 
+  
+
+===== ARCHIVO: EEFFDD-COMPAÑIA MINERA SANTA LUISA S.A.-Individual.zip/2023_Individual_Anual_Informacion Financiera Auditada 2023.pdf | PAGINA: 19 | vecina =====
+ 
+- 17 - 
+ 
+Esta categoría generalmente aplica al rubro “Cuentas por cobrar comerciales”, a terceros y partes 
+relacionadas, debido a que no pasa una evaluación de pagos de principal e intereses sobre el monto 
+del principal pendiente. 
+ 
+Deterioro de activos financieros -  
+ 
+La Compañía reconoce una provisión para pérdidas crediticias esperadas para todos los instrumentos 
+de deuda que no se mantienen a valor razonable con cambios en resultados. 
+ 
+Las provisiones para pérdidas crediticias esperadas se reconocerán para las cuentas por cobrar no 
+comerciales a partes relacionadas y otras cuentas por cobrar.  La Compañía aplica el “enfoque 
+simplificado” en el cálculo de las provisiones, en el que determina una matriz de provisiones que se 
+basa en su experiencia histórica de pérdidas crediticias, ajustada por factores prospectivos 
+específicos para los deudores y el entorno económico.  La Compañía considera un activo financiero 
+en incumplimiento cuando los pagos contractuales están vencidos de acuerdo con cada contrato.  Sin 
+embargo, en ciertos casos, la Compañía también puede considerar que un activo financiero está en 
+incumplimiento cuando la información interna o externa indica que es poco probable que la Compañía 
+reciba los montos contractuales pendientes en su totalidad antes de tener en cuenta las mejoras 
+crediticias mantenidas por la Compañía. 
+ 
+Un activo financiero se dará de baja cuando no hay una expectativa razonable de recuperar los flujos 
+de efectivo contractuales. 
+ 
+La Compañía aplica el “enfoque simplificado” en el cálculo de las provisiones en 5 pasos: 
+ 
+1. Determinará las agrupaciones apropiadas de las cuentas por cobrar en categorías de categorías 
+compartidas de riesgo de crédito. 
+2. Determinará el período durante el cual las tasas históricas de pérdida son obtenidas para 
+desarrollar estimados de las tasas esperadas de pérdidas futuras. 
+3. Determinará las tasas históricas de pérdida. 
+4. Considerará los factores macroeconómicos prospectivos y ajustes a las tasas históricas de 
+pérdida para reflejar las condiciones económicas futuras relevantes. 
+5. Determinará las pérdidas de crédito esperada. 
+ 
+Al 31 de diciembre de 2023 y al 31 de diciembre de 2022 la Compañía, en base al análisis efectuado, 
+concluyó que el saldo de las cuentas por cobrar no comerciales a parte relacionadas y otras cuentas 
+por cobrar no requieren de una provisión por estimación de perdida crediticia esperada, debido 
+principalmente a que estas cuentas por cobrar son cobradas a su vencimiento y no hay un historial de 
+morosidad.  
+ 
+d) Pasivos financieros - 
+ 
+Reconocimiento y medición inicial - 
+ 
+Los pasivos financieros serán clasificados, en el momento de reconocimiento inicial, como pasivos 
+financieros al valor razonable con cambios en resultados, cuentas por pagar comerciales y diversas, 
+obligaciones financieras o como derivados designados como instrumentos de cobertura, según sea 
+pertinente. 
+ 
+Todos los pasivos financieros se reconocen inicialmente al valor razonable y, en el caso de cuentas 
+por pagar y obligaciones financieras, neto de los costos directamente atribuibles a la transacción. 
+  

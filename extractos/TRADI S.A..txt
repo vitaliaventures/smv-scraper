@@ -1,0 +1,3331 @@
+EMPRESA: TRADI S.A.
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 7 | vecina =====
+TRADI S.A.
+ESTADO DE CAMBIOS EN EL PATRIMONIO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2021
+Y EL 31 DE DICIEMBRE DE 2020
+Reserva Excedente de Resultados
+Nota Capital legal revaluación acumulados Total
+S/000 S/000 S/000 S/000 S/000
+Saldos al 1 de enero de 2020 174,600          30,039            61,093            60,566            326,298
+Utilidad del año - - - 18,430            18,430            
+Baja de maquinarias y realización del 
+superávit de revaluación 17 - - (172)                - (172)                
+Distribución de dividendos 17 - - - (9,990)             (9,990)             
+Transferencia a reserva legal 17 - 1,110              - (1,110)             -
+Saldos al 31 de diciembre de 2020 174,600          31,149            60,921            67,896            334,566          
+Saldos al 1 de enero de 2021 174,600          31,149            60,921            67,896            334,566          
+Utilidad del año - - - 73,184            73,184            
+Distribución de dividendos 17 - - - (101,405)         (101,405)         
+Transferencia a reserva legal 17 - 1,843              - (1,843)             -
+Saldos al 31 de diciembre de 2021 174,600          32,992            60,921            37,832            306,345          
+Las notas que se acompañan de la página 7 a la 43 forman parte de los estados financieros.
+- 5 -
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 8 | puntaje 12 =====
+TRADI S.A.
+ESTADO DE FLUJOS DE EFECTIVO 
+Por el año terminado
+el 31 de diciembre de
+Nota 2021 2020
+S/000 S/000
+ACTIVIDADES DE OPERACION
+Utilidad del año 73,184           18,430           
+Ajustes a la utilidad neta que no representan flujos de efectivo:
+Intereses devengados de obligaciones financieras 21 3,040             4,630             
+Depreciación de inmuebles, maquinaria y equipo 19 3,413             3,595             
+Depreciación derecho de uso 19 1,304             722                
+Deterioro de cuentas por cobrar 19 3,022             3,336             
+Impuesto a la renta diferido 22 (575)               2,224             
+Valor razonable de las inversiones en valores 1                    -
+Método de participación patrimonial de inversiones en asociadas (913)               (11)                 
+Perdida por baja de mobiliario y equipo 193                220                
+Diferencia en cambio de obligaciones financieras 13 19,191           17,170
+Variaciones netas en activos y pasivos:
+Cuentas por cobrar comerciales (19,990)          39,970           
+Cuentas por cobrar a partes relacionadas 7,741             (5,364)            
+Otras cuentas por cobrar (3,146)            189                
+Inventarios (67,029)          25,417           
+Gastos pagados por anticipado (536)               (24)                 
+Cuentas por pagar comerciales (1,252)            9,235             
+Cuentas por pagar a partes relacionadas 9,560             4,258             
+Otras cuentas por pagar 42,626           (35,434)          
+Efectivo neto provisto por las actividades de operación 69,834           88,563           
+ACTIVIDADES DE INVERSION
+Pago por compra de inmuebles, maquinaria y equipo 12 (373)               (1,832)            
+Cobro por venta de inmuebles, maquinaria y equipo 98                  88                  
+Efectivo neto aplicado a las actividades de inversión (275)               (1,744)            
+ACTIVIDADES DE FINANCIAMIENTO
+Dividendos recibidos de inversiones en asociadas 11 500                413                
+Préstamos recibidos 13 249,904         283,150         
+Pago de obligaciones financieras 13 (254,926)        (307,442)        
+Pagos por arrendamiento (1,313)            (680)               
+Pago de intereses 13 (3,300)            (4,851)            
+Pago de dividendos (101,405)        (9,990)            
+Efectivo neto aplicado a las actividades de financiamiento (110,540)        (39,400)          
+(Disminución) Aumento neto del efectivo (40,981)          47,419           
+Saldo del efectivo al inicio del año 162,724         115,305         
+Saldo del efectivo al final del año 6 121,743          162,724          
+Las notas que se acompañan de la página 7 a la 43 forman parte de los estados financieros.
+- 6 -
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 9 | vecina =====
+ 
+- 7 - 
+TRADI S.A. 
+ 
+NOTAS A LOS ESTADOS FINANCIEROS  
+31 DE DICIEMBRE DE 2021 Y 31 DE DICIEMBRE DE 2020 
+ 
+ 
+1 INFORMACION GENERAL 
+ 
+1.1  Antecedentes - 
+ 
+Tradi S.A. (en adelante “la Compañía”), es una empresa peruana listada en la Bolsa de Valores de 
+Lima con acción nemónico TRADIC1 que se constituyó en setiembre de 1976. El domicilio legal de la 
+Compañía es Av. Prolongación Huamanga N°1500, La Victoria, Lima. 
+ 
+Los accionistas de la Compañía son personas naturales y jurídicas, ninguno de los cuales ejerce un 
+control individual sobre la Compañía. 
+ 
+1.2 Actividad económica - 
+ 
+La Compañía se dedica a la comercialización en el mercado peruano de productos siderúrgicos 
+nacionales e importados, principalmente tubos, planchas, ángulos, fierro corrugado, fierros de 
+construcción y otros derivados de hierro y del acero, así como de productos de acabado relacionados 
+con la construcción. 
+ 
+1.3 Impacto del COVID - 19 - 
+ 
+Como consecuencia de la propagación del virus COVID-19 en el mundo, el Gobierno Peruano 
+mediante Decreto Supremo No.044-2020-PCM de fecha 15 de marzo de 2020 declaró el Estado de 
+Emergencia Nacional por el plazo de quince (15) días calendario, y se dispuso el aislamiento social 
+obligatorio (cuarentena), por las graves circunstancias que afectan la vida de la Nación a 
+consecuencia del brote del COVID-19. El mencionado Decreto estableció restricciones en el ámbito de 
+la actividad comercial, actividades culturales, establecimientos y actividades recreativas, hoteles y 
+restaurantes. Posteriormente, a través de nuevos Decretos emitidos, se establecieron nuevas 
+medidas de convivencia social y se prorrogó el Estado de Emergencia Nacional por todo el año 2020 y 
+de 2021. 
+ 
+La Compañía monitorea de cerca la situación y la Gerencia se viene enfocando en cada una de sus 
+operaciones; tomando las siguientes medidas en cada una de ellas: 
+ 
+• Desarrollo de protocolos de salud, mapeo de la población vulnerable y seguimiento de su estado. 
+• Implementación del trabajo remoto para el personal administrativo. 
+• Seguimiento activo a la cobranza de las facturas pendientes 
+ 
+Estas y otras medidas adicionales implementadas por la Compañía permitirán afrontar de una manera 
+adecuada los efectos negativos de la pandemia de Covid-19. La Gerencia manifiesta que los efectos 
+de estas medidas han sido incluidos de forma apropiada en los estados financieros de la Compañía 
+de acuerdo con las Normas Internacionales de Información Financiera vigentes.   
+ 
+1.4  Aprobación de los estados financieros - 
+ 
+Los estados financieros por el año terminado el 31 de diciembre de 2021 han sido emitidos con la 
+autorización de la Gerencia de la Compañía el 28 de febrero de 2022 y serán puestos a consideración 
+de la Junta Obligatoria Anual de Accionistas para su modificación y/o aprobación definitiva. La 
+Gerencia estima que los estados financieros serán aprobados sin modificaciones. Los estados 
+financieros por el año terminado el 31 de diciembre de 2020 fueron aprobados en la Junta Obligatoria 
+Anual de Accionistas el 19 de marzo de 2021. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 14 | vecina =====
+ 
+- 12 - 
+Al 31 de diciembre de 2021 y de 2020, la Compañía sólo mantiene activos financieros de la categoría 
+activos financieros valuados a costo amortizado. Esta categoría de activos comprende el efectivo, 
+cuentas por cobrar comerciales, cuentas por cobrar a partes relacionadas y otras cuentas por cobrar. 
+ 
+Activos a costo amortizado -  
+ 
+Los activos que se mantienen para el cobro de flujos de efectivo contractuales cuando dichos flujos de 
+efectivo representan únicamente pagos de principal e intereses se miden a costo amortizado. Los 
+ingresos recibidos de estos activos financieros se incluyen en los ingresos financieros utilizando el 
+método de tasa de interés efectiva. Cualquier ganancia o pérdida que surja de la baja en cuentas, se 
+reconoce directamente en resultados y se presenta en otras ganancias/pérdidas junto con las 
+ganancias y pérdidas cambiarias. Las pérdidas por deterioro se presentan como una partida dentro de 
+gastos de ventas en el estado de resultados integrales. 
+ 
+Deterioro - 
+ 
+La Compañía evalúa, con una perspectiva de futuro, las pérdidas crediticias esperadas asociadas con 
+instrumentos de deuda medidos a costo amortizado. La metodología aplicada para determinar el 
+deterioro depende de si el riesgo de crédito de un activo ha experimentado un aumento significativo. 
+ 
+Para el efectivo, por su naturaleza, la Compañía considera cualquier pérdida crediticia como 
+inmaterial.  En el caso de las cuentas por cobrar comerciales, la Compañía aplica el enfoque 
+simplificado permitido por la NIIF 9, el cual requiere estimar la pérdida crediticia de la cuenta por la 
+duración total del instrumento y reconocerla desde su registro inicial 
+ 
+2.6 Pasivos financieros - 
+ 
+La Compañía clasifica sus pasivos financieros en las siguientes categorías: i) pasivos financieros a 
+valor razonable a través de ganancias y pérdidas, y ii) pasivos financieros a costo amortizado. La 
+Compañía determina la clasificación de sus pasivos financieros a la fecha de su reconocimiento 
+inicial. 
+ 
+Al 31 de diciembre de 2021 y de 2020, la Compañía tiene solo pasivos clasificados como pasivos 
+financieros a costo amortizado, que comprenden las obligaciones financieras, cuentas por pagar 
+comerciales, cuentas por pagar a partes relacionadas y otras cuentas por pagar. 
+ 
+Todos los pasivos financieros a costo amortizado se reconocen inicialmente a su valor razonable y 
+posteriormente, cuando el efecto del costo del dinero es importante, se miden a su costo amortizado 
+por el método de tasa de interés efectiva, de lo contrario se muestran a su valor nominal. El costo 
+amortizado incorpora los costos directamente atribuibles a la transacción. 
+ 
+Los pasivos financieros se clasifican como pasivo corriente si se deben de cancelar en un año o 
+menos, de lo contrario se presentan como pasivo no corriente. 
+ 
+2.7 Cuentas por cobrar comerciales - 
+ 
+Las cuentas por cobrar comerciales corresponden a los montos que la Compañía tiene derecho a 
+exigir a sus clientes por los servicios prestados en el curso normal de los negocios. Si se espera 
+cobrar en un año o menos se clasifican como activos corrientes, de lo contrario, se presentan como 
+activos no corrientes.  
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 15 | puntaje 18 =====
+ 
+- 13 - 
+2.8 Inventarios - 
+ 
+Las existencias se registran al costo o a su valor neto de realización, el que resulte menor. El costo se 
+determina sobre la base del método de promedio ponderado, excepto en el caso de las existencias 
+por recibir, cuyo costo se determina sobre la base del método de identificación específica. 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de las operaciones del 
+negocio, menos los gastos de venta variables que apliquen y menos los costos estimados para poner 
+las existencias en condición de venta y realizar su comercialización. Por las reducciones del valor en 
+libros de las existencias a su valor neto realizable, se constituye una provisión para desvalorización de 
+existencias con cargo al estado de resultados integrales del período en que ocurren tales reducciones.  
+ 
+En opinión de la Gerencia de la Compañía, la estimación por desvalorización de inventarios al 31 de 
+diciembre de 2021 y de 2020, cubre adecuadamente el riesgo de desvalorización a dichas fechas y no 
+es necesario registrar provisión adicional por desvalorización adicional a dichas fechas. 
+ 
+2.9 Inmuebles, maquinaria y equipo -  
+ 
+Los inmuebles, maquinaria y equipo se registran al costo histórico menos su depreciación acumulada 
+excepto por los terrenos. El costo histórico incluye los desembolsos directamente atribuidos a la 
+adquisición de estas partidas tales como el costo del valor del bien, transporte, servicios de instalación 
+e impuestos no recuperables y cualquier costo directamente atribuible para ubicar y dejar al activo en 
+condiciones de trabajo y uso como lo anticipa la Gerencia. 
+ 
+Los costos posteriores se incluyen en el valor en libros del activo o se reconocen como un activo 
+separado, según corresponda, sólo cuando es probable que generen beneficios económicos futuros 
+para la Compañía y el costo de estos activos se pueda medir razonablemente. El valor en libros de la 
+parte reemplazada es dado de baja. Otros desembolsos para mantenimiento y reparaciones se 
+reconocen como gasto del ejercicio en que son incurridos. 
+ 
+Las obras en curso se capitalizan como un componente separado y a su culminación, el costo de 
+estos activos se transfiere a su categoría definitiva. 
+ 
+Los terrenos y obras en curso no se deprecian. La depreciación anual de los demás activos fijos se 
+reconoce como gasto y se determina siguiendo el método de línea recta para asignar su costo menos 
+su valor residual durante el estimado de su vida útil, como sigue: 
+ 
+ Años  
+ 
+Edificaciones  20 
+Maquinaria y equipo  10 
+Unidades de transporte  5 
+Muebles y enseres  10 
+Equipos diversos  10 
+Equipos de cómputo  4 
+ 
+Los valores residuales y la vida útil de los activos se revisan y ajustan, de ser necesario, a la fecha de 
+cada estado de situación financiera.  El valor en libros de un activo se castiga inmediatamente a su 
+valor recuperable si el valor en libros del activo es mayor que el estimado de su valor recuperable. 
+ 
+Todo incremento por revaluación se reconoce en el estado de otros resultados integrales y se 
+acumula en el patrimonio en “Excedente de revaluación”, salvo que dicho incremento corresponda a la 
+reversión de una disminución de revaluación del mismo activo reconocido previamente en los estados 
+de resultados, en cuyo caso ese incremento se reconoce en dicho estado. Una disminución por 
+revaluación se reconoce en los estados de resultados integrales, salvo en la medida en que dicha 
+disminución compense un incremento de revaluación del mismo activo reconocido previamente en la 
+reserva por revaluación de activos. Al momento de la venta del activo revaluado, cualquier reserva por 
+revaluación relacionada con ese activo se transfiere a los resultados acumulados. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 16 | vecina =====
+ 
+- 14 - 
+2.10 Inversiones en asociadas -  
+ 
+Las asociadas son todas las entidades sobre las que la Compañía ejerce influencia significativa pero 
+no control, generalmente estas entidades son aquellas en las que se mantiene una participación de 
+entre 20% y 50% de los derechos a voto. 
+ 
+Las inversiones en asociadas se registran por el método de participación patrimonial. Bajo el método 
+de participación patrimonial, la inversión se reconoce inicialmente al costo y el valor en libros se 
+incrementa o disminuye para reconocer la participación de la Compañía en los resultados (y en los 
+otros resultados integrales) obtenidos por la asociada después de la fecha de adquisición con cargo o 
+abono a los resultados del año (o a otros resultados integrales si se derivan de este tipo de partidas). 
+ 
+Cuando la participación de la Compañía en las pérdidas de una asociada es igual o excede su 
+participación en ésta, incluyendo cualquier cuenta por cobrar no garantizada, la Compañía no 
+reconoce mayor pérdida, a menos que posea una obligación legal o implícita o haya efectuado pagos 
+a nombre de la asociada. 
+ 
+Las utilidades y pérdidas que resultan de transacciones que la Compañía genera con sus asociadas o 
+que estas generan con la Compañía se reconocen en los estados financieros de la Compañía 
+solamente por la porción relacionada a la participación que la Compañía posee sobre estas. Las 
+pérdidas no realizadas son eliminadas a menos que la transacción provea evidencia de deterioro del 
+activo transferido. Las políticas contables de las asociadas, si fuera necesario, se modifican para 
+asegurar consistencia con las políticas adoptadas por la Compañía. 
+ 
+Las inversiones en asociadas medidas con el método de participación patrimonial se prueban por 
+deterioro de acuerdo con la política descrita en la Nota 2.11. 
+ 
+2.11 Deterioro de activos no financieros - 
+ 
+Los activos sujetos a depreciación y las inversiones en asociadas se someten a pruebas de deterioro 
+cuando se producen eventos o circunstancias que indican que su valor en libros podría no 
+recuperarse. Las pérdidas por deterioro se miden como el monto en el que el valor en libros del activo 
+excede a su valor recuperable. El valor recuperable de los activos corresponde al mayor entre su valor 
+razonable y su valor en uso. Para efectos de la evaluación por deterioro, los activos se agrupan a los 
+niveles más pequeños en los que generan flujos de efectivo identificables (unidades generadoras de 
+efectivo). El valor en libros de activos no financieros que han sido objeto de castigos por deterioro se 
+revisa a cada fecha de reporte para verificar posibles reversiones del deterioro. 
+ 
+2.12 Arrendamientos -  
+ 
+La Compañía arrienda inmuebles. Los contratos de renta se realizan normalmente por períodos fijos, 
+pero pueden tener opciones de extensión de plazo como se describe más adelante. Los términos de 
+arrendamiento se negocian sobre una base individual y contienen una amplia gama de términos y 
+condiciones diferentes. Los contratos de arrendamiento no imponen ninguna obligación de 
+cumplimiento a parte de la garantía de los activos arrendados que son mantenidos por el arrendador. 
+Los activos arrendados no pueden utilizarse como garantía para fines de préstamo.  
+ 
+Los contratos pueden contener componentes de arrendamiento y no arrendamiento. La Compañía 
+asigna la contraprestación en el contrato a los componentes de arrendamiento y no arrendamiento en 
+función de sus precios independientes relativos. Sin embargo, para los arrendamientos de inmuebles 
+para los cuales la Compañía es un arrendatario, la Compañía ha optado, tal y como lo permite el 
+expediente practico de NIIF 16, por no separar los componentes de arrendamiento y no arrendamiento 
+y, en cambio, los contabiliza como un componente de arrendamiento único.  
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por arrendamiento 
+correspondiente a la fecha en que el activo arrendado esté disponible para su uso por la Compañía.  
+ 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 38 | vecina =====
+ 
+- 36 - 
+17 PATRIMONIO 
+ 
+(a) Capital - 
+ 
+Al 31 de diciembre de 2021 y de 2020, el capital de la Compañía está representado por 174,600,000 
+acciones comunes cuyo valor nominal es de S/1 cada una, las cuales se encuentran íntegramente 
+emitidas y pagados. 
+ 
+Al 31 de diciembre de 2021 y de 2020, la estructura de la Compañía es la siguiente: 
+ 
+ Número de  Porcentaje de  
+Participación individual del capital accionistas  participación  
+ 
+Hasta 1   1  1 
+Entre 1.01 a 5   17  50 
+De 5.01 a 10   7  49 
+  25  100 
+ 
+(b) Excedente de revaluación - 
+ 
+Al 31 de diciembre de 2021 y de 2020, este rubro comprende el excedente de revaluación relacionado 
+con los terrenos que mantiene la Compañía. Durante el año 2020, la Compañía realizó la baja de 
+maquinarias revaluadas por los cuales transfirió el superávit de revaluación correspondiente a 
+resultados acumulados por un importe aproximado de S/172 mil. 
+ 
+(c) Reserva legal - 
+ 
+De acuerdo con la Ley General de Sociedades, la reserva legal debe constituirse con la transferencia 
+del 10% de la utilidad neta anual hasta alcanzar un monto equivalente al 20% del capital pagado. En 
+ausencia de utilidades no distribuidas o de reservas de libre disposición, la reserva legal podrá ser 
+aplicada a la compensación de pérdidas, debiendo ser repuesta con las utilidades de ejercicios 
+posteriores. Esta reserva puede ser capitalizada siendo igualmente obligatoria su reposición. 
+ 
+En Junta General de Accionistas de fecha 19 de marzo de 2021, se aprobó la transferencia de la 
+reserva legal por S/1,843 mil con cargo a resultados del 2020. 
+ 
+En Junta General de Accionistas de fecha 14 de julio de 2020, se aprobó la transferencia de la reserva 
+legal por S/1,110 miles con cargo a resultados del 2019. 
+ 
+(d) Distribución de dividendos - 
+ 
+En Junta General de Accionistas de fecha 30 de noviembre de 2021, se aprobó la entrega de 
+dividendos por un importe de S/18,584 miles que corresponde a los resultados del 2021, los cuales 
+fueron pagados el 18 de diciembre de 2021. 
+ 
+En Junta General de Accionistas de fecha 4 de mayo de 2021, se aprobó la entrega de dividendos por 
+un importe de S/57,754 miles que corresponde a los resultados acumulados de años anteriores, y 
+S/16,767 miles que corresponde a los resultados del 2021, los cuales fueron íntegramente pagados el 
+1 de junio de 2021. 
+ 
+En Junta General de Accionistas de fecha 19 de marzo de 2021, se aprobó la entrega de dividendos 
+por un importe de S/8,300 miles que corresponde a los resultados acumulados de años anteriores, los 
+cuales fueron íntegramente pagados el 13 de abril de 2021. 
+ 
+En Junta General de Accionistas de fecha 27 de octubre de 2020, se aprobó la entrega de dividendos 
+por un importe de S/9,990 miles que corresponde a los resultados acumulados de años anteriores, los 
+cuales fueron íntegramente pagados en noviembre de 2020. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 39 | puntaje 6 =====
+ 
+- 37 - 
+18 INGRESOS POR VENTA DE BIENES 
+ 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+ 2021  2020  
+ S/000  S/000 
+ 
+Ventas locales a terceros  566,196  390,451 
+Ventas locales a partes relacionadas (Nota 8-a)  22,917  36,981 
+  589,113  427,432 
+   
+El aumento de las ventas con terceros es principalmente por efecto de la fluctuación del precio del 
+acero al alza, estos impulsado por factores de la cotización mundial del acero y los efectos de la 
+pandemia, los niveles en volumen se han mantenido similares en ambos años.  
+ 
+La disminución de las ventas con partes relacionadas es principalmente a la reducción de volúmenes 
+de ventas, a consecuencia que durante el primer semestre del 2021 se vendió la relacionada Comfer 
+S.A. a otros accionistas.  
+  
+19 GASTOS Y COSTOS POR NATURALEZA 
+ 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+  Costo de  Gastos de  Gastos de    
+  ventas  venta  administración  Total  
+  S/000  S/000  S/000  S/000  
+ 
+2021 
+Inventario inicial  166,838)               -                -   166.838) 
+Compras de mercadería  481,263)               -                -   481,263) 
+Cargas de personal (i)               -   16,774  22,351  39,125) 
+Servicios prestados por terceros (ii)               -    15,168  149  15,317) 
+Depreciación de activos fijos (Nota 12)               -   3,334  79  3,413) 
+Depreciación de activo               -                -                -                -  
+de activo en derecho en uso               -   1,304               -   1,304) 
+Otras cargas de gestión               -   3,051  32  3,073) 
+Provisión por pérdida esperada               -   3,022               -   3,022) 
+Tributos               -   387  60  447) 
+Inventario final ( 233,866)               -                -  ( 233,866) 
+    414,235)  43,040  22,671   479,946) 
+ 
+2020 
+Inventario inicial  145,983)               -                -   145,983) 
+Compras de mercadería  323,921)               -                -   323,921) 
+Cargas de personal (i)               -   9,257  7,000  16,257) 
+Servicios prestados por terceros (ii)               -   13,096  250  13,346) 
+Depreciación de activos fijos (Nota 12)               -   3,514  81  3,595) 
+Depreciación de activo               -                -                -                 -  
+de activo en derecho en uso               -   722               -   722) 
+Otras cargas de gestión (iii)               -   2,552  52  2,604) 
+Provisión por pérdida esperada               -   3,336              -   3,336) 
+Tributos               -   397  29  426) 
+Inventario final ( 116,025)               -                -  ( 116,025) 
+    353,879)  32,874  7,412   394,165) 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 40 | puntaje 12 =====
+ 
+- 38 - 
+(i) Las cargas de personal incluyen lo siguiente: 
+ 
+ 2021  2020  
+ S/000  S/000 
+ 
+Participación de gerencia (a)  13,664  3,540 
+Participaciones a los trabajadores  9,242  2,359 
+Dietas al Directorio (b)  7,262  1,980 
+Remuneraciones  6,005  5,674 
+Gratificaciones  1,136  1,074 
+Beneficios sociales  611  603 
+Prestaciones de salud  578  544 
+Vacaciones  530  483 
+Otros menores  97              -  
+  39,125  16,257 
+ 
+(a) La participación de gerencia es una remuneración que percibe la Gerencia General el cual se 
+encuentra estipulados en los estatutos de la Compañía y corresponde al 10% de los 
+resultados tributarios al cierre de cada ejercicio. 
+ 
+(b) La dieta al directorio es una remuneración que se encuentra estipulados en los estatutos de la 
+Compañía y corresponde al 6% de los resultados contables al cierre de cada ejercicio. 
+ 
+(ii) Los servicios prestados por terceros incluyen lo siguiente: 
+ 
+ 2021  2020  
+ S/000  S/000 
+ 
+Comisiones para vendedores  6,036  3,945 
+Servicios de contratistas  4,475  5,569 
+Mantenimiento y reparaciones  1,113  1,167 
+Alquileres  1,043  166 
+Asesoría y consultoría  802  700 
+Servicios básicos  758  723 
+Transporte de materiales  143  204 
+Publicidad, publicaciones y relaciones públicas  67  55 
+Otros menores  880  817 
+  15,317  13,346 
+ 
+20 OTROS INGRESOS Y GASTOS 
+ 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+ 2021  2020  
+ S/000  S/000 
+Otros ingresos - 
+Recupero de cuentas por cobrar (Nota 7-c)  2,784  1,135 
+Ingresos por venta de inmuebles, maquinaria y equipo  98  88 
+Extorno de provisión por contingencias (a)              -   3,590 
+Otros menores  738  571 
+  3,620  5,384 
+ 
+Otros gastos - 
+Costo neto por baja de activos fijos (Nota 12)   291  480 
+   291  480 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditado 2021.pdf | PAGINA: 41 | vecina =====
+ 
+- 39 - 
+(a) Durante el 2019, la Compañía mantuvo provisiones para posibles contingencias aduaneras 
+mantenidas con la Administración Tributaria. Durante el año 2020, la Gerencia y sus asesores 
+externos evaluaron la suficiencia de dicha provisión y consideraron que no existe obligación 
+probable adicional a lo ya ejecutado a través de las cartas fianzas, por lo que dicho pasivo ya no 
+es una obligación vigente.  
+ 
+21 INGRESOS Y GASTOS FINANCIEROS 
+ 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+ 2021  2020  
+ S/000  S/000 
+Ingresos financieros 
+Intereses por facturas por cobrar (Nota 7-b)  231)  162) 
+Otros menores   83)   144) 
+   314)   306) 
+Gastos financieros 
+Intereses por préstamos (Nota 13)  3,040)  4,630) 
+Intereses por pasivo por arrendamientos              -   22) 
+Otros menores    147)   174) 
+   3,187)   4,826) 
+ 
+22 SITUACION TRIBUTARIA 
+ 
+a) La Gerencia considera que ha determinado la materia imponible bajo el régimen general del 
+impuesto a la renta de acuerdo con la legislación tributaria vigente, la que exige agregar y deducir 
+al resultado, mostrado en los estados financieros, aquellas partidas que la referida legislación 
+reconoce como gravables y no gravables, respectivamente.  La tasa del impuesto a la renta para 
+los años 2021 y 2020 ha sido fijada en 29.5%. 
+ 
+b) El impuesto a las ganancias mostrado en el estado de resultados integrales de los años 2021 y 
+2020 se componen de la siguiente manera: 
+ 
+ 2021  2020  
+ S/000  S/000 
+ 
+Corriente ( 31,927) ( 8,003) 
+Diferido   575) ( 2,224) 
+Gasto por impuesto a la renta ( 31,352) ( 10,227) 
+ 
+c) El impuesto a la renta sobre los resultados antes de impuestos difiere del monto teórico que 
+hubiera resultado de aplicar la tasa del impuesto a los resultados de la Compañía, como sigue: 
+ 
+ 2021    2020    
+ S/000  %  S/000  %  
+ 
+Utilidad antes de impuesto a la renta  104,536  100.00  28,657  100.00) 
+Impuesto calculado aplicando la tasa 
+Teórica  30,838  29.50  8,454  29.50) 
+Diferencias permanentes  514  0.49  1,773   6.69) 
+  31,352  29.99  10,227   35.69) 
+ 
+d) La Administración Tributaria tiene la facultad de revisar y, de ser el caso, corregir el Impuesto a la 
+Renta determinado por la Compañía en los cuatro últimos años, contados a partir del 1 de enero 
+del año siguiente al de la presentación de la declaración jurada del impuesto correspondiente 
+(años sujetos a fiscalización).  Los años 2017 al 2021 están sujetos a fiscalización. Debido a que 
+pueden surgir diferencias en la interpretación por parte de la Administración Tributaria sobre las 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 15 | vecina =====
+- 13 - 
+La Compañía siempre reconoce las pérdidas crediticias esperadas durante la vida del crédito 
+para las cuentas por cobrar comerciales y otras cuentas por cobrar. Las pérdidas crediticias 
+esperadas en estos activos financieros se estiman utilizando una matriz de provisión basada en 
+la experiencia histórica de pérdidas crediticias de la Compañía, ajustada por factores que son 
+específicos de los deudores, las condiciones económicas generales y una evaluación tanto de la 
+dirección actual como de la previsión de condiciones en la fecha de presentación, incluido el 
+valor temporal del dinero cuando corresponda 
+Baja de los activos financieros 
+La Compañía da de baja un activo financiero solo cuando los derechos contractuales de los flujos 
+de efectivo del activo expiran.  
+Pasivos financieros 
+Los pasivos financieros son clasificados al valor razonable con cambios en los resultados o a 
+costo amortizado utilizando el método de interés efectivo. La Compañía determina la 
+clasificación de los pasivos financieros al momento del reconocimiento inicial. La Compañía solo 
+mantiene pasivos financieros medidos al costo amortizado.  
+Pasivos financieros medidos posteriormente al costo amortizado  
+Los pasivos financieros se miden posteriormente al costo amortizado usando el método de 
+interés efectivo. El método de interés efectivo es un método de cálculo del costo amortizado de 
+un pasivo financiero y de imputación del gasto financiero a lo largo del período relevante. La 
+tasa de interés efectiva es la tasa de descuento que iguala exactamente los flujos de efectivo 
+por pagar (incluyendo todos los honorarios y puntos pagados o recibidos que forman parte de la 
+tasa de interés efectiva, los costos de transacción y otras primas o descuentos) estimados a lo 
+largo de la vida esperada del pasivo financiero (o, cuando sea adecuado), un período más corto, 
+al costo amortizado de un pasivo financiero. 
+Pasivo financiero dado de baja  
+La Compañía dará de baja en cuentas un pasivo financiero si, y solo si, expiran, cancelan o 
+cumplen las obligaciones de la Compañía. La diferencia entre el importe en libros del pasivo 
+financiero dado de baja y la contraprestación pagada y por pagar se reconoce en la ganancia 
+neta del año en que se producen. 
+Compensación de instrumentos financieros 
+Un activo y un pasivo financiero serán objeto de compensación, de manera que se presente en 
+el estado de situación financiera su importe neto, cuando y solo cuando la Compañía tenga, en 
+el momento actual, el derecho, exigible legalmente, de compensar los importes reconocidos y 
+tenga la intención de liquidar por el importe neto, o de realizar el activo y liquidar el pasivo 
+simultáneamente. 
+(c) Inventarios 
+Las existencias se registran al costo o a su valor neto de realización, el que resulte menor. El 
+costo se determina sobre la base del método de promedio ponderado, excepto en el caso de las 
+existencias por recibir, cuyo costo se determina sobre la base del método de identificación 
+específica. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 16 | puntaje 5 =====
+- 14 - 
+El valor neto de realización es el precio de venta estimado en el curso normal de las operaciones 
+del negocio, menos los gastos de venta variables que apliquen y menos los costos estimados 
+para poner las existencias en condición de venta y realizar su comercialización. Por las 
+reducciones del valor en libros de las existencias a su valor neto realizable, se constituye una 
+provisión para desvalorización de existencias con cargo al estado de resultados integrales del 
+período en que ocurren tales reducciones. 
+(d) Inversiones en asociadas 
+Las asociadas son todas las entidades sobre las que la Compañía ejerce influencia significativa 
+pero no control, generalmente estas entidades son aquellas en las que se mantiene una 
+participación de entre 20% y 50% de los derechos a voto. 
+Las inversiones en asociadas se registran por el método de participación patrimonial. Bajo el 
+método de participación patrimonial, la inversión se reconoce inicialmente al costo y el valor en 
+libros se incrementa o disminuye para reconocer la participación de la Compañía en los 
+resultados (y en los otros resultados integrales) obtenidos por la asociada después de la fecha 
+de adquisición con cargo o abono a los resultados del año (o a otros resultados integrales si se 
+derivan de este tipo de partidas). 
+Cuando la participación de la Compañía en las pérdidas de una asociada es igual o excede su 
+participación en ésta, incluyendo cualquier cuenta por cobrar no garantizada, la Compañía no 
+reconoce mayor pérdida, a menos que posea una obligación legal o implícita o haya efectuado 
+pagos a nombre de la asociada. 
+Las utilidades y pérdidas que resultan de transacciones que la Compañía genera con sus 
+asociadas o que estas generan con la Compañía se reconocen en los estados financieros de la 
+Compañía solamente por la porción relacionada a la participación que la Compañía posee sobre 
+estas. Las pérdidas no realizadas son eliminadas a menos que la transacción provea evidencia de 
+deterioro del activo transferido. Las políticas contables de las asociadas, si fuera necesario, se 
+modifican para asegurar consistencia con las políticas adoptadas por la Compañía. 
+Las inversiones en asociadas medidas con el método de participación patrimonial se prueban 
+por deterioro. 
+(e) Propiedades, planta y equipo 
+Las propiedades, planta y equipo están registrados al costo de adquisición, menos la 
+depreciación acumulada y el importe acumulado de cualesquiera pérdidas por deterioro del 
+valor que hayan sufrido a lo largo de su vida útil. El costo de propiedades, planta y equipo 
+comprende un precio de compra, incluyendo aranceles e impuestos de compra no 
+reembolsables, así como cualquier costo atribuible directamente para dejar el activo en 
+condiciones de trabajo y uso. 
+Los desembolsos posteriores a la adquisición de los elementos componentes de las 
+propiedades, planta y equipo, sólo se reconocen cuando sea probable que la Compañía obtenga 
+los beneficios económicos futuros derivados del mismo y el costo del activo pueda ser valorado 
+con fiabilidad. Los gastos de mantenimiento y reparaciones se afectan a los resultados del 
+ejercicio en que se incurren. 
+El costo y la depreciación acumulada de los bienes retirados o vendidos se eliminan de las 
+cuentas respectivas y la utilidad o pérdida resultante se afecta a los resultados del ejercicio en 
+que se produce. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 17 | vecina =====
+- 15 - 
+Depreciación 
+La depreciación se calcula en base al método de línea recta, considerando las vidas útiles 
+estimadas con base en la expectativa de vida del activo. 
+Los terrenos y obras en curso no se deprecian. La depreciación anual de los demás activos fijos 
+se reconoce como gasto y se determina siguiendo el método de línea recta para asignar su costo 
+menos su valor residual durante el estimado de su vida útil, como sigue: 
+Años
+Edificaciones y otras construcciones 20
+Maquinaria y equipo 10
+Muebles y enseres 10
+Equipos Diversos 10
+Unidades de transporte 5
+Equipos de computo 4
+Los valores residuales y la vida útil de los activos se revisan y ajustan, de ser necesario, a la fecha 
+de cada estado de situación financiera. El valor en libros de un activo se castiga inmediatamente 
+a su valor recuperable si el valor en libros del activo es mayor que el estimado de su valor 
+recuperable. 
+(f) Deterioro de activos no financieros 
+Al final de cada periodo, la Compañía revisa los valores en libros de sus activos tangibles e 
+intangibles a fin de determinar si existen indicios de que estos activos han sufrido alguna 
+pérdida por deterioro. Si existe algún indicio, se calcula el monto recuperable del activo a fin de 
+determinar el alcance de la pérdida por deterioro (de haber alguna). Cuando el activo no genera 
+flujos de efectivo independientes de otros activos, la Compañía estima el monto recuperable de 
+la unidad generadora de efectivo a la que pertenece dicho activo. Cuando se puede identificar 
+una base razonable y consistente de distribución, los activos corporativos también se asignan a 
+las unidades generadoras de efectivo individuales, o de lo contrario, se asignan a la compañía 
+más pequeño de unidades generadoras de efectivo para los cuales se puede identificar una base 
+de distribución razonable y consistente. 
+Los activos intangibles con una vida útil indefinida o todavía no disponibles para su uso, se 
+sujetan a pruebas para efectos de deterioro al menos cada año, y siempre que exista un indicio 
+de que el activo podría haberse deteriorado. 
+El monto recuperable es el mayor entre el valor razonable menos el costo de venderlo y el valor 
+en uso. Al evaluar el valor en uso, los flujos de efectivo futuros estimados se descuentan a su 
+valor presente utilizando una tasa de descuento antes de impuestos que refleje la evaluación 
+actual del mercado respecto al valor del dinero en el tiempo y los riesgos específicos del activo 
+para el cual no se han ajustado las estimaciones de flujos de efectivo futuros.  
+Si se estima que el monto recuperable de un activo (o unidad generadora de efectivo) es menor 
+que su valor en libros, el valor en libros del activo (o unidad generadora de efectivo) se reduce a 
+su monto recuperable. Las pérdidas por deterioro se reconocen inmediatamente en resultados, 
+salvo si el activo se registra a un monto revaluado, en cuyo caso se debe considerar la pérdida 
+por deterioro como una disminución de la revaluación. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 49 | vecina =====
+- 47 - 
+(a) La participación de gerencia es el pago de una participación voluntaria en las 
+utilidades de la Compañía que percibe la Gerencia General el cual se encuentra 
+estipulado en los estatutos de la Compañía y hasta el ejercicio 2023 correspondió al 
+10% de la utilidad antes de la distribución de las participaciones a los directores y a 
+los trabajadores, siendo que, desde el ejercicio 2024 se cambió la política en base a 
+el logro de metas para cada gerencia (nota 15). 
+(b) La dieta al directorio es una remuneración que se encuentra estipulada en los 
+estatutos de la Compañía y corresponde al 6% de los resultados contables al cierre 
+de cada ejercicio (nota 15). 
+(ii) Los servicios prestados por terceros incluyen lo siguiente: 
+2024 2023
+S/(000) S/(000)
+Comisiones para distribuidores (a) 6,537 6,535
+Servicios de contratistas (b) 1,982 2,923
+Alquileres 1,017 1,028
+Asesoría y consultoría 1,438 1,056
+Mantenimiento y reparaciones 1,197 698
+Servicios básicos 892 776
+Transporte de materiales 163 303
+Publicidad, publicaciones y relaciones públicas 161 74
+Otros menores 690 615
+14,077 14,008
+(a) Al 31 de diciembre de 2024 y 2023 corresponde a las comisiones pagadas a las 55 
+empresas de los distribuidores, que son personas jurídicas independientes con 
+contrato de locación de servicios y no se tiene ningún vínculo laboral y ninguna 
+relación de dependencia con estas empresas. Las comisiones se pagan por ventas 
+efectivas de bienes realizadas.  
+(b) Al 31 de diciembre de 2024 y 2023 corresponde a contratación de personal de 
+terceros, vigilancia y seguridad, y transporte de dinero (Hermes). 
+(iii) Los otros gastos de gestión incluyen lo siguiente: 
+2024 2023
+S/(000) S/(000)
+Seguros y suscripciones 1,286 1,015
+Suministros 1,272 1,133
+Otros gastos 678 1,854
+3,236 4,002
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 50 | puntaje 9 =====
+- 48 - 
+22. OTROS INGRESOS Y OTROS EGRESOS 
+Otros ingresos  
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+Nota 2024 2023
+S/(000) S/(000)
+Recupero de cuentas por cobrar 7-c 2,433 1,371
+Ingresos por venta de inmuebles,
+maquinaria y equipo 85 -
+Otros menores 797 1,415
+3,315 2,786
+Otros egresos 
+Al 31 de diciembre de 2024, corresponde a la baja en cuentas de reclamos a la administración 
+tributaria por en miles S/5,798 (Nota 9 (c)) y créditos tributarios cuyo periodo de recuperación 
+caducó por en miles S/1,895 y otros menores por en miles S/830. 
+23. INGRESOS Y GASTOS FINANCIEROS 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+Nota 2024 2023
+S/(000) S/(000)
+Ingresos financieros
+Intereses por facturas por cobrar 7-b 247 233
+Intereses de depósitos a plazos y cuentas
+corrientes 4,748 4,107
+4,995 4,340
+Gastos financieros
+Intereses por préstamos 13 9,636 9,587
+Otros menores 110 156
+9,746 9,743
+24. SITUACIÓN TRIBUTARIA 
+Régimen tributario del Impuesto a la Renta 
+Tasas impositivas 
+(a) La Compañía está sujeta al régimen tributario peruano. Al 31 de diciembre de 2024 y de 
+2023, la tasa del Impuesto a la renta corporativo es de 29.5% sobre la renta neta 
+imponible determinada por la Compañía. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 51 | vecina =====
+- 49 - 
+La tasa del impuesto a la renta aplicable a la distribución de dividendos y cualquier otra 
+forma de distribución de utilidades a 5%, esto para las utilidades que se generen y 
+distribuyan a partir del 1 de enero de 2017. 
+Determinación del impuesto a las ganancias 
+(b) La Compañía al calcular su materia imponible por los años terminados el 31 de diciembre 
+de 2024 y de 2023 ha determinado un impuesto a las ganancias corriente de miles de S/ 
+8,165 y miles de S/ 7,179, respectivamente: 
+El gasto por impuesto a las ganancias por los años 2024 y 2023 comprende: 
+2024 2023
+S/(000) S/(000)
+Corriente (7,936) (7,179)
+Diferido (229) -
+(8,165) (7,179)
+La conciliación de la tasa efectiva del impuesto a las ganancias con la tasa tributaria es 
+como sigue: 
+2024 2023 
+S/(000) % S/(000) % 
+Utilidad antes de impuesto a la 
+renta 17,387 100.00% 22,511 100.00%
+Impuesto calculado aplicando la tasa 
+Teórica (5,129) 29.50% (7,179) 29.50%
+Diferencias permanentes (3,036) 17.46% -
+(8,165) 46.96% (7,179) 29.50%
+Impuesto a las ganancias por cobrar 
+(c) Al 31 de diciembre de 2024 y 2023, la Compañía mantiene un activo por impuesto a las 
+ganancias de S/2,545 y S/7,304, respectivamente. 
+Impuesto temporal a los activos netos 
+(d) La tasa del impuesto temporal a los activos netos es del 0.4% para el 2024 y 2023 aplicable 
+al monto de los activos netos que excedan de S/ 1 millón. Este impuesto podrá ser pagado 
+al contado o en nueve cuotas mensuales sucesivas. El monto pagado puede ser utilizado 
+contra los pagos a cuenta del Régimen General del Impuesto a la Renta. En caso de quedar 
+un saldo remanente sin aplicar podrá ser solicitado en devolución. La Compañía ha 
+calculado el Impuesto temporal a los activos netos para el año 2024 de miles de S/ 2,314 
+(miles de S/ 2,401 en el año 2023). 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 52 | vecina =====
+- 50 - 
+Precios de transferencia 
+(e) Para propósitos de la determinación del Impuesto a las ganancias, los precios de 
+transferencia de las transacciones con entidades relacionadas o con sujetos residentes en 
+territorios de baja o nula imposición deberán estar sustentados con la documentación de 
+soporte correspondiente y el cumplimiento de obligaciones formales. Se establecen las 
+siguientes nuevas reglas:  
+- Precio comparable no controlado (PCNC) para commodities: se reafirma que para 
+importaciones o exportaciones de commodities el valor de mercado estará dado por 
+la cotización (antes se había contemplado para operaciones con intermediarios o 
+desde, a través o hacia paraísos fiscales), delegándose en el reglamento el desarrollo 
+en detalle. 
+- Nuevas obligaciones formales: se elimina el Estudio Técnico de Precios de 
+Transferencia y se incorporan nuevas declaraciones juradas informativas: 
+Declaración 
+Jurada 
+Informativa
+Ingresos 
+Anuales 
+Mínimos Supuesto Contenido 
+Rige 
+desde 
+Reporte 
+Local S/11,845 Operaciones con Vinculadas Transacciones que generen renta gravada o gasto deducible. 2018 
+Reporte 
+Maestro S/103,000 
+Contribuyentes 
+que formen 
+parte de un 
+grupo 
+Estructura organizacional, 
+descripción del negocio, 
+políticas de precios de 
+transferencia, posición 
+financiera y fiscal. 
+2018 
+Reporte 
+País por País
+No 
+Aplicable 
+Contribuyentes 
+que formen 
+parte de un 
+grupo 
+multinacional 
+Distribución global de 
+ingresos, impuestos 
+pagados y actividades de 
+cada una de las entidades 
+del grupo multinacional. 
+2019 
+Además, las normas de Precios de Transferencia, respecto a los servicios prestados entre 
+partes vinculadas condiciona la deducción de los gastos al cumplimiento de la realización 
+del Test de Beneficio.  
+Mediante este Test se concluye si un servicio proporciona valor económico o comercial 
+para el destinatario del servicio, mejorando o manteniendo su posición comercial, 
+aportando un beneficio esperado al destinatario del servicio, lo cual se verifica si partes 
+independientes hubieran satisfecho la necesidad del servicio, ejecutándolo por sí mismas 
+o a través de un tercero. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 53 | puntaje 6 =====
+- 51 - 
+En base al análisis de las operaciones de la Compañía, la Gerencia y sus asesores legales 
+opinan que no resultarán pasivos de importancia para los estados financieros al 31 de 
+diciembre de 2024 y 2023, en relación con los precios de transferencia. 
+Revisión fiscal de la autoridad tributaria 
+(f) La Autoridad Tributaria tiene la facultad de revisar y, de ser aplicable, corregir el impuesto 
+a la renta calculado por la Compañía en los cuatro años posteriores al año de la 
+presentación de la declaración de impuestos. Las declaraciones juradas del impuesto a la 
+renta e Impuesto General a las Ventas de los años 2020 al 2024 de la Compañía están 
+pendientes de fiscalización por parte de la Autoridad Tributaria. 
+Debido a las posibles interpretaciones que las autoridades tributarias puedan dar a las 
+normas legales vigentes, no es posible determinar, a la fecha, si de las revisiones que se 
+realicen resultarán o no pasivos para la Compañía, por lo que cualquier mayor impuesto o 
+recargo que pudiera resultar de eventuales revisiones fiscales sería aplicado a los 
+resultados del ejercicio en que éste se determine. Sin embargo, en opinión de la Gerencia 
+de la Compañía y de sus asesores legales, cualquier eventual liquidación adicional de 
+impuestos no sería significativa para los estados financieros al 31 de diciembre de 2024 y 
+de 2023. 
+Régimen tributario del impuesto general a las ventas 
+(g) Al 31 de diciembre de 2024 y de 2023, de acuerdo con el régimen tributario peruano la 
+tasa del Impuesto General a las Ventas (IGV) es del 18%. 
+Modificaciones tributarias de mayor relevancia vigentes a partir del 1 de enero de 2025 
+Las normas e interpretaciones vigentes al 31 de diciembre de 2024 y 2023 han sido 
+consideradas por la Gerencia en la preparación de los estados financieros. 
+A continuación, detallamos las principales modificaciones que serán aplicables a partir de 2025: 
+Intereses y ganancias de capital provenientes de operaciones de reporte y de enajenación de 
+unidades de participación de Fondos Bursátiles o ETF 
+Mediante Ley 32218 publicada el 29 de diciembre de 2024, se establece que constituyen 
+ingresos inafectos los intereses y ganancias de capital provenientes de operaciones de reporte y 
+de la enajenación de unidades de participación de Fondos Bursátiles o Exchange Traded Fund 
+(ETF), cuyo subyacente sean los instrumentos emitidos por la República del Perú (letras del 
+Tesoro Público emitidas por la República del Perú y Bonos y otros títulos de deuda emitidos por 
+la República del Perú bajo el Programa de Creadores de Mercado o el mecanismo que lo 
+sustituya, o en el mercado internacional a partir del año 2003). 
+Depreciación acelerada de activos fijos utilizados en la actividad de generación eléctrica con 
+recursos hídricos y con otros recursos renovables 
+Mediante la Ley 32217 publicada el 29 de diciembre del 2024 se prorrogó el beneficio tributario 
+de depreciación acelerada que promueve la inversión en la actividad de generación eléctrica 
+con recursos hídricos y con otros recursos renovables hasta el 31 de diciembre del 2030. 
+Este beneficio consiste en la depreciación acelerada aplicable a las maquinarias, equipos y obras 
+civiles necesarias para la instalación y operación de la central que genera energía eléctrica con 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2024_Individual_Anual_EEFF Auditado 2024.pdf | PAGINA: 54 | vecina =====
+- 52 - 
+recursos hídricos y otros recursos renovables, que tendrán una tasa anual de depreciación no 
+mayor de 20% como tasa global anual. 
+Acuerdos anticipados de precios (APAs) y otros métodos de valoración 
+Mediante Decreto Legislativo 1663 publicado el 24 de setiembre del 2024 se modifica el 
+numeral 7 del artículo 32 A de la Ley del Impuesto a la Renta siendo que se permite la aplicación 
+de otros métodos de valoración cuando no sea posible aplicar los otros seis previstos, siempre 
+que dichos métodos cumplan con las nuevas condiciones y reglas previstas en la LIR.  
+Mediante Decreto Legislativo 1662 publicado el 24 de setiembre del 2024 se permite la 
+aplicación retroactiva de los acuerdos anticipados de precios (rollback), siempre que se verifique 
+que los hechos y circunstancias relevantes de dichos ejercicios sean los mismos que en los 
+ejercicios cubiertos por los acuerdos anticipados de precios y no haya prescrito la acción de la 
+SUNAT para determinar la obligación tributaria del IR por aplicación de las normas de precios de 
+transferencia respecto de dichas transacciones. 
+Ley del joven empresario.   
+Mediante Ley 31828 publicada el 12 de julio de 2023 las empresas que estén sujetas al Régimen 
+General del Impuesto a la Renta o y que contraten uno o más trabajadores nuevos, que estén 
+entre los 18 y 29 años de edad, durante los ejercicios 2024 y 2025 podrán aplicar una deducción 
+adicional equivalente al 50 % de la remuneración básica que paguen al nuevo trabajador, 
+independientemente de su jornada de trabajo y su modalidad contractual, siempre que 
+cumplan los requisitos mencionados en la ley.   La relación laboral debe iniciarse a partir del 1-1-
+24.  El Decreto Supremo 054-2024-EF publicado el 18 de abril del 2024 aprobó las normas 
+reglamentarias de la referida Ley. 
+25. CONTINGENCIAS Y COMPROMISOS 
+(a) Contingencias 
+En el curso normal de sus operaciones, la Compañía es objeto de acotaciones de diversas 
+índoles, las cuales se registran y divulgan de acuerdo con las Normas Internacionales de 
+Información Financiera. Al 31 de diciembre de 2024, la Compañía mantiene los siguientes 
+procesos contingentes: 
+ Diversos litigios por contingencias aduaneras con la Autoridad Tributaria y el Ministerio de 
+Economía y Finanzas correspondientes a importaciones de acero aleado con boro por los 
+cuales a la Compañía se le aplicó un mayor porcentaje de arancel. El importe reclamado 
+por la Compañía a la Administración Tributaria asciende a S/431 miles el cual fue pagado 
+en años anteriores mediante la ejecución de cartas fianzas. 
+En el año 2024, en opinión de la Gerencia y sus asesores externos, la Compañía cuenta con 
+argumentos que permiten que en caso de un pronunciamiento desfavorable no implicara 
+realizar desembolsos adicionales. 
+ Como resultado de la fiscalización del Impuesto a la Renta de los años 2002 realizada por 
+la Autoridad Tributaria, la Compañía recibió Resoluciones de Determinación y de Multa 
+por un total de S/431 miles que fueron pagadas en su totalidad mediante cheques de 
+gerencia y/o depósitos en cuenta. La Compañía ha interpuesto recursos de reclamación 
+contra las mencionadas resoluciones por el total de los valores desembolsados. Al 31 de 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2014_Individual_Anual_EEFF Auditados 2014.pdf | PAGINA: 7 | vecina =====
+Estos estados financieros se han preparado de los libros y documentos de la Compañía, 
+después de efectuar todos los ajustes necesarios y ellos representan los Estados finales 
+para el periodo objeto de examen, estos estados financieros han sido revisados y 
+aceptados por la Gerencia 
+______________________ 
+Firma 
+Estos estados financieros se han preparado de los libros y documentos de la Compañía, 
+después de efectuar todos los ajustes necesarios y ellos representan los Estados finales 
+para el periodo objeto de examen, estos estados financieros han sido revisados y 
+aceptados por la Gerencia 
+______________________ 
+Firma 
+Estos estados financieros se han preparado de los libros y documentos de la Compañía, 
+después de efectuar todos los ajustes necesarios y ellos representan los Estados finales 
+para el periodo objeto de examen, estos estados financieros han sido revisados y 
+aceptados por la Gerencia 
+______________________ 
+Firma 
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+ 
+Tradi S.A.  
+Estado de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2014 y de 2013 
+  
+Capital 
+social 
+Reserva 
+legal 
+Excedente de 
+revaluación 
+Utilidades 
+acumuladas Total 
+  S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) 
+      
+Saldos al 1 de enero de 2013  128,092 18,244 6,294 63,156 215,786 
+Utilidad neta del año - - - 11,090 11,090   __________ __________ __________ __________ __________ 
+Total resultados integrales del año - - - 11,090 11,090 
+Capitalización de resultados acumulados, nota 15(a) 6,508 - - (6,508) - 
+Apropiación de reserva legal, nota 15(b) - 1,432 - (1,432) - 
+Pago de dividendos, nota 15(d) - - - (4,610) (4,610)   __________ __________ __________ __________ __________ 
+      
+Saldos al 31 de diciembre de 2013 134,600 19,676 6,294 61,696 222,266 
+      
+Utilidad neta del año - - - 13,616 13,616 
+Otros resultados integrales del año, neto de impuesto 
+a las ganancias - - 407 - 407   __________ __________ __________ __________ __________ 
+Total resultados integrales del año - - 407 13,616 14,023 
+Capitalización de resultados acumulados, nota 15(a) 30,000 -  (30,000)  
+Pago de dividendos, nota 15(d) - - - (3,611) (3,611) 
+Apropiación de reserva legal, nota 15(b) - 1,109 - (1,109) 
+ 
+  __________ __________ __________ __________ __________ 
+  
+ 
+ 
+   Saldos al 31 de diciembre de 2014 164,600 20,785 6,701 40,592 232,678 
+ __________ __________ __________ __________ __________ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2014_Individual_Anual_EEFF Auditados 2014.pdf | PAGINA: 8 | puntaje 12 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+ 
+Tradi S.A. 
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2014 y de 2013 
+ 
+2014 2013 
+ 
+S/.(000) S/.(000) 
+   Actividades de operación 
+  Cobranza por venta de bienes 525,431 595,752 
+Pago a proveedores de bienes y servicios (483,868) (579,528) 
+Pago de remuneraciones y beneficios sociales (10,750) (11,271) 
+Pago de tributos (9,857) (7,076) 
+Otros cobros en efectivo relativos a la actividad (4,485) (1,852) 
+ __________ __________ 
+Efectivo neto proveniente de (utilizado en) las actividades de 
+operación 16,471 (3,975) 
+ __________ __________ 
+   Actividades de inversión 
+  Dividendos recibidos 617 743 
+Venta de inmuebles, maquinaria y equipo 48 214 
+Pagos por compras de activos fijos (3,604) (1,919) 
+ __________ __________ 
+Efectivo neto utilizado en las actividades de inversión (2,939) (962) 
+ __________ __________ 
+   Actividades de financiamiento 
+  Aumento de obligaciones financieras 645,734 324,405 
+Pago de obligaciones financieras (640,555) (319,530) 
+Pago de dividendos (3,611) (4,610) 
+ __________ __________ 
+Efectivo neto (utilizado en) proveniente de las actividades de 
+financiamiento 1,568 265 
+ __________ __________ 
+   Aumento neto (disminución neta)  del efectivo y equivalente de 
+efectivo 15,100 (4,672) 
+   
+Saldo del efectivo y equivalente de efectivo al inicio del año 12,845 17,517 
+ __________ __________ 
+Saldo del efectivo y equivalente de efectivo al final del año 27,945 12,845 
+ __________ __________          
+Operaciones que no generaron flujos de efectivo:   
+Revaluación de terrenos, neto del impuesto a las ganancias 407 - 
+Participación en los resultados de la asociada 2,317 2,381 
+Capitalización de resultados acumulados 30,000 6,508 
+Compra de activos fijos pendientes de pago 465 2,232 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2014_Individual_Anual_EEFF Auditados 2014.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Tradi S.A.  
+Notas a los estados financieros  
+Al 31 de diciembre de 2014 y de 2013 
+  1. Actividad económica 
+(a) Identificación - 
+Tradi S.A. (en adelante “la Compañía”) es una sociedad anónima peruana que se constituyó el 23 
+de setiembre de 1976. Los accionistas de la Compañía son personas naturales y jurídicas, 
+ninguno de los cuales ejerce control individual sobre la Compañía. Su domicilio legal es Av. 
+Prolongación Huamanga Nº 1500, La Victoria.  
+ 
+(b) Actividad económica - 
+La Compañía se dedica a la comercialización en el mercado local de productos siderúrgicos 
+nacionales e importados, principalmente tubos, planchas, ángulos, fierro corrugado, fierros de 
+construcción y otros derivados del hierro y acero, así como productos de acabados para la 
+construcción. Un importante volumen de los productos que comercializa la Compañía es 
+adquirido de su relacionada Corporación Aceros Arequipa S.A. Asimismo, un importante volumen 
+de las ventas es efectuado a compañías relacionadas, ver nota 5. 
+ 
+(c) Estados financieros - 
+Los estados financieros de la Compañía al 31 de diciembre de 2013 y por el año terminado en 
+esa fecha han sido aprobados en la Junta General de Accionistas de fecha 31 de marzo de 2014. 
+Los estados financieros al 31 de diciembre de 2014 han sido aprobados por la Gerencia de la 
+Compañía y serán presentados al Directorio y a la Junta General de Accionistas en los plazos 
+establecidos por ley. En opinión de la Gerencia de la Compañía, dichos estados financieros serán 
+aprobados sin modificaciones en la Junta General de Accionistas a llevarse a cabo durante el 
+primer trimestre de 2015. 
+ 
+  2. Resumen de políticas contables significativas 
+2.1 Bases de preparación – 
+2.1.1  Declaración de cumplimiento - 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales 
+de Información Financiera (en adelante “NIIF”), emitidas por el International Accounting 
+Standards Board (en adelante “IASB”), vigentes al 31 de diciembre de 2014. 
+ 
+2.1.2  Base de medición - 
+Los estados financieros han sido preparados sobre la base del costo histórico, a partir de 
+los registros de contabilidad de la Compañía, excepto por el rubro terrenos que han sido 
+medidos a su valor de revaluación.  Los estados financieros adjuntos se presentan en 
+Nuevos Soles (moneda funcional y de presentación), y todos los importes se han 
+redondeado a miles (S/.000), excepto cuando se indique lo contrario. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 9 | vecina =====
+TRADI S.A. 
+Estado de Cambios en el Patrimonio 
+Por los años terminados el 31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+3 
+En miles de soles 
+Capital emitido 
+(nota 16.A) 
+Reserva  
+legal (nota 16.B)  
+Otras reservas 
+(nota 16.C) 
+Resultados 
+acumulados  
+(nota 16.D) Total 
+Saldo al 1 de enero de 2022 174,600 32,992 60,921 37,832  306,345 
+Utilidad del año - - - 34,424 34,424 
+Distribución de dividendos - - - (14,044) (14,044) 
+Transferencia a reserva legal - 1,928 - (1,928) - 
+Saldos al 31 de diciembre de 2022 174,600 34,920 60,921 56,284  326,725  
+Saldo al 1 de enero de 2023 174,600 34,920 60,921 56,284 326,725 
+Utilidad del año - - - 15,332 15,332 
+Distribución de dividendos - - - (11,369) (11,369) 
+Saldos al 31 de diciembre de 2023 174,600 34,920 60,921 60,247 330,688 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas adjuntas de las páginas 5 a la 43 forman parte integral de estos estados financieros. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 10 | puntaje 12 =====
+TRADI S.A. 
+Estado de Flujos de Efectivo 
+Por los años terminados el 31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+4 
+En miles de soles Nota 2023 2022 
+Actividades de operación    
+Utilidad del año  15,332 34,424 
+Ajustes a la utilidad neta que no representan flujos 
+de efectivo:    
+Intereses devengados de obligaciones financieras 20 9,587 3,996 
+Depreciación de inmuebles, maquinaria y equipo 18 1,556 2,603 
+Deterioro de cuentas por cobrar 18 73 2,821 
+Impuesto a la renta diferido 21 - (8) 
+Valor razonable de las inversiones en valores   (5) 
+Método de participación patrimonial de inversiones en 
+asociadas 10 732 6,414 
+(Ganancia) pérdida por baja de mobiliario y equipo   (419) 
+Diferencia en cambio de obligaciones financieras 12 (2,616) (6,009) 
+Variaciones netas en activos y pasivos:    
+Cuentas por cobrar comerciales  1,093 14,607 
+Cuentas por cobrar a partes relacionadas  410 1,964 
+Otras cuentas por cobrar  528 (6,378) 
+Inventarios  51,038 (9,250) 
+Gastos pagados por anticipado  (1,842) (464) 
+Cuentas por pagar comerciales  (2,350) (25,225) 
+Cuentas por pagar a partes relacionadas  (10,144) (9,767) 
+Otras cuentas por pagar  (8,978) (35,239) 
+Efectivo neto provisto (aplicado a) las actividades 
+de operación  54,419 (25,935) 
+Actividades de inversión    
+Pago por compra de inmuebles, maquinaria y equipo 11 (326) (75) 
+Cobro por venta de inmuebles, maquinaria y equipo  - 434  
+Efectivo neto (aplicado a) provisto por las 
+actividades de inversión  (326) 359  
+Actividades de financiamiento    
+Devolución de aportes por asociadas 10 - 5,980 
+Préstamos recibidos 12 321,510 349,941 
+Pago de obligaciones financieras 12 (322,939) (350,417) 
+Pago de intereses 12 (9,655) (3,657) 
+Pago de dividendos  (11,369) (14,044) 
+Efectivo neto aplicado a las actividades de 
+financiamiento  (22,453) (12,197) 
+Disminución neta del efectivo y equivalente de 
+efectivo  31,640 (37,773) 
+Saldo del efectivo y equivalente de efectivo al inicio 
+del año  83,970 121,743  
+Saldo del efectivo y equivalente de efectivo al final 
+del año 5 115,610 83,970  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas adjuntas de las páginas 5 a la 43 forman parte integral de estos estados financieros. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 11 | vecina =====
+TRADI S.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+5 
+1. Información General 
+ 
+A. Antecedentes 
+Tradi S.A. (en adelante “la Compañía”), es una empresa peruana listada en la Bolsa de Valores de 
+Lima con acción nemónico TRADIC1 que se constituyó en setiembre de 1976. El domicilio legal de 
+la Compañía es Av. Prolongación Huamanga N°1500, La Victoria, Lima. 
+ 
+Los accionistas de la Compañía son personas naturales y jurídicas, ninguno de los cuales ejerce un 
+control individual sobre la Compañía. 
+ 
+B. Actividad económica 
+La Compañía se dedica a la comercialización en el mercado peruano de productos siderúrgicos 
+nacionales e importados, principalmente tubos, planchas, ángulos, fierro corrugado, fierros de 
+construcción y otros derivados de hierro y del acero, así como de productos de acabado relacionados 
+con la construcción. 
+ 
+C. Aprobación de los estados financieros 
+Los estados financieros por el año terminado el 31 de diciembre de 2023 han sido emitidos con la 
+autorización de la Gerencia de la Compañía el 29 de enero de 2024 y serán puestos a consideración 
+de la Junta Obligatoria Anual de Accionistas para su modificación y/o aprobación definitiva.  
+ 
+Los estados financieros al 31 de diciembre de 2022 previamente emitidos fueron aprobados por la 
+Junta General de Accionistas el 28 de marzo de 2023. 
+ 
+2. Bases de preparación de los estados financieros 
+ 
+A. Bases de Contabilización 
+Los estados financieros de la Compañía han sido preparados de acuerdo con las Normas 
+Internacionales de Información Financiera (en adelante “NIIF”), emitidas por el International 
+Accounting Standards Board (en adelante “IASB”) vigentes al 31 de diciembre de 2023. 
+ 
+La nota 3 incluye detalles de las políticas contables materiales de la Compañía. 
+ 
+B. Responsabilidad de la información 
+La información contenida en estos estados financieros es responsabilidad de la Gerencia de la 
+Compañía, quien manifiesta expresamente que se han aplicado en su totalidad los principios y 
+criterios incluidos en las NIIF emitidas por el IASB vigentes al 31 de diciembre de 2023.  
+ 
+C. Bases de medición 
+Los presentes estados financieros de la Compañía surgen de los registros de contabilidad, los cuales 
+han sido preparados de acuerdo con el principio de costo histórico a excepción de los instrumentos 
+financieros derivados que se presentan a su valor razonable. 
+ 
+D. Moneda funcional y moneda de presentación 
+Estos estados financieros son presentados en soles (S/), que es la moneda funcional de la 
+Compañía. Toda la información es presentada en soles, excepto cuando se indica de otra manera. 
+ 
+E. Uso de juicios y estimaciones  
+La preparación de los estados financieros requiere que la Gerencia realice juicios, estimaciones y 
+supuestos que afectan a aplicación de las políticas contables y los montos de activos, pasivos, 
+ingresos y gastos informados. Los resultados reales pueden diferir de estas estimaciones.  
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 14 | vecina =====
+TRADI S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+8 
+Después del reconocimiento inicial, los pasivos financieros son medidos a sus valores nominales 
+que son similares a sus valores de costo amortizado usando el método de la tasa de interés efectiva, 
+dados sus vencimientos corrientes o pocos costos incrementales. 
+ 
+iii. Baja de activos y pasivos financieros 
+ 
+Activos financieros  
+Un activo financiero (o, cuando sea aplicable una parte de un activo financiero o una parte de un 
+grupo de activos financieros similares) es dado de baja cuando: (i) los derechos de recibir flujos de 
+efectivo del activo han terminado; o (ii) la Compañía ha transferido sus derechos a recibir flujos de 
+efectivo del activo o ha asumido una obligación de pagar la totalidad de los flujos de efectivo 
+recibidos inmediatamente a una tercera parte bajo un acuerdo de traspaso (“pass through”); y  
+(iii) la Compañía ha transferido sustancialmente todos los riesgos y beneficios del activo o, de no 
+haber transferido ni retenido sustancialmente todos los riesgos y beneficios del activo, sí ha 
+transferido su control. 
+ 
+Pasivos financieros  
+Un pasivo financiero es dado de baja cuando la obligación de pago se termina, se cancela o expira. 
+ 
+Cuando un pasivo financiero existente es reemplazado por otro del mismo prestatario en 
+condiciones significativamente diferentes, o las condiciones son modificadas en forma importante, 
+dicho reemplazo o modificación se trata como una baja del pasivo original y el reconocimiento de un 
+nuevo pasivo, reconociéndose la diferencia entre ambos en los resultados del período.  
+ 
+iv. Compensación de instrumentos financieros  
+Un activo y un pasivo financiero serán objeto de compensación, de manera que se presente en el 
+estado de situación financiera su importe neto, cuando y solo cuando la Compañía tenga, en el 
+momento actual, el derecho, exigible legalmente, de compensar los importes reconocidos y tenga la 
+intención de liquidar por el importe neto, o de realizar el activo y liquidar el pasivo simultáneamente. 
+ 
+v. Deterioro del valor de activos financieros 
+La Compañía evalúa, con una perspectiva de futuro, las pérdidas crediticias esperadas asociadas con 
+instrumentos de deuda medidos a costo amortizado. La metodología aplicada para determinar el 
+deterioro depende de si el riesgo de crédito de un activo ha experimentado un aumento significativo. 
+ 
+Medición de las pérdidas esperadas 
+ 
+ La Compañía utiliza una solución práctica para medir las pérdidas crediticias esperadas sobre 
+las cuentas por cobrar comerciales, utilizando una matriz de provisiones que asigne 
+porcentajes de pérdida por antigüedad de los saldos. 
+ 
+ La Compañía aplica el enfoque simplificado permitido por la NIIF 9, el cual requiere estimar la 
+pérdida crediticia de la cuenta por la duración total del instrumento y reconocerla desde su 
+registro inicial. 
+ 
+ Con el detalle de ratios de pérdida histórica, se evaluó la correlación de los mismos con 
+variables económicas que permitirían predecir la evolución de estos ratios. Con un alto nivel 
+de dependencia, la Compañía desarrolló un modelo que permite conocer el ratio de pérdida 
+esperada, la cual tiene relación entre las pérdidas durante un año y el saldo de las cuentas por 
+cobrar a la fecha de corte para un segmento homogéneo previamente definido. 
+ 
+ Obtenido los ratios de pérdida estimados, se les aplicó sobre la antigüedad de cuentas por 
+cobrar que se encuentran vigentes. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 15 | puntaje 6 =====
+TRADI S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+9 
+Presentación del valor de las pérdidas esperadas en el estado de situación financiera 
+El valor de las pérdidas esperadas para los activos financieros medidos al costo amortizado se 
+deduce del importe en libros bruto de los activos.  
+ 
+En el caso de los instrumentos de deuda al valor razonable con cambios en otro resultado integral, la 
+corrección de valor se carga a resultados y se reconoce en otro resultado integral. 
+ 
+Castigo  
+El importe en libros bruto de un activo financiero se castiga cuando la Compañía no tiene 
+expectativas razonables de recuperar un activo financiero en su totalidad o una porción del mismo. 
+ 
+C. Inventarios 
+Las existencias se registran al costo o a su valor neto de realización, el que resulte menor. El costo 
+se determina sobre la base del método de promedio ponderado, excepto en el caso de las 
+existencias por recibir, cuyo costo se determina sobre la base del método de identificación 
+específica. 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de las operaciones del 
+negocio, menos los gastos de venta variables que apliquen y menos los costos estimados para 
+poner las existencias en condición de venta y realizar su comercialización. Por las reducciones del 
+valor en libros de las existencias a su valor neto realizable, se constituye una provisión para 
+desvalorización de existencias con cargo al estado de resultados integrales del período en que 
+ocurren tales reducciones. 
+ 
+En opinión de la Gerencia de la Compañía, la estimación por desvalorización de inventarios al 31 de 
+diciembre de 2023 y de 2022, cubre adecuadamente el riesgo de desvalorización a dichas fechas y 
+no es necesario registrar provisión adicional por desvalorización adicional a dichas fechas. 
+ 
+D. Inversiones en asociadas 
+Las asociadas son todas las entidades sobre las que la Compañía ejerce influencia significativa pero 
+no control, generalmente estas entidades son aquellas en las que se mantiene una participación de 
+entre 20% y 50% de los derechos a voto. 
+ 
+Las inversiones en asociadas se registran por el método de participación patrimonial. Bajo el método 
+de participación patrimonial, la inversión se reconoce inicialmente al costo y el valor en libros se 
+incrementa o disminuye para reconocer la participación de la Compañía en los resultados (y en los 
+otros resultados integrales) obtenidos por la asociada después de la fecha de adquisición con cargo 
+o abono a los resultados del año (o a otros resultados integrales si se derivan de este tipo de 
+partidas). 
+ 
+Cuando la participación de la Compañía en las pérdidas de una asociada es igual o excede su 
+participación en ésta, incluyendo cualquier cuenta por cobrar no garantizada, la Compañía no 
+reconoce mayor pérdida, a menos que posea una obligación legal o implícita o haya efectuado pagos 
+a nombre de la asociada. 
+ 
+Las utilidades y pérdidas que resultan de transacciones que la Compañía genera con sus asociadas o 
+que estas generan con la Compañía se reconocen en los estados financieros de la Compañía 
+solamente por la porción relacionada a la participación que la Compañía posee sobre estas. Las 
+pérdidas no realizadas son eliminadas a menos que la transacción provea evidencia de deterioro del 
+activo transferido. Las políticas contables de las asociadas, si fuera necesario, se modifican para 
+asegurar consistencia con las políticas adoptadas por la Compañía. 
+ 
+Las inversiones en asociadas medidas con el método de participación patrimonial se prueban por 
+deterioro de acuerdo con la política descrita en la nota 2.K.  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 16 | vecina =====
+TRADI S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+10 
+E. Propiedades, planta y equipo  
+Las propiedades, planta y equipo están registrados al costo de adquisición, menos la depreciación 
+acumulada y el importe acumulado de cualesquiera pérdidas por deterioro del valor que hayan 
+sufrido a lo largo de su vida útil. El costo de propiedades, planta y equipo comprende un precio de 
+compra, incluyendo aranceles e impuestos de compra no reembolsables, así como cualquier costo 
+atribuible directamente para dejar el activo en condiciones de trabajo y uso. 
+ 
+Los desembolsos posteriores a la adquisición de los elementos componentes de las propiedades, 
+planta y equipo, sólo se reconocen cuando sea probable que la Compañía obtenga los beneficios 
+económicos futuros derivados del mismo y el costo del activo pueda ser valorado con fiabilidad. Los 
+gastos de mantenimiento y reparaciones se afectan a los resultados del ejercicio en que se incurren.  
+ 
+El costo y la depreciación acumulada de los bienes retirados o vendidos se eliminan de las cuentas 
+respectivas y la utilidad o pérdida resultante se afecta a los resultados del ejercicio en que se 
+produce. 
+ 
+Depreciación 
+La depreciación se calcula en base al método de línea recta, considerando las vidas útiles estimadas 
+con base en la expectativa de vida del activo. 
+ 
+Los terrenos y obras en curso no se deprecian. La depreciación anual de los demás activos fijos se 
+reconoce como gasto y se determina siguiendo el método de línea recta para asignar su costo 
+menos su valor residual durante el estimado de su vida útil, como sigue: 
+ 
+ Años 
+Edificaciones y otras construcciones 20 
+Maquinaria y equipo 10 
+Unidades de transporte 5 
+Muebles y enseres  10 
+Equipos Diversos 10 
+Equipos de computo 4 
+ 
+Los valores residuales y la vida útil de los activos se revisan y ajustan, de ser necesario, a la fecha de 
+cada estado de situación financiera. El valor en libros de un activo se castiga inmediatamente a su 
+valor recuperable si el valor en libros del activo es mayor que el estimado de su valor recuperable. 
+ 
+F. Deterioro de activos no financieros 
+Los activos sujetos a depreciación y las inversiones en asociadas se someten a pruebas de deterioro 
+cuando se producen eventos o circunstancias que indican que su valor en libros podría no 
+recuperarse. Las pérdidas por deterioro se miden como el monto en el que el valor en libros del 
+activo excede a su valor recuperable.  El valor recuperable de los activos corresponde al mayor entre 
+su valor razonable y su valor en uso. Para efectos de la evaluación por deterioro, los activos se 
+agrupan a los niveles más pequeños en los que generan flujos de efectivo identificables (unidades 
+generadoras de efectivo). El valor en libros de activos no financieros que han sido objeto de castigos 
+por deterioro se revisa a cada fecha de reporte para verificar posibles reversiones del deterioro. 
+ 
+G. Obligaciones financieras 
+Las obligaciones financieras se reconocen inicialmente a su valor razonable, neto de los costos 
+incurridos en la transacción (costos de transacción) y, subsecuentemente, a su costo amortizado; 
+cualquier diferencia entre los fondos recibidos (neto de los costos de transacción) y el valor de 
+redención se reconoce en el estado de resultados integrales durante el período del préstamo 
+aplicando el método de interés efectivo. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 40 | vecina =====
+TRADI S.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+34 
+19. Gastos de ventas 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+En miles de soles Nota 2023 2022 
+Cargas de personal (i)  16,148 9,741 
+Servicios prestados por terceros (ii)  13,787 15,831 
+Depreciación de activos fijos 11 1,478 2,524 
+Otras cargas de gestión (iii)  4,002 3,443 
+Provisión por pérdida esperada  73 2,821 
+Tributos  440 403 
+  35,928 34,763 
+ 
+20. Gastos de administración 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+En miles de soles Nota 2023 2022 
+Cargas de personal (i)  3,431 18,035 
+Servicios prestados por terceros (ii)  221 113 
+Depreciación de activos fijos 11 78 79 
+Otras cargas de gestión  27 26 
+Provisión por pérdida esperada  - - 
+Tributos  196 65 
+  3,953 18,318 
+ 
+(i) Las cargas de personal incluyen lo siguiente: 
+ 
+En miles de soles  2023 2022 
+Remuneraciones  8,581 7,572 
+Participaciones de gerencia (a)  2,939 6,958 
+Participaciones a los trabajadores  2,351 5,565 
+Dietas al Directorio (b)  1,587 3,758 
+Gratificaciones  1,616 1,478 
+Beneficios sociales  923 942 
+Vacaciones  739 743 
+Prestaciones de salud  834 740 
+Otros menores  9 20 
+  19,579 27,776 
+Número de empleados  212 214 
+ 
+(a) La participación de gerencia es una remuneración que percibe la Gerencia General el 
+cual se encuentra estipulados en los estatutos de la Compañía y corresponde al 10% 
+de la utilidad antes de distribución de participaciones a los trabajadores, dietas de 
+directorio e impuesto a la renta al cierre de cada ejercicio (nota 15). 
+ 
+(b) La dieta al directorio es una remuneración que se encuentra estipulada en los estatutos 
+de la Compañía y corresponde al 6% de los resultados contables al cierre de cada 
+ejercicio (nota 15).  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 41 | puntaje 12 =====
+TRADI S.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+35 
+(ii) Los servicios prestados por terceros incluyen lo siguiente: 
+ 
+En miles de soles 2023 2022 
+Comisiones para vendedores (a) 6,535 7,382 
+Servicios de contratistas (b) 2,923 4,135 
+Alquileres 1,028 1,046 
+Asesoría y consultoría 1,056 995 
+Mantenimiento y reparaciones 698 822 
+Servicios básicos 776 758 
+Transporte de materiales 303 246 
+Publicidad, publicaciones y relaciones públicas 74 47 
+Otros menores 615 513 
+ 14,008 15,944 
+ 
+(a) Al 31 de diciembre de 2023 y 2022 Corresponde a las comisiones pagadas a las 52 
+empresas de los vendedores, que son personas jurídicas independientes con contrato 
+de locación de servicios y no se tiene ningún vínculo laboral y ninguna relación de 
+dependencia con estas empresas. 
+ 
+(b) Al 31 de diciembre de 2023 y 2022 corresponde a contratación de personal de 
+terceros, vigilancia y seguridad, y transporte de dinero (Hermes). 
+ 
+(iii) Los servicios prestados por terceros incluyen lo siguiente: 
+ 
+En miles de soles 2023 2022 
+Seguros y suscripciones 1,015 1,108 
+Suministros 1,133 1,262 
+Otros gastos 1,854 1,073 
+ 4,002 3,443 
+ 
+21. Otros Ingresos y Gastos 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+En miles de soles Nota 2023 2022 
+Otros ingresos    
+Recupero de cuentas por cobrar 7-c 1,371 1,092 
+Ingresos por venta de inmuebles, maquinaria y 
+equipo  - 434 
+Otros menores  1,415 449 
+  2,786 1,975 
+Otros gastos    
+Costo neto por baja de activos fijos 12 - - 
+ 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 42 | vecina =====
+TRADI S.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+36 
+22. Ingresos y Gastos Financieros 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+En miles de soles Nota 2023 2022 
+Ingresos financieros    
+Intereses por facturas por cobrar 7-b 233 383 
+Intereses de depósitos a plazos y cuentas corrientes  4,107 898 
+  4,340 1,281 
+Gastos financieros 13   
+Intereses por préstamos  9,587 3,996 
+Otros menores  156 182 
+  9,743 4,192 
+ 
+23. Situación Tributaria 
+ 
+Régimen tributario del Impuesto a la Renta 
+ 
+Tasas impositivas  
+ 
+A. La Compañía está sujeta al régimen tributario peruano. Al 31 de diciembre de 2023 y de 2022, 
+la tasa del Impuesto a la renta Corporativo es de 29.5% sobre la renta neta imponible 
+determinada por la Compañía. 
+ 
+La tasa del impuesto a la renta aplicable a la distribución de dividendos y cualquier otra forma 
+de distribución de utilidades a 5%, esto para las utilidades que se generen y distribuyan a 
+partir del 1 de enero de 2017. 
+ 
+Determinación del impuesto a las ganancias 
+ 
+B. La Compañía al calcular su materia imponible por los años terminados el 31 de diciembre de 
+2023 y de 2022 ha determinado un impuesto a las ganancias corriente de miles de S/ 7,179 y 
+miles de S/ 18,887, respectivamente: 
+ 
+El gasto por impuesto a las ganancias por los años 2023 y 2022 comprende: 
+ 
+En miles de soles 2023 2022 
+Corriente (7,179) (18,887) 
+Diferido - 8 
+ (7,179) (18,879) 
+ 
+La conciliación de la tasa efectiva del impuesto a las ganancias con la tasa tributaria es como 
+sigue: 
+ 
+En miles de soles 2023 2022 
+Utilidad antes de impuesto a la renta 22,485 100% 53,303 100.00% 
+Impuesto calculado aplicando la tasa     
+Teórica (7,179) 29.50% (15,724) 29.50% 
+Diferencias permanentes - - (3,155) 5.92% 
+ (7,179) 29.50% (18,879) 35.42% 
+ 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 45 | vecina =====
+TRADI S.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+39 
+K. Responsabilidad solidaria de los representantes legales y Directores de las Sociedades 
+A partir del 14 de setiembre de 2018, ha quedado establecido, mediante el Decreto 
+Legislativo N° 1422 que, cuando un sujeto fiscalizado sea sujeto de la Cláusula Anti-elusiva 
+General (CAG), se considera automáticamente que existe dolo, negligencia grave o abuso de 
+facultades respecto de sus representantes legales, salvo prueba en contrario. La referida 
+responsabilidad solidaria se atribuirá a dichos representantes siempre que hayan colaborado 
+con el diseño o aprobación o ejecución de actos, situaciones o relaciones económicas con 
+propósito elusivo. 
+ 
+La norma precitada involucra también a los miembros del Directorio de sociedades, al 
+señalarse que a dichos sujetos les corresponde definir la estrategia tributaria de las 
+sociedades en las cuales son directores, debiendo éstos decidir la aprobación o no de actos, 
+situaciones o relaciones económicas a realizarse en el marco de la planificación fiscal, siendo 
+indelegable – según la norma en comentario – esta atribución de los directores. 
+ 
+Se otorgó a los miembros del Directorio de sociedades domiciliadas, un plazo que vence el  
+29 de marzo de 2019 para ratificar o modificar los actos, situaciones o relaciones económicas 
+realizados en el marco de la planificación fiscal, e implementados al 14 de setiembre de 2018 
+que sigan teniendo efecto tributario hasta la actualidad. 
+ 
+No obstante el referido plazo máximo señalado para el cumplimiento de dicha obligación 
+formal, y considerando la referida responsabilidad solidaria atribuible tanto a representantes 
+legales como a directores, así como la falta de definición del término planificación fiscal será 
+crítico revisar todo acto, situación o relación económica que haya (i) incrementado atributos 
+fiscales; y/o, (ii) generado un menor pago de tributos por los ejercicios antes mencionados, a 
+fin de evitar la atribución de responsabilidad solidaria tributaria, tanto a nivel administrativo 
+como incluso penal, dependiendo del criterio del agente fiscalizador, en caso de aplicarse la 
+CAG a la sociedad que sea materia de una intervención fiscal por parte de la SUNAT. 
+ 
+L. Información relacionada con beneficiarios finales 
+En el marco de las normas para fortalecer la lucha contra la evasión y elusión fiscal así como 
+contra el lavado de activos y financiamiento del terrorismo, a partir del 3 de agosto de 2018 se 
+encuentran vigentes las disposiciones introducidas a través del Decreto Legislativo N° 1372 
+que obligan a brindar a las autoridades competentes, a través de una declaración jurada de 
+beneficiarios finales, información relacionada con dichos sujetos, esto es, a revelar mediante 
+dicha declaración quiénes son las personas naturales que efectivamente tienen la propiedad o 
+control en personas jurídicas o entes jurídicos. Así, será obligatorio informar aspectos como (i) 
+identificación del beneficiario final; (ii) la cadena de titularidad con la respectiva 
+documentación de sustento; (iii) identificación de los terceros que cuentan con dicha 
+información, de ser el caso. Se señala además que la información relacionada a la 
+identificación de los beneficiarios finales de las personas jurídicas y entes jurídicos que se 
+proporcione a las autoridades competentes en el marco de estas normas no constituye 
+violación al secreto profesional ni tampoco está sujeta a las restricciones sobre revelación de 
+información derivadas de la confidencialidad impuesta por vía contractual o por cualquier 
+disposición legal o reglamentaria. 
+ 
+Asimismo, mediante Resolución de Superintendencia No. 041-2022/SUNAT, vigente desde el 
+25 de marzo de 2022, se establecieron los nuevos sujetos obligados a presentar la 
+Declaración Jurada de Beneficiario Final en los ejercicios 2022 y 2023 (siempre que no hayan 
+declarado en diciembre de 2019). 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 46 | puntaje 6 =====
+TRADI S.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+40 
+Los entes jurídicos se encontraron obligados a presentar la Declaración Jurada de  
+Beneficiario Final conforme al cronograma de vencimiento de obligaciones mensuales del 
+periodo de diciembre de 2022; no obstante, mediante la Resolución de Superintendencia  
+N° 000278-2022/SUNAT se aplazó dicho vencimiento al periodo diciembre de 2023.  
+ 
+Debe tenerse en consideración que, de no presentarse la declaración jurada informativa que 
+contiene la información relacionada al beneficiario final, incurrirán en responsabilidad solidaria 
+los representantes legales de la entidad que omitió cumplir con la presentación de dicha 
+declaración. 
+ 
+M. Enajenación indirecta de acciones 
+A partir del 1 de enero de 2019 se incorpora una técnica anti-elusiva para evitar el 
+fraccionamiento de operaciones, a través de las cuales, indirectamente se enajenen acciones 
+de empresas domiciliadas en Perú.  
+ 
+Se indica que para establecer si en un período de 12 meses se ha cumplido con la 
+transferencia del 10% o más del capital de la sociedad peruana, se consideran las 
+transferencias realizadas por el sujeto analizado, así como las realizadas a sus partes 
+vinculadas, sea que se ejecuten mediante una o varias operaciones, simultáneas o sucesivas. 
+Dicha vinculación se establecerá conforme a lo establecido en el inciso b) del artículo 32-A de 
+la Ley del Impuesto a la Renta.  
+ 
+Asimismo, queda establecido además que, independientemente del cumplimiento de las 
+condiciones reguladas en la Ley del Impuesto a la Renta, siempre se configurará una 
+enajenación indirecta gravada cuando, en un período cualquiera de 12 meses, el importe total 
+de las acciones de la persona jurídica peruana que se enajenan sea igual o mayor a cuarenta 
+mil (40,000) UIT. 
+ 
+Se agrega además desde la fecha de vigencia inicialmente señalada que, cuando el 
+enajenante sea una persona jurídica no domiciliada que cuenta con una sucursal o cualquier 
+establecimiento permanente en Perú con patrimonio asignado, se considera a este último 
+corresponsable solidario, debiendo este último sujeto proporcionar, entre otra información, a 
+la correspondiente a las acciones o participaciones de la persona jurídica no domiciliada que 
+se enajenan. 
+ 
+N. Depreciación de Activos 
+Mediante el Decreto Legislativo N° 1488 Régimen Especial de Depreciación y normas 
+modificatorias, se incrementa los porcentajes de depreciación de los activos adquiridos 
+durante los años 2020, 2021 y 2022 con el fin de promover la inversión privada y otorgar 
+mayor liquidez dada la actual coyuntura económica por efectos del COVID-19. 
+ 
+Asimismo, mediante Ley No. 31652, se aprobó un nuevo Régimen Especial de Depreciación, 
+mediante el cual se incrementa los porcentajes de depreciación para los contribuyentes que 
+adquieran edificaciones y construcciones durante los años 2023 y 2024 (no aplica para bienes 
+construidos total o parcialmente antes del 01 de enero de 2023). 
+ 
+O. Subcapitalización 
+A partir del 1 de enero de 2021 los gastos financieros serán deducibles hasta el límite del 
+30% del EBITDA tributario (Renta Neta – Compensación de Pérdidas + Intereses Netos + 
+Depreciación + Amortización) del ejercicio anterior. Existen algunas excepciones a la 
+aplicación de esta limitación para el caso de bancos, contribuyentes con ingresos no 
+superiores a 2,500 UITs, infraestructura, servicios públicos, entre otros. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2023_Individual_Anual_EEFF Auditado 2023.pdf | PAGINA: 47 | vecina =====
+TRADI S.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2023 y de 2022 
+ 
+ 
+ 
+41 
+Mediante Decreto Supremo N° 402-2021publicado el 30 de diciembre, vigente a partir del 31 
+de diciembre 2021, se modificó el Reglamento de la Ley del Impuesto a la Renta que regula 
+el cálculo del EBITDA tributario a efectos del límite de interés de deudas. 
+ 
+El gasto financiero generado por endeudamientos tanto entre partes independientes como 
+relacionadas está sujeto al límite de subcapitalización de (3:1 Debt-Equity Ratio) calculado al 
+cierre del ejercicio anterior. 
+ 
+P. Sujetos sin capacidad operativa (SSCO) 
+Mediante Decreto Legislativo No. 1532, publicado el 19 de marzo de 2022 y vigente a partir 
+del 01 de enero de 2023, se reguló el procedimiento de atribución de la condición de Sujeto 
+sin Capacidad Operativa-SSCO, en el marco de la lucha contra la evasión tributaria. 
+ 
+En ese sentido, se definió como SSCO, a aquel sujeto, que, si bien figura como emisor de los 
+comprobantes de pago o de los documentos complementarios, no tiene los recursos 
+económicos, financieros, materiales, humanos y/u otros, o estos no resultan idóneos, para 
+realizar las operaciones por las que se emiten dichos documentos. 
+ 
+Mediante, Decreto Supremo No. 319-2023-EF se aprobó el Reglamento del procedimiento de 
+atribución de la condición de SSCO. 
+ 
+Q. Otros cambios relevantes  
+En el marco de la delegación de facultades para legislar en materia tributaria, fiscal, financiera 
+y de reactivación económica, dada al Poder Ejecutivo (Ley N° 31380), el 30 de diciembre de 
+2021 se publicaron las primeras normas tributarias, entre las que destacan los beneficios 
+tributarios aprobados para el sector Acuicultura y Forestal, la uniformización del costo por el 
+acceso a la estabilidad tributaria y la prórroga de las exoneraciones del IGV, entre las 
+principales tenemos: 
+ 
+Extienden la vigencia de algunas exoneraciones y beneficios tributarios, específicamente los 
+siguientes: 
+ 
+• Hasta el 31 de diciembre de 2025, se extienden las exoneraciones contenidas en los 
+Apéndices I y II de la Ley del IGV. En consecuencia, no estarán gravadas con IGV, entre 
+otros, la venta de alimentos de primera necesidad y servicios básicos como el 
+transporte público. Enlace a la norma en comentario: Ley No. 31651. 
+• Hasta el 31 de diciembre de 2024, la emisión de dinero electrónico no estará gravada 
+con IGV. Enlace a la norma en comentario: Decreto Legislativo No. 1519. 
+• Hasta el 31 de diciembre de 2024, se permite la devolución de impuestos que gravan 
+las adquisiciones con donaciones del exterior e importaciones de misiones 
+diplomáticas. Enlace a la norma en comentario: Decreto Legislativo No. 1519. 
+ 
+Mediante el Decreto Supremo N° 1516 publicado el 30 de diciembre de 2021 y vigente a 
+partir del 31 de diciembre de 2021 se ha dispuesto uniformizar el costo por el acceso a la 
+estabilidad prevista en los Convenios de Estabilidad Jurídica al amparo de los Decretos 
+Legislativos N° 662 y N° 757, por consiguiente dicho decreto ha modificado el artículo 1° de la 
+Ley N° 27342 que regula dichos convenios, por tanto las empresas receptoras de inversión 
+suscriban con el Estado, estabilizan el Impuesto a la Renta que corresponde aplicar de 
+acuerdo con las normas vigentes al momento de la suscripción del convenio correspondiente, 
+siendo aplicable la tasa vigente a que se refiere el primer párrafo del artículo 55° de la Ley del 
+Impuesto a la Renta en ese momento más 2 (dos) puntos porcentuales. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 10 | vecina =====
+TRADI S.A.
+ESTADO DE CAMBIOS EN EL PATRIMONIO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2022
+Y EL 31 DE DICIEMBRE DE 2021
+Reserva Excedente de Resultados
+Nota Capital legal revaluación acumulados Total
+S/000 S/000 S/000 S/000 S/000
+Saldos al 1 de enero de 2021 174,600          31,149            60,921            67,896            334,566
+Utilidad del año - - - 73,184            73,184            
+Distribución de dividendos 17 - - - (101,405)         (101,405)         
+Transferencia a reserva legal 17 - 1,843              - (1,843)             -
+Saldos al 31 de diciembre de 2021 174,600          32,992            60,921            37,832            306,345          
+Saldos al 1 de enero de 2022 174,600          32,992            60,921            37,832            306,345          
+Utilidad del año - - - 34,424            34,424            
+Distribución de dividendos 17 - - - (14,044)           (14,044)           
+Transferencia a reserva legal 17 - 1,928              - (1,928)             -
+Saldos al 31 de diciembre de 2022 174,600          34,920            60,921            56,284            326,725          
+Las notas que se acompañan de la página 10 a la 42 forman parte de los estados financieros.
+- 8 -
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 11 | puntaje 12 =====
+TRADI S.A.
+ESTADO DE FLUJOS DE EFECTIVO 
+Por el año terminado
+el 31 de diciembre de
+Nota 2022 2021
+S/000 S/000
+ACTIVIDADES DE OPERACION
+Utilidad del año 34,424            73,184            
+Ajustes a la utilidad neta que no representan flujos de efectivo:
+Intereses devengados de obligaciones financieras 21 3,996              3,040              
+Depreciación de inmuebles, maquinaria y equipo 19 2,603              3,413              
+Depreciación derecho de uso 19 - 1,304              
+Deterioro de cuentas por cobrar 19 2,821              3,022              
+Impuesto a la renta diferido 22 (8)                   (575)               
+Valor razonable de las inversiones en valores (5)                   1                     
+Método de participación patrimonial de inversiones en asociadas 11 6,414              (913)               
+(Ganancia) pérdida por baja de mobiliario y equipo (419)               193                 
+Diferencia en cambio de obligaciones financieras 13 (6,009)            19,191            
+Variaciones netas en activos y pasivos:
+Cuentas por cobrar comerciales 14,607            (19,990)          
+Cuentas por cobrar a partes relacionadas 1,964              7,741              
+Otras cuentas por cobrar (6,378)            (3,146)            
+Inventarios (9,250)            (67,029)          
+Gastos pagados por anticipado (464)               (536)               
+Cuentas por pagar comerciales (25,225)          (1,252)            
+Cuentas por pagar a partes relacionadas (9,767)            9,560              
+Otras cuentas por pagar (35,239)          42,626            
+Efectivo neto (aplicado a) provisto por las actividades de operación (25,935)          69,834            
+ACTIVIDADES DE INVERSION
+Pago por compra de inmuebles, maquinaria y equipo 12 (75)                 (373)               
+Cobro por venta de inmuebles, maquinaria y equipo 434                 98                   
+Efectivo neto provisto por (aplicado a) las actividades de inversión 359                 (275)               
+ACTIVIDADES DE FINANCIAMIENTO
+Dividendos recibidos de inversiones en asociadas 11 - 500                 
+Devolución de aportes por asociadas 11 5,980              -
+Préstamos recibidos 13 349,941          249,904          
+Pago de obligaciones financieras 13 (350,417)        (254,926)        
+Pagos por arrendamiento - (1,313)            
+Pago de intereses 13 (3,657)            (3,300)            
+Pago de dividendos (14,044)          (101,405)        
+Efectivo neto aplicado a las actividades de financiamiento (12,197)          (110,540)        
+Disminución neto del efectivo y equivalente de efectivo (37,773)          (40,981)          
+Saldo del efectivo y equivalente de efectivo al inicio del año 121,743          162,724          
+Saldo del efectivo y equivalente de efectivo al final del año 6 83,970            121,743          
+Las notas que se acompañan de la página 10 a la 42 forman parte de los estados financieros.
+- 9 -
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 12 | vecina =====
+- 10 - 
+TRADI S.A. 
+ 
+ 
+NOTAS A LOS ESTADOS FINANCIEROS  
+31 DE DICIEMBRE DE 2022 Y 31 DE DICIEMBRE DE 2021 
+ 
+ 
+1 INFORMACION GENERAL 
+ 
+1.1 Antecedentes - 
+ 
+Tradi S.A. (en adelante “la Compañía”), es una empresa peruana listada en la Bolsa de Valores de 
+Lima con acción nemónico TRADIC1 que se constituyó en setiembre de 1976.  El domicilio legal de la 
+Compañía es Av. Prolongación Huamanga N°1500, La Victoria, Lima. 
+ 
+Los accionistas de la Compañía son personas naturales y jurídicas, ninguno de los cuales ejerce un 
+control individual sobre la Compañía. 
+ 
+1.2 Actividad económica - 
+ 
+La Compañía se dedica a la comercialización en el mercado peruano de productos siderúrgicos 
+nacionales e importados, principalmente tubos, planchas, ángulos, fierro corrugado, fierros de 
+construcción y otros derivados de hierro y del acero, así como de productos de acabado relacionados 
+con la construcción. 
+ 
+1.3 Impacto del COVID - 19 - 
+ 
+Mediante Decreto Supremo Nº 044-2020-PCM de fecha 15 de marzo de 2020, se declaró el Estado de 
+Emergencia Nacional en el Perú por un plazo inicial de quince días calendario a consecuencia del 
+brote del COVID-19, que fue calificado como una pandemia por la Organización Mundial de la Salud. 
+Los estados de emergencia nacional fueron ampliados en sucesivas oportunidades, mediante 
+decretos supremos, hasta el 27 de octubre de 2022, en el que se dejó sin efecto el estado de 
+emergencia nacional. 
+ 
+Desde el inicio del brote del COVID-19, el Gobierno estableció ciertas medidas que, en prevención de 
+la propagación del virus, restringió la actividad económica de diversas industrias, lo que afectó la 
+marcha normal de la economía. Si bien, desde 2021 y durante 2022 se viene observando una 
+recuperación de los efectos adversos generados por la pandemia, aún se mantiene el riesgo de 
+posibles rebrotes y de acciones del gobierno en respuesta a ello. Debido a lo anterior, la Gerencia de 
+la Compañía tiene previsto continuar monitoreando la evolución de la pandemia y sus implicancias en 
+sus actividades económicas. 
+ 
+1.4 Aprobación de los estados financieros - 
+ 
+Los estados financieros por el año terminado el 31 de diciembre de 2022 han sido emitidos con la 
+autorización de la Gerencia de la Compañía el 2 de marzo de 2023 y serán puestos a consideración 
+de la Junta Obligatoria Anual de Accionistas para su modificación y/o aprobación definitiva. La 
+Gerencia estima que los estados financieros serán aprobados sin modificaciones. Los estados 
+financieros por el año terminado el 31 de diciembre de 2021 fueron aprobados en la Junta Obligatoria 
+Anual de Accionistas el 28 de marzo de 2022. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 14 | vecina =====
+- 12 - 
+• Modificación a la NIC 12, Impuestos diferidos relacionados con activos y pasivos surgidos de 
+una única transacción. 
+• Modificaciones a la NIC 1: Clasificación de pasivos como corrientes o no corrientes. 
+• Modificación a la NIIF 16: Ventas con arrendamiento posterior. 
+• Modificaciones a la NIIF 10 y NIC 28 – Venta o contribución de activos entre un inversionista y 
+su asociada o negocio conjunto. 
+ 
+En opinión de la Gerencia, no se espera que estas normas tengan un impacto material para la 
+Compañía en los periodos de reporte actuales o futuros y en las transacciones futuras previsibles. 
+ 
+2.3 Traducción de moneda extranjera -  
+ 
+Moneda funcional y moneda de presentación -  
+ 
+Las partidas incluidas en los estados financieros de la Compañía se expresan en la moneda del 
+ambiente económico primario donde opera la entidad (moneda funcional).  Los estados financieros se 
+presentan en soles (S/), que es la moneda funcional y la moneda de presentación de la Compañía. 
+ 
+Transacciones y saldos -  
+ 
+Las transacciones en moneda extranjera se traducen a la moneda funcional usando los tipos de 
+cambio emitidos por la Superintendencia de Banca, Seguros y AFP, vigentes a la fecha de las 
+transacciones o la fecha de valuación en el caso de partidas que son revaluadas.  Las ganancias y 
+pérdidas por diferencias en cambio que resulten de la liquidación de estas transacciones y de la 
+traducción de activos y pasivos monetarios en moneda extranjera al tipo de cambio de cierre del año, 
+se reconocen en el estado de resultados integrales en el rubro de “Diferencia de cambio, neta”. 
+ 
+2.4 Efectivo y equivalente de efectivo -  
+ 
+En el estado de flujos de efectivo, preparado bajo el método indirecto, el efectivo y equivalente de 
+efectivo incluyen el efectivo disponible en cuentas corrientes y depósitos a plazo registradas en el 
+estado de situación financiera.  Dichas cuentas no están sujetas a un riesgo significativo de cambios 
+en su valor. 
+ 
+2.5 Activos financieros -  
+ 
+Clasificación y medición - 
+ 
+La Compañía clasifica sus activos financieros en las siguientes categorías: i) activos financieros a 
+valor razonable a través de ganancias y pérdidas u otros resultados integrales y ii) activos financieros 
+valuados a costo amortizado.  La clasificación depende del modelo de negocio la Compañía para la 
+administración de los activos financieros y de si los términos contractuales representan únicamente 
+pagos de principal e intereses, este último de ser aplicable.  
+ 
+Al 31 de diciembre de 2022 y de 2021, la Compañía sólo mantiene activos financieros de la categoría 
+activos financieros valuados a costo amortizado.  Esta categoría de activos comprende el efectivo, 
+cuentas por cobrar comerciales, cuentas por cobrar a partes relacionadas y otras cuentas por cobrar. 
+ 
+Activos a costo amortizado -  
+ 
+Los activos que se mantienen para el cobro de flujos de efectivo contractuales cuando dichos flujos de 
+efectivo representan únicamente pagos de principal e intereses se miden a costo amortizado.  Los 
+ingresos recibidos de estos activos financieros se incluyen en los ingresos financieros utilizando el 
+método de tasa de interés efectiva.  Cualquier ganancia o pérdida que surja de la baja en cuentas, se 
+reconoce directamente en resultados y se presenta en otras ganancias/pérdidas junto con las 
+ganancias y pérdidas cambiarias. Las pérdidas por deterioro se presentan como una partida dentro de 
+gastos de ventas en el estado de resultados integrales. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 15 | puntaje 6 =====
+- 13 - 
+Deterioro - 
+ 
+La Compañía evalúa, con una perspectiva de futuro, las pérdidas crediticias esperadas asociadas con 
+instrumentos de deuda medidos a costo amortizado.  La metodología aplicada para determinar el 
+deterioro depende de si el riesgo de crédito de un activo ha experimentado un aumento significativo. 
+ 
+Para el efectivo, por su naturaleza, la Compañía considera cualquier pérdida crediticia como 
+inmaterial.  En el caso de las cuentas por cobrar comerciales, la Compañía aplica el enfoque 
+simplificado permitido por la NIIF 9, el cual requiere estimar la pérdida crediticia de la cuenta por la 
+duración total del instrumento y reconocerla desde su registro inicial 
+ 
+2.6 Pasivos financieros - 
+ 
+La Compañía clasifica sus pasivos financieros en las siguientes categorías: i) pasivos financieros a 
+valor razonable a través de ganancias y pérdidas, y ii) pasivos financieros a costo amortizado.  La 
+Compañía determina la clasificación de sus pasivos financieros a la fecha de su reconocimiento 
+inicial. 
+ 
+Al 31 de diciembre de 2022 y de 2021, la Compañía tiene solo pasivos clasificados como pasivos 
+financieros a costo amortizado, que comprenden las obligaciones financieras, cuentas por pagar 
+comerciales, cuentas por pagar a partes relacionadas y otras cuentas por pagar. 
+ 
+Todos los pasivos financieros a costo amortizado se reconocen inicialmente a su valor razonable y 
+posteriormente, cuando el efecto del costo del dinero es importante, se miden a su costo amortizado 
+por el método de tasa de interés efectiva, de lo contrario se muestran a su valor nominal.  El costo 
+amortizado incorpora los costos directamente atribuibles a la transacción. 
+ 
+Los pasivos financieros se clasifican como pasivo corriente si se deben de cancelar en un año o 
+menos, de lo contrario se presentan como pasivo no corriente. 
+ 
+2.7 Cuentas por cobrar comerciales - 
+ 
+Las cuentas por cobrar comerciales corresponden a los montos que la Compañía tiene derecho a 
+exigir a sus clientes por los servicios prestados en el curso normal de los negocios.  Si se espera 
+cobrar en un año o menos se clasifican como activos corrientes, de lo contrario, se presentan como 
+activos no corrientes.  
+ 
+2.8 Inventarios - 
+ 
+Las existencias se registran al costo o a su valor neto de realización, el que resulte menor.  El costo 
+se determina sobre la base del método de promedio ponderado, excepto en el caso de las existencias 
+por recibir, cuyo costo se determina sobre la base del método de identificación específica. 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de las operaciones del 
+negocio, menos los gastos de venta variables que apliquen y menos los costos estimados para poner 
+las existencias en condición de venta y realizar su comercialización.  Por las reducciones del valor en 
+libros de las existencias a su valor neto realizable, se constituye una provisión para desvalorización de 
+existencias con cargo al estado de resultados integrales del período en que ocurren tales reducciones.  
+ 
+En opinión de la Gerencia de la Compañía, la estimación por desvalorización de inventarios al 31 de 
+diciembre de 2022 y de 2021, cubre adecuadamente el riesgo de desvalorización a dichas fechas y no 
+es necesario registrar provisión adicional por desvalorización adicional a dichas fechas. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 16 | vecina =====
+- 14 - 
+2.9 Inmuebles, maquinaria y equipo -  
+ 
+Los inmuebles, maquinaria y equipo se registran al costo histórico menos su depreciación acumulada 
+excepto por los terrenos.  El costo histórico incluye los desembolsos directamente atribuidos a la 
+adquisición de estas partidas tales como el costo del valor del bien, transporte, servicios de instalación 
+e impuestos no recuperables y cualquier costo directamente atribuible para ubicar y dejar al activo en 
+condiciones de trabajo y uso como lo anticipa la Gerencia. 
+ 
+Los costos posteriores se incluyen en el valor en libros del activo o se reconocen como un activo 
+separado, según corresponda, sólo cuando es probable que generen beneficios económicos futuros 
+para la Compañía y el costo de estos activos se pueda medir razonablemente.  El valor en libros de la 
+parte reemplazada es dado de baja.  Otros desembolsos para mantenimiento y reparaciones se 
+reconocen como gasto del ejercicio en que son incurridos. 
+ 
+Las obras en curso se capitalizan como un componente separado y a su culminación, el costo de 
+estos activos se transfiere a su categoría definitiva. 
+ 
+Los terrenos y obras en curso no se deprecian.  La depreciación anual de los demás activos fijos se 
+reconoce como gasto y se determina siguiendo el método de línea recta para asignar su costo menos 
+su valor residual durante el estimado de su vida útil, como sigue: 
+ 
+ Años  
+ 
+Edificaciones  20 
+Maquinaria y equipo  10 
+Unidades de transporte  5 
+Muebles y enseres  10 
+Equipos diversos  10 
+Equipos de cómputo  4 
+ 
+Los valores residuales y la vida útil de los activos se revisan y ajustan, de ser necesario, a la fecha de 
+cada estado de situación financiera.  El valor en libros de un activo se castiga inmediatamente a su 
+valor recuperable si el valor en libros del activo es mayor que el estimado de su valor recuperable. 
+ 
+Todo incremento por revaluación se reconoce en el estado de otros resultados integrales y se 
+acumula en el patrimonio en “Excedente de revaluación”, salvo que dicho incremento corresponda a la 
+reversión de una disminución de revaluación del mismo activo reconocido previamente en los estados 
+de resultados, en cuyo caso ese incremento se reconoce en dicho estado.  Una disminución por 
+revaluación se reconoce en los estados de resultados integrales, salvo en la medida en que dicha 
+disminución compense un incremento de revaluación del mismo activo reconocido previamente en la 
+reserva por revaluación de activos.  Al momento de la venta del activo revaluado, cualquier reserva 
+por revaluación relacionada con ese activo se transfiere a los resultados acumulados. 
+ 
+2.10 Inversiones en asociadas -  
+ 
+Las asociadas son todas las entidades sobre las que la Compañía ejerce influencia significativa pero 
+no control, generalmente estas entidades son aquellas en las que se mantiene una participación de 
+entre 20% y 50% de los derechos a voto. 
+ 
+Las inversiones en asociadas se registran por el método de participación patrimonial.  Bajo el método 
+de participación patrimonial, la inversión se reconoce inicialmente al costo y el valor en libros se 
+incrementa o disminuye para reconocer la participación de la Compañía en los resultados (y en los 
+otros resultados integrales) obtenidos por la asociada después de la fecha de adquisición con cargo o 
+abono a los resultados del año (o a otros resultados integrales si se derivan de este tipo de partidas). 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 27 | vecina =====
+- 25 - 
+Al 31 de diciembre de 2022 y de 2021, las cuentas por cobrar y pagar comerciales a partes 
+relacionadas no devengan intereses y no cuentan con garantías específicas.  En opinión de la 
+Gerencia de la Compañía, al 31 de diciembre de 2022 y de 2021, no se presenta un riesgo de 
+incobrabilidad para las cuentas por cobrar a dichas fechas, por lo que no es necesario registrar 
+una estimación por pérdida de crédito esperada. 
+ 
+ Los saldos por cobrar por la venta de mercaderías, dichos saldos están denominados 
+principalmente en dólares estadounidenses, son de vencimiento corriente y no generan intereses. 
+ 
+ La empresa Corporación Aceros Arequipa S.A. reúne los requisitos de las normas contables para 
+ser considerada relacionadas debido a la relación que mantiene la Compañía con sus accionistas.  
+Sin embargo, la Compañía no tiene interés directo sobre el patrimonio de esta empresa, ni 
+injerencia alguna en la administración de sus operaciones.   
+ 
+Los saldos por pagar están conformados por facturas pendiente de pago originadas por la compra 
+de mercaderías, principalmente barras de construcción y tubos, realizados en el último trimestre 
+del año.  Dichos saldos están denominados principalmente en dólares estadounidenses, son de 
+vencimiento corriente y no generan intereses. 
+ 
+ La Gerencia de la Compañía considera que efectúa sus operaciones con empresas relacionadas 
+bajo las mismas condiciones que las efectuadas con terceros, por consiguiente, no hay 
+diferencias en las políticas de precios ni en la base de liquidación de impuestos; en relación con 
+las formas de pago, los mismos no difieren con políticas otorgadas a terceros. 
+ 
+b) Principales transacciones - 
+ 
+Al 31 de diciembre, las principales transacciones con accionistas y partes relacionadas son las 
+siguientes: 
+ 
+   2022  2021  
+   S/000  S/000  
+Venta de bienes (Nota 18) 
+Comfer S.A.                -   12,868) 
+Manufacturas de Acero Comercial e Industrial S.A.   5,918  5,902) 
+Corporación Aceros Arequipa S.A.     1,598  4,147) 
+    7,516  22,917) 
+ 
+Compra de bienes - 
+Corporación Aceros Arequipa S.A.     174,444  176,475) 
+Manufacturas de Acero Comercial e Industrial S.A.   8,407  7,030) 
+Comfer S.A.                -   1,907) 
+    182,851   185,412) 
+ 
+c) Remuneración a personal clave - 
+ 
+El personal clave incluye a los directores, gerencia general, gerencia de marketing y ventas. La 
+remuneración ascendió a S/1,058 miles en 2022 (S/923 miles en 2021).  La Compañía no otorga 
+beneficios de largo plazo o pagos basados en acciones a sus directores ni a su gerencia clave.  
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 28 | puntaje 10 =====
+- 26 - 
+9 OTRAS CUENTAS POR COBRAR 
+ 
+Al 31 de diciembre, este rubro comprende: 
+ 
+ 2022  2021  
+ S/000  S/000 
+ 
+Reclamos a la Administración Tributaria (a)  7,853)  7,991) 
+Saldo a favor de impuesto a la renta (b)  4,456)             -  
+Impuesto temporal a los activos netos  3,347)  3,347) 
+Anticipos a proveedores (c)  2,963)  1,325) 
+Escrow N°1 (d)  2,550)  2,550) 
+Escrow N°2 (d)  2,168)             -  
+Otras menores   720)   301) 
+  24,057)  15,514) 
+Estimación de pérdida esperada ( 2,617) ( 2,620) 
+   21,440)   12,894) 
+ 
+Por vencimiento - 
+Porción corriente  8,139)  1,626) 
+Porción no corriente   13,301)   11,268) 
+   21,440)   12,894) 
+ 
+(a) Al 31 de diciembre de 2022 y de 2021 corresponden a derechos de cobro a la Autoridad Tributaria 
+que fueron pagados por la Compañía mediante cheques de gerencia y que corresponden a 
+Resoluciones de Determinación y de Multa como resultado de la fiscalización del Impuesto a la 
+Renta de los años 2002, 2010, 2012, 2014 y 2015 (Nota 23-a). 
+ 
+En opinión de la Gerencia y de sus asesores legales, la Compañía cuenta con los argumentos 
+necesarios para obtener un resultado favorable.  Asimismo, a la fecha se encuentran en la etapa 
+de reclamación y apelación ante la Autoridad Tributaria. La Gerencia de la Compañía estimó 
+presentar este reclamo como de largo plazo. 
+(b) Al 31 de diciembre de 2022, el saldo a favor de impuesto a la renta está compuesto del neto de 
+pagos a cuenta de impuesto a la renta por S/23,335 miles y el impuesto a la renta corriente de 
+S/18,879 miles (Nota 22).  
+ 
+(c) Al 31 de diciembre de 2022 y de 2021 corresponde a adelantos realizados a agentes de aduana 
+para servicios administrativos de desaduanaje, logística y transporte por compras de mercadería. 
+ 
+(d) Durante el 2018, la Compañía reconoció una cuenta por cobrar denominada “Escrow 1”, que se 
+originó como retención parcial del pago por la venta de acciones de Comercial del Acero S.A. (en 
+adelante Contrato de compraventa), en la cual participaba con un 17.595%, este monto garantiza 
+al comprador Corporación Aceros Arequipa S.A. (en adelante el Comprador) de perjuicios 
+generados por posibles contingencias; el monto reconocido por la Compañía es por S/2,550 miles. 
+Este monto sería liberado progresivamente desde finales del segundo año, contados desde la 
+fecha de cierre ocurrida el año 2018 y de la siguiente forma: al finalizar el segundo, tercer y cuarto 
+años en 15%, 25% y 60% respectivamente, el plazo se ha cumplido en el año 2022, sin embargo, 
+antes de cumplir el plazo establecido en el Contrato de compraventa, la Gerencia reconoció el 
+deterioro de la cuenta por cobrar debido que no tenía expectativa de la recuperación del saldo.  
+ 
+Adicionalmente, la Compañía y demás vendedores de las acciones de Comercial del Acero S.A 
+otorgaron garantías en favor del Comprador en virtud del contrato de fideicomiso en garantía 
+sobre las acciones de la Inmobiliaria Comercial de Acero Argentina S.A.C. (en adelante la 
+Asociada Argentina). En sesión de Directorio de la Asociada Argentina de fecha 22 febrero del 
+2022 se informó respecto a la venta del terreno al Comprador realizada en enero de 2022, como 
+resultado de esta transacción se generó efectivo para la devolución de aportes a los accionistas, 
+dicha devolución es por el importe de US$12,028 miles (S/46,307 miles) de los cuales se acordó 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 29 | vecina =====
+- 27 - 
+retener en garantía de perjuicios generados por posibles contingencias vinculados al terreno por 
+el importe de US$1,918 miles (S/7,386 miles), la devolución de aportes de capital se realizó en 
+base la participación de los accionista. Durante el 2022, la descapitalización de la Asociada 
+Argentina que corresponde a la participación de la Compañía es por el importe de US$2,116 miles 
+(S/7,386 miles), la cual está conformada por la devolución de aportes de capital recibido en 
+efectivo en marzo de 2022 por el importe de US$1,553 miles (S/5,980 miles - Nota 11) y la 
+retención por cobrar por el importe de US$563 miles (S/2,168 miles - Nota 11).  No existe un 
+período de tiempo de vigencia para que el monto retenido pueda ser liberado por lo que la 
+Gerencia de la Compañía tiene expectativa de recuperar dicho saldo debido a que aún mantiene 
+su participación en la Asociada Argentina y no ha sido informado por parte del Comprador de 
+posibles contingencias. 
+ 
+10 INVENTARIOS 
+ 
+Al 31 de diciembre, este rubro comprende: 
+ 
+ 2022  2021  
+ S/000  S/000 
+ 
+Mercadería (a)  208,124)  175,178) 
+Existencias por recibir (b)   35,294)   58,990) 
+  243,418)  234,168) 
+Estimación por desvalorización (c) ( 302) ( 302) 
+   243,116)   233,866) 
+ 
+(a) Al 31 de diciembre de 2022 y de 2021, se encuentra conformada por tubos, planchas, ángulos, 
+fierro corrugado, perfiles y otros derivados de hierro y del acero. 
+ 
+(b) Al 31 de diciembre de 2022 y de 2021, el rubro incluye mercadería importada, los cuales estima 
+serán recibidos principalmente durante el primer trimestre del año 2023 y 2022, respectivamente. 
+ 
+(c) En opinión de la Gerencia de la Compañía, la estimación por desvalorización de inventarios al 31 
+de diciembre de 2022 y de 2021, cubre adecuadamente el riesgo de desvalorización a dichas 
+fechas y no es necesario registrar provisión adicional por desvalorización adicional a dichas 
+fechas. 
+ 
+11 INVERSIONES EN ASOCIADAS 
+ 
+Al 31 de diciembre, este rubro comprende: 
+ 
+ Porcentaje de  Valor de participación  
+ participación  patrimonial    
+ %  2022  2021  
+   S/000  S/000  
+ 
+Inmobiliaria Comercial de Acero  
+Argentina S.A.C.  17.595)  714)  15,272) 
+Inmobiliaria Comercial de Acero  
+Cajamarquilla S.A.C.  17.595)   4,248)   4,252) 
+     4,962)   19,524) 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 30 | puntaje 5 =====
+- 28 - 
+Al 31 de diciembre, el movimiento de las inversiones en asociadas es como sigue: 
+ 
+ 2022  2021  
+ S/000  S/000  
+ 
+Saldos iniciales  19,524))  19,111) 
+Participación en los resultados de las asociadas ( 6,414))  913) 
+Devolución de aportes ( 5,980))             -  
+Cuenta por cobrar - Escrow 2 (Nota 9) ( 2,168))             -  
+Dividendos recibidos de asociadas               - ) ( 500) 
+Saldos finales   4,962))   19,524) 
+ 
+En sesión de Directorio de la Asociada Argentina de fecha 22 febrero del 2022 se informó respecto a 
+la venta del terreno al Comprador realizada en enero de 2022, como resultado de esta transacción se 
+generó efectivo para la devolución de aportes a los accionistas, dicha devolución es por el importe de 
+US$12,028 miles (S/46,307 miles) de los cuales se acordó retener en garantía de perjuicios 
+generados por posibles contingencias vinculados al terreno por el importe de US$1,918 miles (S/7,386 
+miles), la devolución de aportes de capital se realizó en base la participación de los accionista. 
+Durante el 2022, la descapitalización de la Asociada Argentina que corresponde a la participación de 
+la Compañía es por el importe de US$2,116 miles (S/7,386 miles), la cual está conformada por la 
+devolución de aportes de capital recibido en efectivo en marzo de 2022 por el importe de US$1,553 
+miles (S/5,980 miles) y la retención por cobrar por el importe de US$563 miles (S/2,168 miles - Nota 
+9).  
+ 
+La Gerencia de la Compañía ha revisado las proyecciones de los resultados esperados de estas 
+inversiones y, en su opinión, los valores recuperables son mayores a su valor en libros, por lo que no 
+es necesario constituir ninguna estimación por deterioro. 
+ 
+) 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 31 | vecina =====
+ 
+- 29 - 
+Los principales datos financieros de las referidas Compañías se indican a continuación: 
+ 
+      Activos    Pasivos    Patrimonio neto  (Pérdida) Utilidad neta  
+      2022  2021  2022  2021  2022  2021   2022  2021  
+      S/000  S/000  S/000  S/000  S/000  S/000   S/000  S/000  
+ 
+Inmobiliaria Comercial 
+de Acero Argentina S.A.C.     11,447  106,684)  7,388  21,881)  4,060  84,803) ( 30,671) ( 2,425) 
+Inmobiliaria Comercial 
+de Acero Cajamarquilla S.A.C.     28,035  27,786)  3,892  3,568)  24,143  24,218)  1,043)  794) 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 37 | vecina =====
+ 
+- 35 - 
+(b) Excedente de revaluación - 
+ 
+Al 31 de diciembre de 2022 y de 2021, este rubro comprende el excedente de revaluación relacionado 
+con los terrenos que mantiene la Compañía. 
+ 
+(c) Reserva legal - 
+ 
+De acuerdo con la Ley General de Sociedades, la reserva legal debe constituirse con la transferencia 
+del 10% de la utilidad neta anual hasta alcanzar un monto equivalente al 20% del capital pagado.  En 
+ausencia de utilidades no distribuidas o de reservas de libre disposición, la reserva legal podrá ser 
+aplicada a la compensación de pérdidas, debiendo ser repuesta con las utilidades de ejercicios 
+posteriores.  Esta reserva puede ser capitalizada siendo igualmente obligatoria su reposición. 
+ 
+En Junta General de Accionistas de fecha 28 de marzo de 2022, se aprobó la transferencia de la 
+reserva legal por S/1,928 mil con cargo a resultados del 2021. 
+ 
+En Junta General de Accionistas de fecha 19 de marzo de 2021, se aprobó la transferencia de la 
+reserva legal por S/1,843 miles con cargo a resultados del 2020. 
+ 
+(d) Distribución de dividendos - 
+ 
+En Junta General de Accionistas de fecha 28 de marzo de 2022, se aprobó la entrega de dividendos 
+por un importe de S/6,657 miles que corresponde a los resultados del 2021, los cuales fueron 
+íntegramente pagados el 20 de abril de 2022. 
+ 
+En Junta General de Accionistas de fecha 20 de octubre de 2022, se aprobó la entrega de dividendos 
+por un importe de S/7,387 miles que corresponde a los resultados acumulados del 2022, los cuales 
+fueron íntegramente pagados el 15 de noviembre de 2022. 
+ 
+En Junta General de Accionistas de fecha 30 de noviembre de 2021, se aprobó la entrega de 
+dividendos por un importe de S/18,584 miles que corresponde a los resultados del 2021, los cuales 
+fueron pagados el 18 de diciembre de 2021.  
+ 
+En Junta General de Accionistas de fecha 4 de mayo de 2021, se aprobó la entrega de dividendos por 
+un importe de S/57,754 miles que corresponde a los resultados acumulados de años anteriores, y 
+S/16,767 miles que corresponde a los resultados del 2021, los cuales fueron íntegramente pagados el 
+1 de junio de 2021.  
+ 
+En Junta General de Accionistas de fecha 19 de marzo de 2021, se aprobó la entrega de dividendos 
+por un importe de S/8,300 miles que corresponde a los resultados acumulados de años anteriores, los 
+cuales fueron íntegramente pagados el 13 de abril de 2021. 
+ 
+18 INGRESOS POR VENTA DE BIENES 
+ 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+ 2022  2021  
+ S/000  S/000 
+ 
+Ventas locales a terceros  575,271  566,196 
+Ventas locales a partes relacionadas (Nota 8-a)  7,516  22,917 
+  582,787  589,113 
+  
+El aumento de las ventas con terceros es principalmente por efecto de la fluctuación del precio del 
+acero al alza, estos impulsado por factores de la cotización mundial del acero y los efectos de la 
+pandemia, los niveles en volumen se han mantenido similares en ambos años.  
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 38 | puntaje 6 =====
+ 
+- 36 - 
+La disminución de las ventas con partes relacionadas es principalmente a la reducción de volúmenes 
+de ventas, a consecuencia que durante el primer semestre del 2021 se vendió la relacionada Comfer 
+S.A. a otros accionistas.  
+ 
+19 GASTOS Y COSTOS POR NATURALEZA 
+ 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+  Costo de  Gastos de  Gastos de    
+  ventas  venta  administración  Total  
+  S/000  S/000  S/000  S/000  
+ 
+2022 
+Inventario inicial  233,866)              -                -   233,866) 
+Compras de mercadería  480,463)              -                -   480,463) 
+Cargas de personal (i)               -   9,741)  18,035)  27,776) 
+Servicios prestados por terceros (ii)               -    15,831)  113)  15,944) 
+Depreciación de activos fijos (Nota 12)               -   2,524)  79)  2,603) 
+Otras cargas de gestión               -   3,443)  26)  3,469) 
+Provisión por pérdida esperada               -   2,821)               -   2,821) 
+Tributos               -   403)  65)  468) 
+Inventario final ( 243,418)              - )               - ) ( 243,418) 
+    470,911)  34,763)  18,318)   523,992) 
+ 
+2021 
+Inventario inicial  166,838)               -                -   166,838) 
+Compras de mercadería  481,263)               -                -   481,263) 
+Cargas de personal (i)               -   16,774)  22,351)  39,125) 
+Servicios prestados por terceros (ii)               -    15,168)  149)  15,317) 
+Depreciación de activos fijos (Nota 12)               -   3,334)  79)  3,413) 
+Depreciación de activo 
+de derecho en uso               -   1,304)               -   1,304) 
+Otras cargas de gestión               -   3,051)  32)  3,083) 
+Provisión por pérdida esperada               -   3,022)               -   3,022) 
+Tributos               -   387)  60)  447) 
+Inventario final ( 233,866)               - )               - ) ( 233,866) 
+    414,235)  43,040)  22,671)   479,946) 
+ 
+(i) Las cargas de personal incluyen lo siguiente: 
+ 
+ 2022  2021  
+ S/000  S/000 
+ 
+Remuneraciones  7,572)  6,005) 
+Participación de gerencia (a)  6,958)  13,664) 
+Participaciones a los trabajadores  5,565)  9,242) 
+Dietas al Directorio (b)  3,758)  7,262) 
+Gratificaciones  1,478)  1,136) 
+Beneficios sociales  942)  611) 
+Vacaciones  743)   530) 
+Prestaciones de salud  740)  578) 
+Otros menores  20)  97) 
+  27,776)  39,125) 
+ 
+Número de empleados  214 ) 170) 
+ 
+(a) La participación de gerencia es una remuneración que percibe la Gerencia General el cual se 
+encuentra estipulados en los estatutos de la Compañía y corresponde al 10% de la utilidad 
+antes de distribución de participaciones a los trabajadores, dietas de directorio e impuesto a la 
+renta al cierre de cada ejercicio (Nota 15). 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 39 | puntaje 12 =====
+ 
+- 37 - 
+ 
+(b) La dieta al directorio es una remuneración que se encuentra estipulada en los estatutos de la 
+Compañía y corresponde al 6% de los resultados contables al cierre de cada ejercicio (Nota 
+15) 
+ 
+(ii) Los servicios prestados por terceros incluyen lo siguiente: 
+ 
+ 2022  2021  
+ S/000  S/000 
+ 
+Comisiones para vendedores  7,382  6,036 
+Servicios de contratistas  4,135  4,475 
+Alquileres  1,046  1,043 
+Asesoría y consultoría  995  802 
+Mantenimiento y reparaciones  822  1,113 
+Servicios básicos  758  758 
+Transporte de materiales  246  143 
+Publicidad, publicaciones y relaciones públicas  47  67 
+Otros menores  513  880 
+  15,944  15,317 
+ 
+20 OTROS INGRESOS Y GASTOS 
+ 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+ 2022  2021  
+ S/000  S/000 
+Otros ingresos - 
+Recupero de cuentas por cobrar (Nota 7-c)  1,092  2,784 
+Ingresos por venta de inmuebles, maquinaria y equipo  434  98 
+Otros menores  449  738 
+  1,975  3,620 
+ 
+Otros gastos - 
+Costo neto por baja de activos fijos (Nota 12)             -    291 
+ 
+21 INGRESOS Y GASTOS FINANCIEROS 
+ 
+Por los años terminados el 31 de diciembre, este rubro comprende lo siguiente: 
+ 
+ 2022  2021  
+ S/000  S/000 
+Ingresos financieros 
+Intereses por facturas por cobrar (Nota 7-b)  383  231 
+Intereses de depósitos a plazos y cuentas corrientes  898  83 
+  1,281  314 
+ 
+Gastos financieros 
+Intereses por préstamos (Nota 13)  3,996  3,040 
+Otros menores   182  147 
+  4,192  3,187 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 40 | vecina =====
+ 
+- 38 - 
+ 
+22 SITUACION TRIBUTARIA 
+ 
+a) La Gerencia considera que ha determinado la materia imponible bajo el régimen general del 
+impuesto a la renta de acuerdo con la legislación tributaria vigente, la que exige agregar y deducir 
+al resultado, mostrado en los estados financieros, aquellas partidas que la referida legislación 
+reconoce como gravables y no gravables, respectivamente.  La tasa del impuesto a la renta para 
+los años 2022 y 2021 ha sido fijada en 29.5%. 
+ 
+b) El impuesto a las ganancias mostrado en el estado de resultados integrales de los años 2022 y 
+2021 se componen de la siguiente manera: 
+ 
+ 2022  2021  
+ S/000  S/000 
+ 
+Corriente ( 18,887) ( 31,927) 
+Diferido   8)   575) 
+Gasto por impuesto a la renta ( 18,879) ( 31,352) 
+ 
+c) El impuesto a la renta sobre los resultados antes de impuestos difiere del monto teórico que 
+hubiera resultado de aplicar la tasa del impuesto a los resultados de la Compañía, como sigue: 
+ 
+ 2022    2021    
+ S/000  %  S/000  %  
+ 
+Utilidad antes de impuesto a la renta  53,303)  100.00)  104,536)  100.00) 
+Impuesto calculado aplicando la tasa 
+Teórica  15,724)  29.50)  30,838)  29.50) 
+Diferencias permanentes   3,155)   5.92)  514)  0.49) 
+   18,879)   35.42)  31,352)  29.99) 
+ 
+d) La Administración Tributaria tiene la facultad de revisar y, de ser el caso, corregir el Impuesto a la 
+Renta determinado por la Compañía en los cuatro últimos años, contados a partir del 1 de enero 
+del año siguiente al de la presentación de la declaración jurada del impuesto correspondiente 
+(años sujetos a fiscalización).  Los años 2017 al 2022 están sujetos a fiscalización.  Debido a que 
+pueden surgir diferencias en la interpretación por parte de la Administración Tributaria sobre las 
+normas aplicables a la Compañía, no es posible anticipar a la fecha si se producirán pasivos 
+tributarios adicionales como resultado de eventuales revisiones. Cualquier impuesto adicional, 
+moras e intereses, si se producen, se reconocen en los resultados del año en el que la diferencia 
+de criterios con la Administración Tributaria se resuelve.  La Gerencia estima que no surgirán 
+pasivos de importancia como resultado de estas posibles revisiones. 
+ 
+e) Marco regulatorio - Modificaciones a la Ley del Impuesto a la Renta -  
+ 
+(i) Mediante Decreto Legislativo N°1424 se incluyeron modificaciones a la Ley del Impuesto a 
+la Renta, con vigencia a partir del 1 de enero de 2019 y cambios aplicables a partir del 1 de 
+enero de 2021, para perfeccionar el tratamiento fiscal aplicable a lo siguiente: 
+ 
+- El régimen de créditos contra el Impuesto a la Renta por impuestos pagados en el 
+exterior; incorporándose el crédito indirecto (impuesto corporativo pagado por subsidiarias 
+del exterior) como crédito aplicable contra el Impuesto a la Renta de personas jurídicas 
+domiciliadas, a fin de evitar la doble imposición. 
+ 
+- Límites a la deducción de gastos por intereses para la determinación del Impuesto a la 
+Renta empresarial. Hasta el 31 de diciembre de 2020 el límite se establecía en relación 
+con el Patrimonio de la compañía; sin embargo, a partir del 1 de enero de 2021 este límite 
+se determina en relación con el Ebitda tributario del año anterior. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 41 | vecina =====
+ 
+- 39 - 
+ 
+(ii) Mediante el Decreto Supremo No. 402-2021-EF, publicado el 30 de diciembre de 2021, se 
+modifica el inciso a) del artículo 21 del Reglamento de la Ley del Impuesto a la Renta, 
+respecto a las reglas vinculadas al límite para la deducción de intereses. El citado Decreto 
+Supremo incorpora principalmente las siguientes reglas: 
+ 
+- En los casos en que, en el ejercicio, el contribuyente no obtenga renta neta o habiendo 
+obtenido esta, el importe de las pérdidas de ejercicios anteriores compensables con 
+aquella fuese igual o mayor, el EBITDA será igual a la suma de los intereses netos, 
+depreciación y amortización deducidos en dicho ejercicio. 
+ 
+- El interés neto se calcula deduciendo de los gastos por intereses que cumplan con los 
+requisitos para ser deducibles y que sean imputables en el ejercicio, los ingresos por 
+intereses gravados con el impuesto a la renta. 
+ 
+- Los intereses netos que no sean deducibles en el ejercicio por exceder el límite previsto 
+podrán ser deducidos en los 4 ejercicios siguientes. En tal caso, los intereses netos no 
+deducidos se deben sumar con el interés neto del o los ejercicios siguientes, siendo solo 
+deducible en la parte que no exceda el 30% del EBITDA.  Para ello se consideran primero 
+los intereses netos del ejercicio más antiguo, siempre que no haya vencido el plazo de 4 
+años contados a partir del ejercicio siguiente al de la generación de cada interés neto. 
+ 
+- Para establecer la proporción aplicable a los bancos y empresas financieras para 
+determinar los intereses deducibles, no se considerarán los dividendos, intereses 
+exonerados e inafectos generados por valores adquiridos en cumplimiento de 
+disposiciones del BCR, ni los generados por valores que reditúen una tasa de interés en 
+moneda nacional no superior al 50% de la TAMN. 
+ 
+- El pago de los intereses de créditos del exterior y la declaración y pago del impuesto que 
+grava los mismos se acredita con las constancias que emitan las entidades del Sistema 
+Financiero a través de las que se efectúan dichas operaciones, de acuerdo con lo que 
+establezca la SUNAT. 
+ 
+- En el caso de una reorganización empresarial el límite se calcula en función al EBITDA 
+del ejercicio o del ejercicio anterior, de acuerdo con las normas aplicables. 
+ 
+- A efecto de determinar el EBITDA correspondiente al ejercicio 2020, se debe adicionar a 
+la renta neta luego de efectuada la compensación de pérdidas, además del importe de la 
+depreciación y amortización, el monto de los intereses deducidos para establecer dicha 
+renta neta, así como deducir los ingresos por intereses gravados de dicho ejercicio. 
+ 
+(iii) Mediante el Decreto Legislativo N° 1532, publicado el 19 de marzo del 2022, se ha creado y 
+regulado el procedimiento de atribución de la condición de sujeto sin capacidad operativa 
+(SSCO), en el marco de la lucha contra la evasión tributaria, a través del cual se regula el 
+procedimiento de atribución de la condición de sujeto sin capacidad operativa (SSCO) 
+aplicable a todos los comprobantes de pago emitidos a partir del 20 de marzo de 2022.  
+Esta figura, que se encuentra vigente desde el 01 de enero de 2023, ha sido empleada para 
+denominar a aquellos sujetos que, si bien figuran como emisores de comprobantes de pago 
+o documentos complementarios, no tienen los recursos económicos, financieros, 
+materiales, entre otros; o, estos no resultan idóneos para realizar las operaciones por las 
+que se emiten dichos documentos. A continuación, se detallan los efectos más significativos 
+generados por la calificación como SSCO: 
+ 
+- El SSCO sólo podrá emitir electrónicamente boletas de venta y notas de débito por un 
+plazo máximo de 5 años y se producirá la baja de series de los comprobantes físicos y 
+documentos complementarios que haya emitido. 
+ 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 42 | puntaje 9 =====
+ 
+- 40 - 
+- Las operaciones que se realicen con el SSCO no permitirán ejercer el derecho al crédito 
+fiscal y/o sustentar costo o gasto para efectos del Impuesto a la Renta (en adelante, “IR”). 
+ 
+(iv) Mediante el Decreto Legislativo N° 1523, se modificaron diversas disposiciones del Código 
+Tributario con la finalidad de optimizar la regulación de las facultades de la Administración 
+Tributaria (SUNAT), así como de las actuaciones entre esta y los contribuyentes para 
+adecuarlas a la transformación digital. A manera de ejemplo, entre sus modificaciones se 
+encuentra la realizada a la facultad de fiscalización de la SUNAT, a través de la cual se 
+permite que la comparecencia e inspección se realice de manera virtual. 
+ 
+(v) Al cierre del 2022, se publicaron normas relevantes tales como: 
+ 
+- Creación de la Ley N° 31652 con el objetivo de establecer, de manera excepcional y 
+temporal, regímenes especiales de depreciación para que los contribuyentes puedan 
+depreciar aceleradamente determinados bienes, con la finalidad de promover la inversión 
+privada y otorgar mayor liquidez en la actual coyuntura económica.  
+ 
+- Creación de la Ley N° 31661 con el objetivo de permitir, excepcionalmente, el acceso al 
+Régimen Especial de Recuperación Anticipada del IGV a las personas naturales o 
+jurídicas que realicen un proyecto de inversión, que genere renta de tercera categoría y 
+cuya ejecución involucre un compromiso de inversión no menor de USD 2’000,000.00. 
+ 
+- Creación de la Ley N° 31662 con el objetivo de modificar y prorrogar ciertas disposiciones 
+normativas. Entre sus disposiciones, destaca la prórroga, hasta el 31 de diciembre de 
+2023, de la exoneración del IR a la venta de acciones realizadas a través de la Bolsa de 
+Valores de Lima, por personas naturales y sucesiones indivisas.  Dicha exoneración 
+aplica hasta las primeras 100 UIT de la ganancia de capital generada en cada ejercicio 
+gravable. 
+ 
+(vi) En adición a lo anterior, la Administración Tributaria elaboró ciertos criterios para resaltar 
+los siguientes puntos de control a considerar por parte de los contribuyentes: 
+  
+- Contratos de Asociación en Participación (AeP): Respecto a los rendimientos generados 
+hasta el 31.12.2022 en el marco de un Contrato de AeP, no corresponde considerarlos 
+como rentas empresariales, dado que los mismos califican como dividendos u otra forma 
+de distribución de utilidades (Informe N° 046-2022-SUNAT/7T0000). 
+ 
+- Exportación de Servicios: Se considerarán exportación de servicios aquellos brindados 
+por una empresa domiciliada a una no domiciliada destinados a facilitar la venta de 
+productos de esta última en el extranjero a clientes domiciliados, los cuales se retribuyen 
+sobre la base de un porcentaje del monto efectivamente cobrado por la empresa no 
+domiciliada por tales ventas (Informe N° 052-2022-SUNAT/7T0000). 
+ 
+- Enajenación de acciones: En el supuesto de una enajenación de acciones en la que todo 
+o parte del precio se fija sobre un porcentaje de la venta futura de los bienes que 
+comercializa la compañía adquirida, la totalidad o parte del ingreso proveniente de dicha 
+enajenación se considera devengado cuando dicha venta futura ocurra (Informe N° 
+000028-2022-SUNAT/7T0000). 
+ 
+De los cambios aplicables, la Compañía ha evaluado que no afectan de manera significativa en la 
+preparación de los estados financieros al 31 de diciembre de 2022 y de 2021. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2022_Individual_Anual_EEFF AUDITADOS 31 DIC 2022.pdf | PAGINA: 43 | vecina =====
+ 
+- 41 - 
+ 
+23 CONTINGENCIAS Y COMPROMISOS 
+ 
+a) Contingencias -  
+ 
+En el curso normal de sus operaciones, la Compañía es objeto de acotaciones de diversas índoles, 
+las cuales se registran y divulgan de acuerdo con las Normas Internacionales de Información 
+Financiera. Al 31 de diciembre de 2022 y de 2021, la Compañía mantiene los siguientes procesos 
+contingentes: 
+ 
+- Diversos litigios por contingencias aduaneras con la Autoridad Tributaria y el Ministerio de 
+Economía y Finanzas correspondientes a importaciones de acero aleado con boro por los cuales 
+a la Compañía se le aplicó un mayor porcentaje de arancel.  El importe reclamado por la 
+Compañía a la Administración Tributaria asciende a S/7,853 miles el cual fue pagado en años 
+anteriores mediante la ejecución de cartas fianzas. 
+ 
+En el año 2022, en opinión de la Gerencia y sus asesores externos, la Compañía cuenta con 
+argumentos que permiten que en caso de un pronunciamiento desfavorable no implicaría realizar 
+desembolsos adicionales. 
+ 
+- Como resultado de la fiscalización del Impuesto a la Renta de los años 2002, 2010, 2012, 2014 y 
+2015 realizada por la Autoridad Tributaria, la Compañía recibió Resoluciones de Determinación y 
+de Multa por un total de S/7,853 miles que fueron pagadas en su totalidad mediante cheques de 
+gerencia y/o depósitos en cuenta. La Compañía ha interpuesto recursos de reclamación contra las 
+mencionadas resoluciones por el total de los valores desembolsados. Al 31 de diciembre de 2022 
+los recursos presentados por la Compañía se encuentran en la etapa de reclamación y apelación 
+ante la Autoridad Tributaria (Nota 9-a). 
+ 
+En opinión de la Gerencia y de sus asesores legales, la Compañía cuenta con argumentos suficientes 
+para obtener resultados favorables en los procesos mencionados en los puntos anteriores. 
+ 
+b) Compromisos -  
+ 
+Al 31 de diciembre de 2022 y de 2021 la Compañía mantiene cartas fianzas y cartas de crédito de 
+importación emitidas por instituciones financieras locales por aproximadamente US$10,970,122 y 
+US$22,322,252, respectivamente que garantizan a la Compañía en el cumplimiento de las 
+obligaciones que surgen de los acuerdos suscritos con sus clientes y proveedores. 
+ 
+24 UTILIDAD POR ACCION BASICA 
+ 
+A continuación, se muestra el cálculo de la pérdida y utilidad por acción básica y diluida al 31 de 
+diciembre de 2022 y 2021, respectivamente, se presenta a continuación 
+ 
+ 2022  2021  
+ S/000  S/000 
+ 
+Promedio ponderado de acciones emitidas   174,600  174,600 
+Utilidad básica y diluida por acción común y de inversión 
+Utilidad neta del año utilizada en el cálculo   34,424  73,184 
+Utilidad básica por acción común en soles  0.1972  0.4192 
+Utilidad básica por acción de inversión en soles  0.1972  0.4192 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 6 | vecina =====
+ 
+Las notas a los estados financieros adjuntos son parte integrante de este estado. 
+Tradi S.A. 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2019 y de 2018 
+ Nota 2019 2018 
+  S/(000) S/(000) 
+    
+Ingresos de contratos con clientes 18 568,392 547,964 
+Costo de ventas 19 (501,429) (470,795)   _________ _________ 
+Utilidad bruta   66,963 77,169   _________ _________     
+(Gastos) ingresos operativos    
+Gastos de ventas 20 (38,563) (38,936) 
+Gastos de administración 21 (7,042) (8,628) 
+Otros ingresos 24 2,640 1,992 
+Otros gastos  24 (5,686) (14,146)   _________ _________ 
+  (48,651) (59,718)   _________ _________ 
+Utilidad operativa  18,312 17,451     
+Ingresos financieros 25 503 447 
+Gastos financieros 25 (4,752) (2,656) 
+Diferencia en cambio, neta 29(i) 884 (2,263) 
+Participación en los resultados de las asociadas 10(d) 470 1,982   _________ _________ 
+Utilidad antes del impuesto a las ganancias  15,417 14,961     
+Impuesto a las ganancias 16 (4,313) (11,756)   _________ _________     
+Utilidad neta  11,104 3,205   _________ _________ 
+    
+Otros resultados integrales    
+Ajuste pasivo por impuesto a las ganancias diferido  - 3,128   _________ _________ 
+Total resultados integrales del año  11,104 6,333   _________ _________ 
+        
+Utilidad neta por acción básica y diluida 28 0.0636 0.0363   _________ _________     
+Promedio ponderado de acciones en circulación (en 
+miles de unidades) 28 174,600 174,600   _________ _________ 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 7 | puntaje 15 =====
+ 
+Las notas a los estados financieros adjuntos son parte integrante de este estado. 
+Tradi S.A. 
+Estado de cambios en el patrimonio neto 
+Por los años terminados el 31 de diciembre de 2019 y de 2018 
+ Capital Social Reserva  legal Excedente de revaluación Resultados acumulados Total 
+ S/(000) S/(000) S/(000) S/(000) S/(000) 
+      
+Saldos al 1 de enero de 2018 174,600 26,410 62,666 79,993 343,669 
+      
+Utilidad neta del año - - - 3,205 3,205 
+Otros resultados integrales del año - - - 3,128 3,128   __________ __________ __________ __________ __________ 
+Total resultados integrales del año - - - 6,333 6,333   __________ __________ __________ __________ __________ 
+      
+Distribución de dividendos, nota 17(d) - - - (28,803) (28,803) 
+Apropiación de reserva legal, nota 17(c) - 3,308 - (3,308) - 
+Otros - - (67) 562 495   __________ __________ __________ __________ __________ 
+Saldos al 31 de diciembre de 2018 174,600 29,718 62,599 54,777 321,694   __________ __________ __________ __________ __________ 
+      
+Utilidad neta del año - - - 11,104 11,104 
+Venta de inmuebles y realización del superávit de 
+revaluación, nota 17(e) - - (1,506) 1,506 -  __________ __________ __________ __________ __________ 
+Total resultados integrales del año - - (1,506) 12,610 11,104   __________ __________ __________ __________ __________ 
+      
+Distribución de dividendos, nota 17(d) - - - (6,500) (6,500) 
+Apropiación de reserva legal, nota 17(c) - 321 - (321) -   __________ __________ __________ __________ __________       
+Saldos al 31 de diciembre de 2019 174,600 30,039 61,093 60,566 326,298  __________ __________ __________ __________ __________ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 8 | puntaje 21 =====
+ 
+ 
+Tradi S.A. 
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2019 y de 2018 
+  Nota 2019 2018 
+   S/(000) S/(000) 
+    
+Actividades de operación    
+Cobranzas por venta de bienes  579,529 539,565 
+Pago a proveedores de bienes y servicios  (473,617) (526,212) 
+Pago de remuneraciones y beneficios sociales  (17,109) (15,734) 
+Recupero (pago) de tributos  4,604 (16,161) 
+Pago de impuesto a la renta  (10,506) (1,046) 
+Otros (pagos) cobros relativos a la actividad  (1,763) 1,410    ___________ ___________     
+Efectivo neto proveniente (utilizado) en las actividades de 
+operación  81,138 (18,178)    ___________ ___________ 
+Actividades de inversión    
+Compra de inmuebles, maquinarias y equipos 11(a) (4,135) (1,989) 
+Venta de inmuebles, maquinarias y equipos 24 1,923 799 
+Dividendos recibidos 10(d) - 1,583 
+Cobranza por venta de acciones de asociada 10(c) - 19,429    ___________ __________      
+Efectivo neto (utilizado en) proveniente de las actividades 
+de inversión  (2,212) 19,822    ___________ __________ 
+Actividades de financiamiento    
+Obtención de pagarés 13(f) 204,818 176,848 
+Amortización de pasivos por arrendamiento de activos por 
+derecho de uso 13(f) (755) - 
+Amortización de préstamos 13(f) (728) (1,375) 
+Amortización de pagarés  13(f) (179,832) (166,554) 
+Pago de intereses 13(e) (4,501) (2,422) 
+Distribución de dividendos 17(d) (6,500) (28,803)    ___________ __________     
+Efectivo neto proveniente en las actividades de 
+financiamiento  12,502 22,306    ___________ __________     
+Aumento (disminución) neta de efectivo   91,428 (20,662) 
+Efectivo al inicio del año  23,877 44,539    ___________ __________     
+Efectivo al final del año 5(a) 115,305 23,877   ___________ __________     
+Transacciones que no generan movimientos de efectivo    
+Participación en los resultados de asociadas 10(d) 470 1,982 
+Venta de inmuebles y realización del superávit de 
+revaluación 17(e) 1,506 - 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Tradi S.A. 
+Notas a los estados financieros 
+Al 31 de diciembre de 2019 y de 2018 
+1. Actividad económica 
+(a) Identificación - 
+Tradi S.A. (en adelante “la Compañía”), es una empresa peruana listada en la Bolsa de Valores de 
+Lima que se constituyó en setiembre de 1976. El domicilio legal de la Compañía es Av. 
+Prolongación Huamanga N°1500, La Victoria, Lima. 
+ 
+Los accionistas de la Compañía son personas naturales y jurídicas, ninguno de los cuales ejerce 
+un control individual sobre la Compañía. 
+ 
+(b) Actividad económica - 
+La Compañía se dedica a la comercialización en el mercado peruano de productos siderúrgicos 
+nacionales e importados, principalmente tubos, planchas, ángulos, fierro corrugado, fierros de 
+construcción y otros derivados de hierro y del acero, así como de productos de acabado 
+relacionados con la construcción.  
+ 
+(c) Aprobación de los estados financieros -  
+Los estados financieros al 31 de diciembre de 2018 y por el año terminado en esa fecha, fueron 
+aprobados y autorizados para su publicación por la Junta General de Accionistas de fecha 25 de 
+marzo de 2019. Los estados financieros al 31 de diciembre de 2019 adjuntos han sido 
+aprobados y autorizados para su emisión por la Gerencia de la Compañía y serán presentados 
+para la aprobación de la Junta General de Accionistas en el primer trimestre del 2020. En opinión 
+de la Gerencia, dichos estados financieros serán aprobados sin modificaciones. 
+ 
+2. Resumen de políticas contables significativas 
+2.1. Bases de preparación – 
+Declaración de cumplimiento – 
+La información contenida en estos estados financieros es responsabilidad de la Gerencia de la 
+Compañía, que manifiestan expresamente que los estados financieros adjuntos han sido 
+preparados de acuerdo con las Normas Internacionales de Información Financiera (NIIF), emitidas 
+por el International Accounting Standards Board (IASB por sus siglas en inglés) vigentes al 31 de 
+diciembre del 2019 y de 2018, respectivamente. 
+ 
+Base de medición – 
+Los estados financieros han sido preparados sobre la base del costo histórico, a partir de los 
+registros de contabilidad de la Compañía, excepto por el rubro terrenos que han sido medidos a 
+su valor de revaluación. Los estados financieros adjuntos se presentan en Soles (moneda 
+funcional y de presentación), y todos los importes se han redondeado a miles de Soles (S/000), 
+excepto cuando se indique lo contrario. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 46 | vecina =====
+Notas a los estados financieros continuación)  
+ 
+ 
+ 
+38 
+17. Patrimonio neto 
+(a) Capital social - 
+Al 31 de diciembre de 2019 y de 2018, el capital social está representado por 174,600,000 
+acciones comunes íntegramente suscritas y pagadas, cuyo valor nominal es de S/1.00 por 
+acción.  
+ 
+Al 31 de diciembre de 2019 y de 2018, la estructura de participación societaria de la Compañía 
+es la siguiente: 
+ 
+ Al 31 de diciembre de 2019  ___________________________________ 
+Porcentaje de participación individual del capital 
+Número de 
+Accionistas 
+Porcentaje total de 
+participación 
+   
+Hasta 1 1 1 
+Entre 1.01 al 5 por ciento 16 50 
+Entre 5.01 al 10 por ciento 7 49  _______ _______ 
+ 24 100  _______ _______ 
+ 
+ Al 31 de diciembre de 2018  ___________________________________ 
+Porcentaje de participación individual del capital 
+Número de 
+Accionistas 
+Porcentaje total de 
+participación 
+   
+Hasta 1 1 1 
+Entre 1.01 al 5 por ciento 16 50 
+Entre 5.01 al 10 por ciento 7 49  _______ _______ 
+ 24 100  _______ _______ 
+ 
+(b) Excedente de revaluación - 
+Al 31 de diciembre de 2019 y de 2018, este rubro comprende el excedente de revaluación 
+relacionado con los terrenos que mantiene la Compañía. 
+ 
+(c) Reserva legal - 
+Según lo dispone la Ley General de Sociedades, se requiere que un mínimo del 10 por ciento de la 
+utilidad distribuible de cada ejercicio se transfiera a una reserva legal hasta que ésta sea igual al 
+20 por ciento del capital social. La reserva legal puede compensar pérdidas o puede ser 
+capitalizada, existiendo en ambos casos la obligación de reponerla. La Compañía registra la 
+apropiación de la reserva legal cuando ésta es aprobada por la Junta General de Accionistas. 
+ 
+En Sesión de Directorio de fecha 14 de marzo de 2019, se aprobó la apropiación de la reserva 
+legal por S/321,000 con cargo a resultados del ejercicio 2018. 
+ 
+En Sesión de Directorio de fecha 12 de marzo de 2018, se aprobó la apropiación de la reserva 
+legal por S/3,308,000 con cargo a resultados del ejercicio 2017. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 47 | puntaje 7 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+39 
+(d) Distribución de dividendos - 
+En sesión de Directorio de fecha 14 de marzo de 2019, se aprobó la entrega de dividendos por 
+S/6,500,000 con cargo a resultados acumulados de ejercicios anteriores, los cuales fueron 
+íntegramente pagados en los meses de abril, julio y diciembre de 2019. 
+ 
+En Sesión de Directorio de fecha 12 de marzo de 2018, se aprobó distribuir dividendos en 
+efectivo por S/11,910,000. Los dividendos fueron pagados en los meses de enero, abril y julio de 
+2018. 
+ 
+En Sesión de Directorio de fecha 12 de setiembre de 2018 se aprobó distribuir dividendos en 
+efectivo por S/16,893,000 con cargo a utilidades de ejercicios anteriores. Los dividendos fueron 
+pagados en el mes de octubre de 2018. 
+ 
+(e) Superávit de revaluación - 
+Durante el año 2019, la Compañía vendió el terreno ubicado en Lurín a un tercero por un total de 
+US$400,000 (equivalente a aproximadamente S/1,357,000), como parte de dicha operación se 
+transfirió un superávit de revaluación a resultados acumulados por S/1,506,000. 
+ 
+18. Ingresos por actividades ordinarias 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Ventas locales a terceros 484,171 454,318 
+Ventas locales a partes relacionadas, nota 7(a) 84,221 93,646 < _________ _________    
+ 568,392 547,964  _________ _________ 
+ 
+19. Costo de ventas 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Inventario inicial de mercadería, nota 9(a) 173,032 150,943 
+Compras de mercadería 474,104 492,884 
+Estimación por desvalorización de inventarios, nota 9(d) 276 - 
+Inventario final de mercadería, nota 9(a) (145,983) (173,032)  _________ _________    
+ 501,429 470,795  _________ _________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 48 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+40 
+20. Gastos de ventas 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Servicios prestados por terceros (b), nota 23(b) 17,453 17,792 
+Gastos de personal, nota 22(b) 7,971 9,013 
+Depreciación del ejercicio, nota 11(f) y 12(b) 4,385 3,789 
+Cargas diversas de gestión (c) 3,091 3,165 
+Estimación de deterioro por pérdida esperada,                                      
+nota 6(e) y 8(a) 5,310 4,849 
+Tributos 353 328  _________ _________    
+ 38,563 38,936  _________ _________ 
+ 
+(b) Al 31 de diciembre de 2019 y de 2018, corresponde principalmente a comisiones pagadas a 
+vendedores, servicios de tercerización de personal de ventas, asesoría y consultoría, 
+mantenimiento y reparaciones. 
+  
+(c) Al 31 de diciembre de 2019 y de 2018, corresponde principalmente a compras de combustible, 
+implementos de seguridad, y seguros devengados. 
+ 
+21. Gastos de administración 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Gastos de personal, nota 22(b)  6,783 7,716 
+Servicios prestados por terceros, nota 23(b) 110 463 
+Cargas diversas de gestión 39 340 
+Depreciación del ejercicio, nota 11(f) 81 82 
+Tributos 29 27  _______ _______    
+ 7,042 8,628  _______ _______ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 49 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+41 
+22. Gastos de personal 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Remuneraciones 6,030 5,499 
+Participaciones 5,837 8,569 
+Gratificaciones  1,151 1,053 
+Vacaciones  480 480 
+Aportaciones  571 520 
+Beneficios sociales de trabajadores 661 573 
+Otros 24 35  ________ ________    
+ 14,754 16,729  ________ ________ 
+ 
+(b) A continuación se presenta la distribución de los gastos de personal: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Gastos de ventas, nota 20(a) 7,971 9,013 
+Gastos de administración, nota 21 6,783 7,716  _________ _________    
+ 14,754 16,729  _________ _________ 
+ 
+23. Servicios prestados por terceros 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Comisiones para vendedores 6,175 6,009 
+Servicios de contratistas 6,289 6,450 
+Mantenimiento y reparaciones 1,580 1,397 
+Transporte de materiales 575 477 
+Servicios básicos 775 785 
+Asesoría y consultoría 642 1,102 
+Alquileres 271 977 
+Publicidad, publicaciones y relaciones públicas 154 97 
+Otros 1,102 961  ________ ________    
+ 17,563 18,255  ________ ________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 50 | puntaje 15 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+42 
+(b) A continuación se presenta la distribución de los gastos de personal: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Gastos de ventas, nota 20(a) 17,453 17,792 
+Gastos de administración, nota 21 110 463  _________ _________    
+ 17,563 18,255  _________ _________ 
+ 
+24. Otros Ingresos y gastos 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Otros ingresos -   
+Ingresos por venta de inmuebles, maquinaria y equipo 1,923 799 
+Recupero de cuentas por cobrar, nota 6(e) 71 153 
+Otros 646 1,040  _________ _________    
+ 2,640 1,992  _________ _________  
+  
+Otros gastos -   
+Perdida por la venta de acciones de asociada, nota 10(c) - 13,819 
+Costo de enajenación de activos fijos, nota 11(a) 5,141 327 
+Otros 545 -  _________ _________    
+ 5,686 14,146  _________ _________ 
+ 
+25. Ingresos y gastos financieros 
+A continuación, se presenta la composición de estos rubros: 
+ 
+ 2019 2018 
+ S/(000) S/(000) 
+   
+Ingresos financieros   
+Intereses por facturas por cobrar, nota 6(c) 431 373 
+Otros 72 74  _________ _________    
+ 503 447  _________ _________ 
+Gastos financieros   
+Intereses por préstamos y pagarés bancarios, nota 13(e) 4,501 2,422 
+Intereses por pasivo por arrendamientos, nota 13(b) 28 - 
+Otros 223 234  _________ _________    
+ 4,752 2,656  _________ _________ 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 51 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+43 
+26. Situación tributaria 
+(a) La Gerencia considera que ha determinado la materia imponible bajo el régimen general del 
+impuesto a las ganancias de acuerdo con la legislación tributaria vigente, la que exige agregar y 
+deducir al resultado, mostrado en los estados financieros, aquellas partidas que la referida 
+legislación reconoce como gravables y no gravables, respectivamente.  
+ 
+El gasto por impuesto a las ganancias mostrado en el estado de resultados integrales 
+corresponde al impuesto a las ganancias diferido y corriente. 
+ 
+(b) La Compañía está sujeta al régimen tributario peruano. Al 31 de diciembre de 2019 y de 2018, la 
+tasa del impuesto a la renta fue de 29.5 por ciento sobre la utilidad gravable luego de deducir la 
+participación de los trabajadores que se calcula con una tasa de 8 por ciento sobre la utilidad 
+imponible. 
+ 
+Por Decreto Legislativo No. 1261, promulgado el 10 de diciembre de 2016 se establece la tasa 
+del impuesto a los dividendos al que están afectos las personas naturales y persona jurídicas no 
+domiciliadas en 5 por ciento, para los dividendos de 2017 en adelante.  
+ 
+(c) La Autoridad Tributaria tiene la facultad de revisar y, de ser aplicable, corregir el impuesto a las 
+ganancias calculado por la Compañía en los cuatro años posteriores al año de la presentación de 
+la declaración de impuestos. Las declaraciones juradas del impuesto a la renta de los años 2016 
+al 2019 de la Compañía están pendientes de fiscalización por parte de la Autoridad Tributaria. 
+Debido a las posibles interpretaciones que la Autoridad Tributaria pueda dar a las normas legales 
+vigentes, no es posible determinar, a la fecha, si de las revisiones que se realicen resultarán o no 
+pasivos para la Compañía por lo que cualquier mayor impuesto o recargo que pudiera resultar de 
+eventuales revisiones fiscales sería aplicado a los resultados del ejercicio en que éste se 
+determine. Sin embargo, en opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre del 2019. 
+ 
+(d) Para propósito de la determinación del Impuesto a la Renta, los precios de transferencia de las 
+transacciones con empresas relacionadas y con empresas residentes en territorios de baja o nula 
+imposición, deben estar sustentados con documentación e información sobre los métodos de 
+valoración utilizados y los criterios considerados para su determinación. Con base en el análisis 
+de las operaciones de la Compañía, la Gerencia y sus asesores legales opinan que, como 
+consecuencia de la aplicación de estas normas, no surgirán contingencias de importancia para la 
+Compañía al 31 de diciembre de 2019. 
+ 
+(e) Impuesto Temporal a los Activos Netos (ITAN) -  
+Grava a los generadores de rentas de tercera categoría sujetos al régimen general del Impuesto a 
+las ganancias. A partir del año 2012, la tasa del impuesto es de 0.4 por ciento aplicable al monto 
+de los activos netos tributarios que excedan S/1 millón. 
+ 
+El monto efectivamente pagado podrá utilizarse como crédito contra los pagos a cuenta del 
+Impuesto a las ganancias o contra el pago de regularización del Impuesto a las ganancias del 
+ejercicio gravable al que corresponda. 
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 52 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+44 
+(f) En julio 2018 se publicó la Ley 30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera. En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) Se modificó a partir del 1 de enero de 2019 el tratamiento aplicable a las regalías y 
+retribuciones por servicios prestados por no domiciliados, eliminando la obligación de 
+abonar el monto equivalente a la retención con motivo del registro contable del costo o 
+gasto, debiendo ahora retenerse el impuesto a la renta con motivo del pago o acreditación 
+de la retribución. (Decreto Legislativo N°1369). 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+N°1372). Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo a lo establecido en el artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país. La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten con 
+una sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural 
+o jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado 
+en el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación debe cumplirse mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa a través del Formulario Virtual No. 3800, el cual tuvo 
+como plazo máximo, en el caso de Principales Contribuyentes, la fecha de vencimiento de 
+las obligaciones tributarias de noviembre 2019 según lo establecido por la SUNAT 
+(Resolución de Superintendencia No. 185-2019-SUNAT).   
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma antielusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo N°1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por la 
+Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que 
+tengan Directorio, corresponde a este órgano societario definir la estrategia tributaria de 
+la entidad debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones 
+económicas a realizarse en el marco de la planificación fiscal, siendo esta facultad 
+indelegable. Los actos, situaciones y relaciones económicas realizados en el marco de 
+planificaciones fiscales e implementados a la fecha de entrada en vigencia del Decreto 
+Legislativo N°1422 (14 de septiembre del 2018) y que sigan teniendo efectos, deben ser 
+evaluados por el Directorio de la persona jurídica para efecto de su ratificación o 
+modificación hasta el 29 de marzo de 2019, sin perjuicio de que la Gerencia u otros 
+administradores de la sociedad hubieran aprobado en su momento los referidos actos, 
+situaciones y relaciones económicas.  
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 53 | puntaje 9 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+45 
+Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recaracterización de los supuestos de elusión tributaria, se producirá en los 
+procedimientos de fiscalización definitiva en los que se revisen actos, hechos o situaciones 
+producidos desde el 19 de julio de 2012. 
+ 
+Cabe señalar que, mediante el Decreto Supremo N° 145-2019-EF, se aprobaron los 
+parámetros de fondo y forma para la aplicación de la norma anti-elusiva general contenida 
+en la Norma XV del Título Preliminar del Código tributario, lo cual permitió la plena 
+vigencia y aplicación de la Norma XVI a partir del día siguiente de su publicación (6 de 
+mayo de 2019).  
+ 
+Asimismo, precisa que el dolo, la negligencia grave y el abuso de facultades a los que hace 
+alusión el tercer párrafo del Artículo 16 del Código Tributario carece de naturaleza penal. 
+ 
+(iv) Se incluyeron modificaciones a la Ley del Impuesto a la Renta, con vigencia a partir del 1 
+de enero de 2019, para perfeccionar el tratamiento fiscal aplicable a (Decreto Legislativo 
+N°1424): 
+ 
+- Las rentas obtenidas por la enajenación indirecta de acciones o participaciones 
+representativas del capital de personas jurídicas domiciliadas en el país. Entre los 
+cambios más relevantes, se encuentra la inclusión de un nuevo supuesto de 
+enajenación indirecta, que se configura cuando el importe total de las acciones de 
+la persona jurídica domiciliada cuya enajenación indirecta se realice sea igual o 
+mayor a 40,000 UIT.  
+ 
+- Los establecimientos permanentes de empresas unipersonales, sociedades y 
+entidades de cualquier naturaleza constituidas en el exterior. A tal efecto, se han 
+incluido nuevos supuestos de establecimiento permanente, entre ellos, cuando se 
+produzca la prestación de servicios en el país, respecto de un mismo proyecto, 
+servicio o para uno relacionado, por un período que en total exceda de 183 días 
+calendario dentro de un período cualquiera de doce meses. 
+ 
+- El régimen de créditos contra el Impuesto a la Renta por impuestos pagados en el 
+exterior, para incorporar al crédito indirecto (impuesto corporativo pagado por 
+subsidiarias del exterior) como crédito aplicable contra el Impuesto a la Renta de 
+personas jurídicas domiciliadas, a fin de evitar la doble imposición económica. 
+- La deducción de gastos por intereses para la determinación del Impuesto a la Renta 
+empresarial. A tal efecto, se establecieron límites tanto a préstamos con partes 
+vinculadas, como a préstamos con terceros contraídos a partir del 14 de setiembre 
+de 2018 sobre la base del patrimonio y EBITDA. 
+  
+
+===== ARCHIVO: EEFFDD-TRADI S.A.-Individual.zip/2019_Individual_Anual_EEFF Auditad 2019.pdf | PAGINA: 54 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+46 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a 
+partir del 1 de enero de 2019 (Decreto Legislativo No 1425). Hasta el año 2018 no se 
+contaba con una definición normativa de este concepto, por lo que en muchos casos se 
+recurría a las normas contables para su interpretación. En términos generales, con el 
+nuevo criterio, para fines de la determinación del Impuesto a la Renta ahora importará si 
+se han producido los hechos sustanciales para la generación del ingreso o gasto acordados 
+por las partes, que no estén sujetos a una condición suspensiva, en cuyo caso el 
+reconocimiento se dará cuando ésta se cumpla y no se tendrá en cuenta la oportunidad de 
+cobro o pago establecida. 
+ 
+27. Contingencias y compromisos  
+Contingencias - 
+En el curso normal de sus operaciones, la Compañía es objeto de acotaciones de diversas índoles, las 
+cuales se registran y divulgan de acuerdo con las Normas Internacionales de Información Financiera.  
+ 
+Al 31 de diciembre de 2019 y de 2018, la Compañía mantiene procesos legales pendientes relacionados 
+a procesos laborales por un importe aproximado de S/1,703,000. 
+ 
+En opinión de la Gerencia de la Compañía y de sus asesores legales, como consecuencia de estas 
+acciones judiciales no resultarán pasivos de importancia para los estados financieros al 31 de diciembre 
+de 2019 y de 2018, en adición a los ya provisionados, nota 15(d). 
+ 
+Compromisos -  
+Al 31 de diciembre de 2019 y de 2018 la Compañía mantiene cartas fianzas y cartas de crédito de 
+importación emitidas por instituciones financieras locales por aproximadamente US$23,055,000 y 
+US$32,931,000, respectivamente y S/463,000 S/3,607,000, respectivamente que garantizan a la 
+Compañía en el cumplimiento de las obligaciones que surgen de los acuerdos suscritos con sus clientes y 
+proveedores. 
+  

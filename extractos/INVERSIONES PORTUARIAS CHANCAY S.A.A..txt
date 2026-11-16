@@ -1,0 +1,723 @@
+EMPRESA: INVERSIONES PORTUARIAS CHANCAY S.A.A.
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados IPCH 2025.pdf | PAGINA: 17 | vecina =====
+- 15 - 
+La Compañía reconoce las pérdidas crediticias esperadas durante la vida del crédito para las 
+cuentas por cobrar comerciales y otras por cobrar de corto plazo, para los cuales se utilizó el 
+enfoque simplificado. Las pérdidas crediticias esperadas en estos activos financieros se estiman 
+utilizando una matriz de provisión basada en la experiencia histórica de pérdidas crediticias de la 
+Compañía, ajustada por factores que son específicos de los deudores, las condiciones 
+económicas generales y una evaluación tanto de la dirección actual como de la previsión de 
+condiciones en la fecha de presentación, incluido el valor temporal del dinero cuando 
+corresponda. 
+ 
+Para todos los demás instrumentos financieros de largo plazo, la Compañía reconoce las pérdidas 
+crediticias esperadas durante la vida del crédito cuando se ha presentado un aumento significativo 
+en el riesgo crediticio desde el reconocimiento inicial; para los cuales se utilizó el modelo general. 
+La evaluación de si se debe reconocer las pérdidas crediticias esperadas durante la vida del 
+crédito se basa en aumentos significativos en la probabilidad o el riesgo de que se produzca un 
+incumplimiento desde el reconocimiento inicial en lugar de en la evidencia de que un activo 
+financiero está deteriorado en el crédito en la fecha de presentación del informe o se produce un 
+incumplimiento real. 
+ 
+La duración de las pérdidas crediticias esperadas durante la vida del crédito representa las 
+pérdidas crediticias esperadas que resultarán de todos los eventos de incumplimiento posibles 
+durante la vida útil esperada de un instrumento financiero. En contraste, 12 meses de pérdidas 
+crediticias esperadas durante la vida del crédito representa la parte de la vida útil de las pérdidas 
+crediticias esperadas durante la vida del crédito que se espera que resulte de los eventos de 
+incumplimiento en un instrumento financiero que sean posibles dentro de los 12 meses 
+posteriores a la fecha de reporte. 
+ 
+2.4.2 Pasivos financieros 
+ 
+Los pasivos financieros son clasificados al valor razonable con cambios en los resultados o a costo 
+amortizado utilizando el método de interés efectivo. La Compañía determina la clasificación de los 
+pasivos financieros al momento del reconocimiento inicial. 
+ 
+(a) Pasivos financieros medidos posteriormente al costo amortizado 
+ 
+Los otros pasivos financieros (incluyendo las obligaciones financieras, los préstamos, las cuentas 
+por pagar comerciales y otras) se miden posteriormente al costo amortizado usando el método de 
+interés efectivo. 
+ 
+El método de interés efectivo es un método de cálculo del costo amortizado de un pasivo 
+financiero y de imputación del gasto financiero a lo largo del periodo relevante. La tasa de interés 
+efectiva es la tasa de descuento que iguala exactamente los flujos de efectivo por cobrar o por 
+pagar (incluyendo todos los honorarios y puntos pagados o recibidos que forman parte de la tasa 
+de interés efectiva, los costos de transacción y otras primas o descuentos) estimados a lo largo de 
+la vida esperada del pasivo financiero o, cuando sea adecuado, un periodo más corto, al costo 
+amortizado de un pasivo financiero. 
+ 
+(b) Pasivo financiero dado de baja 
+ 
+La Compañía dará de baja en cuentas un pasivo financiero si, y solo si, expiran, cancelan o 
+cumplen las obligaciones de la Compañía. La diferencia entre el importe en libros del pasivo 
+financiero dado de baja y la contraprestación pagada y por pagar se reconoce en el estado de 
+resultados y se presentan en el rubro de gastos financieros. 
+  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados IPCH 2025.pdf | PAGINA: 18 | puntaje 11 =====
+- 16 - 
+2.5 Efectivo 
+ 
+Efectivo comprende efectivo en caja y depósitos de libre disponibilidad. 
+ 
+2.6 Inversión en asociada 
+ 
+Una asociada es una entidad sobre la cual la Compañía tiene influencia significativa. Influencia 
+significativa es el poder de participar en decisiones sobre políticas financieras y de operación de la 
+entidad en la que se invierte, pero no implica un control o control conjunto sobre esas políticas. 
+ 
+Los resultados y los activos y pasivos de las asociadas se incorporan a los estados financieros 
+utilizando el método de participación, excepto si la inversión, o una porción de ésta, se clasifica como 
+mantenida para su venta, en cuyo caso se contabiliza conforme a la NIIF 5 Activos No Corrientes 
+Mantenidos para la Venta y Operaciones Discontinuas. 
+ 
+Conforme al método de participación, las inversiones en asociadas inicialmente se contabilizan en el 
+estado de situación financiera al costo y se ajusta por cambios posteriores a la adquisición por la 
+participación de la Compañía en la ganancia o pérdida y otros resultados integrales de la asociada o 
+negocio conjunto. Cuando la participación de la Compañía en las pérdidas de una entidad asociada o 
+negocio conjunto supera la participación de la Compañía en esa asociada o negocio conjunto, la 
+Compañía deja de reconocer su participación en las pérdidas. Las pérdidas adicionales se reconocen 
+siempre y cuando la Compañía haya contraído alguna obligación legal o implícita o haya hecho pagos 
+en nombre de la asociada. 
+ 
+Una inversión en una asociada se registra utilizando el método de participación desde la fecha en que 
+la participada se convierte en una asociada. En la adquisición de la inversión en una asociada, el 
+exceso en el costo de adquisición sobre la participación de la Compañía en el valor razonable neto de 
+los activos y pasivos identificables en la inversión se reconoce como crédito mercantil, el cual se 
+incluye en el valor en libros de la inversión. Cualquier exceso de participación de la Compañía en el 
+valor razonable neto de los activos y pasivos identificables en el costo de adquisición de la inversión, 
+después de la revaluación se reconoce inmediatamente en los resultados del periodo en el cual la 
+inversión se adquirió. 
+ 
+2.7 Provisiones 
+ 
+Las provisiones son reconocidas cuando la Compañía tiene una obligación presente (ya sea legal o 
+implícita) como resultado de un suceso pasado, es probable que la Compañía tenga que liquidar la 
+obligación, y puede hacerse una estimación confiable del importe de la obligación. 
+ 
+El importe reconocido como provisión corresponde a la mejor estimación, a la fecha del estado de 
+situación financiera, del desembolso necesario para cancelar la obligación presente, tomando en 
+consideración los riesgos e incertidumbres rodean a la mayoría de los sucesos y circunstancias 
+concurrentes a la valoración de la misma. Cuando el importe de la provisión sea medido utilizando 
+flujos estimados de efectivo para cancelar la obligación, el valor en libros es el valor presente de los 
+desembolsos correspondientes. 
+ 
+En el caso de que se espere que una parte o la totalidad del desembolso necesario para cancelar la 
+provisión sea reembolsado por un tercero, la porción a cobrar es reconocida como un activo cuando 
+es prácticamente segura su recuperación, y el importe de dicha porción puede ser determinado en 
+forma fiable. 
+  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados IPCH 2025.pdf | PAGINA: 19 | vecina =====
+- 17 - 
+2.8 Reconocimientos de gastos 
+ 
+Los gastos se reconocen cuando ha surgido un decremento en los beneficios económicos futuros, 
+relacionado con un decremento en los activos o un incremento en los pasivos, y además el gasto 
+puede medirse con fiabilidad, independientemente del momento en que se paguen. 
+ 
+2.9 Impuesto a las ganancias 
+ 
+El gasto por impuesto a las ganancias del período comprende el impuesto a las ganancias corriente y 
+diferido. 
+ 
+(a) Impuestos a las ganancias corriente 
+ 
+El impuesto a las ganancias corriente calculado corresponde al impuesto por pagar, calculado 
+aplicando una tasa de 29.5% sobre la renta gravable estimada y se registra en los resultados del año 
+en que se causa. 
+ 
+El impuesto a las ganancias corriente es pagadero sobre la base gravable del año. La ganancia 
+gravable difiere de la ganancia neta como es reportada en la ganancia o pérdida porque excluye 
+componentes de ingresos o gastos que son acumulables o deducibles en otros años y excluye 
+componentes que nunca han sido acumulables o deducibles. Los pasivos de la Compañía por los 
+impuestos causados son calculados usando las tasas de impuestos que se han decretado al final del 
+periodo de reporte. 
+ 
+Una provisión es reconocida para esos motivos en los que la determinación del impuesto es incierta, 
+pero es considerada probable de que exista una futura salida de fondos para una autoridad fiscal. Las 
+provisiones son valuadas a la mejor cantidad que se espera se vuelva pagadera. La evaluación está 
+basada en el juicio de expertos tributarios apoyada por las experiencias previas de la Compañía en 
+ese tipo de actividades y en algunos casos basados en la consulta de un especialista independiente 
+de impuestos. 
+ 
+(b) Impuestos a las ganancias diferido 
+ 
+Los impuestos a las ganancias diferido se reconocen sobre las diferencias temporarias entre el 
+valor en libros de los activos y pasivos incluidos en los estados financieros y las bases fiscales 
+correspondientes utilizadas para determinar el resultado fiscal, aplicando la tasa correspondiente 
+a estas diferencias y en su caso se incluyen los beneficios de las pérdidas fiscales por amortizar y 
+de algunos créditos fiscales. El activo o pasivo por impuesto a las ganancias diferido se reconoce 
+generalmente para todas las diferencias fiscales temporarias. Se reconocerá un activo por 
+impuestos diferidos, por todas las diferencias temporarias deducibles, en la medida en que resulte 
+probable que la Compañía disponga de utilidades fiscales futuras contra las que pueda aplicar 
+esas diferencias temporarias deducibles. Estos activos y pasivos no se reconocen si las 
+diferencias temporarias surgen del crédito mercantil o del reconocimiento inicial (distinto al de la 
+combinación de negocios) de otros activos y pasivos en una operación que no afecta el resultado 
+fiscal ni el contable. 
+ 
+Se reconoce un pasivo por impuestos diferidos por diferencias temporarias gravables relacionadas 
+con inversiones en asociadas, y participaciones en negocios conjuntos, excepto cuando la 
+Compañía es capaz de controlar la reversión de la diferencia temporaria y cuando sea probable 
+que la diferencia temporaria no se revertirá en un futuro previsible. Los activos por impuestos 
+diferidos que surgen de las diferencias temporarias asociadas con dichas inversiones y 
+participaciones se reconocen únicamente en la medida en que resulte probable que habrá 
+utilidades fiscales futuras suficientes contra las que se utilicen esas diferencias temporarias y se 
+espera que éstas se revertirán en un futuro cercano.  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2024_Individual_Anual_IPCH EEFF Aud 31dic2024.pdf | PAGINA: 16 | vecina =====
+ 
+- 14 - 
+durante la vida útil esperada de un instrumento financiero. En contraste, 12 meses de pérdidas 
+crediticias esperadas durante la vida del crédito representa la parte de la vida útil de las 
+pérdidas crediticias esperadas durante la vida del crédito que se espera que resulte de los 
+eventos de incumplimiento en un instrumento financiero que sean posibles dentro de los 12 
+meses posteriores a la fecha de reporte. 
+ 
+Pasivos financieros 
+ 
+Los pasivos financieros son clasificados al valor razonable con cambios en los resultados o a 
+costo amortizado utilizando el método de interés efectivo. La Compañía determina la 
+clasificación de los pasivos financieros al momento del reconocimiento inicial. 
+ 
+Pasivos financieros al valor razonable con cambios en los resultados 
+ 
+Un pasivo financiero se clasifica al valor razonable con cambios en resultados cuando es un 
+pasivo financiero que se clasifica como mantenido para negociar o como al valor razonable con 
+cambios en el resultado. 
+ 
+Un pasivo financiero se clasifica como para negociar si: 
+ 
+(i) Se ha adquirido principalmente para propósitos de su recompra a corto plazo; o 
+(ii) En el reconocimiento inicial forma parte de un portafolio de instrumentos financieros 
+manejados por la Compañía y se tiene evidencia de un patrón actual reciente de 
+beneficios a corto plazo; o 
+(iii) Es un derivado que no ha sido designado y efectivo como instrumento de cobertura o 
+garantía financiera. 
+ 
+Un pasivo financiero (que no sea un pasivo financiero mantenido para negociar) podría también 
+ser designado como un pasivo financiero al valor razonable con cambios en los resultados al 
+momento del reconocimiento inicial si: 
+ 
+(i) Dicha designación elimina o reduce significativamente una inconsistencia de medición o 
+reconocimiento que pudiera surgir; o 
+(ii) El pasivo financiero forma parte de un grupo de activos o pasivos financieros o ambos, el 
+cual es manejado y su rendimiento es evaluado sobre la base del valor razonable, de 
+conformidad con el manejo de riesgo documentado por la Compañía o su estrategia de 
+inversión, y la información sobre la Compañía es proporcionada internamente sobre dicha 
+base; o 
+(iii) Forma parte de un contrato que contiene uno o más instrumentos implícitos, y la NIIF 9 
+permite que todo el contrato combinado sea designado al valor razonable con cambios en 
+los resultados. 
+ 
+Los pasivos financieros al valor razonable con cambios en los resultados se registran al valor 
+razonable, reconociendo cualquier ganancia o pérdida surgida de la nueva medición en 
+ganancias o pérdidas. La ganancia o pérdida neta reconocida en ganancias o pérdidas incorpora 
+cualquier interés pagado sobre el pasivo financiero y se incluye en la partida de otras ganancias 
+y pérdidas. 
+ 
+Sin embargo, para los pasivos financieros que se designan como a valor razonable con cambios 
+en los resultados, la cantidad de cambio en el valor razonable del pasivo financiero que es 
+atribuible a los cambios en el riesgo de crédito de ese pasivo se reconoce en otro resultado 
+integral, a menos que el reconocimiento de los efectos de los cambios en el riesgo de crédito 
+del pasivo en otro resultado integral crearía o aumentaría un desajuste contable en resultados.  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2024_Individual_Anual_IPCH EEFF Aud 31dic2024.pdf | PAGINA: 17 | puntaje 8 =====
+ 
+- 15 - 
+El monto restante del cambio en el valor razonable del pasivo se reconoce en resultados. Los 
+cambios en el valor razonable atribuibles al riesgo de crédito de un pasivo financiero que se 
+reconocen en otro resultado integral no se reclasifican posteriormente a resultados. En su lugar, 
+se transfieren a ganancias acumuladas una vez que se da de baja el pasivo financiero. 
+ 
+Las ganancias o pérdidas en contratos de garantía financiera y compromisos de préstamos 
+emitidos por la Compañía que son designados a valor razonable con cambios en resultados se 
+reconocen en resultados. 
+ 
+Pasivos financieros medidos posteriormente al costo amortizado 
+ 
+Los otros pasivos financieros se miden posteriormente al costo amortizado usando el método 
+de interés efectivo. 
+ 
+El método de interés efectivo es un método de cálculo del costo amortizado de un pasivo 
+financiero y de imputación del gasto financiero a lo largo del periodo relevante. La tasa de 
+interés efectiva es la tasa de descuento que iguala exactamente los flujos de efectivo por cobrar 
+o por pagar (incluyendo todos los honorarios y puntos pagados o recibidos que forman parte de 
+la tasa de interés efectiva, los costos de transacción y otras primas o descuentos) estimados a lo 
+largo de la vida esperada del pasivo financiero o, cuando sea adecuado, un periodo más corto, al 
+costo amortizado de un pasivo financiero. 
+ 
+Pasivo financiero dado de baja 
+ 
+La Compañía dará de baja en cuentas un pasivo financiero si, y solo si, expiran, cancelan o 
+cumplen las obligaciones de la Compañía. La diferencia entre el importe en libros del pasivo 
+financiero dado de baja y la contraprestación pagada y por pagar se reconoce en resultados. 
+ 
+(e) Efectivo  
+ 
+Efectivo comprende efectivo en caja y depósitos de libre disponibilidad.  
+ 
+(f) Inversión en asociada 
+ 
+Una asociada es una entidad sobre la cual la Compañía tiene influencia significativa. Influencia 
+significativa es el poder de participar en decisiones sobre políticas financieras y de operación de 
+la entidad en la que se invierte, pero no implica un control o control conjunto sobre esas 
+políticas. 
+ 
+Los resultados y los activos y pasivos de las asociadas se incorporan a los estados financieros 
+utilizando el método de participación, excepto si la inversión, o una porción de ésta, se clasifica 
+como mantenida para su venta, en cuyo caso se contabiliza conforme a la NIIF 5 Activos No 
+Corrientes Mantenidos para la Venta y Operaciones Discontinuas.  
+ 
+Conforme al método de participación, las inversiones en asociadas inicialmente se contabilizan 
+en el estado de situación financiera al costo y se ajusta por cambios posteriores a la adquisición 
+por la participación de la Compañía en la ganancia o pérdida y otros resultados integrales de la 
+asociada o negocio conjunto. Cuando la participación de la Compañía en las pérdidas de una 
+entidad asociada o negocio conjunto supera la participación de la Compañía en esa asociada o 
+negocio conjunto, la Compañía deja de reconocer su participación en las pérdidas. Las pérdidas 
+adicionales se reconocen siempre y cuando la Compañía haya contraído alguna obligación legal 
+o implícita o haya hecho pagos en nombre de la asociada. 
+  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2024_Individual_Anual_IPCH EEFF Aud 31dic2024.pdf | PAGINA: 18 | vecina =====
+ 
+- 16 - 
+Una inversión en una asociada se registra utilizando el método de participación desde la fecha 
+en que la participada se convierte en una asociada. En la adquisición de la inversión en una 
+asociada, el exceso en el costo de adquisición sobre la participación de la Compañía en el valor 
+razonable neto de los activos y pasivos identificables en la inversión se reconoce como crédito 
+mercantil, el cual se incluye en el valor en libros de la inversión. Cualquier exceso de 
+participación de la Compañía en el valor razonable neto de los activos y pasivos identificables en 
+el costo de adquisición de la inversión, después de la revaluación se reconoce inmediatamente 
+en los resultados del periodo en el cual la inversión se adquirió. 
+ 
+(g) Provisiones 
+ 
+Las provisiones son reconocidas cuando la Compañía tiene una obligación presente (ya sea legal 
+o implícita) como resultado de un suceso pasado, es probable que la Compañía tenga que 
+liquidar la obligación, y puede hacerse una estimación confiable del importe de la obligación.  
+ 
+El importe reconocido como provisión corresponde a la mejor estimación, a la fecha del estado 
+de situación financiera, del desembolso necesario para cancelar la obligación presente, 
+tomando en consideración los riesgos e incertidumbres rodean a la mayoría de los sucesos y 
+circunstancias concurrentes a la valoración de la misma. Cuando el importe de la provisión sea 
+medido utilizando flujos estimados de efectivo para cancelar la obligación, el valor en libros es el 
+valor presente de los desembolsos correspondientes.  
+ 
+En el caso de que se espere que una parte o la totalidad del desembolso necesario para cancelar 
+la provisión sea reembolsado por un tercero, la porción a cobrar es reconocida como un activo 
+cuando es prácticamente segura su recuperación, y el importe de dicha porción puede ser 
+determinado en forma fiable.  
+ 
+(h) Reconocimientos de gastos 
+ 
+Los gastos se reconocen cuando ha surgido un decremento en los beneficios económicos 
+futuros, relacionado con un decremento en los activos o un incremento en los pasivos, y 
+además el gasto puede medirse con fiabilidad, independientemente del momento en que se 
+paguen. 
+ 
+(i) Impuesto a las ganancias 
+ 
+El gasto por impuesto a las ganancias del período comprende el impuesto a las ganancias 
+corriente y diferido. 
+ 
+Impuestos a las ganancias corriente 
+ 
+El impuesto a las ganancias corriente calculado corresponde al impuesto por pagar, calculado 
+aplicando una tasa de 29.5% sobre la renta gravable estimada y se registra en los resultados del 
+año en que se causa. 
+ 
+El impuesto a las ganancias corriente es pagadero sobre la base gravable del año. La ganancia 
+gravable difiere de la ganancia neta como es reportada en la ganancia o pérdida porque excluye 
+componentes de ingresos o gastos que son acumulables o deducibles en otros años y excluye 
+componentes que nunca han sido acumulables o deducibles. Los pasivos de la Compañía por los 
+impuestos causados son calculados usando las tasas de impuestos que se han decretado al final 
+del periodo de reporte. 
+  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2024_Individual_Anual_IPCH EEFF Aud 31dic2024.pdf | PAGINA: 37 | vecina =====
+ 
+- 35 - 
+Debido a que pueden surgir diferencias en la interpretación por parte de la administración 
+tributaria sobre las normas aplicables por la Compañía, no es posible anticipar a la fecha si se 
+producirán pasivos tributarios adicionales como resultado de eventuales revisiones. Cualquier 
+impuesto adicional, moras, recargos e intereses, si se produjeran, serán reconocidos en los 
+resultados del año en el que la diferencia de criterios con la administración tributaria se 
+resuelva. La Gerencia de la Compañía estiman que no surgirán pasivos de importancia como 
+resultado de estas posibles revisiones. 
+ 
+(c) Precios de transferencia  
+ 
+Se establecen las siguientes nuevas reglas:  
+ 
+- Precio comparable no controlado (PCNC) para commodities: se reafirma que para 
+importaciones o exportaciones de commodities el valor de mercado estará dado por la 
+cotización (antes se había contemplado para operaciones con intermediarios o desde, a 
+través o hacia paraísos fiscales), delegándose en el reglamento el desarrollo en detalle. 
+ 
+- Nuevas obligaciones formales: Elimina el Estudio Técnico de Precios de Transferencia y se 
+incorporan nuevas declaraciones juradas informativas: 
+ 
+Declaración 
+Jurada 
+Informativa 
+ Ingresos Anuales 
+Mínimos  
+(en miles) 
+ 
+Supuesto 
+ 
+Contenido 
+ 
+Rige 
+desde 
+         
+Reporte 
+Local 
+ S/9,990  
+(US$2,700)  Operaciones con Vinculadas  Transacciones que generen renta gravada o gasto deducible.  2018 
+         
+Reporte 
+Maestro 
+ 
+S/88,060 
+(US$23,800)  
+Contribuyentes 
+que formen 
+parte de un 
+Grupo 
+ 
+Estructura organizacional, 
+descripción del negocio, 
+políticas de precios de 
+transferencia, posición 
+financiera y fiscal. 
+ 2018 
+         
+Reporte País 
+por País 
+ 
+No Aplicable  
+Contribuyentes 
+que formen 
+parte de un 
+Grupo 
+Multinacional 
+ 
+Distribución global de 
+ingresos, impuestos 
+pagados y actividades de 
+cada una de las entidades 
+del grupo multinacional. 
+ 2019 
+ 
+La Compañía no se encuentra obligada a la presentación ante la Administración Tributaria del 
+reporte local y país por país de precios de transferencia correspondiente al 2024. 
+ 
+Sobre la base del análisis de las operaciones de la Compañía, la Gerencia y sus asesores legales 
+opinan que no resultarán pasivos de importancia para los estados financieros al 31 de diciembre 
+de 2023 y 2024, en relación con los precios de transferencia. 
+ 
+(d) Modificaciones significativas al régimen del Impuesto a la Renta en Perú 
+ 
+Con posterioridad al 31 de diciembre 2024, no se han presentado cambios significativos al 
+régimen del Impuesto a la Renta en Perú, que tuvieran efectos en estos estados financieros 
+separados. Las normas e interpretaciones vigentes al 31 de diciembre de 2024 y 2023 han sido 
+consideradas por la Gerencia en la preparación de los estados financieros separados. 
+  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2024_Individual_Anual_IPCH EEFF Aud 31dic2024.pdf | PAGINA: 38 | puntaje 6 =====
+ 
+- 36 - 
+A continuación, se presentan las principales modificaciones aplicables a partir de 2025: 
+ 
+Intereses y ganancias de capital provenientes de operaciones de reporte y de enajenación de 
+unidades de participación de Fondos Bursátiles o ETF 
+ 
+Mediante Ley 32218 publicada el 29 de diciembre de 2024, se establece que constituyen 
+ingresos inafectos los intereses y ganancias de capital provenientes de operaciones de reporte y 
+de la enajenación de unidades de participación de Fondos Bursátiles o Exchange Traded Fund 
+(ETF), cuyo subyacente sean los instrumentos emitidos por la República del Perú (letras del 
+Tesoro Público emitidas por la República del Perú y Bonos y otros títulos de deuda emitidos por 
+la República del Perú bajo el Programa de Creadores de Mercado o el mecanismo que lo 
+sustituya, o en el mercado internacional a partir del año 2003). 
+ 
+Depreciación acelerada de activos fijos utilizados en la actividad de generación eléctrica con 
+recursos hídricos y con otros recursos renovables 
+ 
+Mediante la Ley 32217 publicada el 29 de diciembre del 2024 se prorrogó el beneficio tributario 
+de depreciación acelerada que promueve la inversión en la actividad de generación eléctrica 
+con recursos hídricos y con otros recursos renovables hasta el 31 de diciembre del 2030. 
+ 
+Este beneficio consiste en la depreciación acelerada aplicable a las maquinarias, equipos y obras 
+civiles necesarias para la instalación y operación de la central que genera energía eléctrica con 
+recursos hídricos y otros recursos renovables, que tendrán una tasa anual de depreciación no 
+mayor de 20% como tasa global anual. 
+ 
+Acuerdos anticipados de precios (APAs) y otros métodos de valoración 
+ 
+• Mediante Decreto Legislativo 1663 publicado el 24 de setiembre del 2024 se modifica el 
+numeral 7 del artículo 32 A de la Ley del Impuesto a la Renta siendo que se permite la 
+aplicación de otros métodos de valoración cuando no sea posible aplicar los otros seis 
+previstos, siempre que dichos métodos cumplan con las nuevas condiciones y reglas 
+previstas en la LIR.  
+ 
+• Mediante Decreto Legislativo 1662 publicado el 24 de setiembre del 2024 se permite la 
+aplicación retroactiva de los acuerdos anticipados de precios (rollback), siempre que se 
+verifique que los hechos y circunstancias relevantes de dichos ejercicios sean los mismos 
+que en los ejercicios cubiertos por los acuerdos anticipados de precios y no haya prescrito 
+la acción de la SUNAT para determinar la obligación tributaria del IR por aplicación de las 
+normas de precios de transferencia respecto de dichas transacciones. 
+ 
+Ley del joven empresario.   
+ 
+Mediante Ley 31828 publicada el 12 de julio de 2023 las empresas que estén sujetas al Régimen 
+General del Impuesto a la Renta o y que contraten uno o más trabajadores nuevos, que estén 
+entre los 18 y 29 años de edad, durante los ejercicios 2024 y 2025 podrán aplicar una deducción 
+adicional equivalente al 50% de la remuneración básica que paguen al nuevo trabajador, 
+independientemente de su jornada de trabajo y su modalidad contractual, siempre que 
+cumplan los requisitos mencionados en la ley. La relación laboral debe iniciarse a partir del 1-1-
+24.  El Decreto Supremo 054-2024-EF publicado el 18 de abril del 2024 aprobó las normas 
+reglamentarias de la referida Ley. 
+  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2024_Individual_Anual_IPCH EEFF Aud 31dic2024.pdf | PAGINA: 39 | vecina =====
+ 
+- 37 - 
+(e) Pérdidas tributarias 
+ 
+De conformidad con el D. Legislativo N° 945 y a lo señalado por la Ley N° 27513, el arrastre de 
+las pérdidas tributarias se da con arreglo a alguno de los siguientes sistemas: 
+ 
+(a) Compensar la pérdida neta total de tercera categoría de fuente peruana que registren en 
+un ejercicio gravable imputándola año a año, hasta agotar su importe, a las rentas netas 
+de tercera categoría que se obtengan en los cuatro ejercicios inmediatos posteriores 
+completados a partir del ejercicio siguiente al de su generación. El saldo que no resulte 
+compensado una vez transcurrido ese lapso, no podrá computarse a los ejercicios 
+siguientes. 
+ 
+(b) Compensar la pérdida neta total de tercera categoría de fuente peruana que registren en 
+un ejercicio gravable imputándola año a año, hasta agotar su importe, al 50% de las rentas 
+netas de tercera categoría que se obtengan en los ejercicios inmediatos posteriores. 
+ 
+La Gerencia de la Compañía optó por el sistema (b) para la compensación de pérdidas, el cual 
+consiste en compensar la pérdida neta total imputándola año a año hasta agotar su importe, al 
+50% de las rentas netas de tercera categoría que se obtengan en los ejercicios inmediatos 
+posteriores. 
+ 
+ 
+15. PÉRDIDA BÁSICA Y DILUIDA POR ACCIÓN 
+ 
+La pérdida por acción es calculada dividiendo la pérdida neta correspondiente a los accionistas 
+comunes entre el promedio ponderado de las acciones ordinarias en circulación a la fecha del 
+estado de situación financiera. 
+ 
+Al 31 de diciembre de 2024, no se ha calculado pérdida diluida por acción común porque no 
+existen acciones comunes o de inversión diluyentes, como instrumentos financieros y otros 
+contratos que dan derecho a obtener acciones comunes o de inversión, por lo que es igual que 
+la ganancia por acción básica. 
+ 
+      2024  2023       US$  US$ 
+ 
+Pérdida neta 
+      
+(945,079)  
+ 
+(1,071) 
+Promedio ponderado del número de acciones en 
+circulación 
+ 
+4,076,572,175  1,000 
+Pérdida básica y diluida por acción  (0.001)  (1.071) 
+ 
+ 
+16. CONTINGENCIAS 
+ 
+Al 31 de diciembre de 2024, la Compañía no tiene contingencias que requieran revelación o 
+registro de una obligación en los estados financieros. 
+  
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2026_Individual_TrimestreI1_1T 2026 Notas IPCH.pdf | PAGINA: 10 | vecina =====
+10 
+Los ingresos por intereses se reconocen utilizando el método de interés efectivo para 
+instrumentos de deuda medidos posteriormente al costo amortizado y al valor razonable 
+reconocido en otro resultado integral. Para los instrumentos financieros distintos de los activos 
+financieros con deterioro crediticio adquiridos u originados, los ingresos por intereses se 
+calculan aplicando la tasa de interés efectiva al valor en libros bruto de un activo financiero, 
+excepto para los activos financieros que posteriormente han sufrido algún deterioro crediticio. 
+  
+Para los activos financieros que posteriormente se han deteriorado, los ingresos por intereses se 
+reconocen aplicando la tasa de interés efectiva al costo amortizado del activo financiero. Si, en 
+periodos de reporte posteriores, el riesgo crediticio en el instrumento financiero con deterioro 
+crediticio mejora de modo que el activo financiero ya no tiene deterioro crediticio, los ingresos 
+por intereses se reconocen aplicando la tasa de interés efectiva al valor en libros bruto del activo 
+financiero. 
+ 
+Para los activos financieros adquiridos u originados con deterioro crediticio, la Compañía 
+reconoce los ingresos por intereses aplicando la tasa de interés efectiva ajustada por crédito al 
+costo amortizado del activo financiero a partir del reconocimiento inicial. El cálculo no vuelve a 
+la base bruta, incluso si el riesgo crediticio del activo financiero mejora posteriormente, de modo 
+que el activo financiero ya no tiene deterioro crediticio. Los ingresos por intereses se reconocen 
+en el estado de resultados. 
+ 
+Deterioro de activos financieros 
+ 
+La Compañía reconoce un deterioro por pérdidas crediticias esperadas de activos financieros 
+que se miden al costo amortizado o al valor razonable reconocido en otro resultado integral. No 
+se reconoce pérdida por deterioro para inversiones en instrumentos de patrimonio. El monto de 
+las pérdidas crediticias esperadas se actualiza en cada fecha de reporte para reflejar los cambios 
+en el riesgo crediticio desde el reconocimiento inicial del instrumento financiero respectivo. 
+ 
+La Compañía reconoce las pérdidas crediticias esperadas durante la vida del crédito para las 
+cuentas por cobrar comerciales y otras por cobrar de corto plazo, para los cuales se utilizó el 
+enfoque simplificado. Las pérdidas crediticias esperadas en estos activos financieros se estiman 
+utilizando una matriz de provisión basada en la experiencia histórica de pérdidas crediticias de la 
+Compañía, ajustada por factores que son específicos de los deudores, las condiciones 
+económicas generales y una evaluación tanto de la dirección actual como de la previsión de 
+condiciones en la fecha de presentación, incluido el valor temporal del dinero cuando 
+corresponda. 
+ 
+Para todos los demás instrumentos financieros de largo plazo, la Compañía reconoce las 
+pérdidas crediticias esperadas durante la vida del crédito cuando se ha presentado un aumento 
+significativo en el riesgo crediticio desde el reconocimiento inicial; para los cuales se utilizó el 
+modelo general. La evaluación de si se debe reconocer las pérdidas crediticias esperadas 
+durante la vida del crédito se basa en aumentos significativos en la probabilidad o el riesgo de 
+que se produzca un incumplimiento desde el reconocimiento inicial en lugar de en la evidencia 
+de que un activo financiero está deteriorado en el crédito en la fecha de presentación del 
+informe o se produce un incumplimiento real. 
+ 
+La duración de las pérdidas crediticias esperadas durante la vida del crédito representa las 
+pérdidas crediticias esperadas que resultarán de todos los eventos de incumplimiento posibles 
+durante la vida útil esperada de un instrumento financiero. En contraste, 12 meses de pérdidas 
+crediticias esperadas durante la vida del crédito representa la parte de la vida útil de las pérdidas 
+crediticias esperadas durante la vida del crédito que se espera que resulte de los eventos de 
+incumplimiento en un instrumento financiero que sean posibles dentro de los 12 meses 
+posteriores a la fecha de reporte. 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2026_Individual_TrimestreI1_1T 2026 Notas IPCH.pdf | PAGINA: 11 | puntaje 8 =====
+11 
+2.4.2 Pasivos financieros 
+ 
+Los pasivos financieros son clasificados al valor razonable con cambios en los resultados o a 
+costo amortizado utilizando el método de interés efectivo. La Compañía determina la 
+clasificación de los pasivos financieros al momento del reconocimiento inicial. 
+ 
+(a) Pasivos financieros medidos posteriormente al costo amortizado 
+ 
+Los otros pasivos financieros (incluyendo las obligaciones financieras, los préstamos, las cuentas 
+por pagar comerciales y otras) se miden posteriormente al costo amortizado usando el método 
+de interés efectivo. 
+ 
+El método de interés efectivo es un método de cálculo del costo amortizado de un pasivo 
+financiero y de imputación del gasto financiero a lo largo del periodo relevante. La tasa de 
+interés efectiva es la tasa de descuento que iguala exactamente los flujos de efectivo por cobrar 
+o por pagar (incluyendo todos los honorarios y puntos pagados o recibidos que forman parte de 
+la tasa de interés efectiva, los costos de transacción y otras primas o descuentos) estimados a lo 
+largo de la vida esperada del pasivo financiero o, cuando sea adecuado, un periodo más corto, al 
+costo amortizado de un pasivo financiero. 
+ 
+ 
+(b) Pasivo financiero dado de baja 
+ 
+La Compañía dará de baja en cuentas un pasivo financiero si, y solo si, expiran, cancelan o 
+cumplen las obligaciones de la Compañía. La diferencia entre el importe en libros del pasivo 
+financiero dado de baja y la contraprestación pagada y por pagar se reconoce en el estado de 
+resultados y se presentan en el rubro de gastos financieros. 
+ 
+2.5 Efectivo 
+ 
+Efectivo comprende efectivo en caja y depósitos de libre disponibilidad. 
+ 
+2.6 Inversión en asociada 
+ 
+Una asociada es una entidad sobre la cual la Compañía tiene influencia significativa. Influencia 
+significativa es el poder de participar en decisiones sobre políticas financieras y de operación de 
+la entidad en la que se invierte, pero no implica un control o control conjunto sobre esas 
+políticas. 
+ 
+Los resultados y los activos y pasivos de las asociadas se incorporan a los estados financieros 
+utilizando el método de participación, excepto si la inversión, o una porción de ésta, se clasifica 
+como mantenida para su venta, en cuyo caso se contabiliza conforme a la NIIF 5 Activos No 
+Corrientes Mantenidos para la Venta y Operaciones Discontinuas. 
+ 
+Conforme al método de participación, las inversiones en asociadas inicialmente se contabilizan 
+en el estado de situación financiera al costo y se ajusta por cambios posteriores a la adquisición 
+por la participación de la Compañía en la ganancia o pérdida y otros resultados integrales de la 
+asociada o negocio conjunto. Cuando la participación de la Compañía en las pérdidas de una 
+entidad asociada o negocio conjunto supera la participación de la Compañía en esa asociada o 
+negocio conjunto, la Compañía deja de reconocer su participación en las pérdidas. Las pérdidas 
+adicionales se reconocen siempre y cuando la Compañía haya contraído alguna obligación legal o 
+implícita o haya hecho pagos en nombre de la asociada. 
+ 
+Una inversión en una asociada se registra utilizando el método de participación desde la fecha 
+en que la participada se convierte en una asociada. En la adquisición de la inversión en una 
+asociada, el exceso en el costo de adquisición sobre la participación de la Compañía en el valor 
+razonable neto de los activos y pasivos identificables en la inversión se reconoce como crédito 
+mercantil, el cual se incluye en el valor en libros de la inversión. Cualquier exceso de 
+
+===== ARCHIVO: EEFFDD-INVERSIONES PORTUARIAS CHANCAY S.A.A.-Individual.zip/2026_Individual_TrimestreI1_1T 2026 Notas IPCH.pdf | PAGINA: 12 | vecina =====
+12 
+participación de la Compañía en el valor razonable neto de los activos y pasivos identificables en 
+el costo de adquisición de la inversión, después de la revaluación se reconoce inmediatamente 
+en los resultados del periodo en el cual la inversión se adquirió. 
+ 
+2.7 Provisiones 
+ 
+Las provisiones son reconocidas cuando la Compañía tiene una obligación presente (ya sea legal 
+o implícita) como resultado de un suceso pasado, es probable que la Compañía tenga que 
+liquidar la obligación, y puede hacerse una estimación confiable del importe de la obligación. 
+ 
+El importe reconocido como provisión corresponde a la mejor estimación, a la fecha del estado 
+de situación financiera, del desembolso necesario para cancelar la obligación presente, tomando 
+en consideración los riesgos e incertidumbres rodean a la mayoría de los sucesos y 
+circunstancias concurrentes a la valoración de la misma. Cuando el importe de la provisión sea 
+medido utilizando flujos estimados de efectivo para cancelar la obligación, el valor en libros es el 
+valor presente de los desembolsos correspondientes. 
+ 
+En el caso de que se espere que una parte o la totalidad del desembolso necesario para cancelar 
+la provisión sea reembolsado por un tercero, la porción a cobrar es reconocida como un activo 
+cuando es prácticamente segura su recuperación, y el importe de dicha porción puede ser 
+determinado en forma fiable. 
+ 
+2.8 Reconocimientos de gastos 
+ 
+Los gastos se reconocen cuando ha surgido un decremento en los beneficios económicos 
+futuros, relacionado con un decremento en los activos o un incremento en los pasivos, y además 
+el gasto puede medirse con fiabilidad, independientemente del momento en que se paguen. 
+ 
+2.9 Impuesto a las ganancias 
+ 
+El gasto por impuesto a las ganancias del período comprende el impuesto a las ganancias 
+corriente y diferido. 
+ 
+(a) Impuestos a las ganancias corriente 
+ 
+El impuesto a las ganancias corriente calculado corresponde al impuesto por pagar, calculado 
+aplicando una tasa de 29.5% sobre la renta gravable estimada y se registra en los resultados del 
+año en que se causa. 
+ 
+El impuesto a las ganancias corriente es pagadero sobre la base gravable del año. La ganancia 
+gravable difiere de la ganancia neta como es reportada en la ganancia o pérdida porque excluye 
+componentes de ingresos o gastos que son acumulables o deducibles en otros años y excluye 
+componentes que nunca han sido acumulables o deducibles. Los pasivos de la Compañía por los 
+impuestos causados son calculados usando las tasas de impuestos que se han decretado al final 
+del periodo de reporte. 
+ 
+Una provisión es reconocida para esos motivos en los que la determinación del impuesto es 
+incierta, pero es considerada probable de que exista una futura salida de fondos para una 
+autoridad fiscal. Las provisiones son valuadas a la mejor cantidad que se espera se vuelva 
+pagadera. La evaluación está basada en el juicio de expertos tributarios apoyada por las 
+experiencias previas de la Compañía en ese tipo de actividades y en algunos casos basados en la 
+consulta de un especialista independiente de impuestos. 
+ 
+(b) Impuestos a las ganancias diferido 
+ 
+Los impuestos a las ganancias diferido se reconocen sobre las diferencias temporarias entre el 
+valor en libros de los activos y pasivos incluidos en los estados financieros y las bases fiscales 
+correspondientes utilizadas para determinar el resultado fiscal, aplicando la tasa 

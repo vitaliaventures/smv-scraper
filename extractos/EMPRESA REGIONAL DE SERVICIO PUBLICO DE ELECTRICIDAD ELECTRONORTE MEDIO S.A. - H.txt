@@ -1,0 +1,2130 @@
+EMPRESA: EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2013_Individual_Anual_Informe Corto auditoria externa 2013.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+- NIC 1 Presentación de los elementos de otros resultados integrales – (modificación) 
+La modificación cambia la agrupación de los elementos presentados en Otros Ingresos 
+Integrales (OCI, por sus siglas en inglés). Los elementos que podrían ser reclasificados 
+(“reciclados”) a resultados en un momento futuro se presentarán por separado de los 
+elementos que nunca serán reclasificados.  Esta modificación afecta únicamente a la 
+presentación de estados financieros y no tiene efecto en la situación financiera o 
+resultados de la Compañía.  
+ 
+- NIC 19 Beneficios a los empleados (modificación)  
+La modificación elimina la opción de diferir el reconocimiento de las ganancias y pérdida 
+actuariales; es decir, el mecanismo del corredor. Todos los cambios en el valor de los 
+planes de beneficios definidos son registrados en el estado de resultados integrales. 
+ 
+- NIIF 7 Instrumentos financieros: Revelaciones – Compensación de activos y pasivos 
+financieros (modificación) 
+La modificación requiere que las entidades revelen los importes brutos sujetos a derechos 
+de compensación y la exposición neta que resulta. Esta información ayudará a entender el 
+alcance con el que una entidad ha reflejado las posiciones netas en sus estados financieros 
+y los efectos de los derechos de compensación en los derechos y las obligaciones de la 
+entidad. 
+ 
+- NIIF 13 Medición del valor razonable 
+La NIIF 13 establece una guía única de orientación para todas las mediciones al valor 
+razonable de acuerdo con las NIIF, dando pautas sobre cómo efectuar dichas mediciones; 
+pero no cambia cuándo una entidad está obligada a usar el valor razonable. La NIIF 13 
+define el valor razonable como un precio de salida. 
+ 
+Como parte del proceso de aplicación de la NIIF 13, la Compañía ha reevaluado sus 
+políticas para la medición de los valores razonables de sus activos y pasivos; como 
+resultado de la aplicación de la NIIF 13, la Compañía no ha afectado significativamente la 
+medición del valor razonable de sus activos y pasivos. Asimismo, se efectuaron 
+revelaciones adicionales en las notas individuales de los activos y pasivos por los cuales se 
+determinaron valores razonables. La jerarquía del valor razonable se presenta en la      
+nota 36. 
+ 
+En la nota 3.3 se incluye información sobre los juicios, estimaciones y supuestos contables 
+significativos utilizados por la Gerencia para la preparación de los estados financieros adjuntos. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2013_Individual_Anual_Informe Corto auditoria externa 2013.pdf | PAGINA: 15 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+3.2 Resumen de las políticas contables significativas –  
+A continuación se presenta las políticas contables significativas y utilizadas por la Gerencia de la 
+Compañía para la preparación de los estados financieros: 
+ 
+(a) Efectivo y equivalente de efectivo - 
+El efectivo y equivalente de efectivo presentado en el estado de situación financiera 
+comprende los saldos en caja y cuentas corrientes bancarias. Para propósitos de preparar 
+el estado de flujos de efectivo, el efectivo y equivalente de efectivo incluye los rubros de 
+caja y cuentas corrientes. 
+ 
+(b) Instrumentos financieros: reconocimiento inicial y medición posterior - 
+(i) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad (NIC) 39, son clasificados como activos financieros al valor razonable 
+con cambios en resultados, préstamos y cuentas por cobrar, inversiones a ser 
+mantenidas hasta su vencimiento, inversiones financieras disponibles para la 
+venta, o como derivados designados como instrumentos de cobertura en una 
+cobertura eficaz, según corresponda.  La Compañía determina la clasificación de 
+sus activos financieros al momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalente de efectivo, 
+cuentas por cobrar comerciales, cuentas por cobrar a entidades relacionadas y las 
+otras cuentas por cobrar. 
+ 
+Medición posterior - 
+La medición posterior de los activos financieros depende de su clasificación como 
+sigue: 
+ 
+Activos financieros al valor razonable con cambios en resultados - 
+Los activos financieros al valor razonable con cambios en resultados incluyen a los 
+activos financieros mantenidos para negociar y los activos financieros designados 
+al momento de  su reconocimiento inicial como al valor razonable con cambios en 
+resultados. Los activos financieros se clasifican como mantenidos para negociar si 
+se adquieren con el propósito de venderlos o recomprarlos en un futuro cercano. 
+Esta categoría incluye los instrumentos financieros derivados suscritos por la 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2013_Individual_Anual_Informe Corto auditoria externa 2013.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+Compañía que no están designados como instrumentos de cobertura según la NIC 
+39. Los activos financieros al valor razonable con cambios en resultados se 
+contabilizan en el estado de situación financiera por su valor razonable, y los 
+cambios en dicho valor son reconocidos como ingresos o costos financieros en el 
+estado de resultados integrales.  
+ 
+Al 31 de diciembre de 2013 y de 2012, la Compañía no mantuvo ningún activo 
+financiero en esta categoría. 
+ 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo. Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+utilizando el método de la tasa de interés efectiva (TIE), menos cualquier deterioro 
+del valor. El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición, y las comisiones o los costos que son parte integrante de la 
+tasa de interés efectiva. Los intereses a la tasa de interés efectiva se reconocen en 
+el estado de resultados integrales como ingreso financiero.  Las pérdidas que 
+resulten de un deterioro del valor se reconocen en el estado de resultados 
+integrales como una provisión. 
+ 
+Inversiones a ser mantenidas hasta su vencimiento - 
+Los activos financieros no derivados con cobros fijos o determinables y 
+vencimientos fijos, se clasifican como mantenidos hasta su vencimiento cuando la 
+Compañía tiene la intención y la capacidad de mantenerlos hasta su vencimiento. 
+Después de su reconocimiento inicial, las inversiones a ser mantenidas hasta su 
+vencimiento se miden al costo amortizado utilizando el método de la tasa de interés 
+efectiva, menos cualquier deterioro del valor. El costo amortizado se calcula 
+tomando en cuenta cualquier descuento o prima de adquisición y las comisiones o 
+los costos que son una parte integrante de la tasa de interés efectiva. Los intereses 
+a la tasa de interés efectiva se reconocen en el estado de resultados integrales 
+como ingreso financiero. Las pérdidas que resulten de un deterioro del valor se 
+reconocen en el estado de resultados integrales como costo financiero. 
+ 
+Al 31 de diciembre de 2013 y de 2012, la Compañía no mantuvo  ninguna  
+inversión  en esta categoría. 
+ 
+Inversiones financieras disponibles para la venta - 
+Las inversiones clasificadas como disponibles para la venta son aquellas que no se 
+clasifican en las categorías anteriores. Después del reconocimiento inicial, las 
+inversiones financieras disponibles para la venta se miden por su valor razonable, y 
+las ganancias o pérdidas no realizadas se reconocen como otros resultados 
+integrales en el rubro “Otras reservas” para la venta, hasta que la inversión sea 
+dada de baja.  En ese momento, la ganancia o pérdida acumulada se reconoce 
+como una ganancia o pérdida en el estado de resultados integrales. En caso exista 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2013_Individual_Anual_Informe Corto auditoria externa 2013.pdf | PAGINA: 55 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+47 
+24. Gastos de personal 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Remuneraciones 15,652 15,747 
+Participación de los trabajadores en utilidades 3,317 3,720 
+Gratificaciones 3,042 3,067 
+Aportaciones sociales 1,542 1,662 
+Bonificaciones 1,831 1,276 
+Compensación por tiempo de servicios 1,620 1,620 
+Vacaciones 1,383 1,340 
+Indemnización por despido 453 1,067 
+Otros 1,689 2,287  __________ __________ 
+   
+ 30,529 31,786  __________ __________ 
+   
+Número promedio de trabajadores  388 393  __________ __________ 
+ 
+(b) Los gastos de personal se encuentran distribuidos de la siguiente manera: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Costo del servicio de actividades ordinarias, nota 21(a) 10,056 9,180 
+Gastos de administración, nota 22(a) 13,920 15,747 
+Gastos de ventas, nota 23(a) 6,553 6,859  __________ __________ 
+   
+ 30,529 31,786  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2013_Individual_Anual_Informe Corto auditoria externa 2013.pdf | PAGINA: 56 | puntaje 7 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+48 
+25. Otros ingresos  
+A continuación se presenta la composición del rubro: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Servicios a empresas afiliadas  8,148 8,869 
+Subsidios – depreciación obras FONCUR, nota 17(e)  3,319 2,670 
+Penalidades y moras  1,811 1,491 
+Recupero de siniestros y seguros  1,400 332 
+Venta de chatarra y suministros  983 24 
+Comisiones y corretajes 516 564 
+Recupero de cuentas por cobrar deterioradas 240 274 
+Enajenación de activos 225 2,283 
+Alquileres 70 148 
+Otros  1,072 1,848  ________ ________ 
+   
+Total  17,784 18,503  ________ ______- _ 
+ 
+26. Otros gastos 
+A continuación se presenta la composición del rubro: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Deterioro de propiedades, planta y equipo, nota 10 (a) 1,448 - 
+Costo neto de enajenación de activos y otros  27 1,196  _______ ________ 
+   
+Total  1,475 1,196  _______ ________ 
+ 
+27. Ingresos financieros   
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Intereses compensatorios y moratorios 1,826 1,745 
+Intereses de depósitos a plazo 264 269 
+Dividendos recibidos (b) 235 960 
+Intereses de convenios 15 15 
+Otros menores 43 13  _______ ______ 
+   
+Total  2,383 3,002  _______ ______ 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2013_Individual_Anual_Informe Corto auditoria externa 2013.pdf | PAGINA: 57 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+49 
+(b) Corresponde a los dividendos recibidos por las inversiones en activos financieros disponibles para 
+la venta, ver nota 9. 
+ 
+28. Gastos financieros   
+A continuación se presenta la composición del rubro: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Pérdida por activos financieros disponibles    
+  para la venta, nota 9(e)  4,046 - 
+Intereses de préstamos  1,595 2,585 
+Intereses por contribuciones reembolsables 1,587 830 
+Intereses de préstamos no financieros 913 990  ________ ________ 
+   
+Total  8,141 4,405  ________ ________ 
+ 
+29. Saldos y transacciones con entidades relacionadas 
+(a) Durante los años 2013 y 2012, la Compañía ha efectuado, principalmente, las siguientes 
+transacciones con entidades relacionadas: 
+ 
+ 2013 2012  _________________________ _________________________ 
+ 
+Ingresos 
+Gastos/ 
+Costos Ingresos 
+Gastos/ 
+Costos 
+ S/.000 S/.000 S/.000 S/.000 
+Venta de energía      
+Empresa de Administración de 
+Electricidad de Infraestructura 
+Eléctrica - Adinelsa S.A. 
+ 
+ 
+ 
+295 
+ 
+ 
+- 
+ 
+ 
+165 
+Electroperú S.A.  112,560 - 36,874 
+Egemsa  7,585 - - 
+Egesur S.A   24,969 - 15,544 
+Corpac S.A. 100 - 98 - 
+Erapu S.A. 199 - 146 - 
+Serpost S.A. 24 - 22 - 
+Banmat S.A.C. 7 - 9 - 
+Sima Perú S.A. 845 - 750 - 
+Enaco S.A. 4 - 35 - 
+Fondo Mi Vivienda S.A. 1 - 2 - 
+Banco de la Nación 561 - 585 -  _______ _________ _______ _______ 
+     
+ 1,741 145,409 1,647 52,583  _______ _________ _______ _______ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2014_Individual_Anual_Dictamen EEFF y Notas 2014.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+operaciones, (ii) un evento de incumplimiento, y (iii) en caso de insolvencia o quiebra de la 
+entidad o de cualquiera de las contrapartes. 
+ 
+- NIC 36 Deterioro del valor de los activos (Enmiendas) 
+Estas enmiendas eliminan las consecuencias imprevistas de la NIIF 13 sobre las revelaciones 
+requeridas por la NIC 36.  Asimismo, las modificaciones también requieren la revelación de 
+los importes recuperables de los activos o unidades generadoras de efectivo para los que la 
+pérdida por deterioro ha sido reconocida o cuando se hayan reconocido reversiones en el 
+periodo.  
+ 
+- NIC 39 Novación de derivados y continuidad de la contabilidad de coberturas 
+(modificaciones 
+Estas modificaciones proporcionan una excepción para suspender la contabilidad de 
+coberturas cuando se da la novación de un derivado designado como un instrumento de 
+cobertura que cumple con ciertos criterios. 
+ 
+- CINIIF 21 Gravámenes 
+La CINIIF 21 aclara que una entidad reconoce un pasivo por un gravamen cuando se realiza 
+la actividad que dé lugar al pago, tal como se identifica en la legislación pertinente.  Para un 
+gravamen que se activa al alcanzar un umbral mínimo, la interpretación aclara que ningún 
+pasivo debe ser anticipado antes de alcanzar el umbral mínimo especificado. 
+ 
+3.2 Resumen de las políticas contables significativas –  
+A continuación se presenta las políticas contables significativas y utilizadas por la Gerencia de la 
+Compañía para la preparación de los estados financieros: 
+ 
+(a) Efectivo y equivalente de efectivo - 
+El efectivo y equivalente de efectivo presentado en el estado de situación financiera 
+comprende los saldos en caja y cuentas corrientes bancarias.  Para propósitos de preparar 
+el estado de flujos de efectivo, el efectivo y equivalente de efectivo incluye el efectivo de 
+caja y cuentas corrientes y los depósitos a corto plazo, si los hubiera, con vencimiento 
+original menor a tres meses. 
+ 
+(b) Instrumentos financieros: reconocimiento inicial y medición posterior - 
+(i) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad (NIC) 39 “Instrumentos Financieros: Reconocimiento y Medición”, son 
+clasificados como activos financieros al valor razonable con cambios en resultados, 
+préstamos y cuentas por cobrar, inversiones a ser mantenidas hasta su 
+vencimiento, inversiones financieras disponibles para la venta, o como derivados 
+designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda.  La Compañía determina la clasificación de sus activos financieros al 
+momento del reconocimiento inicial.  
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2014_Individual_Anual_Dictamen EEFF y Notas 2014.pdf | PAGINA: 15 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalente de efectivo, 
+cuentas por cobrar comerciales, cuentas por cobrar a entidades relacionadas y las 
+otras cuentas por cobrar. 
+ 
+Medición posterior - 
+La medición posterior de los activos financieros depende de su clasificación, tal 
+como se detalla a continuación: 
+ 
+Activos financieros al valor razonable con cambios en resultados - 
+Los activos financieros al valor razonable con cambios en resultados incluyen a los 
+activos financieros mantenidos para negociar y los activos financieros designados 
+al momento de su reconocimiento inicial como al valor razonable con cambios en 
+resultados.  Los activos financieros se clasifican como mantenidos para negociar si 
+se adquieren con el propósito de venderlos o recomprarlos en un futuro cercano.  
+ 
+Esta categoría incluye los instrumentos financieros derivados suscritos por la 
+Compañía que no están designados como instrumentos de cobertura según la NIC  
+39.  Los activos financieros al valor razonable con cambios en resultados se 
+contabilizan en el estado de situación financiera por su valor razonable, y los 
+cambios en dicho valor son reconocidos como ingresos o costos financieros en el 
+estado de resultados integrales.  
+ 
+Al 31 de diciembre de 2014 y de 2013, la Compañía no mantuvo ningún activo 
+financiero en esta categoría. 
+ 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo.  Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+utilizando el método de la tasa de interés efectiva (TIE), menos cualquier deterioro 
+del valor.  El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición, y las comisiones o los costos que son parte integrante de la 
+TIE.  La amortización de la TIE se reconoce en el estado de resultados integrales 
+como ingreso financiero.  Las pérdidas que resulten de un deterioro del valor se 
+reconocen en el estado de resultados integrales como una provisión. 
+ 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2014_Individual_Anual_Dictamen EEFF y Notas 2014.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+Inversiones a ser mantenidas hasta su vencimiento - 
+Los activos financieros no derivados con cobros fijos o determinables y 
+vencimientos fijos, se clasifican como mantenidos hasta su vencimiento cuando la 
+Compañía tiene la intención y la capacidad de mantenerlos hasta su vencimiento.  
+Después de su reconocimiento inicial, las inversiones a ser mantenidas hasta su 
+vencimiento se miden al costo amortizado utilizando el método de la TIE, menos 
+cualquier deterioro del valor.  El costo amortizado se calcula tomando en cuenta 
+cualquier descuento o prima de adquisición y las comisiones o los costos que son 
+una parte integrante de la TIE.  Los intereses a la TIE se reconocen en el estado de 
+resultados integrales como ingreso financiero.  Las pérdidas que resulten de un 
+deterioro del valor se reconocen en el estado de resultados integrales como costo 
+financiero. 
+ 
+Al 31 de diciembre de 2014 y de 2013, la Compañía no mantuvo ninguna inversión 
+en esta categoría. 
+ 
+Inversiones financieras disponibles para la venta - 
+Las inversiones clasificadas como disponibles para la venta son aquellas que no se 
+clasifican en las categorías anteriores.  Después del reconocimiento inicial, las 
+inversiones financieras disponibles para la venta se miden por su valor razonable, y 
+las ganancias o pérdidas no realizadas se reconocen como otros resultados 
+integrales en el rubro “Otras reservas”, hasta que la inversión sea dada de baja.  En 
+ese momento, la ganancia o pérdida acumulada se reconoce como una ganancia o 
+pérdida en el estado de resultados integrales.  En caso exista un deterioro del valor 
+de la inversión, la pérdida acumulada se reclasifica al estado de resultados 
+integrales como costo financiero y se elimina de la reserva respectiva.  
+ 
+Al 31 de diciembre de 2014 y de 2013, la Compañía mantiene inversiones 
+disponibles para la venta registradas en el rubro “Activos financieros disponibles 
+para la venta” del estado de situación financiera. 
+ 
+Baja en cuentas - 
+Un activo financiero (o, cuando resulte aplicable, parte de un activo financiero o 
+parte de un grupo de activos financieros similares) se da de baja cuando:  
+ 
+(a) Hayan expirado los derechos contractuales a recibir los flujos de efectivo 
+generados por el activo; o 
+ 
+(b)  Se hayan transferido los derechos contractuales sobre los flujos de efectivo 
+generados por el activo, o se haya asumido una obligación de pagar a un 
+tercero la totalidad de esos flujos de efectivo sin una demora significativa, a 
+través de un acuerdo de intermediación, y (i) Se hallan transferido 
+sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo; o (ii) no se han ni transferido ni retenido sustancialmente todos los 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2014_Individual_Anual_Dictamen EEFF y Notas 2014.pdf | PAGINA: 55 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+47 
+23. Gastos de venta  
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Servicios prestados por terceros (b) 14,763 13,648 
+Gastos de personal, nota 24(b) 7,014 6,553 
+Depreciación, nota 10(e) 2,847 2,539 
+Gastos diversos de gestión 2,652 1,270 
+Suministros 1,147 1,200 
+Estimación para deterioro de cuentas por cobrar, nota 
+5(c) 946 776 
+Litigios 150 347 
+Tributos 25 13 
+Amortización, nota 11(c) 10 11 
+ ________ ________ 
+   
+Total  29,554 26,357 
+ ________ ________ 
+ 
+(b) Los servicios prestados por terceros incluyen los costos de tercerización de actividades 
+comerciales, servicios de intermediación laboral, seguridad patrimonial y vigilancia de las 
+instalaciones, servicios básicos, servicios de comunicaciones, entre otros. 
+ 
+24. Gastos de personal 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Remuneraciones 17,208 15,652 
+Participación de los trabajadores en utilidades 5,118 3,324 
+Gratificaciones 3,376 3,042 
+Compensación por tiempo de servicios 1,857 1,620 
+Aportaciones sociales 1,809 1,542 
+Bonificaciones 1,693 1,831 
+Vacaciones 1,565 1,383 
+Indemnización por despido - 453 
+Otros 2,132 1,682  __________ __________    
+ 34,758 30,529  __________ __________    
+Número promedio de trabajadores  521 388  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2014_Individual_Anual_Dictamen EEFF y Notas 2014.pdf | PAGINA: 56 | puntaje 7 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+48 
+(b) Los gastos de personal se encuentran distribuidos de la siguiente manera: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Costo del servicio de actividades ordinarias, nota 21(a) 12,136 10,056 
+Gastos de administración, nota 22(a) 15,608 13,920 
+Gastos de ventas, nota 23(a) 7,014 6,553  __________ __________ 
+   
+ 34,758 30,529  __________ __________ 
+ 
+25. Otros ingresos  
+A continuación se presenta la composición del rubro: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Servicios a empresas afiliadas  8,886 8,148 
+Subsidios – depreciación obras FONCUR, nota 17(e)  3,319 3,319 
+Penalidades y moras  1,880 1,811 
+Beneficio por intermediación, nota 29 (a) 1,643 - 
+Comisiones y corretajes 478 516 
+Venta de chatarra y suministros  433 983 
+Recupero de siniestros y seguros  368 1,400 
+Recupero de cuentas por cobrar deterioradas, nota 5(c) 171 112 
+Alquileres 169 70 
+Enajenación de activos - 225 
+Otros  1,591 1,200 
+ ________ ________ 
+   
+Total  18,938 17,784  ________ ________ 
+ 
+26. Otros gastos 
+A continuación se presenta la composición del rubro: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Deterioro de propiedades, planta y equipo, nota 10 (a) 2,607 1,448 
+Costo neto de enajenación de activos y otros  153 27  ________ _______ 
+   
+Total  2,760 1,475  ________ _______ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2014_Individual_Anual_Dictamen EEFF y Notas 2014.pdf | PAGINA: 57 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+49 
+27. Ingresos financieros   
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Intereses compensatorios y moratorios, nota 5(a) 2,118 1,826 
+Intereses de depósitos a plazo 464 264 
+Dividendos recibidos (b) 48 235 
+Intereses de convenios 3 15 
+Otros menores 267 43  _______ _______ 
+   
+Total  2,900 2,383  _______ _______ 
+ 
+(b) Corresponde a los dividendos recibidos por las inversiones en activos financieros disponibles para 
+la venta, ver nota 9. 
+ 
+28. Gastos financieros   
+A continuación se presenta la composición del rubro: 
+ 
+ 2014 2013 
+ S/.(000) S/.(000) 
+   
+Intereses de préstamos de entidades relacionadas 1,502 913 
+Intereses de préstamos de entidades financieras 1,404 1,595 
+Intereses por contribuciones reembolsables 929 1,587 
+Pérdida por activos financieros disponibles para la venta, nota 9(f) - 4,046  ________ ________ 
+   
+Total  3,835 8,141  ________ ________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2020_Individual_Anual_EEFF Auditados 2020.pdf | PAGINA: 75 | vecina =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2020 y de 2019 
+ 
+ 
+ 
+71 
+L. Deducción de gastos o costos incurridos en operaciones con sujetos no domiciliados  
+El Decreto Legislativo 1369° exige que los costos y/o gastos (incluidos los intereses 
+outbound) incurridos con contrapartes no domiciliadas deben haber sido pagados de manera 
+efectiva para poder ser deducidos en el ejercicio en el que se incurrieron hasta antes del 
+vencimiento del plazo para la presentación de la declaración jurada anual. En caso, contrario, 
+su impacto en la determinación de la renta neta se diferirá al ejercicio en el que efectivamente 
+sea pagado oportunidad en la que se aplicará la retención correspondiente. 
+ 
+Dicha norma eliminó la obligación de pagar el monto equivalente a la retención sobre el 
+monto contabilizado como costo y/o gasto. 
+ 
+M. Crédito Indirecto  
+Bajo ciertos requisitos, a partir del 1 de enero de 2019 las entidades domiciliadas que 
+obtengan dividendos (inbound) de fuente extranjera podrán deducir como crédito directo el 
+Impuesto a la Renta que hubiera gravado los dividendos en el exterior y el Impuesto a la 
+Renta Corporativo (crédito indirecto) pagado por la sociedad no domiciliada de primer y 
+segundo nivel (siempre que estén en la misma jurisdicción) que hubiesen distribuido los 
+dividendos desde el exterior. 
+ 
+N. Medidas para la aplicación de la Cláusula Anti-elusión General contenida en la  
+Norma XVI del Código Tributario 
+A través del Decreto Legislativo No. 1422 se ha establecido el procedimiento para la 
+aplicación de la referida Cláusula Anti-Elusiva General (CAG), señalándose fundamentalmente 
+que: (i) es aplicable sólo en procedimientos de fiscalización definitiva en que se revisen (de 
+manera retroactiva) actos, hechos o situaciones producidos desde el 19 de julio de 2012; (ii) 
+para su aplicación debe haber previa opinión favorable de un comité revisor integrado por 
+funcionarios de la propia SUNAT, no siendo recurrible dicha opinión; (iv) los procedimiento de 
+fiscalización definitiva en los que se aplique la CAG no están sujetos al plazo de un (01) año 
+para requerir información a los fiscalizados.  
+ 
+Cabe indicar que, a la fecha de la presente nota, la CAG está plenamente vigente resultando 
+aplicable la Norma XVI del Código Tributario. 
+ 
+O. Información relacionada con beneficiarios finales  
+En el marco de las normas para fortalecer la lucha contra la evasión y elusión fiscal, así como, 
+contra el lavado de activos y financiamiento del terrorismo, a partir del 03 de agosto de 2018 
+se encuentran vigentes las disposiciones introducidas a través del Decreto Legislativo No. 
+1372 que obligan a brindar a las autoridades competentes, a través de una declaración jurada 
+de beneficiarios finales, información relacionada con dichos sujetos, esto es, a revelar 
+mediante dicha declaración quiénes son las personas naturales que efectivamente tienen la 
+propiedad o control en personas o entes jurídicos. Así, será obligatorio informar aspectos 
+como (i) identificación del beneficiario final; (ii) la cadena de titularidad con la respectiva 
+documentación de sustento; (iii) identificación de los terceros que cuentan con dicha 
+información, de ser el caso. Se señala además que la información relacionada a la 
+identificación de los beneficiarios finales de las personas y entes jurídicos que se proporcione 
+a las autoridades competentes en el marco de estas normas no constituye violación al 
+secreto profesional ni tampoco está sujeta a las restricciones sobre revelación de información 
+derivadas de la confidencialidad impuesta por vía contractual o por cualquier disposición legal 
+o reglamentaria. 
+ 
+Finalmente debe tenerse en consideración que, de no presentarse la declaración jurada 
+informativa que contiene la información relacionada beneficiario final, incurrirán en 
+responsabilidad solidaria los representantes legales de la entidad que omitió cumplir con la 
+presentación de dicha declaración.  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2020_Individual_Anual_EEFF Auditados 2020.pdf | PAGINA: 76 | puntaje 6 =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2020 y de 2019 
+ 
+ 
+ 
+72 
+La Empresa en fecha 13 de diciembre 2019, cumplió con la presentación de la declaración 
+informativa en la fecha establecida en el cronograma de vencimientos mensuales. 
+ 
+P. Enajenación indirecta de acciones  
+A partir del 1 de enero de 2019 se incorpora una técnica anti-elusiva para evitar el 
+fraccionamiento de operaciones, a través de las cuales, indirectamente se enajenen acciones 
+de empresas domiciliadas en Perú.  
+ 
+Se indica que para establecer si en un período de 12 meses se ha cumplido con la 
+transferencia del 10% o más del capital de la sociedad peruana, se consideran las 
+transferencias realizadas por el sujeto analizado, así como las realizadas a sus partes 
+vinculadas, sea que se ejecuten mediante una o varias operaciones, simultáneas o sucesivas. 
+Dicha vinculación se establecerá conforme a lo establecido en el inciso b) del artículo 32-A de 
+la Ley del Impuesto a la Renta.  
+ 
+Asimismo, queda establecido además que, independientemente del cumplimiento de las 
+condiciones reguladas en la Ley del Impuesto a la Renta, siempre se configurará una 
+enajenación indirecta gravada cuando, en un período cualquiera de 12 meses, el importe total 
+de las acciones de la persona jurídica peruana que se enajenan sea igual o mayor a cuarenta 
+mil (40,000) UIT. 
+ 
+Finalmente, se agrega además desde la fecha de vigencia inicialmente señalada que, cuando 
+el enajenante sea una persona jurídica no domiciliada que cuenta con una sucursal o cualquier 
+establecimiento permanente en Perú con patrimonio asignado, se considera a éste último 
+corresponsable solidario, debiendo este último sujeto proporcionar, entre otra información, a 
+la correspondiente a las acciones o participaciones de la persona jurídica no domiciliada que 
+se enajenan.  
+ 
+Q. Responsabilidad solidaria de los representantes legales y Directores de las Sociedades 
+A partir del 14 de septiembre de 2018 ha quedado establecido, mediante el Decreto 
+Legislativo No. 1422 que, cuando un sujeto fiscalizado sea sujeto de la Cláusula Anti-Elusiva 
+General (CAG), se considera automáticamente que existe dolo, negligencia grave o abuso de 
+facultades respecto de sus representantes legales, salvo prueba en contrario. La referida 
+responsabilidad solidaria se atribuirá a dichos representantes de manera personal siempre 
+que hayan colaborado con el diseño o aprobación o ejecución de actos, situaciones o 
+relaciones económicas con propósito elusivo.  
+ 
+Cabe indicar que la norma precitada involucra también a los miembros del Directorio de 
+sociedades, al señalarse que a dichos sujetos les corresponde definir la estrategia tributaria 
+de las sociedades en las cuales son directores, debiendo éstos decidir la aprobación o no de 
+actos, situaciones o relaciones económicas a realizarse en el marco de la planificación fiscal, 
+siendo indelegable – según la norma en comentario – esta atribución de los directores.  
+ 
+Se otorgó a los miembros del Directorio de sociedades domiciliadas, un plazo que vende el 29 
+de marzo de 2019 para ratificar o modificar los actos, situaciones o relaciones económicas 
+realizados en el marco de la planificación fiscal, e implementados al 14 de setiembre de 2018 
+que sigan teniendo efecto tributario hasta la actualidad. Para los ejercicios 2019 y 2020 en 
+adelante, consideramos que es obligación del Directorio evaluar anualmente si las 
+operaciones realizadas por la Empresa han generado o no un efecto evasivo o elusivo que 
+pudiese estar dentro del ámbito de aplicación de la CAG y en consecuencia ser objeto de 
+regularización fiscal. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2020_Individual_Anual_EEFF Auditados 2020.pdf | PAGINA: 77 | vecina =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2020 y de 2019 
+ 
+ 
+ 
+73 
+No obstante el referido plazo máximo señalado para el cumplimiento de dicha obligación 
+formal , y considerando la referida responsabilidad solidaria atribuible tanto a representantes 
+legales como a directores, así como la falta de definición del término planificación fiscal  será 
+crítico revisar todo acto, situación o relación económica que haya (i) incrementado atributos 
+fiscales; y/o, (ii) generado un menor pago de tributos por los ejercicios antes mencionados, a 
+fin de evitar la atribución de responsabilidad solidaria tributaria, tanto a nivel administrativo 
+como incluso penal, dependiendo del criterio del agente fiscalizador, en caso de aplicarse la 
+CAG a la sociedad que sea materia de una intervención fiscal por parte de la SUNAT.  
+ 
+33. Compromisos y Contingencias 
+ 
+A. Compromisos 
+La Empresa ha otorgado cartas fianzas por garantía a terceros, por compromisos de devolución de 
+costo de conexiones domiciliarias y convenios al Ministerio de Energía y Minas y por proceso judicial 
+de beneficios sociales por miles de S/ 15,616 al 31 de diciembre de 2020 (miles de S/ 16,538 al  
+31 de diciembre de 2019). 
+ 
+B. Contingencias 
+Actualmente, la Empresa tiene diversos procesos tributarios, legales y laborales relacionados con 
+sus operaciones, entre los cuales tenemos: 
+ 
+A. 13 (trece) reclamos por reivindicación de daños y perjuicios, por aproximadamente miles de  
+S/ 837 
+B. 119 (ciento diecinueve) reclamos laborales por revisión de beneficios sociales, reintegro de 
+beneficios y remuneraciones, incorporación a planilla e indemnizaciones por despido por 
+aproximadamente miles de S/ 9,004.  
+C.    2 (dos) procesos sancionadores por miles de S/ 239. 
+ 
+En opinión de la Gerencia y de los asesores legales de la Empresa, el resultado de estos procesos 
+no representará desembolsos significativos para la Empresa al 31 de diciembre de 2020 y de 2019. 
+ 
+34. Medio Ambiente 
+La Política y Gestión Ambiental de la Empresa se concreta a través del cumplimiento normativo y en 
+sus compromisos internos de proteger el medio ambiente en el entorno donde se brinda el servicio 
+eléctrico. 
+ 
+Este cumplimiento se encuentra normado en el Reglamento de Protección ambiental del sub-sector 
+electricidad (D.S N° 014-2019-EM), a través del cual se elaboró y ejecutó el Programa de protección 
+Ambiental del ejercicio 2019. Este programa cumple con lo exigido en el reglamento antes 
+mencionado, como es: El monitoreo mensual de efluentes líquidos y cuerpos receptores, Monitoreo 
+de ruidos en todas las centrales de generación y sub estaciones de transformación, Monitoreo de 
+radiaciones electromagnéticas, tanto en líneas de transmisión, como en patio de llaves de las sub 
+estaciones de transformación, Monitoreo de la calidad de aire en las centrales de generación térmica 
+y en el manejo y disposición adecuada de los residuos generados por el desarrollo de la actividad 
+eléctrica. 
+ 
+Todas estas actividades son plasmadas en informes de Gestión Ambiental, presentados a la 
+Dirección General de Asuntos Ambientales Energéticos del MEM (DGAA/MEM) y al ente fiscalizador 
+(OEFA). 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 13 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+eficiente de Ia generación eléctrica, y/o mediante los contratos bilaterales suscritos al amparo 
+del Decreto Ley N°25844, Ley de Concesiones Eléctricas, serán asumidas por los generadores, 
+conforme al procedimiento que establezca OSINERGMIN.  
+ 
+Para tal fin, el monto faltante para cerrar las transferencias de energía en el COES-SINAC, debido 
+a los retiros de potencia y energía sin contrato valorizado a precios de barra del mercado 
+regulado, se asignará a los generadores en proporción a la energía firme eficiente anual del 
+generador, menos sus ventas de energía por contratos.  
+ 
+El incumplimiento de pago por parte de las distribuidoras a los generadores constituirá causal de 
+caducidad de Ia concesión en caso de reincidencia. 
+ 
+Al 31 de diciembre de 2015 y de 2014, la Compañía ha cumplido con los requerimientos de esta 
+Ley para sus ventas de energía y potencia sin contrato. 
+ 
+  3. Principio y prácticas contables significativas  
+3.1 Base de preparación - 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (NIIF) emitidas por la “International Accounting Standard Board” (en 
+adelante “IASB”), y sus interpretaciones emitidas por “IFRS Interpretations Committee” (“IFRIC”) 
+vigentes al 31 de diciembre de 2015. 
+ 
+Los estados financieros adjuntos han sido preparados sobre la base del costo histórico, a partir 
+de los registros de contabilidad mantenidos por la Compañía, excepto por las inversiones 
+financieras disponibles para la y por el pasivo por planes de jubilación.  Los estados financieros 
+están presentados en Soles, su moneda funcional y de presentación, y todos los valores se 
+redondean a la unidad más próxima en miles de Soles, excepto cuando se indique lo contrario. 
+ 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, 
+excepto por las nuevas NIIF y NIC’s revisadas que son obligatorias para los periodos que se inician 
+en o después del 1 de enero de 2015 y que la Compañía ya ha adoptado; sin embargo, debido a la 
+estructura de la Compañía y la naturaleza de sus operaciones, la adopción de dichas normas no 
+tuvo un efecto significativo en su posición financiera y resultados; por lo tanto, no ha sido 
+necesario modificar los estados financieros comparativos de la Compañía. 
+ 
+3.2 Resumen de las políticas contables significativas –  
+A continuación se presenta las políticas contables significativas y utilizadas por la Gerencia de la 
+Compañía para la preparación de los estados financieros: 
+ 
+(a) Efectivo y equivalentes de efectivo - 
+El efectivo y equivalentes de efectivo presentado en el estado de situación financiera 
+comprende los saldos en caja y cuentas corrientes bancarias.  Para propósitos de preparar 
+el estado de flujos de efectivo, el efectivo y equivalentes de efectivo incluye el efectivo de 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 14 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+caja y cuentas corrientes y los depósitos a corto plazo, si los hubiera, con vencimiento 
+original menor a tres meses. 
+ 
+(b) Instrumentos financieros: reconocimiento inicial y medición posterior - 
+(i) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad (NIC) 39 “Instrumentos Financieros: Reconocimiento y Medición”, son 
+clasificados como activos financieros al valor razonable con cambios en resultados, 
+préstamos y cuentas por cobrar, inversiones a ser mantenidas hasta su 
+vencimiento, inversiones financieras disponibles para la venta, o como derivados 
+designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda.  La Compañía determina la clasificación de sus activos financieros al 
+momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes de efectivo, 
+cuentas por cobrar comerciales, cuentas por cobrar a entidades relacionadas y las 
+otras cuentas por cobrar. 
+ 
+Medición posterior - 
+La medición posterior de los activos financieros depende de su clasificación, tal 
+como se detalla a continuación: 
+ 
+Activos financieros al valor razonable con cambios en resultados - 
+Los activos financieros al valor razonable con cambios en resultados incluyen a los 
+activos financieros mantenidos para negociar y los activos financieros designados 
+al momento de su reconocimiento inicial como al valor razonable con cambios en 
+resultados.  Los activos financieros se clasifican como mantenidos para negociar si 
+se adquieren con el propósito de venderlos o recomprarlos en un futuro cercano.  
+ 
+Esta categoría incluye los instrumentos financieros derivados suscritos por la 
+Compañía que no están designados como instrumentos de cobertura según la NIC  
+39.  Los activos financieros al valor razonable con cambios en resultados se 
+contabilizan en el estado de situación financiera por su valor razonable, y los 
+cambios en dicho valor son reconocidos como ingresos o costos financieros en el 
+estado de resultados integrales.  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 15 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+Al 31 de diciembre de 2015 y de 2014, la Compañía no mantuvo ningún activo 
+financiero en esta categoría. 
+ 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo.  Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+utilizando el método de la tasa de interés efectiva (TIE), menos cualquier deterioro 
+del valor.  El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición, y las comisiones o los costos que son parte integrante de la 
+TIE.  La amortización de la TIE se reconoce en el estado de resultados integrales 
+como ingreso financiero.  Las pérdidas que resulten de un deterioro del valor se 
+reconocen en el estado de resultados integrales como una provisión. 
+ 
+Inversiones a ser mantenidas hasta su vencimiento - 
+Los activos financieros no derivados con cobros fijos o determinables y 
+vencimientos fijos, se clasifican como mantenidos hasta su vencimiento cuando la 
+Compañía tiene la intención y la capacidad de mantenerlos hasta su vencimiento.  
+Después de su reconocimiento inicial, las inversiones a ser mantenidas hasta su 
+vencimiento se miden al costo amortizado utilizando el método de la TIE, menos 
+cualquier deterioro del valor.  El costo amortizado se calcula tomando en cuenta 
+cualquier descuento o prima de adquisición y las comisiones o los costos que son 
+una parte integrante de la TIE.  Los intereses a la TIE se reconocen en el estado de 
+resultados integrales como ingreso financiero.  Las pérdidas que resulten de un 
+deterioro del valor se reconocen en el estado de resultados integrales como costo 
+financiero. 
+ 
+Al 31 de diciembre de 2015 y de 2014, la Compañía no mantuvo ninguna inversión 
+en esta categoría. 
+ 
+Inversiones financieras disponibles para la venta - 
+Las inversiones clasificadas como disponibles para la venta son aquellas que no se 
+clasifican en las categorías anteriores.  Después del reconocimiento inicial, las 
+inversiones financieras disponibles para la venta se miden por su valor razonable, y 
+las ganancias o pérdidas no realizadas se reconocen como otros resultados 
+integrales en el rubro “Otras reservas”, hasta que la inversión sea dada de baja.  En 
+ese momento, la ganancia o pérdida acumulada se reconoce como una ganancia o 
+pérdida en el estado de resultados integrales.  En caso exista un deterioro del valor 
+de la inversión, la pérdida acumulada se reclasifica al estado de resultados 
+integrales como costo financiero y se elimina de la reserva respectiva.  
+ 
+Al 31 de diciembre de 2015 y de 2014, la Compañía mantiene inversiones 
+disponibles para la venta registradas en el rubro “Activos financieros disponibles 
+para la venta” del estado de situación financiera. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 19 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+11 
+El valor razonable es el precio que se recibiría por vender un activo o que se 
+pagaría al transferir un pasivo en una transacción ordenada entre participantes de 
+un mercado a la fecha de medición.  La medición al valor razonable se basa en el 
+supuesto de que la transacción para vender el activo o transferir el pasivo tiene 
+lugar, ya sea: 
+ 
+- En el mercado principal para el activo o pasivo, o 
+- En ausencia de un mercado principal, en el mercado más ventajoso para el 
+activo o pasivo. 
+ 
+El mercado principal o más ventajoso debe ser accesible por la Compañía. 
+ 
+El valor razonable de un activo o pasivo se mide utilizando los supuestos que los 
+participantes en el mercado usarían al ponerle valor al activo o pasivo, asumiendo 
+que los participantes en el mercado actúan en su mejor interés económico.  
+ 
+La medición del valor razonable de activos no financieros toma en consideración la 
+capacidad de un participante en el mercado para generar beneficios económicos 
+mediante el mayor y mejor uso del activo o vendiéndolo a otro participante en el 
+mercado que usaría el activo de la mejor manera posible. 
+ 
+La Compañía utiliza técnicas de valuación que son apropiadas en las circunstancias 
+y por las cuales tiene suficiente información disponible para medir al valor 
+razonable, maximizando el uso de datos observables relevantes y minimizando el 
+uso de datos no observables. 
+ 
+Todos los activos y pasivos por los cuales se determinan o revelan valores 
+razonables en los estados financieros son clasificados dentro de la jerarquía de 
+valor razonable, descrito a continuación, en base al nivel más bajo de los datos 
+usados que sean significativos para la medición al valor razonable como un todo: 
+ 
+- Nivel 1 - Precios cotizados (no ajustados) en mercados activos para activos 
+o pasivos idénticos. 
+ 
+- Nivel 2 - Técnicas de valuación por las cuales el nivel más bajo de 
+información que es significativo para la medición al valor razonable es 
+directa o indirectamente observable. 
+ 
+- Nivel 3 - Técnicas de valuación por las cuales el nivel más bajo de 
+información que es significativo para la medición al valor razonable no es 
+observable. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 20 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+12 
+Para los activos y pasivos que son reconocidos al valor razonable en los estados 
+financieros sobre una base recurrente, la Compañía determina si se han producido 
+transferencias entre los diferentes niveles dentro de la jerarquía mediante la 
+revisión de la categorización al final de cada período de reporte. 
+ 
+La Gerencia de la Compañía determina las políticas y procedimientos para 
+mediciones al valor razonable recurrentes y no recurrentes.  A cada fecha de 
+reporte, la Gerencia analiza los movimientos en los valores de los activos y pasivos 
+que deben ser valorizados de acuerdo con las políticas contables de la Compañía. 
+ 
+Para propósitos de las revelaciones de valor razonable, la Compañía ha 
+determinado las clases de activos y pasivos sobre la base de su naturaleza, 
+características y riesgos y el nivel de la jerarquía de valor razonable tal como se 
+explicó anteriormente. 
+ 
+(c) Inventarios -  
+Los inventarios están conformados, principalmente, por materiales, suministros diversos y 
+repuestos en almacenes, los cuales se destinan al mantenimiento de las sub-estaciones de 
+distribución e instalaciones eléctricas en general y se presentan al costo o al valor neto de 
+realización, el menor, netos de la estimación por desvalorización.  
+ 
+Las reducciones del costo en libros de los inventarios a su valor neto de realización se 
+realizan sobre la base de análisis específico y se registran en el rubro provisión para 
+desvalorización de inventarios con cargo al estado de resultados integrales del ejercicio en 
+que ocurren dichas reducciones. 
+ 
+El costo se determina sobre la base de un promedio ponderado, excepto en el caso de los 
+inventarios por recibir, los cuales se presentan al costo específico de adquisición.  El valor 
+neto de realización es el precio de venta en el curso normal del negocio, menos los costos 
+para poner los inventarios en condición de venta y los gastos de comercialización y 
+distribución. 
+ 
+(d) Propiedades, planta y equipo, neto - 
+El rubro “Propiedades, planta y equipo, neto” se presenta al costo, neto de la depreciación 
+acumulada y/o las pérdidas acumuladas por deterioro, si las hubiere.  El costo inicial de un 
+activo comprende su precio de compra o su costo de fabricación, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo necesario para poner dicho 
+activo en operación, el estimado inicial de la obligación de rehabilitación y, los costos de 
+financiamiento para los proyectos de construcción a largo plazo, en la medida en que se 
+cumplan los requisitos para su reconocimiento.   
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 21 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+13 
+Cuando los componentes significativos de propiedades, planta y equipos requieren ser 
+reemplazados, la Compañía, periódicamente da de baja el componente reemplazado y 
+reconoce el componente nuevo con su correspondiente vida útil y depreciación.  Del 
+mismo modo, cuando se efectúa una inspección de gran envergadura, el costo de la misma 
+se reconoce como un reemplazo en la medida en que se cumplan los requisitos para su 
+reconocimiento.  Todos los demás costos rutinarios de reparación y mantenimiento se 
+reconocen como gasto en el estado de resultados integrales a medida que se incurren.  El 
+valor presente del costo estimado para el desmantelamiento del activo después de su uso 
+se incluye en el costo de ese activo, en la medida en que se cumplan los requisitos para el 
+reconocimiento de la provisión respectiva. 
+ 
+Una partida de propiedades, planta y equipo o un componente significativo es retirado al 
+momento de su disposición o cuando no se esperan beneficios económicos de su uso o 
+disposición posterior.  Cualquier ganancia o pérdida que surja al momento del retiro del 
+activo fijo (calculada como la diferencia entre los ingresos por la venta y el valor en libros 
+del activo) es incluida en el estado de resultados integrales en el año en que se retira el 
+activo. 
+ 
+El valor residual, la vida útil y los métodos de depreciación son revisados y ajustados en 
+caso sea apropiado, al final de cada año. 
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los costos de 
+financiamiento, y los otros gastos directos atribuibles a dichas obras, devengados durante 
+la etapa de construcción.  Las obras en curso se capitalizan cuando se completan y su 
+depreciación se calcula desde el momento en que están en condiciones para su uso.  
+ 
+Los criterios para capitalizar los costos financieros y los otros gastos directos son:  
+ 
+- Para capitalizar los costos financieros, la Compañía identifica los pasivos 
+relacionados con las obras y determina la proporción de los intereses que deben 
+capitalizarse, en función a la inversión promedio que se mantiene cada mes como 
+obras en curso.  
+ 
+- Para capitalizar los gastos directos de personal, la Compañía identifica cada una de 
+las áreas dedicadas al 100 por ciento a la planificación, ejecución y gestión de 
+obras y determina porcentajes de tiempo de áreas con dedicación parcial, esto 
+aplicado a los costos de beneficios a los empleados de dichas áreas.  
+ 
+La depreciación se calcula siguiendo el método de línea recta a tasas que estiman 
+suficientes para absorber el costo al término de la vida útil de los bienes, las cuales han 
+sido validadas por la Gerencia Técnica de la Compañía basado en informes específicos que 
+permiten conocer el impacto del uso estimado de los activos eléctricos y regula la 
+intensidad del uso de las instalaciones, de acuerdo a la demanda de energía por cada 
+sector típico.  
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 29 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+21 
+3.3 Juicios, estimaciones y supuestos contables significativos -  
+La preparación de los estados financieros de la Compañía requiere que la Gerencia deba realizar 
+juicios, estimaciones y supuestos contables que afectan los importes de ingresos, gastos, activos, 
+pasivos y la revelación de pasivos contingentes al cierre del periodo sobre el que se informa. 
+Estos juicios y estimaciones se basan en el mejor conocimiento de la Gerencia acerca de los 
+hechos y circunstancias relevantes, tomando en consideración la experiencia previa; no obstante, 
+los resultados obtenidos pueden diferir de los importes incluidos en los estados financieros.  La 
+información sobre dichos juicios y estimaciones está contenida en las políticas contables y/o las 
+notas a los estados financieros. 
+ 
+Las principales áreas de incertidumbre vinculadas a las estimaciones y juicios críticos realizados 
+por la Gerencia en la preparación de los estados financieros incluye: 
+ 
+(i) Estimación de la vida útil de activos, componetización, valores residuales y deterioro, 
+notas 3.2(d), 3.2(g) y 10. 
+ 
+(ii)  Estimación de la provisión de cuentas de cobranza dudosa, nota 3.2(b) y 5(c). 
+ 
+(iii)  Estimación por desvalorización de inventarios, nota 3.2(c) y 7(d). 
+ 
+(iv) Impuestos corrientes y diferidos, notas 3.2(o) y 18. 
+ 
+(v) Contingencias, notas 3.2(j) y 32. 
+ 
+(vi) Otras provisiones, notas 3.2(i) y 15. 
+ 
+Cualquier diferencia de las estimaciones con los resultados reales posteriores es registrada en los 
+resultados integrales del año en que ocurre. 
+ 
+3.4 Nuevos pronunciamientos contables -  
+La Compañía decidió no adoptar anticipadamente las siguientes normas e interpretaciones que 
+fueron emitidas por el IASB, pero que no son efectivas al 31 de diciembre de 2015: 
+La Compañía decidió no adoptar anticipadamente las siguientes normas e interpretaciones que 
+fueron emitidas por el IASB y que se aplican a las operaciones que realiza la Compañía, pero que 
+no son efectivas al 31 de diciembre de 2015: 
+ 
+- NIIF 9 “Instrumentos financieros” 
+En julio de 2014, el IASB emitió la versión final de la NIIF 9 “Instrumentos financieros”, 
+que refleja todas las fases del proyecto de instrumentos financieros y que sustituirá a la 
+NIC 39 “Instrumentos financieros: Reconocimiento y medición” y todas las versiones 
+anteriores de la NIIF 9. La norma introduce nuevos requerimientos para la clasificación y 
+medición, deterioro y contabilidad de cobertura. La NIIF 9 es efectiva para períodos 
+anuales que comienzan en o después del 1 de enero de 2018, y se permite su aplicación 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 30 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+22 
+anticipada. Se requiere la aplicación retroactiva, pero la información comparativa no es 
+obligatoria. 
+ 
+La adopción de la NIIF 9 tendrá un efecto sobre la clasificación y medición de los activos 
+financieros de la Compañía y su subsidiaria y asociadas, pero ningún impacto sobre la 
+clasificación y medición de sus pasivos financieros. 
+ 
+- NIIF 15 “Los ingresos procedentes de los contratos con los clientes” 
+La NIIF 15 fue emitida en mayo de 2014 y establece un nuevo modelo de cinco pasos que 
+se aplicará a los ingresos procedentes de los contratos con los clientes. Bajo la NIIF 15, los 
+ingresos se reconocen por un importe que refleja la consideración de que la entidad 
+espera tener derecho a cambio de la transferencia de bienes o servicios a un cliente. Los 
+principios de la NIIF 15 proporcionan un enfoque más estructurado para la medición y el 
+reconocimiento de ingresos. El nuevo estándar de los ingresos es aplicable a todas las 
+entidades y reemplazará todos los requisitos actuales de reconocimiento de ingresos bajo 
+NIIF. La aplicación retroactiva completa o modificada es requerida para períodos anuales 
+que comiencen en o después del 1 de enero 2017, y se permite su aplicación anticipada.  
+ 
+- NIIF 14 “Cuentas de Diferimientos de Actividades Reguladas”, efectiva para períodos 
+anuales que comiencen en o a partir del 1 de enero de 2016. 
+ 
+- Modificaciones a la NIIF 10 “Estados Financieros Consolidados”, NIIF 11 “Acuerdos 
+Conjuntos”, NIIF 12 “Información a Revelar sobre Participaciones en Otras Entidades”, 
+NIC 1 “Presentación de Estados Financieros”, NIC 16 “Propiedades, Planta y Equipo”, NIC 
+27 “Estados Financieros Separados”, NIC 28 ”Inversiones en Asociadas y Negocios 
+Conjuntos”, NIC 38 “Activos Intangibles” y NIC 41 “Agricultura”, efectivas para períodos 
+anuales que comiencen en o a partir del 1 de enero de 2016. 
+ 
+- Modificaciones a  la NIIF 10 “Estados Financieros Consolidados” y a la NIC 28 ”Inversiones 
+en Asociadas y Negocios Conjuntos”, en lo relacionado con la venta o contribución de 
+activos entre un inversor y sus asociadas y negocios conjuntos, cuya aplicación efectiva 
+ha sido pospuesta de manera indefinida por el International Accounting Standars Board 
+(IASB por sus siglas en inglés) en diciembre de 2015. 
+ 
+- Mejoras (ciclos 2012 – 2014) a la NIIF 5 “Activos no Corrientes Mantenidos para la Venta 
+y Operaciones Discontinuadas”, NIIF 7 ”Instrumentos Financieros: Información a Revelar”, 
+NIC 19 “Beneficios a los Empleados” y NIC 34 “Información Financiera Intermedia”, 
+efectivas para períodos anuales que comiencen en o a partir del 1 de enero de 2016.  
+ 
+La Compañía está en proceso de evaluar el impacto de la aplicación de estas normas, si lo 
+hubiere, en sus estados financieros, así como en las revelaciones en las notas a los estados 
+financieros. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2015_Individual_Anual_Dictamen y EEFF Auditados al 31-12-2015_HDINA.pdf | PAGINA: 31 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+23 
+  4. Efectivo y equivalentes de efectivo 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Caja 680 625 
+Remesas en tránsito 44 - 
+Cuentas corrientes (b) 5,644 13,977  ________ ________ 
+   
+Total 6,368 14,602  ________ ________ 
+ 
+(b) Al 31 de diciembre de 2015 y de 2014, la Compañía mantiene sus cuentas corrientes en Soles y 
+dólares estadounidenses.  Los fondos son de libre disponibilidad y están depositados en bancos 
+locales con una alta evaluación crediticia. 
+ 
+  5. Cuentas por cobrar comerciales, neto 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Facturas por venta de energía 100,828 79,260 
+Facturas por venta de energía relacionadas, nota 29(b) 258 351 
+Peaje 2,116 1,608 
+Cuentas de cobranza dudosa 24,803 19,359  __________ __________ 
+ 128,005 100,578 
+Estimación por deterioro de cuentas por cobrar (c) (24,803) (19,359)  __________ __________ 
+Total 103,202 81,219  __________ __________ 
+ 
+Las cuentas por cobrar comerciales están denominadas en Soles y tienen un vencimiento 
+promedio de 15 días. 
+ 
+En el año 2015, se han reconocido ingresos sobre la facturación vencida, intereses y recargos 
+por mora y compensatorios por aproximadamente S/2,645,000 (aproximadamente S/2,118,000 
+durante el año 2014), los cuales se incluyen en el rubro “Ingresos financieros” del estado de 
+resultados integrales, ver nota 27. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2018_Individual_Anual_Dictamen_EEFF_Notas.pdf | PAGINA: 76 | vecina =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Estado de Flujos de Efectivo 
+Por los años terminados el 31 de diciembre de 2018 y de 2017 
+ 
+ 
+ 
+72  
+El concepto materia de comentario no resultará aplicable para aquellas entidades que 
+devenguen sus ingresos o gastos para el Impuesto a la Renta según disposiciones de 
+naturaleza tributaria que fijen un régimen especial (sectorial) de devengo.  
+ 
+K. Subcapitalización  
+A partir de 2019 y hasta el 31 de diciembre de 2020, el gasto financiero generado por 
+endeudamientos tanto entre partes independientes como relacionadas está sujeto al límite de 
+subcapitalización de (3:1 Debt-Equity Ratio) calculado al cierre del ejercicio anterior. A partir 
+del 1 de enero de 2021 los gastos financieros serán deducibles hasta el límite del 30% del 
+EBITDA tributario (Renta Neta – Compensación de Pérdidas + Intereses Netos + Depreciación 
++ Amortización) del ejercicio anterior. Existen algunas excepciones a la aplicación de esta 
+limitación para el caso de bancos, contribuyentes con ingresos no superiores a 2,500 UITs, 
+infraestructura, servicios públicos, etc. 
+ 
+L. Deducción de gastos o costos incurridos en operaciones con sujetos no domiciliados  
+El Decreto Legislativo N° 1369 exige que los costos y/o gastos (incluidos los intereses 
+outbound) incurridos con contrapartes no domiciliadas deben haber sido pagados de manera 
+efectiva para poder ser deducidos en el ejercicio en el que se incurrieron. En caso, contrario, 
+su impacto en la determinación de la renta neta se diferirá al ejercicio en el que efectivamente 
+sea pagado oportunidad en la que se aplicará la retención correspondiente. 
+Dicha norma eliminó la obligación de pagar el monto equivalente a la retención sobre el 
+monto contabilizado como costo y/o gasto. 
+ 
+M. Crédito Indirecto  
+Bajo ciertos requisitos, a partir del 1 de enero de 2019 las entidades domiciliadas que 
+obtengan dividendos (inbound) de fuente extranjera podrán deducir como crédito directo el 
+Impuesto a la Renta que hubiera gravado los dividendos en el exterior y el Impuesto a la 
+Renta Corporativo (crédito indirecto) pagado por la sociedad no domiciliada de primer y 
+segundo nivel (siempre que estén en la misma jurisdicción) que hubiesen distribuido los 
+dividendos desde el exterior. 
+ 
+N. Medidas para la aplicación de la Cláusula Anti-elusión General contenida en la Norma 
+XVI del Código Tributario 
+A través del Decreto Legislativo N° 1422 se ha establecido el procedimiento para la aplicación 
+de la referida Cláusula Anti-elusión General (CAG), señalándose fundamentalmente que:  
+(i) es aplicable sólo en procedimientos de fiscalización definitva en que se revisen actos, 
+hechos o situaciones producidos desde el 19 de julio de 2012; (ii) para su apicación debe 
+haber previa opinión favorable de un comité revisor integrado por funcionarios de la propia 
+SUNAT, no siendo recurrible dicha opinión; (iv) los procedimiento de fiscalización definitiva en 
+los que se aplique la CAG no están sujetos al plazo de un (01) año para requerir información a 
+los fiscalizados.  
+ 
+A la fecha de elaboración de la presente nota, se mantiene la suspensión de la CAG hasta que 
+se emita el respectivo decreto supremo que fije los parámetros de fondo y forma que se 
+encuentran dentro del ámbito de la Norma XVI del Código Tributario. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2018_Individual_Anual_Dictamen_EEFF_Notas.pdf | PAGINA: 77 | puntaje 6 =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2018 y de 2017 
+ 
+ 
+ 
+73 
+O. Información relacionada con beneficiarios finales  
+En el marco de las normas para fortalecer la lucha contra la evasión y elusión fiscal así como 
+contra el lavado de activos y financiamiento del terrotismo, a partir del 3 de agosto de 2018 se 
+encuentran vigentes las disposiciones introducidas a través del Decreto Legislativo N° 1372 
+que obligan a brindar a las autoridades competentes, a través de una declaración jurada de 
+benficiarios finales, información relacionada con dichos sujetos, esto es, a revelar mediante 
+dicha declaración quiénes son las personas naturales que efectivamente tienen la propiedad o 
+control en personas jurídicas o entes jurídicos. Así, será obligatorio informar aspectos como  
+(i) identificación del beneficiario final; (ii) la cadena de titularidad con la respectiva 
+documentación de sustento; (iii) identificación de los terceros que cuentan con dicha 
+información, de ser el caso. Se señala además que la información relacionada a la 
+identificación de los beneficiarios finales de las personas jurídicas y entes jurídicos que se 
+proporcione a las autoridades competentes en el marco de estas normas no constituye 
+violación al secreto profesional ni tampoco está sujeta a las restricciones sobre revelación de 
+información derivadas de la confidencialidad impuesta por vía contractual o por cualquier 
+disposición legal o reglamentaria. 
+ 
+Finalmente debe tenerse en consideración que, de no presentarse la declaración jurada 
+informativa que contiene la información relacionada beneficiario final, incurrirán en 
+responsabilidad solidaria los representantes legales de la entidad que omitió cumplir con la 
+prsentación de dicha declaración. 
+ 
+P. Enajenación indirecta de acciones  
+A partir del 1 de enero de 2019 se incorpora una técnica anti-elusiva para evitar el 
+fraccionamiento de operaciones, a través de las cuales, indirectamente se enajenen acciones 
+de empresas domiciliadas en el Perú.  
+ 
+Así, se indica que para establecer si en un período de 12 meses se ha cumplido con la 
+transferencia del 10% o más del capital de la sociedad peruana, se consideran las 
+transferencias realizadas por el sujeto analizado, así como las realizadas a sus partes 
+vinculadas, sea que se ejecuten mediante una o varias operaciones, simultáneas o sucesivas. 
+Dicha vinculación se establecerá conforme a lo establecido en el inciso b) del artículo 32-A de 
+la Ley del Impuesto a la Renta.  
+ 
+Queda establecido además que, independientemente del cumplimiento de las condiciones 
+reguladas en la Ley del Impuesto a la Renta, siempre se configurará una enajenación indirecta 
+gravada cuando, en un período cualquiera de 12 meses, el importe total de las acciones de la 
+personas jurídica peruana que se enajenan sea igual o mayor a cuarenta mil (40,000) UIT. 
+ 
+La fecha de vigencia inicialmente señalada que, cuando el enajenante sea una persona jurídica 
+no domiciliada que cuenta con una sucursal o cualquier establecimiento permanente en el 
+Perú con patrimonoio asignado, se considera a éste último corresponsable solidario, debiendo 
+este último sujeto proporcionar, entre otra información, a la correspondiente a las las acciones 
+o participaciones de la persona jurídica no domicliada que se enajenan.  
+ 
+Responsabilidad solidaria de los representantes legales y Directores de las sociedades:  
+ 
+Q. A partir del 14 de septiembre de 2018 ha quedaod establecido, mediante el Decreto 
+Legislativo N° 1422 que, cuando un sujeto fiscalizado sea sujeto de la Cláusula Anti-elusiva 
+General (CAG), se considera automáticamente que existe dolo, negligencia grave o abuso de 
+facultades respecto de sus representantes legales, salvo prueba en contrario. La referida 
+responsabilidad solidaria se atribuirá a dichos representantes siempre que hayan colaborado 
+con el diseño o aprobación o ejecución de actos, situaciones o relaciones económicas con 
+propósito elusivo.  
+La norma precitada involucra también a los miembros del Directorio de sociedades, al 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2018_Individual_Anual_Dictamen_EEFF_Notas.pdf | PAGINA: 78 | vecina =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Estado de Flujos de Efectivo 
+Por los años terminados el 31 de diciembre de 2018 y de 2017 
+ 
+ 
+ 
+74  
+señalarse que a dichos sujetos les corresponde definir la estrategia tributaria de las 
+sociedades en las cuales son directores, debiendo éstos decidir la aprobación o no de actos, 
+situaciones o relaciones económicas a realizarse en el marco de la planificación fiscal, siendo 
+indelegable – según la norma en comentario – esta atribución de los directores.  
+ 
+Finalmente, se otorgó a los miembros del Directorio de sociedades domiciliadas, un plazo que 
+vende el 29 de marzo de 2019 para ratificar o modificar los actos, situaciones o relaciones 
+económicas realizados en el marco de la planificación fiscal, e implementados al 14 de 
+setiembre de 2018 que sigan teniendo efecto tributario hasta la actualidad. 
+ 
+El plazo máximo señalado para el cumplimiento de dicha obligación formal , y considerando la 
+referida responsabilidad solidaria atribuible tanto a representantes legales como a directores, 
+asi como la flta de definición del término planificación fiscal será crítico revisar todo acto, 
+situación o relación económica que haya (i) incrementado atirbutos fiscales; y/o, (ii) generado 
+un menor pago de tributos por los ejercicios antes mencionados, a fin de evitar la atribución 
+de responsabilidad solidaria tributaria, tanto a nivel administrativo como incluso penal, 
+dependiendo del criterio del agente fiscalizador , en caso de aplicarse la CAG a la sociedad 
+que sea materia de una intervención fiscal por parte de la SUNAT.  
+ 
+34. Arrendamientos Operativos 
+Al 31 de diciembre de 2018 y 2017, la Empresa mantiene contratos de arrendamientos operativos 
+relacionados principalemente a oficinas de la Sede Corporativa y oficinas para atención al Cliente en 
+los servicios eléctricos y arrendamiento de vehículos para atender la operatividad del negocio 
+ 
+Los pagos mínimos futuros de arrendamiento son como sigue: 
+ 
+En miles de soles 2018 2017 
+Hasta un año 2,912 3,160 
+Entre uno y cinco años 11,650 12,640 
+ 14,562 15,800 
+ 
+Los importes reconocidos en resultados son como sigue: 
+ 
+En miles de soles 2018 2017 
+Alquiler de edificios 1,471 1,396 
+Alquiler maquinaria y equipo 1 726 
+Alquiler de vehículos 40 513 
+Alquiler de equipos diversos 1,400 1,626 
+ 2,912 4,261 
+ 
+35. Contingencias 
+Actualmente, la Empresa tiene diversos procesos tributarios, legales y laborales relacionados con 
+sus operaciones, entre los cuales tenemos: 
+ 
+A. 110 (ciento diez) reclamos por reivindicación de daños y perjuicios, por aproximadamente 
+miles de S/ 207. 
+ 
+B. 794 (setecientos noventa y cuatro) reclamos laborales por revisión de beneficios sociales, 
+reintegro de beneficios y remuneraciones, incorporación a planilla e indemnizaciones por 
+despido por aproximadamente miles de S/ 17,650.  
+ 
+C. La Empresa tiene 5 (cinco) procesos administrativos, que se encuentran en el Centro de 
+Arbitraje de la Cámara de Comercio de Lima, por miles de S/ 655. 
+En opinión de la Gerencia y de los asesores legales de la Empresa, el resultado de estos procesos 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2019_Individual_Anual_Dictamen_EEFF_Notas.pdf | PAGINA: 74 | vecina =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+70 
+El nuevo concepto jurídico de devengo resulta aplicable a los arrendatarios para efectos de 
+establecer el tratamiento tributario del gasto asociado a los contratos de arrendamiento 
+regulados por la NIIF 16 (i.e. arrendamiento operativo para propósitos fiscales). 
+ 
+El concepto materia de comentario no resultará aplicable para aquellas entidades que 
+devenguen sus ingresos o gastos para el Impuesto a la Renta según disposiciones de 
+naturaleza tributaria que fijen un régimen especial (sectorial) de devengo.  
+ 
+J. Subcapitalización  
+A partir de 2019 y hasta el 31 de diciembre de 2020, el gasto financiero generado por 
+endeudamientos tanto entre partes independientes como relacionadas está sujeto al límite de 
+subcapitalización de (3:1 Debt-Equity Ratio) calculado al cierre del ejercicio anterior. A partir 
+del 1 de enero de 2021 los gastos financieros serán deducibles hasta el límite del 30% del 
+EBITDA tributario (Renta Neta – Compensación de Pérdidas + Intereses Netos + Depreciación 
++ Amortización) del ejercicio anterior. Existen algunas excepciones a la aplicación de esta 
+limitación para el caso de bancos, contribuyentes con ingresos no superiores a 2,500 UITs, 
+infraestructura, servicios públicos, etc. 
+ 
+K. Deducción de gastos o costos incurridos en operaciones con sujetos no domiciliados  
+El Decreto Legislativo N° 1369 exige que los costos y/o gastos (incluidos los intereses 
+outbound) incurridos con contrapartes no domiciliadas deben haber sido pagados de manera 
+efectiva para poder ser deducidos en el ejercicio en el que se incurrieron. En caso, contrario, 
+su impacto en la determinación de la renta neta se diferirá al ejercicio en el que efectivamente 
+sea pagado oportunidad en la que se aplicará la retención correspondiente. 
+ 
+Dicha norma eliminó la obligación de pagar el monto equivalente a la retención sobre el 
+monto contabilizado como costo y/o gasto. 
+ 
+L. Crédito Indirecto  
+Bajo ciertos requisitos, a partir del 1 de enero de 2019 las entidades domiciliadas que 
+obtengan dividendos (inbound) de fuente extranjera podrán deducir como crédito directo el 
+Impuesto a la Renta que hubiera gravado los dividendos en el exterior y el Impuesto a la 
+Renta Corporativo (crédito indirecto) pagado por la sociedad no domiciliada de primer y 
+segundo nivel (siempre que estén en la misma jurisdicción) que hubiesen distribuido los 
+dividendos desde el exterior. 
+ 
+M. Medidas para la aplicación de la Cláusula Anti-elusión General contenida en la  
+Norma XVI del Código Tributario 
+A través del Decreto Legislativo N° 1422 se ha establecido el procedimiento para la aplicación 
+de la referida Cláusula Anti-elusión General (CAG), señalándose fundamentalmente que:  
+(i) es aplicable sólo en procedimientos de fiscalización definitiva en que se revisen actos, 
+hechos o situaciones producidos desde el 19 de julio de 2012; (ii) para su aplicación debe 
+haber previa opinión favorable de un comité revisor integrado por funcionarios de la propia 
+SUNAT, no siendo recurrible dicha opinión; (iv) los procedimiento de fiscalización definitiva en 
+los que se aplique la CAG no están sujetos al plazo de un (01) año para requerir información a 
+los fiscalizados.  
+ 
+A la fecha de elaboración de la presente nota, se mantiene la suspensión de la CAG hasta que 
+se emita el respectivo decreto supremo que fije los parámetros de fondo y forma que se 
+encuentran dentro del ámbito de la Norma XVI del Código Tributario. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2019_Individual_Anual_Dictamen_EEFF_Notas.pdf | PAGINA: 75 | puntaje 6 =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+71 
+N. Información relacionada con beneficiarios finales  
+En el marco de las normas para fortalecer la lucha contra la evasión y elusión fiscal así como 
+contra el lavado de activos y financiamiento del terrorismo, a partir del 3 de agosto de 2018 se 
+encuentran vigentes las disposiciones introducidas a través del Decreto Legislativo N° 1372 
+que obligan a brindar a las autoridades competentes, a través de una declaración jurada de 
+beneficiarios finales, información relacionada con dichos sujetos, esto es, a revelar mediante 
+dicha declaración quiénes son las personas naturales que efectivamente tienen la propiedad o 
+control en personas jurídicas o entes jurídicos. Así, será obligatorio informar aspectos como  
+(i) identificación del beneficiario final; (ii) la cadena de titularidad con la respectiva 
+documentación de sustento; (iii) identificación de los terceros que cuentan con dicha 
+información, de ser el caso. Se señala además que la información relacionada a la 
+identificación de los beneficiarios finales de las personas jurídicas y entes jurídicos que se 
+proporcione a las autoridades competentes en el marco de estas normas no constituye 
+violación al secreto profesional ni tampoco está sujeta a las restricciones sobre revelación de 
+información derivadas de la confidencialidad impuesta por vía contractual o por cualquier 
+disposición legal o reglamentaria. 
+ 
+Debe tenerse en consideración que, de no presentarse la declaración jurada informativa que 
+contiene la información relacionada beneficiario final, incurrirán en responsabilidad solidaria 
+los representantes legales de la entidad que omitió cumplir con la presentación de dicha 
+declaración. 
+ 
+O. Enajenación indirecta de acciones  
+A partir del 1 de enero de 2019 se incorpora una técnica anti-elusiva para evitar el 
+fraccionamiento de operaciones, a través de las cuales, indirectamente se enajenen acciones 
+de empresas domiciliadas en Perú.  
+ 
+Se indica que para establecer si en un período de 12 meses se ha cumplido con la 
+transferencia del 10% o más del capital de la sociedad peruana, se consideran las 
+transferencias realizadas por el sujeto analizado, así como las realizadas a sus partes 
+vinculadas, sea que se ejecuten mediante una o varias operaciones, simultáneas o sucesivas. 
+Dicha vinculación se establecerá conforme a lo establecido en el inciso b) del artículo 32-A de 
+la Ley del Impuesto a la Renta.  
+ 
+Queda establecido además que, independientemente del cumplimiento de las condiciones 
+reguladas en la Ley del Impuesto a la Renta, siempre se configurará una enajenación indirecta 
+gravada cuando, en un período cualquiera de 12 meses, el importe total de las acciones de las 
+personas jurídicas peruana que se enajenan sea igual o mayor a cuarenta mil (40,000) UIT. 
+ 
+La fecha de vigencia inicialmente señalada que, cuando el enajenante sea una persona jurídica 
+no domiciliada que cuenta con una sucursal o cualquier establecimiento permanente en Perú 
+con patrimonio asignado, se considera a éste último corresponsable solidario, debiendo este 
+último sujeto proporcionar, entre otra información, a la correspondiente a las acciones o 
+participaciones de la persona jurídica no domiciliada que se enajenan.  
+ 
+P. Responsabilidad solidaria de los representantes legales y Directores de las Sociedades 
+A partir del 14 de septiembre de 2018 ha quedado establecido, mediante el Decreto 
+Legislativo N° 1422 que, cuando un sujeto fiscalizado sea sujeto de la Cláusula Anti-elusiva 
+General (CAG), se considera automáticamente que existe dolo, negligencia grave o abuso de 
+facultades respecto de sus representantes legales, salvo prueba en contrario. La referida 
+responsabilidad solidaria se atribuirá a dichos representantes siempre que hayan colaborado 
+con el diseño o aprobación o ejecución de actos, situaciones o relaciones económicas con 
+propósito elusivo.  
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2019_Individual_Anual_Dictamen_EEFF_Notas.pdf | PAGINA: 76 | vecina =====
+Empresa Regional de Servicio Público de Electricidad Electronorte Medio S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+72 
+La norma precitada involucra también a los miembros del Directorio de sociedades, al 
+señalarse que a dichos sujetos les corresponde definir la estrategia tributaria de las 
+sociedades en las cuales son directores, debiendo éstos decidir la aprobación o no de actos, 
+situaciones o relaciones económicas a realizarse en el marco de la planificación fiscal, siendo 
+indelegable – según la norma en comentario – esta atribución de los directores.  
+ 
+Se otorgó a los miembros del Directorio de sociedades domiciliadas, un plazo que vende el  
+29 de marzo de 2019 para ratificar o modificar los actos, situaciones o relaciones económicas 
+realizados en el marco de la planificación fiscal, e implementados al 14 de setiembre de 2018 
+que sigan teniendo efecto tributario hasta la actualidad. 
+ 
+El plazo máximo señalado para el cumplimiento de dicha obligación formal , y considerando la 
+referida responsabilidad solidaria atribuible tanto a representantes legales como a directores, 
+así como la falta de definición del término planificación fiscal será crítico revisar todo acto, 
+situación o relación económica que haya (i) incrementado atributos fiscales; y/o, (ii) generado 
+un menor pago de tributos por los ejercicios antes mencionados, a fin de evitar la atribución 
+de responsabilidad solidaria tributaria, tanto a nivel administrativo como incluso penal, 
+dependiendo del criterio del agente fiscalizador , en caso de aplicarse la CAG a la sociedad 
+que sea materia de una intervención fiscal por parte de la SUNAT.  
+ 
+34. Compromisos y Contingencias 
+ 
+A. Compromisos 
+La Empresa ha otorgado cartas fianzas por garantía a terceros, por compromisos de devolución de 
+costo de conexiones domiciliarias y convenios al Ministerio de Energía y Minas y por proceso judicial 
+de beneficios sociales por miles de S/ 16,538 al 31 de diciembre de 2019 (miles de S/ 11,845 al  
+31 de diciembre de 2018). 
+ 
+B. Contingencias 
+Actualmente, la Empresa tiene diversos procesos tributarios, legales y laborales relacionados con 
+sus operaciones, entre los cuales tenemos: 
+ 
+A. 10 (diez) reclamos por reivindicación de daños y perjuicios, por aproximadamente miles de  
+S/ 5,367. 
+B. 65 (sesenta y cinco) reclamos laborales por revisión de beneficios sociales, reintegro de 
+beneficios y remuneraciones, incorporación a planilla e indemnizaciones por despido por 
+aproximadamente miles de S/ 8,365.  
+ 
+En opinión de la Gerencia y de los asesores legales de la Empresa, el resultado de estos procesos 
+no representará desembolsos significativos para la Empresa al 31 de diciembre de 2019 y de 2018. 
+ 
+35. Medio Ambiente 
+La Política y Gestión Ambiental de la Empresa se concreta a través del cumplimiento normativo y en 
+sus compromisos internos de proteger el medio ambiente en el entorno donde se brinda el servicio 
+eléctrico. 
+ 
+Este cumplimiento se encuentra normado en el Reglamento de Protección ambiental del sub-sector 
+electricidad (D.S N° 014-2019-EM), a través del cual se elaboró y ejecutó el Programa de protección 
+Ambiental del ejercicio 2019. Este programa cumple con lo exigido en el reglamento antes 
+mencionado, como es: El monitoreo mensual de efluentes líquidos y cuerpos receptores, Monitoreo 
+de ruidos en todas las centrales de generación y sub estaciones de transformación, Monitoreo de 
+radiaciones electromagnéticas, tanto en líneas de transmisión, como en patio de llaves de las sub 
+estaciones de transformación, Monitoreo de la calidad de aire en las centrales de generación térmica 
+y en el manejo y disposición adecuada de los residuos generados por el desarrollo de la actividad 
+eléctrica. 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2021_Individual_Anual_EEFF Auditados y Dictamen 2021.pdf | PAGINA: 72 | vecina =====
+ 
+Modificaciones tributarias de mayor relevancia vigentes a partir del 1 de enero de 2019 
+ 
+j. Nuevo concepto normativo de devengo 
+El Decreto Legislativo No. 1425 introdujo la definición de “devengo jurídico” para efectos del Impuesto 
+a la Renta estableciendo que los ingresos en el caso de: a) enajenación de bienes se produce cuando: i) 
+opera el cambio de control (de acuerdo a la NIIF 15); o ii) se produce la transferencia del riesgo hacia el 
+adquirente (Teoría del Riesgo establecida en el Código Civil), lo que ocurra primero; y b) para el caso de 
+prestación de servicios se ha establecido el grado de realización o de cumplimiento de la obligación de 
+desempeño (i.e. prestación en términos jurídicos). 
+ 
+El nuevo concepto jurídico de devengo resulta aplicable a los arrendatarios para efectos de establecer el 
+tratamiento tributario del gasto asociado a los contratos de arrendamiento regulados por la NIIF 16 
+(arrendamiento operativo para propósitos fiscales). 
+ 
+El nuevo concepto de “devengo jurídico” exige la necesaria conciliación entre el reconocimiento 
+financiero de los ingresos, costos y/o gastos y su correspondiente reconocimiento para propósitos fiscales 
+debido a que el concepto de “devengo jurídico” difiere del concepto financiero de devengo. 
+ 
+Finalmente cabe indicar que el concepto materia de comentario no resultará aplicable para aquellas 
+entidades que devenguen sus ingresos o gastos para el Impuesto a la Renta según disposiciones de 
+naturaleza tributaria que fijen un régimen especial (sectorial) de devengo. 
+ 
+k. Subcapitalización 
+A partir de 2019 y hasta el 31 de diciembre de 2020, el gasto financiero generado por endeudamientos 
+tanto entre partes independientes como relacionadas está sujeto al límite de subcapitalización de (3:1 
+Debt-Equity Ratio) calculado al cierre del ejercicio anterior. A partir del 1 de enero de 2021 los gastos 
+financieros serán deducibles hasta el límite del 30% del EBITDA tributario (Renta Neta – Compensación 
+de Pérdidas + Intereses Netos + Depreciación + Amortización) del ejercicio anterior. De existir algún 
+saldo de gasto financiero no susceptible de ser absorbido como gasto en un ejercicio dado por aplicación 
+de la nueva regla de subcapitalización aplicable a partir del 1 de enero del ejercicio 2021, podrá ser 
+compensado contra la renta neta que se genere en los cuatro (4) ejercicios fiscales siguientes (i.e. four 
+year carry forward) al cabo de los cuales caducará generando diferencias permanentes. Existen algunas 
+excepciones a la aplicación de esta limitación para el caso de bancos, contribuyentes con ingresos no 
+superiores a 2,500 UITs, infraestructura, servicios públicos, etc. 
+ 
+l. Sexto método 
+Las entidades exportadoras y/o importadores de commodities y semi-commodities deben determinar el 
+valor de mercado de sus operaciones con partes vinculadas considerando el valor de cotización acordado 
+por las partes bajo el cumplimiento de ciertos requisitos de comunicación (contrato, incoterm, tipo de 
+producto, unidad de medida, cantidad, mercado de cotización, costos de refinación, primas, descuentos, 
+etc.) oportuna a la SUNAT. En caso contrario deberán reconocer como valor de mercado la cotización al 
+término del embarque en los casos de exportación y la fecha de desembarque en los casos de importación. 
+El referido método de determinación del valor de mercado no elimina la aplicación del nuevo concepto 
+de “devengo jurídico” para efectos del reconocimiento de los ingresos por exportación. En tal sentido, es 
+necesario que la entidad evalúe la consistencia financiera y fiscal del reconocimiento de ingresos 
+revisando y/o ajustando dicha política al nuevo estándar jurídico a efectos de evitar, para efectos fiscales, 
+el reconocimiento anticipado de los ingresos o su indebido diferimiento siendo necesaria una conciliación 
+entre el tratamiento financiero y el fiscal. 
+ 
+m. Deducción de gastos o costos incurridos en operaciones con sujetos no domiciliados  
+El Decreto Legislativo 1369° exige que los costos y/o gastos (incluidos los intereses outbound) incurridos 
+con contrapartes no domiciliadas deben haber sido pagados de manera efectiva para poder ser deducidos 
+en el ejercicio en el que se incurrieron hasta antes del vencimiento del plazo para la presentación de la 
+declaración jurada anual. En caso, contrario, su impacto en la determinación de la renta neta se diferirá al 
+ejercicio en el que efectivamente sea pagado oportunidad en la que se aplicará la retención 
+correspondiente. 
+ 
+Dicha norma eliminó la obligación de pagar el monto equivalente a la retención sobre el monto 
+contabilizado como costo y/o gasto. 
+ 
+68
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2021_Individual_Anual_EEFF Auditados y Dictamen 2021.pdf | PAGINA: 73 | puntaje 6 =====
+ 
+n. Crédito Indirecto 
+Bajo ciertos requisitos, a partir del 1 de enero de 2019 las entidades domiciliadas que obtengan dividendos 
+(inbound) de fuente extranjera podrán deducir como crédito directo el Impuesto a la Renta que hubiera 
+gravado los dividendos en el exterior y el Impuesto a la Renta Corporativo (crédito indirecto) pagado por 
+la sociedad no domiciliada de primer y segundo nivel (siempre que estén en la misma jurisdicción) que 
+hubiesen distribuido los dividendos desde el exterior. 
+ 
+o. Medidas para la aplicación de la Cláusula Anti-elusión General contenida en la Norma XVI del 
+Código Tributario 
+ 
+A través del Decreto Legislativo No. 1422 se ha establecido el procedimiento para la aplicación de la 
+referida Cláusula Anti-Elusiva General (CAG), señalándose fundamentalmente que: (i) es aplicable sólo 
+en procedimientos de fiscalización definitiva en que se revisen (de manera retroactiva) actos, hechos o 
+situaciones producidos desde el 19 de julio de 2012; (ii) para su aplicación debe haber previa opinión 
+favorable de un comité revisor integrado por funcionarios de la propia SUNAT, no siendo recurrible dicha 
+opinión; (iv) los procedimiento de fiscalización definitiva en los que se aplique la CAG no están sujetos 
+al plazo de un (01) año para requerir información a los fiscalizados. 
+ 
+Cabe indicar que, a la fecha de la presente nota, la CAG está plenamente vigente resultando aplicable la 
+Norma XVI del Código Tributario. 
+ 
+p. Información relacionada con beneficiarios finales  
+En el marco de las normas para fortalecer la lucha contra la evasión y elusión fiscal, así como, contra el 
+lavado de activos y financiamiento del terrorismo, a partir del 03 de agosto de 2018 se encuentran vigentes 
+las disposiciones introducidas a través del Decreto Legislativo No.1372 que obligan a brindar a las 
+autoridades competentes, a través de una declaración jurada de beneficiarios finales, información 
+relacionada con dichos sujetos, esto es, a revelar mediante dicha declaración quiénes son las personas 
+naturales que efectivamente tienen la propiedad o control en personas o entes jurídicos. Así, será 
+obligatorio informar aspectos como (i) identificación del beneficiario final; (ii) la cadena de titularidad 
+con la respectiva documentación de sustento; (iii) identificación de los terceros que cuentan con dicha 
+información, de ser el caso. Se señala además que la información relacionada a la identificación de los 
+beneficiarios finales de las personas y entes jurídicos que se proporcione a las autoridades competentes 
+en el marco de estas normas no constituye violación al secreto profesional ni tampoco está sujeta a las 
+restricciones sobre revelación de información derivadas de la confidencialidad impuesta por vía 
+contractual o por cualquier disposición legal o reglamentaria. 
+ 
+Finalmente debe tenerse en consideración que, de no presentarse la declaración jurada informativa que 
+contiene la información relacionada beneficiario final, incurrirán en responsabilidad solidaria los 
+representantes legales de la entidad que omitió cumplir con la presentación de dicha declaración. 
+  
+La Empresa en fecha 02 de Julio 2021, cumplió con la presentación de la declaración informativa en la 
+fecha establecida en el cronograma de vencimientos mensuales. 
+ 
+q. Enajenación indirecta de acciones  
+A partir del 1 de enero de 2019 se incorpora una técnica anti-elusiva para evitar el fraccionamiento de 
+operaciones, a través de las cuales, indirectamente se enajenen acciones de empresas domiciliadas en 
+Perú. 
+ 
+Se indica que para establecer si en un período de 12 meses se ha cumplido con la transferencia del 10% 
+o más del capital de la sociedad peruana, se consideran las transferencias realizadas por el sujeto 
+analizado, así como las realizadas a sus partes vinculadas, sea que se ejecuten mediante una o varias 
+operaciones, simultáneas o sucesivas. Dicha vinculación se establecerá conforme a lo establecido en el 
+inciso b) del artículo 32-A de la Ley del Impuesto a la Renta. 
+ 
+Asimismo, queda establecido además que, independientemente del cumplimiento de las condiciones 
+reguladas en la Ley del Impuesto a la Renta, siempre se configurará una enajenación indirecta gravada 
+cuando, en un período cualquiera de 12 meses, el importe total de las acciones de la persona jurídica 
+peruana que se enajenan sea igual o mayor a cuarenta mil (40,000) UIT. 
+ 
+69
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2021_Individual_Anual_EEFF Auditados y Dictamen 2021.pdf | PAGINA: 74 | vecina =====
+ 
+Finalmente, se agrega además desde la fecha de vigencia inicialmente señalada que, cuando el enajenante 
+sea una persona jurídica no domiciliada que cuenta con una sucursal o cualquier establecimiento 
+permanente en Perú con patrimonio asignado, se considera a éste último corresponsable solidario, 
+debiendo este último sujeto proporcionar, entre otra información, a la correspondiente a las acciones o 
+participaciones de la persona jurídica no domiciliada que se enajenan. 
+ 
+r. Responsabilidad solidaria de los representantes legales y Directores de las Sociedades  
+A partir del 14 de septiembre de 2018 ha quedado establecido, mediante el Decreto Legislativo No. 1422 
+que, cuando un sujeto fiscalizado sea sujeto de la Cláusula Anti-Elusiva General (CAG), se considera 
+automáticamente que existe dolo, negligencia grave o abuso de facultades respecto de sus representantes 
+legales, salvo prueba en contrario. La referida responsabilidad solidaria se atribuirá a dichos 
+representantes de manera personal siempre que hayan colaborado con el diseño o aprobación o ejecución 
+de actos, situaciones o relaciones económicas con propósito elusivo. 
+ 
+Cabe indicar que la norma precitada involucra también a los miembros del Directorio de sociedades, al 
+señalarse que a dichos sujetos les corresponde definir la estrategia tributaria de las sociedades en las cuales 
+son directores, debiendo éstos decidir la aprobación o no de actos, situaciones o relaciones económicas a 
+realizarse en el marco de la planificación fiscal, siendo indelegable – según la norma en comentario – esta 
+atribución de los directores. 
+ 
+Se otorgó a los miembros del Directorio de sociedades domiciliadas, un plazo que venció el 29 de marzo 
+de 2019 para ratificar o modificar los actos, situaciones o relaciones económicas realizados en el marco 
+de la planificación fiscal, e implementados al 14 de setiembre de 2018 que sigan teniendo efecto tributario 
+hasta la actualidad. Para los ejercicios 2019 y 2020 en adelante, consideramos que es obligación del 
+Directorio evaluar anualmente si las operaciones realizadas por la Empresa han generado o no un efecto 
+evasivo o elusivo que pudiese estar dentro del ámbito de aplicación de la CAG y en consecuencia ser 
+objeto de regularización fiscal. 
+  
+No obstante el referido plazo máximo señalado para el cumplimiento de dicha obligación formal , y 
+considerando la referida responsabilidad solidaria atribuible tanto a representantes legales como a 
+directores, así como la falta de definición del término planificación fiscal será crítico revisar todo acto, 
+situación o relación económica que haya (i) incrementado atributos fiscales; y/o, (ii) generado un menor 
+pago de tributos por los ejercicios antes mencionados, a fin de evitar la atribución de responsabilidad 
+solidaria tributaria, tanto a nivel administrativo como incluso penal, dependiendo del criterio del agente 
+fiscalizador, en caso de aplicarse la CAG a la sociedad que sea materia de una intervención fiscal por 
+parte de la SUNAT. 
+ 
+33. Compromisos y contingencias 
+ 
+Compromisos 
+La Empresa ha otorgado cartas fianzas por garantía a terceros, por compromisos de devolución de costo de 
+conexiones domiciliarias y convenios al Ministerio de Energía y Minas y por proceso judicial de beneficios 
+sociales por miles de S/ 20,625 al 31 de diciembre de 2021 (miles de S/ 15,616 al 31 de diciembre de 2020). 
+ 
+Contingencias 
+Actualmente, la Empresa tiene diversos procesos tributarios, legales y laborales relacionados con sus 
+operaciones, entre los cuales tenemos: 
+ 
+• 13 (trece) reclamos por reivindicación de daños y perjuicios, por aproximadamente miles de S/ 832. 
+• 98 (noventa y ocho) reclamos laborales por revisión de beneficios sociales, reintegro de beneficios y 
+remuneraciones, incorporación a planilla e indemnizaciones por despido por aproximadamente miles de 
+S/ 7,071. 
+• 13 (trece) procesos civiles, por aproximadamente miles de S/ 2,634. 
+• 2 (dos) procesos administrativos sancionadores de parte de OSINERGMIN por aproximadamente miles 
+S/ 239. 
+ 
+En opinión de la Gerencia y de los asesores legales de la Empresa, el resultado de estos procesos no 
+representará desembolsos significativos para la Empresa al 31 de diciembre de 2021 y de 2020. 
+ 
+ 
+70
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2017_Individual_Anual_Dictamen EEFF y Notas año 2017.pdf | PAGINA: 21 | vecina =====
+EMPRESA REGIONAL DE SERVICIO PÚBLICO DE ELECTRICIDAD  
+ELECTRONORTE MEDIO S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2017 y de 2016 
+ 
+ 
+ 
+17 
+F. Pérdida por deterioro de activos no financieros 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo de 
+larga vida pueda no ser recuperable, la Gerencia revisa el valor en libros de estos activos. Si luego de 
+este análisis resulta que su valor en libros excede su valor recuperable, se reconoce una pérdida por 
+deterioro en resultados, o se disminuye el excedente de revaluación en el caso de activos que han 
+sido revaluados, por un monto equivalente al exceso del valor en libros neto de sus efectos 
+tributarios referidos al impuesto a la renta diferido. Los importes recuperables se estiman para cada 
+activo o, si no es posible, para cada unidad generadora de efectivo. 
+ 
+El valor recuperable de un activo de larga vida o de una unidad generadora de efectivo, es el mayor 
+valor entre su valor razonable menos los costos de venta y su valor en uso. El valor razonable menos 
+los costos de venta de un activo de larga vida o de una unidad generadora de efectivo, es el importe 
+que se puede obtener al venderlo, en una transacción efectuada en condiciones de independencia 
+mutua entre partes bien informadas, menos los correspondientes costos de venta. 
+ 
+El valor en uso es el valor presente de los flujos futuros de efectivo estimados que se espera 
+obtener de un activo o de una unidad generadora de efectivo. Los saldos en libros de activos no 
+financieros distintos de la plusvalía mercantil que han sido objeto de castigos por deterioro se 
+revisan a la fecha de cada reporte para verificar posibles reversiones del deterioro. 
+ 
+G. Beneficios a los empleados 
+ 
+i. Beneficios a corto plazo 
+Los beneficios a los empleados a corto plazo son reconocidos como gasto cuando se presta el 
+servicio relacionado. Se reconoce una obligación por el monto que se espera pagar si la Empresa 
+posee una obligación legal o implícita actual de pagar este monto como resultado de un servicio 
+entregado por el empleado en el pasado y la obligación puede ser estimada con fiabilidad. En el caso 
+de la Empresa, bajo esta clasificación se encuentran las remuneraciones, vacaciones por pagar, 
+gratificaciones por pagar, compensación por tiempo de servicios y otros beneficios: 
+ 
+ Las remuneraciones por pagar constituyen el pago efectuado por la Empresa por el servicio 
+laboral realizado. 
+ Las vacaciones anuales del personal y otras ausencias remuneradas se reconocen sobre la 
+base del devengado. 
+ Las gratificaciones por pagar corresponden a dos sueldos adicionales al año. La Empresa 
+determina el gasto por gratificaciones y su correspondiente pasivo sobre las bases de las 
+disposiciones legales vigentes en Perú. Las gratificaciones se pagan en julio y diciembre de 
+cada año. 
+ La compensación por tiempo de servicios del personal corresponde a sus derechos 
+indemnizatorios calculados de acuerdo con la legislación vigente. El monto de los derechos 
+indemnizatorios por pagar a los empleados tiene que ser abonada en mayo y noviembre de 
+cada año en las cuentas bancarias seleccionadas por los empleados. La compensación total 
+anual por tiempo de servicios del personal es equivalente a un sueldo. La Empresa no tiene 
+obligaciones de pago adicionales una vez que efectúa los depósitos anuales de los fondos a 
+los que el trabajador tiene derecho. 
+ La Empresa reconoce un bono a los empleados por concepto de desempeño, que se basa en 
+la política de la Empresa. Este bono se paga a fin de año siempre y cuando los empleados 
+alcancen los objetivos previamente determinados por la Empresa. 
+ Por otro lado, la Empresa otorga premios por antigüedad a sus empleados por cada periodo 
+de cinco años trabajados (quinquenio), los cuales se calculan en base a un porcentaje de la 
+remuneración vigente al término del periodo. La Empresa registra el gasto según el criterio 
+del devengado y cualquier ganancia o pérdida se registra directamente en el estado de 
+resultados integrales y otros resultados integrales.
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2017_Individual_Anual_Dictamen EEFF y Notas año 2017.pdf | PAGINA: 22 | puntaje 5 =====
+EMPRESA REGIONAL DE SERVICIO PÚBLICO DE ELECTRICIDAD  
+ELECTRONORTE MEDIO S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2017 y de 2016 
+ 
+ 
+ 
+18 
+ii. Planes post-empleo-beneficios definidos 
+La Empresa tiene contraídos compromisos de pensiones con sus ex- trabajadores, mediante un plan 
+de pensiones de jubilación de acuerdo a la Ley N° 20530, que concluyó con las jubilaciones 
+realizadas hasta el año 2005. Dicha ley establece para  los ex-trabajadores de la Empresa un plan de 
+pensión de cesantía que es un compromiso de prestaciones definida. La Empresa reconoce el gasto 
+correspondiente a estos compromisos siguiendo el criterio del devengo mediante la realización, a la 
+fecha del estado de situación financiera, de estudios actuariales aplicando el método de  la unidad de 
+crédito proyectado. Las pérdidas y ganancias actuariales surgidas en la valorización se reconocen en 
+los resultados del ejercicio por tratarse de personal ya jubilado en su totalidad. 
+ 
+La provisión por estos beneficios post-empleo incluye el valor presente de la obligación por 
+beneficios definidos utilizando una tasa de descuento basada en obligaciones de alta calidad por 
+plazos similares. 
+ 
+iii. Beneficios por terminación 
+La compensación por tiempo de servicios del personal corresponde a sus derechos indemnizatorios 
+calculados de acuerdo con la legislación vigente. El monto de los derechos indemnizatorios por 
+pagar a los empleados tiene que ser abonada en mayo y noviembre de cada año en las cuentas 
+bancarias seleccionadas por los empleados. La compensación total anual por tiempo de servicios del 
+personal es equivalente a un sueldo. La Empresa no tiene obligaciones de pago adicionales una vez 
+que efectúa los depósitos anuales de los fondos a los que el trabajador tiene derecho. 
+ 
+Los beneficios de terminación por despido arbitrario son reconocidos como gasto por la Empresa en 
+el momento en que el empleado termina su vínculo laboral y es equivalente a un sueldo y medio por 
+año laborado con un límite de hasta ocho años como tope indemnizatorio 
+ 
+Así también, las indemnizaciones por cese se reconocen en resultados cuando se pagan, es decir, 
+cuando la relación laboral se ve interrumpida antes de la fecha normal de retiro o cuando un 
+empleado acepta voluntariamente su cese a cambio de estos beneficios 
+ 
+H. Capital en acciones 
+Las acciones comunes se clasifican como patrimonio y se reconocen a su valor nominal. Los costos 
+incrementales directamente atribuibles a la emisión de nuevas acciones u opciones se muestran en 
+el patrimonio como una deducción del monto recibido, neto de impuestos. 
+ 
+I. Impuesto a las ganancias 
+El gasto por impuesto a las ganancias corresponde al impuesto a las ganancias corrientes y al 
+diferido. El impuesto se reconoce en el estado de resultados y otros resultados integrales, excepto 
+en la medida que se relacione con partidas reconocidas en otros resultados integrales o 
+directamente en el patrimonio. En este caso, el impuesto es reconocido en otros resultados 
+integrales. 
+ 
+El cargo por impuesto a las ganancias corriente se calcula sobre la base de las leyes tributarias 
+promulgadas a la fecha del estado de situación financiera. La Gerencia evalúa periódicamente la 
+posición asumida en las declaraciones juradas de impuestos respecto de situaciones en las que las 
+leyes tributarias son objeto de interpretación. La Gerencia, cuando corresponde, constituye 
+provisiones sobre los montos que espera pagar a las autoridades tributarias. 
+ 
+El pasivo por impuesto a las ganancias diferido se reconoce por todas las diferencias temporales 
+gravables que surgen al comparar el valor en libros de los activos y pasivos y su base tributaria, sin 
+tener en cuenta el momento en que se estime que las diferencias temporales que le dieron origen, 
+serán reversadas. El activo por impuesto a las ganancias diferido se reconoce por las diferencias 
+temporales deducibles que surgen al comparar el valor en libros de los activos y pasivos y su base 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2017_Individual_Anual_Dictamen EEFF y Notas año 2017.pdf | PAGINA: 23 | vecina =====
+EMPRESA REGIONAL DE SERVICIO PÚBLICO DE ELECTRICIDAD  
+ELECTRONORTE MEDIO S.A. – HIDRANDINA 
+Notas a los Estados Financieros 
+31 de diciembre de 2017 y de 2016 
+ 
+ 
+ 
+19 
+tributaria, en la medida en que sea probable que en el futuro, la Empresa dispondrá de suficiente 
+renta gravable contra la cual pueda aplicar las diferencias temporales que reviertan. El pasivo y activo 
+se miden a la tasa de impuesto a las ganancias, que se espera aplicar a la renta gravable en el año 
+en que este pasivo sea liquidado o el activo sea realizado, usando la tasa de impuesto a las 
+ganancias promulgada o sustancialmente promulgada en la fecha del estado de situación financiera, 
+que se espera esté vigente cuando termine el plazo de exoneración. 
+ 
+El impuesto a las ganancias diferido se reconoce como gasto o ingreso del periodo o es cargado o 
+abonado directamente al patrimonio cuando se relaciona con partidas que han sido cargadas o 
+abonadas directamente a dicha cuenta. 
+ 
+J. Posiciones tributarias inciertas 
+La aceptabilidad de un tratamiento impositivo concreto según la legislación fiscal puede no ser 
+conocida hasta que la autoridad fiscal correspondiente o los tribunales de justicia tomen una decisión 
+en el futuro. Por consiguiente, una disputa o inspección de un tratamiento impositivo concreto por 
+parte de la autoridad fiscal puede afectar la contabilización de una entidad del activo o pasivo por 
+impuestos diferidos o corrientes. 
+ 
+Si una entidad concluye que es probable que la autoridad fiscal acepte un tratamiento impositivo 
+incierto, la entidad lo determinará de forma congruente con el tratamiento impositivo usado o que 
+esté previsto usar en su declaración de impuestos a las ganancias. 
+ 
+Si una entidad concluye que no es probable que la autoridad fiscal acepte un tratamiento impositivo 
+incierto, la entidad reflejará el efecto de la incertidumbre.  
+ 
+Si un tratamiento impositivo incierto afecta a los impuestos corrientes e impuestos diferidos, una 
+entidad realizará juicios y estimaciones congruentes sobre el impuesto corriente y el impuesto 
+diferido. 
+ 
+Una entidad evaluará nuevamente un juicio o estimación si cambian los hechos y circunstancias 
+sobre los que se basaron el juicio o la estimación o como resultado de nueva información que afecte 
+al juicio o estimación. Una entidad reflejará el efecto de un cambio en los hechos y circunstancias o 
+de nueva información como un cambio en una estimación contable. 
+ 
+K. Provisiones y contingencias 
+Las provisiones se reconocen cuando la Empresa tiene una obligación presente, legal o asumida, 
+que resulta de eventos pasados que es probable que requiera la entrega de un flujo de recursos que 
+involucren beneficios económicos para su liquidación y su monto se pueda estimar confiablemente. 
+ 
+Las provisiones se miden al valor presente de los desembolsos que se espera se requerirán para 
+cancelar la obligación utilizando una tasa de interés antes de impuestos que refleje las actuales 
+condiciones del mercado sobre el valor del dinero y los riesgos específicos para dicha obligación. El 
+incremento en la provisión por el paso del tiempo se reconoce en el rubro "Gastos financieros". 
+ 
+No se reconocen provisiones para pérdidas operativas futuras. 
+ 
+Los pasivos contingentes no se reconocen en el estado de situación financiera. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Los activos contingentes no se reconocen y sólo se revelan cuando es 
+probable que generen ingreso de recursos. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2016_Individual_Anual_Dictamen y EEFF Auditados 2016.pdf | PAGINA: 13 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+5 
+(e) Ley que establece el mecanismo para asegurar el suministro de electricidad para el mercado 
+regulado - 
+El 3 de enero de 2008, se publicó la Ley N°29179 que establece el mecanismo para asegurar el 
+suministro de electricidad para el mercado regulado.  Esta ley indica que las demandas de 
+potencia y energía destinadas al servicio público de electricidad, que no cuenten con contratos de 
+suministro de energía eléctrica que las respalden, mediante los mecanismos de licitación de 
+suministro de electricidad establecidos en la Ley N°28832, Ley para asegurar el desarrollo 
+eficiente de Ia generación eléctrica, y/o mediante los contratos bilaterales suscritos al amparo 
+del Decreto Ley N°25844, Ley de Concesiones Eléctricas, serán asumidas por los generadores, 
+conforme al procedimiento que establezca OSINERGMIN.  
+ 
+Para tal fin, el monto faltante para cerrar las transferencias de energía en el COES-SINAC, debido 
+a los retiros de potencia y energía sin contrato valorizado a precios de barra del mercado 
+regulado, se asignará a los generadores en proporción a la energía firme eficiente anual del 
+generador, menos sus ventas de energía por contratos.  
+ 
+El incumplimiento de pago por parte de las distribuidoras a los generadores constituirá causal de 
+caducidad de Ia concesión en caso de reincidencia. 
+ 
+Al 31 de diciembre de 2016 y de 2015, la Compañía ha cumplido con los requerimientos de esta 
+Ley para sus ventas de energía y potencia sin contrato. 
+ 
+  3. Principio y prácticas contables significativas  
+3.1 Base de preparación - 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (NIIF) emitidas por la “International Accounting Standard Board” (en 
+adelante “IASB”), y sus interpretaciones emitidas por “IFRS Interpretations Committee” (“IFRIC”) 
+vigentes al 31 de diciembre de 2016. 
+ 
+Los estados financieros adjuntos han sido preparados sobre la base del costo histórico, a partir 
+de los registros de contabilidad mantenidos por la Compañía, excepto por las inversiones 
+financieras disponibles para la venta y por el pasivo por planes de jubilación.  Los estados 
+financieros están presentados en Soles, su moneda funcional y de presentación, y todos los 
+valores se redondean a la unidad más próxima en miles de Soles, excepto cuando se indique lo 
+contrario. 
+ 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, 
+excepto por las nuevas NIIF y NIC’s revisadas que son obligatorias para los periodos que se inician 
+en o después del 1 de enero de 2016 y que la Compañía ya ha adoptado; sin embargo, debido a la 
+estructura de la Compañía y la naturaleza de sus operaciones, la adopción de dichas normas no 
+tuvo un efecto significativo en su posición financiera y resultados; por lo tanto, no ha sido 
+necesario modificar los estados financieros comparativos de la Compañía. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2016_Individual_Anual_Dictamen y EEFF Auditados 2016.pdf | PAGINA: 14 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+6 
+3.2 Resumen de las políticas contables significativas –  
+A continuación se presenta las políticas contables significativas y utilizadas por la Gerencia de la 
+Compañía para la preparación de los estados financieros: 
+ 
+(a) Efectivo y equivalentes de efectivo - 
+El efectivo y equivalentes de efectivo presentado en el estado de situación financiera 
+comprende los saldos en caja y cuentas corrientes bancarias.  Para propósitos de preparar 
+el estado de flujos de efectivo, el efectivo y equivalentes de efectivo incluye el efectivo de 
+caja y cuentas corrientes y los depósitos a corto plazo, si los hubiera, con vencimiento 
+original menor a tres meses. 
+ 
+(b) Instrumentos financieros: reconocimiento inicial y medición posterior - 
+(i) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad (NIC) 39 “Instrumentos Financieros: Reconocimiento y Medición”, son 
+clasificados como activos financieros al valor razonable con cambios en resultados, 
+préstamos y cuentas por cobrar, inversiones a ser mantenidas hasta su 
+vencimiento, inversiones financieras disponibles para la venta, o como derivados 
+designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda.  La Compañía determina la clasificación de sus activos financieros al 
+momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles.  
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes de efectivo, 
+cuentas por cobrar comerciales, cuentas por cobrar a entidades relacionadas y las 
+otras cuentas por cobrar. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD ELECTRONORTE MEDIO S.A. - HIDRANDINA-Individual.zip/2016_Individual_Anual_Dictamen y EEFF Auditados 2016.pdf | PAGINA: 15 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+7 
+Medición posterior - 
+La medición posterior de los activos financieros depende de su clasificación, tal 
+como se detalla a continuación: 
+ 
+Activos financieros al valor razonable con cambios en resultados - 
+Los activos financieros al valor razonable con cambios en resultados incluyen a los 
+activos financieros mantenidos para negociar y los activos financieros designados 
+al momento de su reconocimiento inicial como al valor razonable con cambios en 
+resultados.  Los activos financieros se clasifican como mantenidos para negociar si 
+se adquieren con el propósito de venderlos o recomprarlos en un futuro cercano.  
+ 
+Esta categoría incluye los instrumentos financieros derivados suscritos por la 
+Compañía que no están designados como instrumentos de cobertura según la 
+NIC39.  Los activos financieros al valor razonable con cambios en resultados se 
+contabilizan en el estado de situación financiera por su valor razonable, y los 
+cambios en dicho valor son reconocidos como ingresos o costos financieros en el 
+estado de resultados integrales.  
+ 
+Al 31 de diciembre de 2016 y de 2015, la Compañía no mantuvo ningún activo 
+financiero en esta categoría. 
+ 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo.  Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+utilizando el método de la tasa de interés efectiva (TIE), menos cualquier deterioro 
+del valor.  El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición, y las comisiones o los costos que son parte integrante de la 
+TIE.  La amortización de la TIE se reconoce en el estado de resultados integrales 
+como ingreso financiero.  Las pérdidas que resulten de un deterioro del valor se 
+reconocen en el estado de resultados integrales como una provisión. 
+ 
+Inversiones a ser mantenidas hasta su vencimiento - 
+Los activos financieros no derivados con cobros fijos o determinables y 
+vencimientos fijos, se clasifican como mantenidos hasta su vencimiento cuando la 
+Compañía tiene la intención y la capacidad de mantenerlos hasta su vencimiento.  
+Después de su reconocimiento inicial, las inversiones a ser mantenidas hasta su 
+vencimiento se miden al costo amortizado utilizando el método de la TIE, menos 
+cualquier deterioro del valor.  El costo amortizado se calcula tomando en cuenta 
+cualquier descuento o prima de adquisición y las comisiones o los costos que son 
+una parte integrante de la TIE.  Los intereses a la TIE se reconocen en el estado de 
+resultados integrales como ingreso financiero.  Las pérdidas que resulten de un 
+deterioro del valor se reconocen en el estado de resultados integrales como costo 
+financiero. 
+  

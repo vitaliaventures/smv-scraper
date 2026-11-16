@@ -1,0 +1,766 @@
+EMPRESA: EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2014_Individual_Anual_Electrosur-EEFF-Inf-Audit-31-12-2014.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+El incumplimiento de pago por parte de las distribuidoras a los generadores constituirá causal de 
+caducidad de la concesión en caso de reincidencia. 
+ 
+Al 31 de diciembre de 2014 y de 2013, la Compañía ha cumplido con los requerimientos de esta 
+Ley para sus ventas de energía y potencia sin contrato. 
+ 
+  3. Principios y prácticas contables significativas  
+3.1 Base de preparación - 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (NIIF) emitidas por la “International Accounting Standard Board” (en 
+adelante “IASB”), y sus interpretaciones emitidas por “IFRS Interpretation Commitee” – IFRIC 
+vigentes al 31 de diciembre de 2014.  
+ 
+Los estados financieros adjuntos han sido preparados sobre la base del costo histórico, a partir 
+de los registros de contabilidad mantenidos por la Compañía, excepto por el pasivo por planes de 
+jubilación conforme se indica en la nota 14. Los estados financieros están presentados en 
+Nuevos Soles, su moneda funcional y de presentación y todos los valores se redondean a la 
+unidad más próxima en miles de Nuevos Soles, excepto cuando se indique lo contrario. 
+ 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, 
+excepto por las nuevas NIIF y NICS revisadas que son obligatorias para los periodos que se inician 
+después del 1 de enero de 2014, sin embargo, debido a la estructura de la Compañía y la 
+naturaleza de sus operaciones, la adopción de dichas normas no tuvo un efecto significativo en 
+su posición financiera y resultados, por lo tanto, no ha sido necesario modificar los estados 
+financieros comparativos de la Compañía por  este concepto. Dichas nuevas NIIF y NIC’s 
+revisadas se describen a continuación: 
+ 
+- Compensación de activos financieros y pasivos financieros - Enmiendas a la NIC 32 
+Estas enmiendas aclaran el significado de “actualmente tiene reconocido legalmente el 
+derecho a la compensación” y los criterios de mecanismos de solución no simultáneas de 
+cámaras de compensación para tener derecho a la compensación. Estas modificaciones no 
+tuvieron impacto en el Compañía. 
+ 
+- Revelaciones sobre el importe recuperable de los activos no financieros - Modificaciones a 
+la NIC 36  
+Estas enmiendas eliminan las consecuencias no previstas en la NIIF 13 “Medición del Valor 
+Razonable”, en lo referente a las revelaciones requeridas por la NIC 36 “Deterioro del 
+Valor de los Activos”. Asimismo, requieren la divulgación de los importes recuperables de 
+los activos o unidades generadoras de efectivo por los cuales se ha reconocido o 
+reversado una pérdida por deterioro durante el periodo. Estas modificaciones no tuvieron 
+ningún impacto en la Compañía. 
+  
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2014_Individual_Anual_Electrosur-EEFF-Inf-Audit-31-12-2014.pdf | PAGINA: 15 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+- Novación de Derivados y continuación de la contabilidad de cobertura - Modificaciones a la 
+NIC 39  
+Estas modificaciones proporcionan una excepción para suspender la contabilidad de 
+coberturas cuando se da la novación de un derivado designado como un instrumento de 
+cobertura que cumple con ciertos criterios. Estas modificaciones no tuvieron ningún 
+impacto en la Compañía debido a que no han novado sus derivados durante el periodo 
+actual o en ejercicios anteriores. 
+ 
+- CINIIF 21 Gravámenes  
+La CINIIF 21 aclara que una entidad reconoce un pasivo por un gravamen cuando la 
+actividad que dé lugar al pago, en los términos señalados en la legislación pertinente, se 
+realiza. La aplicación retroactiva se requiere para la CINIIF 21. Esta interpretación no tuvo 
+un impacto significativo en la Compañía. 
+ 
+3.2 Resumen de las políticas contables significativas –  
+A continuación se presenta las políticas contables significativas utilizadas por la Gerencia de la 
+Compañía para la preparación de los estados financieros: 
+ 
+(a) Instrumentos financieros: reconocimiento inicial y medición posterior - 
+(i) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad (NIC) 39 “Instrumentos financieros: Reconocimiento y medición” son 
+clasificados como activos financieros al valor razonable con cambios en resultados, 
+préstamos y cuentas por cobrar, inversiones a ser mantenidas hasta su 
+vencimiento, inversiones financieras disponibles para la venta, o como derivados 
+designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda.  La Compañía determina la clasificación de sus activos financieros al 
+momento del reconocimiento inicial. 
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles. 
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de la compraventa; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y, cuentas por cobrar 
+comerciales a entidades relacionadas y otras cuentas por cobrar. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2014_Individual_Anual_Electrosur-EEFF-Inf-Audit-31-12-2014.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+Medición posterior - 
+La medición posterior de los activos financieros depende de su clasificación. La 
+Compañía tiene todos sus activos financieros en la categoría de préstamos y 
+cuentas por cobrar, por lo que a continuación se explica el criterio para esta 
+categoría: 
+ 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo. Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+utilizando el método de la tasa de interés efectiva (TIE), menos cualquier deterioro 
+del valor. El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición, y las comisiones o los costos que son parte integrante de la 
+tasa de interés efectiva. Los intereses a la tasa de interés efectiva se reconocen en 
+el estado de resultados integrales como ingreso financiero.  Las pérdidas que 
+resulten de un deterioro del valor se reconocen en el estado de resultados 
+integrales como  costos financieros. 
+ 
+Baja en cuenta - 
+Un activo financiero (o, cuando resulte aplicable, parte de un activo financiero o 
+parte de un grupo de activos financieros similares) se da de baja cuando: 
+ 
+- Los derechos contractuales sobre los flujos de efectivos del activo han 
+expirado; o  
+ 
+- Se hayan transferido los derechos contractuales sobre los flujos de efectivo 
+generados por el activo, o se haya asumido una obligación de pagar a un 
+tercero la totalidad de esos flujos de efectivo sin una demora significativa, a 
+través de un acuerdo de intermediación, y (a) Se hayan transferido 
+sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo; o (b) No se han ni transferido ni retenido sustancialmente todos los 
+riesgos y beneficios inherentes a la propiedad del activo, pero se haya 
+transferido el control sobre el mismo. 
+ 
+Cuando se hayan transferido los derechos contractuales de recibir los flujos de 
+efectivo generados por el activo, o se haya celebrado un acuerdo de transferencia, 
+pero no se hayan ni transferido ni retenido sustancialmente todos los riesgos y 
+beneficios inherentes a la propiedad del activo, ni se haya transferido el control 
+sobre el mismo, ese activo se continuará reconociendo en la medida que la 
+Compañía siga comprometido con el mismo. En este último caso, la Compañía 
+también reconocerá el pasivo relacionado. El activo transferido y el pasivo 
+relacionado se medirán de manera que reflejen los derechos y obligaciones que la 
+Compañía haya retenido. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2017_Individual_Anual_Informe-Corto-EEFF-31-12-2017-Electrosur S.A.pdf | PAGINA: 13 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+5 
+Para tal fin, el monto faltante para cerrar las transferencias de energía en el COES-SINAC, 
+debido a los retiros de potencia y energía sin contrato valorizado a precios de barra del 
+mercado regulado, se asignará a los generadores en proporción a la energía firme eficiente 
+anual del generador, menos sus ventas de energía por contratos. 
+ 
+El incumplimiento de pago por parte de las distribuidoras a los generadores constituirá causal de 
+caducidad de la concesión en caso de reincidencia. 
+ 
+Al 31 de diciembre de 2017 y de 2016, la Compañía ha cumplido con los requerimientos de esta 
+Ley para sus ventas de energía y potencia sin contrato. 
+ 
+3. Principios y prácticas contables significativas 
+3.1 Base de preparación - 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (NIIF) emitidas la “International Accounting Standards Board” (en 
+adelante “IASB”) que se encuentran vigentes a la fecha de los estados financieros. 
+ 
+La información contenida en estos estados financieros es responsabilidad de la Gerencia de la 
+Compañía, que manifiestan expresamente que se han aplicado en su totalidad los principios y 
+criterios incluidos en las Normas Internacionales de Información Financiera (NIIF) emitidas por 
+el IASB y vigentes a las fechas de los estados financieros. 
+ 
+Los estados financieros adjuntos han sido preparados de acuerdo con el principio del costo 
+histórico, excepto por los activos financieros disponibles para la venta, las inversiones 
+financieras con cambio en resultados y las propiedades de inversión que se miden a su valor 
+razonable. Los estados financieros se presentan en miles de soles, excepto cuando se indique 
+una expresión monetaria distinta. 
+ 
+La preparación de estados financieros de acuerdo con NIIF requiere el uso de ciertos estimados 
+contables críticos. También requiere que la gerencia ejerza su juicio crítico en el proceso de 
+aplicación de las políticas contables de la Compañía. Las áreas que involucran un mayor grado 
+de juicio crítico o complejidad o áreas en las que los supuestos y estimados son significativos 
+para los estados financieros se describen en la nota 3.3. 
+ 
+Normas, modificaciones e interpretaciones 
+(a) Normas, modificaciones e interpretaciones adoptadas por la Compañía en el 2017 - 
+La Compañía ha considerado por primera vez en la preparación de los estados financieros 
+del año 2017 las siguientes modificaciones a las NIIF: 
+ 
+- La NIC 7 Estado de Flujos de Efectivo: Iniciativa de Revelación 
+Las modificaciones requieren que las Compañías den a conocer los cambios en sus 
+pasivos derivados de la financiación actividades, incluidos los cambios que surgen 
+de los flujos de efectivo y los cambios no monetarios (como las ganancias por 
+divisas). 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2017_Individual_Anual_Informe-Corto-EEFF-31-12-2017-Electrosur S.A.pdf | PAGINA: 14 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+6 
+- La NIC 12 Impuestos a las ganancias 
+Las enmiendas aclaran que las entidades necesitan considerar si la ley tributaria 
+restringe las fuentes de utilidades gravables con las cuales puede hacer 
+deducciones sobre la reversión de una diferencia temporaria deducible. Además, 
+las enmiendas proporcionan una guía sobre la forma en que una entidad debe 
+determinar las utilidades gravables futuras y explica las circunstancias en las 
+cuales la utilidad gravable puede incluir la recuperación de algunos activos por un 
+importe mayor a sus valores en libros. 
+ 
+No se espera que otras NIIF o interpretaciones CINNIF que aún están vigentes puedan 
+tener un impacto significativo en los estados financieros. 
+ 
+3.2 Resumen de las políticas contables significativas – 
+A continuación se presenta las políticas contables significativas utilizadas por la Gerencia de la 
+Compañía para la preparación de los estados financieros: 
+ 
+(a) Instrumentos financieros: reconocimiento inicial y medición posterior - 
+(i) Activos financieros - Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad (NIC) 39 “Instrumentos financieros: Reconocimiento y medición” son 
+calificados como activos financieros al valor razonable con cambios en resultados, 
+préstamos y cuentas por cobrar, inversiones a ser mantenidas hasta su 
+vencimiento, inversiones financieras disponibles para la venta, o como derivados 
+designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda. La Compañía determina la clasificación de sus activos financieros al 
+momento del reconocimiento inicial. 
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios       
+en resultados, los costos de transacción directamente atribuibles. 
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de compraventa; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes de efectivo, 
+cuentas por cobrar comerciales, a entidades relacionadas y otras cuentas por 
+cobrar. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2017_Individual_Anual_Informe-Corto-EEFF-31-12-2017-Electrosur S.A.pdf | PAGINA: 15 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+7 
+Medición posterior - 
+La medición posterior de los activos financieros depende de su clasificación. La 
+Compañía tiene todos sus activos financieros en la categoría de préstamos y 
+cuentas por cobrar, por lo que a continuación se explica el criterio para esta 
+categoría: 
+ 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo. Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+utilizando el método de la tasa de interés efectiva (TIE), menos cualquier deterioro 
+del valor. El costo amortizado se calcula tomando en cuenta cualquier descuento o 
+prima de adquisición, y las comisiones o los costos que son parte integrante de la 
+tasa de interés efectiva. Los intereses a la tasa de interés efectiva se reconocen en 
+el estado de resultados integrales como ingreso financiero. Las pérdidas que 
+resulten de un deterioro del valor se reconocen en el estado de resultados 
+integrales como costos financieros. 
+ 
+Baja en cuentas - 
+Un activo financiero (o, cuando resulte aplicable, parte de un activo financiero o 
+parte de un grupo de activos financieros similares) se da de baja cuando: 
+ 
+- Los derechos contractuales sobre los flujos de efectivos del activo han 
+expirado; o 
+- Se hayan transferido los derechos contractuales sobre los flujos de efectivo 
+generados por el activo, o se haya asumido una obligación de pagar a un 
+tercero la totalidad de esos flujos de efectivo sin una demora significativa, a 
+través de un acuerdo de intermediación, y (a) Se hayan transferido 
+sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo; o (b) No se han ni transferido ni retenido sustancialmente todos los 
+riesgos y beneficios inherentes a la propiedad del activo, pero se haya 
+transferido el control sobre el mismo. 
+ 
+Cuando se hayan transferido los derechos contractuales de recibir los flujos de 
+efectivo generados por el activo, o se haya celebrado un acuerdo de transferencia, 
+pero no se hayan ni transferido ni retenido sustancialmente todos los riesgos y 
+beneficios inherentes a la propiedad del activo, ni se haya transferido el control 
+sobre el mismo, ese activo se continuará reconociendo en la medida que la 
+Compañía siga comprometida con el mismo. En este último caso, la Compañía 
+también reconocerá el pasivo relacionado. El activo transferido y el pasivo 
+relacionado se medirán de manera que reflejen los derechos y obligaciones que la 
+Compañía haya retenido. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2015_Individual_Anual_Inf-Auditoria-EEFF-Electrosur-31-12-2015.pdf | PAGINA: 14 | vecina =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+5 
+Para tal fin, el monto faltante para cerrar las transferencias de energía en el COES-SINAC, debido 
+a los retiros de potencia y energía sin contrato valorizado a precios de barra del mercado 
+regulado, se asignará a los generadores en proporción a la energía firme eficiente anual del 
+generador, menos sus ventas de energía por contratos. 
+ 
+El incumplimiento de pago por parte de las distribuidoras a los generadores constituirá causal de 
+caducidad de la concesión en caso de reincidencia. 
+ 
+Al 31 de diciembre de 2015 y de 2014, la Compañía ha cumplido con los requerimientos de esta 
+Ley para sus ventas de energía y potencia sin contrato. 
+ 
+  3. Principios y prácticas contables significativas  
+3.1 Base de preparación - 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (NIIF) emitidas por el International Accounting  Standards Board (en 
+adelante “IASB”), y sus interpretaciones emitidas por “IFRS Interpretations Committe”- IFRIC 
+vigentes al 31 de diciembre de 2015. 
+ 
+Los estados financieros adjuntos han sido preparados sobre la base del costo histórico, a partir 
+de los registros de contabilidad mantenidos por la Compañía, excepto por el pasivo por planes de 
+jubilación conforme se indica en la nota 14. Los estados financieros están presentados en Soles, 
+su moneda funcional y de presentación y todos los valores se redondean a la unidad más próxima 
+en miles de Soles, excepto cuando se indique lo contrario.  
+ 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, 
+excepto por las nuevas NIIF’s y NIC’s revisadas que son obligatorias para los periodos que se 
+inician en o después del 1 de enero de 2015, sin embargo, debido a la estructura de la Compañía 
+y a la naturaleza de sus operaciones, la adopción de dichas normas no tuvo efecto significativo 
+en su posición financiera y resultados, por lo tanto, no ha sido necesario modificar los estados 
+financieros comparativos, y no han tenido un efecto significativo en su posición financiera y 
+resultados. Las nuevas normas aplicables a las operaciones de la Compañía son: 
+ 
+- Modificaciones a la NIC 19, Beneficios a los empleados 
+La NIC 19 requiere que una entidad considere las contribuciones de los empleados o 
+terceros en la contabilización de los planes de beneficios definidos. Cuando las 
+contribuciones están vinculadas al servicio, deben ser atribuidas a los períodos de servicio 
+como un beneficio negativo. Estas enmiendas aclaran que, si el monto de las 
+contribuciones es independiente del número de años de servicio, una entidad puede 
+reconocer esas contribuciones como una reducción en el costo del servicio en el período 
+en el que se presta el servicio, en lugar de asignar la contribución a los períodos de 
+servicio. Esta modificación no es relevante para la Compañía, ya que no se  tiene planes de 
+beneficios definidos con aportes de los empleados o de terceros. 
+ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2015_Individual_Anual_Inf-Auditoria-EEFF-Electrosur-31-12-2015.pdf | PAGINA: 15 | puntaje 6 =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+6 
+3.2 Resumen de las políticas contables significativas –  
+A continuación se presenta las políticas contables significativas utilizadas por la Gerencia de la 
+Compañía para la preparación de los estados financieros: 
+ 
+(a) Instrumentos financieros: reconocimiento inicial y medición posterior - 
+(i) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad (NIC) 39 “Instrumentos financieros: Reconocimiento y medición” son 
+calificados como activos financieros al valor razonable con cambios en resultados, 
+préstamos y cuentas por cobrar, inversiones a ser mantenidas hasta su 
+vencimiento, inversiones financieras disponibles para la venta, o como derivados 
+designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda. La Compañía determina la clasificación de sus activos financieros al 
+momento del reconocimiento inicial. 
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles. 
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de compraventa; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes de efectivo, 
+cuentas por cobrar comerciales, a entidades relacionadas y otras cuentas por 
+cobrar. 
+ 
+Medición posterior - 
+La medición posterior de los activos financieros depende de su clasificación. La 
+Compañía tiene todos sus activos financieros en la categoría de préstamos y 
+cuentas por cobrar, por lo que a continuación se explica el criterio para esta 
+categoría: 
+ 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo. Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+mediante el uso del método de la tasa de interés efectiva (TIE), menos cualquier 
+deterioro del valor. El costo amortizado se calcula tomando en cuenta cualquier 
+descuento o prima en la adquisición y las comisiones o los costos que son una parte 
+integrante de la tasa de interés efectiva. Los intereses a la tasa de interés efectiva 
+se reconocen en el estado de resultados integrales como ingreso financiero. Las 
+pérdidas que resulten de un deterioro del valor se reconocen en el estado de 
+resultados integrales como costos financieros.  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2015_Individual_Anual_Inf-Auditoria-EEFF-Electrosur-31-12-2015.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+7 
+Baja en cuentas - 
+Un activo financiero (o, cuando resulte aplicable, parte de un activo financiero o 
+parte de un grupo de activos financieros similares) se da de baja cuando: 
+ 
+- Los derechos contractuales sobre los flujos de efectivos del activo han 
+expirado; o 
+- Se hayan transferido los derechos contractuales sobre los flujos de efectivo 
+generados por el activo, o se haya asumido una obligación de pagar a un 
+tercero la totalidad de esos flujos de efectivo sin una demora significativa, a 
+través de un acuerdo de intermediación, y (a) Se hayan transferido 
+sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo; o (b) No se han ni transferido ni retenido sustancialmente todos los 
+riesgos y beneficios inherentes a la propiedad del activo, pero se haya 
+transferido el control sobre el mismo. 
+ 
+Cuando se hayan transferido los derechos contractuales de recibir los flujos de 
+efectivo generados por el activo, o se haya celebrado un acuerdo de transferencia, 
+pero no se hayan ni transferido ni retenido sustancialmente todos los riesgos y 
+beneficios inherentes a la propiedad del activo, ni se haya transferido el control 
+sobre el mismo, ese activo se continuará reconociendo en la medida que la 
+Compañía siga comprometida con el mismo. En este último caso, la Compañía 
+también reconocerá el pasivo relacionado. El activo transferido y el pasivo 
+relacionado se medirán de manera que reflejen los derechos y obligaciones que la 
+Compañía haya retenido. 
+ 
+Un compromiso firme que toma la forma de una garantía sobre el activo transferido 
+se mide por el menor importe entre el importe original en libros del activo, y el 
+importe máximo de contraprestación que la Compañía podría estar obligada a 
+pagar. 
+ 
+(ii) Deterioro del valor de los activos financieros - 
+Si existe evidencia objetiva de una pérdida por deterioro del valor, el importe de la 
+pérdida se mide como la diferencia entre el importe en libros del activo y el valor 
+presente de los flujos de efectivo futuros estimados (excluyendo las pérdidas de 
+crédito futuras esperadas y que aún no se hayan producido). El valor presente de 
+los flujos de efectivo futuros estimados se descuenta a la tasa de interés efectiva 
+original de los activos financieros. Si un préstamo devenga una tasa de interés 
+variable, la tasa de descuento para medir cualquier pérdida por deterioro del valor 
+es la tasa de interés efectiva actual. 
+ 
+El importe en libros del activo se reduce a través del uso de una cuenta de 
+provisión y el importe de la pérdida se reconoce en el estado de resultados 
+integrales. Si en un ejercicio posterior, el importe estimado de la pérdida por 
+deterioro del valor aumenta o disminuye debido a un evento que ocurre después de 
+haberse reconocido el deterioro, la pérdida por deterioro del valor reconocida 
+anteriormente se aumenta o disminuye ajustando la cuenta de reserva.  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2016_Individual_Anual_Inf.Auditoria-EEFF-Electrosur-31-12-2016.pdf | PAGINA: 13 | vecina =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+5 
+Para tal fin, el monto faltante para cerrar las transferencias de energía en el COES-SINAC, debido 
+a los retiros de potencia y energía sin contrato valorizado a precios de barra del mercado 
+regulado, se asignará a los generadores en proporción a la energía firme eficiente anual del 
+generador, menos sus ventas de energía por contratos. 
+ 
+El incumplimiento de pago por parte de las distribuidoras a los generadores constituirá causal de 
+caducidad de la concesión en caso de reincidencia. 
+ 
+Al 31 de diciembre de 2016 y de 2015, la Compañía ha cumplido con los requerimientos de esta 
+Ley para sus ventas de energía y potencia sin contrato. 
+ 
+  3. Principios y prácticas contables significativas  
+3.1 Base de preparación - 
+Los estados financieros han sido preparados de acuerdo con las Normas Internacionales de 
+Información Financiera (NIIF) emitidas la “International Accounting  Standards Board” (en 
+adelante “IASB”), y sus interpretaciones emitidas por “IFRS Interpretations Committe”- IFRIC 
+vigentes al 31 de diciembre de 2016. 
+ 
+Los estados financieros adjuntos han sido preparados sobre la base del costo histórico, a partir 
+de los registros de contabilidad mantenidos por la Compañía, excepto por el pasivo por planes de 
+jubilación conforme se indica en la nota 14. Los estados financieros están presentados en Soles, 
+su moneda funcional y de presentación y todos los valores se redondean a la unidad más próxima 
+en miles de Soles, excepto cuando se indique lo contrario.  
+ 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, 
+excepto por las nuevas NIIF’s y NIC’s revisadas que son obligatorias para los periodos que se 
+inician después del 1 de enero de 2016, sin embargo, debido a la estructura de la Compañía y la 
+naturaleza de sus operaciones, la adopción de dichas normas no tuvo un efecto significativo en 
+su posición financiera y resultados, por lo tanto, no ha sido necesario modificar los estados 
+financieros comparativos de la Compañía por este concepto. Dichas nuevas NIIF y NIC’s revisadas 
+se describe a continuación:  
+ 
+- NIC 1 “Presentación de los estados financieros” iniciativas de modificaciones sobre las 
+revelaciones.  
+Las modificaciones a la NIC 1 “Presentación de los Estados Financieros’ se efectúan en el 
+contexto de una iniciativa del IASB para mejorar las revelaciones en los estados 
+financieros.  Estas modificaciones aclaran diversos aspectos, tales como: 
+ 
+(i) Materialidad (o importancia relativa): Una entidad no debe agregar o desagregar 
+información de una forma que haga menos clara o menos transparente la 
+información relevante para los usuarios. Cuando alguna partida es significativa, se 
+debe proporcionar suficiente información que explique su impacto en la situación 
+financiera o en el desempeño de la entidad. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2016_Individual_Anual_Inf.Auditoria-EEFF-Electrosur-31-12-2016.pdf | PAGINA: 14 | puntaje 6 =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+6 
+(ii) Desagregación y subtotales: Es posible que se requiera desagregar rubros o líneas 
+en los estados financieros, tal como se especifican en la NIC 1, cuando se considere 
+apropiado para un mejor y más claro entendimiento de la situación financiera y el 
+desempeño de la entidad. También se incluyen nuevas guías para el uso de 
+subtotales. 
+ 
+(iii) Notas: Se confirma que las notas no necesitan presentarse en un orden en 
+particular. 
+ 
+- Las mejoras anuales a las NIIF de los ciclos 2012 -2014. 
+La adopción de estos cambios no tuvo un impacto significativo en el año corriente ni en 
+años anteriores y es probable que no afecten a periodos futuros. 
+ 
+3.2 Resumen de las políticas contables significativas –  
+A continuación se presenta las políticas contables significativas utilizadas por la Gerencia de la 
+Compañía para la preparación de los estados financieros: 
+ 
+(a) Instrumentos financieros: reconocimiento inicial y medición posterior - 
+(i) Activos financieros - 
+Reconocimiento y medición inicial - 
+Los activos financieros dentro del ámbito de la Norma Internacional de 
+Contabilidad (NIC) 39 “Instrumentos financieros: Reconocimiento y medición” son 
+calificados como activos financieros al valor razonable con cambios en resultados, 
+préstamos y cuentas por cobrar, inversiones a ser mantenidas hasta su 
+vencimiento, inversiones financieras disponibles para la venta, o como derivados 
+designados como instrumentos de cobertura en una cobertura eficaz, según 
+corresponda. La Compañía determina la clasificación de sus activos financieros al 
+momento del reconocimiento inicial. 
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable 
+más, en el caso de los activos que no se contabilizan al valor razonable con cambios 
+en resultados, los costos de transacción directamente atribuibles. 
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos 
+dentro de un periodo de tiempo establecido por una norma o convención del 
+mercado se reconocen en la fecha de compraventa; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+Los activos financieros de la Compañía incluyen efectivo y equivalentes de efectivo, 
+cuentas por cobrar comerciales, a entidades relacionadas y otras cuentas por 
+cobrar. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2016_Individual_Anual_Inf.Auditoria-EEFF-Electrosur-31-12-2016.pdf | PAGINA: 15 | vecina =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+7 
+Medición posterior - 
+La medición posterior de los activos financieros depende de su clasificación. La 
+Compañía tiene todos sus activos financieros en la categoría de préstamos y 
+cuentas por cobrar, por lo que a continuación se explica el criterio para esta 
+categoría: 
+ 
+Préstamos y cuentas por cobrar - 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos 
+fijos o determinables, que no cotizan en un mercado activo. Después del 
+reconocimiento inicial, estos activos financieros se miden al costo amortizado 
+mediante el uso del método de la tasa de interés efectiva (TIE), menos cualquier 
+deterioro del valor. El costo amortizado se calcula tomando en cuenta cualquier 
+descuento o prima de adquisición, y las comisiones o los costos que son parte 
+integrante de la tasa de interés efectiva. Los intereses a la tasa de interés efectiva 
+se reconocen en el estado de resultados integrales como ingreso financiero. Las 
+pérdidas que resulten de un deterioro del valor se reconocen en el estado de 
+resultados integrales como costos financieros. 
+ 
+Baja en cuentas - 
+Un activo financiero (o, cuando resulte aplicable, parte de un activo financiero o 
+parte de un grupo de activos financieros similares) se da de baja cuando: 
+ 
+- Los derechos contractuales sobre los flujos de efectivos del activo han 
+expirado; o 
+ 
+- Se hayan transferido los derechos contractuales sobre los flujos de efectivo 
+generados por el activo, o se haya asumido una obligación de pagar a un 
+tercero la totalidad de esos flujos de efectivo sin una demora significativa, a 
+través de un acuerdo de intermediación, y (a) Se hayan transferido 
+sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo; o (b) No se han ni transferido ni retenido sustancialmente todos los 
+riesgos y beneficios inherentes a la propiedad del activo, pero se haya 
+transferido el control sobre el mismo. 
+ 
+Cuando se hayan transferido los derechos contractuales de recibir los flujos de 
+efectivo generados por el activo, o se haya celebrado un acuerdo de transferencia, 
+pero no se hayan ni transferido ni retenido sustancialmente todos los riesgos y 
+beneficios inherentes a la propiedad del activo, ni se haya transferido el control 
+sobre el mismo, ese activo se continuará reconociendo en la medida que la 
+Compañía siga comprometida con el mismo. En este último caso, la Compañía 
+también reconocerá el pasivo relacionado. El activo transferido y el pasivo 
+relacionado se medirán de manera que reflejen los derechos y obligaciones que la 
+Compañía haya retenido. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2016_Individual_Anual_Inf.Auditoria-EEFF-Electrosur-31-12-2016.pdf | PAGINA: 27 | vecina =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+19 
+La Gerencia de la Compañía evalúa de forma periódica el desempeño de las unidades 
+generadoras de efectivo, con la finalidad de identificar un posible deterioro en el valor de 
+sus activos. 
+ 
+(iii) Impuestos corrientes y diferidos, nota 3.2 (n)– 
+Existen incertidumbres con respecto a la interpretación de la complejidad de las normas 
+tributarias, los cambios en las leyes fiscales, y la cantidad y la oportunidad de la renta 
+gravable futura. Las diferencias que surjan entre los resultados reales y las hipótesis 
+formuladas, o cambios futuros en tales supuestos, podrían requerir ajustes futuros a los 
+ingresos tributarios y al gasto registrado. 
+ 
+La Compañía establece provisiones, basadas en estimaciones razonables de las posibles 
+consecuencias de auditorías por parte de las Autoridades Fiscales. La cuantía de dichas 
+provisiones se basa en varios factores, como la experiencia de auditorías fiscales 
+anteriores y las diferentes interpretaciones de la normativa fiscal y la autoridad fiscal 
+competente.  
+ 
+El valor en libros de los activos y pasivos por impuestos diferidos puede cambiar, a pesar 
+de que no hay ningún cambio  en el importe de las diferencias temporales 
+correspondientes. Esto puede ser el resultado de un cambio en las tasas impositivas o 
+leyes fiscales. En este caso, el impuesto o las ganancias diferido resultantes se reconoce 
+en el ejercicio, salvo en la medida que se relaciona con partidas previamente reconocidas 
+fuera del resultado. 
+ 
+(iv) Provisión por beneficios de jubilación 3.2 (h) – 
+El costo del plan de pensiones de beneficios definidos y otros beneficios médicos 
+posteriores al empleo, así como el valor actual de las obligaciones de pensiones se 
+determinan mediante cálculos actuariales. Una valoración actuarial implica hacer varios 
+supuestos que pueden diferir de los acontecimientos reales en el futuro. Estos incluyen la 
+determinación de la tasa de descuento, los aumentos salariales futuros, las tasas de 
+mortalidad y los aumentos de pensiones en el futuro.  
+ 
+Debido a la complejidad del proceso de valoración y su naturaleza de largo plazo, la 
+determinación de las obligaciones por beneficios es muy sensible a los cambios en estos 
+supuestos, que son revisados en cada fecha de cierre. 
+ 
+(v) Provisión por contingencias nota, 3.2 (j) - 
+Por su naturaleza, las contingencias sólo se resolverán cuando uno o más eventos futuros 
+ocurran o dejen de ocurrir. La evaluación de la existencia, y monto potencial, de 
+contingencias involucra inherentemente el ejercicio de juicio significativo sobre los 
+resultados de eventos futuros. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2016_Individual_Anual_Inf.Auditoria-EEFF-Electrosur-31-12-2016.pdf | PAGINA: 28 | puntaje 6 =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+20 
+La Gerencia considera que las estimaciones incluidas en los estados financieros se 
+efectuaron sobre la base de su mejor conocimiento de los hechos relevantes y 
+circunstancias a la fecha de preparación de los mismos; sin embargo, los resultados 
+finales podrán diferir de las estimaciones incluidas en los estados financieros. 
+ 
+3.4 Nuevos pronunciamientos contables – 
+La Compañía decidió no adoptar anticipadamente las siguientes normas e interpretaciones que 
+fueron emitidos por el IASB, pero que no son efectivas al 31 de diciembre de 2016 y que podrían 
+afectar el registro de las operaciones de la Compañía en forma significativa, tales como: 
+ 
+- La NIC 7, “Estado de flujo de efectivo” 
+La modificación a la NIC 7 requerirá que se explique los cambios en las obligaciones de las 
+actividades de financiamiento. Esto incluye los cambios provenientes de flujos de efectivo 
+y equivalente de efectivo como disposición de líneas de créditos o reembolsos de 
+préstamos. Así como cambios no monetarios que no generan variación en el efectivo y 
+equivalentes del efectivo tales como: adquisiciones, enajenaciones, acumulación de 
+intereses y las diferencias de cambio no realizadas. 
+ 
+Los cambios en los activos financieros deben ser revelados si los flujos de efectivo, fueron 
+o serán, incluidos en los flujos de efectivo de las actividades de financiamiento. Este sería 
+el caso, por ejemplo, de los activos de cobertura de obligaciones adquiridas para 
+actividades de financiamiento.  
+ 
+Las entidades pueden incluir otras revelaciones como una reconciliación de la "deuda 
+neta". Sin embargo, en este caso, el cambio en los otros rubros deben ser revelados por 
+separado del cambio en los pasivos por actividades de financiamiento. La norma no ha 
+definido un formato específico. 
+ 
+La Compañía está en proceso de evaluar el impacto de estas normas en la preparación de 
+sus estados financieros.  
+ 
+- La NIIF 9, “Instrumentos financieros” 
+La NIIF 9 trata sobre la clasificación, medición y reconocimiento de los activos y pasivos 
+financieros. La versión completa de la NIIF 9 se emitió en julio de 2014 y retiene, pero 
+simplifica, el modelo mixto de medición de los instrumentos financieros de la NIC 39 y  
+establece tres categorías para la medición de los activos financieros: costo amortizado, 
+valor razonable a través de otros resultados integrales y valor razonable a través de 
+ganancias y pérdidas. Las bases para la clasificación dependerán del modelo de negocios 
+de la entidad y las características contractuales del flujo de caja de los activos financieros. 
+Las guías de la NIC 39 respecto del deterioro de los activos financieros y contratos de 
+cobertura continúan siendo aplicables. Para pasivos financieros no hubo cambios en 
+cuanto a la clasificación y medición, excepto para el reconocimiento de los cambios en el 
+riesgo de crédito propio en Otros resultados integrales, para el caso de pasivos a valor 
+razonable a través de ganancias y pérdidas. La NIIF 9 simplifica los requerimientos para 
+determinar la efectividad de la cobertura. La NIIF 9 requiere una relación económica entre 
+
+===== ARCHIVO: EEFFDD-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.-Individual.zip/2016_Individual_Anual_Inf.Auditoria-EEFF-Electrosur-31-12-2016.pdf | PAGINA: 29 | vecina =====
+Notas a los estados financieros  (continuación) 
+ 
+ 
+ 
+21 
+la partida cubierta y el instrumento de cobertura y que el ratio de cobertura sea el mismo 
+que la entidad usa para su gestión de riesgos. La documentación actualizada sigue siendo 
+necesaria, pero es distinta de la que se venía requiriendo bajo la NIC 39. La norma entrará 
+en vigencia para períodos anuales que comiencen el 1 de enero de 2018. Se permite su 
+adopción anticipada.  Como parte de la evaluación referente a esta norma, la Compañía no 
+espera que los cambios que plantea la NIIF 9 impacten de forma relevante los criterios de 
+clasificación y medición de activos y pasivos financieros actualmente aplicados.  
+ 
+- NIIF 15, "Ingresos procedentes de contratos con clientes”.   
+Reemplazará a la NIC 18, que cubre contratos de bienes y servicios y a la NIC 11 que 
+cubre los contratos de construcción.  La nueva norma se basa en el principio de que el 
+ingreso se reconoce cuando el control de un bien o servicio se transfiere a un cliente, de 
+tal manera que la noción de control reemplaza la noción existente de riesgos y beneficios.  
+La nueva norma establece un nuevo proceso de cinco pasos que guía el reconocimiento de 
+los ingresos, estos son: (i) identificar los contratos con clientes, (ii) identificar la obligación 
+de desempeño separada, (iii) determinar el precio de la transacción del contrato, (iv) 
+asignar el precio de la transacción a cada una de las obligaciones de desempeño 
+separadas y, (v) reconocer el ingreso a medida que se satisface cada obligación de 
+desempeño. La aplicación de la NIIF 15 podría generar un impacto en la oportunidad y 
+cuantía en el reconocimiento de los ingresos, así como en los procesos, sistemas y 
+controles internos que podrían necesitar cambios para adaptarse a los nuevos 
+requerimientos de esta norma.  Las entidades pueden optar entre una  aplicación 
+retrospectiva total o una aplicación prospectiva con revelaciones adicionales.   
+ 
+La norma es efectiva para períodos anuales que comiencen el o después del 1 enero de 
+2018 y se permite su aplicación anticipada. La Compañía se encuentra en proceso de 
+evaluar el impacto de la NIIF 15, aunque no se espera que su aplicación tenga un impacto 
+significativo en el reconocimiento de sus transacciones de ingreso.  Como parte de esta 
+evaluación, la Compañía está considerando las opciones de transición establecidas por la 
+NIIF 15 y el efecto sobre los actuales contratos celebrados. 
+ 
+- NIIF 16 “Arrendamientos” 
+Con fecha 13 de enero de 2016, se emitió la NIIF 16, ‘Arrendamientos’ (NIIF 16) que 
+reemplaza a las actuales normas vinculadas al tratamiento de arrendamientos (NIC 17, 
+‘Arrendamientos’ y CINIIF 4, ‘Contratos que podrían contener un arrendamiento’ y otras 
+interpretaciones relacionadas). La NIIF 16 plantea una nueva definición de arrendamiento 
+y un nuevo modelo contable que impactará sustancialmente a los arrendatarios. Como 
+resultado del nuevo modelo, una entidad reconocerá en su estado de situación financiera 
+al inicio del arrendamiento un activo que representa su derecho de uso del bien arrendado 
+y una deuda por la obligación de efectuar los pagos futuros contractuales. El activo y 
+pasivo se medirán en el reconocimiento inicial por el valor presente de los pagos mínimos 
+del contrato. Con este cambio se espera que una cantidad importante de arrendamientos 
+clasificados con las reglas actuales como ‘arrendamientos operativos’ serán reflejados en 
+el estado de situación financiera desde el inicio del arrendamiento. 

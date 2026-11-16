@@ -1,0 +1,810 @@
+EMPRESA: EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2012_Individual_Anual_Informe Corto EEFF 2012.pdf | PAGINA: 16 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+8 
+Si existe evidencia objetiva de que ha habido una pérdida por deterioro del valor, el 
+importe de la pérdida se mide como la diferencia entre el importe en libros del 
+activo y el valor presente de los flujos de efectivo futuros estimados (excluyendo 
+las pérdidas de crédito futuras esperadas y que aún no se hayan producido). El 
+valor presente de los flujos de efectivo futuros estimados se descuenta a la tasa de 
+interés efectiva original de los activos financieros. Si un préstamo devenga una 
+tasa de interés variable, la tasa de descuento para medir cualquier pérdida por 
+deterioro del valor es la tasa de interés efectiva actual.  
+ 
+El importe en libros del activo se reduce a través del uso de una cuenta de 
+estimación y el importe de la pérdida se reconoce en el estado de resultados. Si en 
+un ejercicio posterior, el importe estimado de la pérdida por deterioro del valor 
+aumenta o disminuye debido a un evento que ocurre después de haberse 
+reconocido el deterioro, la pérdida por deterioro del valor reconocida 
+anteriormente se aumenta o disminuye ajustando la cuenta de estimación.  
+ 
+(iii) Pasivos financieros –  
+Reconocimiento y medición inicial - 
+Los pasivos financieros dentro del alcance de la NIC 39 se clasifican como pasivos 
+financieros al valor razonable con cambios en resultados, pasivos al costo 
+amortizado, o como derivados designados como instrumentos de cobertura en una 
+cobertura eficaz, según corresponda. La Compañía determina la clasificación de los 
+pasivos financieros al momento de su reconocimiento inicial. 
+ 
+Todos los pasivos financieros se reconocen inicialmente por su valor razonable y, 
+en el caso de préstamos, se mantienen al costo amortizado que incluye los costos 
+de transacción directamente atribuibles. 
+ 
+Al 31 de diciembre de 2012 y de 2011, los pasivos financieros de la Compañía 
+incluyen, cuentas por pagar comerciales y otras cuentas por pagar, todos ellos 
+clasificados como pasivos al costo amortizado. 
+ 
+Medición posterior – 
+Después del reconocimiento inicial, los pasivos al costo amortizado se miden 
+utilizando el método de la tasa de interés efectiva. Las ganancias y pérdidas se 
+reconocen en el estado de resultados integrales cuando los pasivos se dan de baja, 
+así como también a través del proceso de amortización utilizando el método de la 
+tasa de interés efectiva. El costo amortizado se calcula tomando en cuenta 
+cualquier descuento o prima en la adquisición y las comisiones o los costos que 
+sean una parte integrante de la tasa de interés efectiva. La amortización se 
+reconoce como costo financiero en el estado de resultados integrales. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2012_Individual_Anual_Informe Corto EEFF 2012.pdf | PAGINA: 17 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+9 
+Baja en cuentas - 
+Un pasivo financiero se da de baja cuando la obligación correspondiente ha sido 
+pagada o cancelada, o ha expirado. Cuando un pasivo financiero existente es 
+reemplazado por otro proveniente del mismo prestamista bajo condiciones 
+sustancialmente diferentes, o si las condiciones de un pasivo existente se modifican 
+de manera sustancial, tal permuta o modificación se trata como una baja del pasivo 
+original y el reconocimiento de un nuevo pasivo, y la diferencia en los importes 
+respectivos en libros se reconocen en el estado de resultados integrales. 
+ 
+(iv) Compensación de instrumentos financieros –  
+Los activos y pasivos financieros son objeto de compensación y se presentan netos 
+en el estado de situación financiera, solamente si existe en ese momento un 
+derecho legalmente exigible de compensar los importes reconocidos, y existe la 
+intención de liquidarlos por el importe neto, o de realizar los activos y cancelar los 
+pasivos en forma simultánea. 
+ 
+(v) Valor razonable de los instrumentos financieros –  
+Al final de cada periodo sobre el que se informa, el valor razonable de los 
+instrumentos financieros que se negocian en mercados activos se determina por 
+referencia a los precios cotizados en el mercado o a los precios cotizados por los 
+agentes del mercado (precio de compra para las posiciones largas y precio de venta 
+para las posiciones cortas), sin deducir los costos de transacción. 
+ 
+Para los instrumentos financieros que no se negocian en un mercado activo, el 
+valor razonable se determina utilizando técnicas de valoración adecuadas. Tales 
+técnicas pueden incluir el uso de transacciones de mercado recientes entre partes 
+interesadas y debidamente informadas que actúen en condiciones de 
+independencia mutua, referencias al valor razonable de otros instrumentos 
+financieros que sean esencialmente similares, el análisis de flujos de efectivo 
+descontados u otros modelos de valoración. 
+ 
+En la nota 29 se brinda información sobre los valores razonables de los 
+instrumentos financieros y mayores detalles sobre cómo estos se determinaron. 
+ 
+(d) Efectivo y equivalentes de efectivo - 
+El efectivo y equivalentes de efectivo presentados en el estado de situación financiera 
+comprenden los saldos en fondos fijos, cuentas corrientes y depósitos a plazo. Para 
+efectos de preparar el estado de flujos de efectivo, el efectivo y equivalentes de efectivo 
+incluye el efectivo y los depósitos con vencimiento original menor a tres meses. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2012_Individual_Anual_Informe Corto EEFF 2012.pdf | PAGINA: 18 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+10 
+(e) Inventarios - 
+Los inventarios están valuadas al costo o al valor neto de realización, el menor.  El costo 
+de adquisición de los inventarios comprende el precio de compra, los aranceles de 
+importación y otros impuestos (que no sean recuperables posteriormente de la Autoridad 
+Tributaria), los transportes, el almacenamiento y otros costos directamente atribuibles a 
+la adquisición de los inventarios. Los descuentos comerciales, las rebajas y otras partidas 
+similares se deducen para determinar el costo de adquisición. 
+ 
+El valor neto de realización es el precio de venta de los inventarios en el curso normal del 
+negocio, menos los costos para poner los inventarios en condición de venta y los gastos de 
+comercialización y distribución.  El costo se determina siguiendo el método de costo 
+promedio mensual, excepto en el caso de los inventarios por recibir, las cuales se 
+presentan al costo específico de adquisición. 
+ 
+La Gerencia evalúa periódicamente la desvalorización y obsolescencia de estos activos. La 
+desvalorización y obsolescencia se registra con débito a resultados cuando se estima que 
+existen en base a estados de las áreas técnicas de la Compañía.  
+ 
+(f) Activos intangibles – 
+El software de computadora se capitaliza sobre la base de los costos asumidos para 
+adquirir y ponerlo en uso.  Estos costos son amortizados sobre la base de una vida útil 
+estimada entre 2 y 5 años. 
+ 
+(g) Propiedades, planta y equipo - 
+El rubro propiedades, planta y equipo se presenta al costo, neto de su depreciación 
+acumulada y de las pérdidas acumuladas por deterioro de su valor, si las hubiere, ver 
+párrafo (h).  Dentro del costo se incluye el precio de compra, incluyendo aranceles e 
+impuestos de compra no reembolsables y cualquier costo directamente atribuible para 
+ubicar y dejar al activo en condiciones de trabajo y uso.  Los desembolsos incurridos 
+después de que las propiedades, planta y equipo se hayan puesto en operación para 
+reparaciones y gastos de mantenimiento y de reacondicionamiento, se cargan a los 
+resultados del período en que se incurren; los desembolsos que amplían la vida útil de las 
+propiedades, planta y equipo más allá de su estándar de performance original, son 
+capitalizados como un costo adicional. 
+ 
+Las obras en curso representan los proyectos que se encuentran en construcción y se 
+registran al costo, y no se deprecian hasta que los activos relevantes se terminan y están 
+operativos.   
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2023_Individual_Anual_EEFF AUDITADOS.pdf | PAGINA: 25 | vecina =====
+ 
+- 23 - 
+Los saldos de impuestos a la renta diferidos activos y pasivos se compensan cuando exista el derecho 
+legal exigible de compensar impuestos activos corrientes con impuestos pasivos corrientes y cuando 
+los impuestos a la renta diferidos activos y pasivos se relacionen con la misma autoridad tributaria. 
+ 
+El valor en libros de impuestos a la renta diferido activos se revisa a la fecha de cada estado de 
+situación financiera y se reduce en la medida que se determine que es improbable que se genere 
+suficiente utilidad imponible contra la que se pueda compensar el activo diferido. 
+ 
+2.13 Provisiones 
+ 
+Se reconoce una provisión sólo cuando la Compañía tiene una obligación presente (legal o implícita) 
+como consecuencia de un hecho pasado, es probable que se requiera para su liquidación un flujo de 
+salida de recursos y puede hacerse una estimación confiable del monto de la obligación. 
+ 
+Las provisiones se revisan periódicamente y se ajustan para reflejar la mejor estimación que se tenga 
+a la fecha de estado de situación financiera. El gasto relacionado con una provisión se muestra en el 
+estado de resultados. Cuando el efecto del tiempo es significativo, las provisiones son descontadas a 
+su valor presente usando una tasa que refleje los riesgos específicos relacionados con el pasivo. 
+Cuando se efectúa el descuento, el aumento en la provisión por el paso del tiempo es reconocido 
+como un gasto financiero.  
+ 
+2.14 Contingencias 
+ 
+Los pasivos contingentes son registrados en los estados financieros cuando se considera que es 
+probable que se confirmen en el tiempo y pueden ser razonablemente cuantificados. Las 
+contingencias posibles no se reconocen en los estados financieros, éstas se revelan en notas en los 
+estados financieros, excepto que la posibilidad que se desembolse un flujo económico sea remota. 
+Los activos contingentes no se registran en los estados financieros, pero se revelan en notas cuando 
+su grado de contingencia es probable.  
+ 
+2.15 Reconocimiento de ingresos 
+ 
+El ingreso es reconocido en la medida en que se satisfaga una obligación de desempeño mediante la 
+transferencia de los bienes y servicios comprometidos al cliente. Un activo se transfiere cuando el 
+cliente obtiene el control de ese activo. 
+ 
+El ingreso se reconocerá en función al precio de la transacción que se asigna a esa obligación de 
+desempeño, a la cual la Compañía espera tener derecho a cambio de transferir los bienes y servicios 
+comprometidos con el cliente, excluyendo los importes recaudados en nombre de terceros.  
+ 
+La contraprestación que se compromete en un contrato puede incluir importes fijos, importes variables 
+o ambos.  
+ 
+Ingresos por venta de energía y potencia 
+ 
+Los ingresos por venta de energía y potencia a clientes regulados, libres y spot se facturan 
+mensualmente en base a lecturas cíclicas, y son reconocidos íntegramente en el período en que se 
+presta el servicio. El ingreso por venta de energía y potencia entregados y no facturados, que se 
+genera entre la última lectura cíclica y el fin de cada mes, se incluye en la facturación del mes 
+siguiente, pero se reconoce como ingreso en el mes que corresponde en base a estimados de la 
+energía consumida por el usuario del servicio durante el referido periodo.  
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2023_Individual_Anual_EEFF AUDITADOS.pdf | PAGINA: 26 | puntaje 6 =====
+ 
+- 24 - 
+ 
+Ingresos por peaje por transmisión no transferible 
+ 
+La Compañía genera ingresos por peaje por el uso de sus líneas de transmisión. Los ingresos por 
+peaje se reconocen a lo largo del tiempo. La facturación del servicio a las empresas se realiza en 
+base a lo informado por el COES y con un plazo de pago promedio de treinta (30) días calendarios, a 
+partir de la fecha de su emisión 
+ 
+Ingresos por intereses 
+ 
+Los intereses se reconocen en proporción al tiempo transcurrido, de forma que reflejen el rendimiento 
+efectivo del activo sobre la base del método de tasa de interés efectivo. Los intereses ganados se 
+incluyen en la línea de ingresos financieros en el estado de resultados integrales. 
+ 
+Otros ingresos 
+ 
+Los otros ingresos se reconocen en el período en que devengan. 
+ 
+2.16 Acuerdos de opción de compra de potencia y energía asociada 
+ 
+Los acuerdos de opción de compra generan un cambio en el alcance del contrato principal generando 
+una extensión de plazo y manteniendo el precio de venta vigente para el suministro de potencia y 
+energía asociada. Dicho precio no refleja el precio de venta observable en el mercado. 
+ 
+Para estas modificaciones, los ingresos reconocidos hasta la fecha en el contrato original (el monto 
+asociado con las obligaciones de desempeño completadas) no se ajustan. En cambio, la parte 
+restante del contrato original y la modificación se contabilizan, en conjunto, de forma prospectiva, 
+asignando la contraprestación restante a las obligaciones de desempeño restantes, incluidas las que 
+se agregan en la modificación. 
+ 
+2.17 Reconocimiento de costos y gastos 
+ 
+Los costos de generación de energía son reconocidos cuando se devengan. Asimismo, el costo por la 
+compra de energía es reconocido cuando se devenga, de manera simultánea al reconocimiento de los 
+ingresos por la correspondiente venta. 
+ 
+Los otros costos y gastos se reconocen a medida que devengan, independientemente del momento 
+en que se pagan, y se registran en los períodos con los cuales se relacionan 
+ 
+2.18 Transacciones en moneda extranjera  
+ 
+Moneda funcional y moneda de presentación - 
+ 
+Las partidas incluidas en los estados financieros de la Compañía se expresan en la moneda del 
+ambiente económico primario donde opera la entidad (moneda funcional).  Los estados financieros se 
+presentan en Soles, que es la moneda funcional y de presentación de la Compañía. 
+ 
+Transacciones y saldos - 
+ 
+Las transacciones en moneda extranjera se traducen a la moneda funcional usando los tipos de 
+cambio emitidos por la Superintendencia de Banca, Seguros y AFP, vigentes a la fecha de las 
+transacciones. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2023_Individual_Anual_EEFF AUDITADOS.pdf | PAGINA: 27 | vecina =====
+ 
+- 25 - 
+ 
+Las ganancias y pérdidas por diferencias en cambio que resulten de la liquidación de estas 
+transacciones y de la traducción de activos y pasivos monetarios en moneda extranjera al tipo de 
+cambio del cierre del año, se reconocen en el estado de resultados integrales en el rubro “Diferencia 
+de cambio, neta”. 
+ 
+2.19 Clasificación de saldos en corriente y no corriente 
+ 
+En el estado de situación financiera, los saldos se clasifican en función de sus vencimientos, es decir, 
+como corrientes aquellos con vencimiento igual o inferior a doce meses y como no corrientes, los de 
+vencimiento superior a dicho período.  
+ 
+2.20 Beneficios a los empleados 
+ 
+Gratificaciones -  
+ 
+La Compañía reconoce, sobre la base del devengado, el gasto por gratificaciones y su 
+correspondiente pasivo calculado de acuerdo con las disposiciones legales vigentes en Perú.  El gasto 
+anual por gratificaciones corresponde a dos remuneraciones que se pagan en julio y diciembre, y se 
+reconoce con cargo al costo de servicio de energía y potencia, gasto de ventas o gastos de 
+administración, según la función de los trabajadores beneficiados. 
+ 
+Compensación por tiempo de servicios -  
+ 
+La compensación por tiempo de servicios del personal de la Compañía corresponde a sus derechos 
+indemnizatorios calculados de acuerdo con la legislación vigente, la que se tiene que depositar en las 
+cuentas bancarias designadas por los trabajadores en los meses de mayo y noviembre de cada año y 
+se reconoce sobre la base del devengado con cargo al costo de servicio de energía y potencia, gastos 
+de ventas o gastos de administración, según la función de los trabajadores beneficiados. 
+ 
+El gasto anual por la compensación por tiempo de servicios es equivalente a media remuneración 
+vigente a la fecha de su depósito.  La Compañía no tiene obligaciones de pago adicionales una vez 
+que efectúa los depósitos anuales de los fondos a los que el trabajador tiene derecho. 
+ 
+Vacaciones -  
+ 
+Las vacaciones anuales del personal y otras ausencias remuneradas se reconocen sobre la base del 
+devengado.  La provisión por la obligación estimada por vacaciones anuales del personal resultante 
+de servicios prestados por los empleados se reconoce en la fecha del estado de situación financiera y 
+se registra con cargo al costo de servicio de energía y potencia, gastos de ventas o gastos de 
+administración, según la función de los trabajadores beneficiados. 
+Participación en las utilidades - 
+ 
+La Compañía reconoce un pasivo y un gasto por participación legal de los trabajadores en las 
+utilidades.  La participación de los trabajadores en las utilidades se calcula aplicando la tasa de 5% a 
+la materia imponible determinada de acuerdo con la legislación vigente. 
+ 
+2.21 Dividendos 
+ 
+La Compañía reconoce un pasivo por pagar para hacer distribuciones de dividendos en efectivo a sus 
+accionistas, cuando la distribución se encuentra debidamente autorizada y aprobada por la Junta 
+General de Accionistas. El importe de dividendo autorizado se reconoce directamente en el estado de 
+cambios en el patrimonio.  
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2023_Individual_Anual_EEFF AUDITADOS.pdf | PAGINA: 31 | vecina =====
+ 
+- 29 - 
+ 
+(c) Al 31 de diciembre de 2023 y de 2022, el anticuamiento del saldo de las cuentas por cobrar 
+comerciales es como sigue: 
+ 
+  Al 31 de diciembre de 2023     
+  No deteriorado  Deteriorado  Total 
+  S/000  S/000  S/000 
+       
+No vencido  21,406  -  21,406 
+Vencido:       
+Hasta 30 días  883  3  886 
+De 31 a 90 días  112  456  568 
+Mayores a 91 días  1,015  1,571  2,586 
+  23,416  2,030  25,446 
+       
+ 
+       
+  Al 31 de diciembre de 2022     
+  No deteriorado  Deteriorado  Total 
+  S/000  S/000  S/000 
+       
+No vencido  24,437   56   24,493  
+Vencido:       
+Hasta 30 días  1,114   18       1,132  
+De 31 a 90 días  452   20                  472  
+Mayores a 91 días  751   1,300               2,051  
+  26,754   1,394             28,148  
+ 
+(d) El movimiento de la estimación por deterioro de las cuentas por cobrar comerciales durante los 
+años 2023 y 2022, es como sigue: 
+   2023  2022 
+  S/000  S/000      
+Saldo inicial  1,394  1,302  
+Provisiones, nota 17  700  140  
+Recupero, nota 21  (35)  - 
+Diferencia de cambio  (29)                 (48) 
+Saldo final  2,030              1,394  
+ 
+ En opinión de la Gerencia de la Compañía, la estimación por deterioro de las cuentas por cobrar 
+comerciales al 31 de diciembre de 2023 y de 2022, cubre adecuadamente el riesgo de crédito de 
+estas partidas a dichas fechas 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2023_Individual_Anual_EEFF AUDITADOS.pdf | PAGINA: 32 | puntaje 6 =====
+ 
+- 30 - 
+7 OTRAS CUENTAS POR COBRAR 
+ 
+Al 31 de diciembre de 2023 y de 2022, este rubro comprende: 
+   2023  2022 
+  S/000  S/000      
+Anticipos otorgados (a)  4,816  7,561 
+Reclamo al seguro (b)  2,310  - 
+Reclamaciones por tributos (c)  2,034  2,034 
+Intereses por depósitos a plazos (d)  1,839  1,961 
+Fondos restringidos (e)  721  929 
+Alquiler por cobrar  256  1 
+Préstamos al personal  169  174 
+Otras cuentas por cobrar  945  1,167 
+  13,090  13,827 
+     
+Estimación por deterioro de cuentas por cobrar (f)  (4,922)  (4,916) 
+  8,168  8,911 
+Por vencimiento:     
+Parte corriente  7,326  7,816 
+Parte no corriente  842  1,095 
+  8,168  8,911 
+ 
+(a) Al 31 de diciembre de 2023 y de 2022, corresponde principalmente a los anticipos otorgados a 
+favor del Consorcio San Francisco, en adelante el Consorcio, para la ejecución de la obra 
+“Embalse de Tres Lagunas en la Cuenca del Rio Corani para el afianzamiento Hídrico de la 
+Central Hidroeléctrica San Gabán II” por S/4,203 miles. La disminución con respecto al periodo 
+2022 corresponde principalmente a la ejecución de la carta fianza N°000363126864 por el importe 
+de US$499 miles a favor de la Compañía. 
+ 
+Con fecha 15 de febrero de 2016, el Consorcio presentó una demanda arbitral en contra de San 
+Gabán solicitando el pago de intereses que corresponden a los conceptos ganados en vía arbitral 
+según laudo arbitral de fecha 17 de setiembre de 2012 que comprendía los trabajos autorizados 
+sobre voladura de roca y el concepto de renovación de cartas fianzas para la ejecución de la obra 
+mencionada. El importe de la reclamación asciende a US$830 miles, equivalente a S/3,081 miles. 
+(Ver nota 12) 
+ 
+La Gerencia de la Compañía considerando que parte de los anticipos no cuenta con cartas 
+fianzas que aseguren su cobrabilidad ha optado por realizar una provisión genérica que cubra el 
+riesgo de incobrabilidad del anticipo por S/4,700 miles. 
+ 
+(b) La Compañía registró la indemnización total que recibirá de la empresa de Seguros por la 
+rehabilitación de la obra en curso Tupuri por S/3,554 miles. La indemnización a recibir por la 
+Compañía consiste en la reposición de los equipos electromecánicos y la rehabilitación de las 
+obras civiles siniestradas.  Al 31 de diciembre de 2023, la empresa de Seguros realizó la 
+rehabilitación de las obras civiles por S/1,244 miles, quedando pendiente de rehabilitar el importe 
+de S/2,310 miles. 
+ 
+(c) Con fecha 19 de febrero de 2023 la Compañía solicitó a la Administración Tributaria la devolución 
+de un pago indebido y/o en exceso correspondiente al impuesto a la renta del periodo fiscal 2019 
+por S/1,989 miles. La Administración Tributaria a través de la Oficina Zonal Juliaca con fecha 24 
+de abril de 2023 emitió la Resolución de Oficina Zonal N°212-180-000042/ SUNAT declarando 
+denegada la solicitud de devolución. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2023_Individual_Anual_EEFF AUDITADOS.pdf | PAGINA: 33 | vecina =====
+ 
+- 31 - 
+A raíz de la solicitud de devolución, la Administración Tributaria ha iniciado un procedimiento de 
+fiscalización definitiva, del periodo 2019, el cual al 31 de diciembre de 2023 se encuentra en 
+proceso. La Compañía considera que concluida la fiscalización será aceptada la devolución, 
+dado que no cuenta con registros que podrían generar contingencias tributarias y en las últimas 
+auditorías la Compañía no ha tenido reparos materiales. 
+ 
+(d) Comprende los intereses devengados de los depósitos a plazo mantenidos al 31 de diciembre de 
+2023 y de 2022.  
+ 
+(e) Mediante Resolución de Gerencia General N°278-2016-San Gabán y Memorándum N°209-2016-
+GAF, de fecha 6 de diciembre de 2016, se ordenó la apertura de un fondo de garantía con la 
+finalidad de garantizar posibles eventualidades que puedan presentarse con las líneas de 
+transmisión de San Gabán. Al 31 de diciembre de 2023, la Compañía mantiene en la Caja 
+Municipal de Ahorro y Crédito Cusco S.A. un fondo de garantía por S/721 miles que devenga 
+intereses a una tasa efectiva anual de 6.50%. Al 31 de diciembre de 2022, los fondos sujetos a 
+restricción para las líneas de transmisión ascendieron a S/929 miles.  
+ 
+(f) El movimiento de la estimación por deterioro de cuentas por cobrar durante los años 2023 y 2022 
+es como sigue: 
+ 
+  2023  2022 
+  S/000  S/000 
+     
+Saldo inicial  4,916  851  
+Provisiones, nota 21   9  4,700  
+Recupero, nota 21  -  (630) 
+Diferencia de cambio  (3)  (5) 
+Saldo final  4,922  4,916  
+ 
+8 INVENTARIOS 
+ 
+Al 31 de diciembre de 2023 y de 2022, este rubro comprende: 
+ 
+  2023  2022 
+  S/000  S/000 
+     
+Suministros y repuestos (a)  9,357  9,304 
+  9,357  9,304 
+Estimación por desvalorización de existencias (b)  (1,165)  (1,184) 
+  8,192  8,120 
+ 
+(a) Corresponde principalmente a suministros diversos que se mantienen en los almacenes y que 
+serán destinados al mantenimiento de las centrales de generación eléctrica en el periodo 
+corriente.  
+ 
+(b) El movimiento de la estimación por desvalorización de inventarios fue como sigue: 
+ 
+  2023  2022 
+  S/000  S/000      
+Saldo inicial  1,184  1,184 
+Recupero, nota 21  (19)  - 
+Saldo final  1,165  1,184 
+ 
+La desvalorización ha sido determinada de acuerdo con la evaluación de las áreas operativas, en 
+donde detallan los materiales que se encuentran en mal estado o parcialmente obsoletos por su 
+lenta rotación. En opinión de la Gerencia, la estimación al 31 de diciembre de 2023 y de 2022 
+cubre adecuadamente el riesgo de desvalorización. 
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2019_Individual_Anual_EEFF San Gabán 2019.pdf | PAGINA: 46 | vecina =====
+Empresa de Generación Eléctrica San Gabán S.A. – San Gabán 
+Notas a los Estados Financieros  
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+42 
+Modificaciones tributarias de mayor relevancia vigentes a partir del 1 de enero de 2019 
+ 
+J. Nuevo concepto normativo de devengo 
+El Decreto Legislativo N° 1425 introdujo la definición de devengo jurídico para efectos del 
+Impuesto a la Renta estableciendo que los ingresos en el caso de: a) transferencia de bienes 
+se produce cuando: i) opera el cambio de control (de acuerdo a la NIIF 15); o ii) se produce la 
+transferencia del riesgo hacia el adquirente (Teoría del Riesgo establecida en el Código Civil), 
+lo que ocurra primero; y b) para el caso de prestación de servicios se ha establecido el grado 
+de realización de la prestación.  
+ 
+El nuevo concepto jurídico de devengo resulta aplicable a los arrendatarios para efectos de 
+establecer el tratamiento tributario del gasto asociado a los contratos de arrendamiento 
+regulados por la NIIF 16 (i.e. arrendamiento operativo para propósitos fiscales). 
+ 
+El concepto materia de comentario no resultará aplicable para aquellas entidades que 
+devenguen sus ingresos o gastos para el Impuesto a la Renta según disposiciones de 
+naturaleza tributaria que fijen un régimen especial (sectorial) de devengo.  
+ 
+K. Subcapitalización  
+A partir de 2019 y hasta el 31 de diciembre de 2020, el gasto financiero generado por 
+endeudamientos tanto entre partes independientes como relacionadas está sujeto al límite de 
+subcapitalización de (3:1 Debt-Equity Ratio) calculado al cierre del ejercicio anterior. A partir 
+del 1 de enero de 2021 los gastos financieros serán deducibles hasta el límite del 30% del 
+EBITDA tributario (Renta Neta – Compensación de Pérdidas + Intereses Netos + Depreciación 
++ Amortización) del ejercicio anterior. Existen algunas excepciones a la aplicación de esta 
+limitación para el caso de bancos, contribuyentes con ingresos no superiores a 2,500 UITs, 
+infraestructura, servicios públicos, etc. 
+ 
+L. Deducción de gastos o costos incurridos en operaciones con sujetos no domiciliados  
+El Decreto Legislativo N° 1369 exige que los costos y/o gastos (incluidos los intereses 
+outbound) incurridos con contrapartes no domiciliadas deben haber sido pagados de manera 
+efectiva para poder ser deducidos en el ejercicio en el que se incurrieron. En caso, contrario, 
+su impacto en la determinación de la renta neta se diferirá al ejercicio en el que efectivamente 
+sea pagado oportunidad en la que se aplicará la retención correspondiente. 
+Dicha norma eliminó la obligación de pagar el monto equivalente a la retención sobre el 
+monto contabilizado como costo y/o gasto. 
+ 
+M. Medidas para la aplicación de la Cláusula Anti-elusión General contenida en la Norma XVI del 
+Código Tributario 
+A través del Decreto Legislativo N° 1422 se ha establecido el procedimiento para la aplicación 
+de la referida Cláusula Anti-elusión General (CAG), señalándose fundamentalmente que:  
+(i) es aplicable sólo en procedimientos de fiscalización definitva en que se revisen actos, 
+hechos o situaciones producidos desde el 19 de julio de 2012; (ii) para su aplicación debe 
+haber previa opinión favorable de un comité revisor integrado por funcionarios de la propia 
+SUNAT, no siendo recurrible dicha opinión; (iv) los procedimiento de fiscalización definitiva en 
+los que se aplique la CAG no están sujetos al plazo de un (01) año para requerir información a 
+los fiscalizados.  
+ 
+A la fecha de elaboración de la presente nota, se mantiene la suspensión de la CAG hasta que 
+se emita el respectivo decreto supremo que fije los parámetros de fondo y forma que se 
+encuentran dentro del ámbito de la Norma XVI del Código Tributario. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2019_Individual_Anual_EEFF San Gabán 2019.pdf | PAGINA: 47 | puntaje 6 =====
+Empresa de Generación Eléctrica San Gabán S.A. – San Gabán 
+Notas a los Estados Financieros 
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+43 
+N. Información relacionada con beneficiarios finales  
+En el marco de las normas para fortalecer la lucha contra la evasión y elusión fiscal así como 
+contra el lavado de activos y financiamiento del terrorismo, a partir del 3 de agosto de 2018 se 
+encuentran vigentes las disposiciones introducidas a través del Decreto Legislativo N° 1372 
+que obligan a brindar a las autoridades competentes, a través de una declaración jurada de 
+beneficiarios finales, información relacionada con dichos sujetos, esto es, a revelar mediante 
+dicha declaración quiénes son las personas naturales que efectivamente tienen la propiedad o 
+control en personas jurídicas o entes jurídicos. Así, será obligatorio informar aspectos como  
+(i) identificación del beneficiario final; (ii) la cadena de titularidad con la respectiva 
+documentación de sustento; (iii) identificación de los terceros que cuentan con dicha 
+información, de ser el caso. Se señala además que la información relacionada a la 
+identificación de los beneficiarios finales de las personas jurídicas y entes jurídicos que se 
+proporcione a las autoridades competentes en el marco de estas normas no constituye 
+violación al secreto profesional ni tampoco está sujeta a las restricciones sobre revelación de 
+información derivadas de la confidencialidad impuesta por vía contractual o por cualquier 
+disposición legal o reglamentaria. 
+ 
+Finalmente debe tenerse en consideración que, de no presentarse la declaración jurada 
+informativa que contiene la información relacionada beneficiario final, incurrirán en 
+responsabilidad solidaria los representantes legales de la entidad que omitió cumplir con la 
+presentación de dicha declaración. 
+ 
+O Enajenación indirecta de acciones  
+A partir del 1 de enero de 2019 se incorpora una técnica anti-elusiva para evitar el 
+fraccionamiento de operaciones, a través de las cuales, indirectamente se enajenen acciones 
+de empresas domiciliadas en Perú.  
+ 
+Así, se indica que para establecer si en un período de 12 meses se ha cumplido con la 
+transferencia del 10% o más del capital de la sociedad peruana, se consideran las 
+transferencias realizadas por el sujeto analizado, así como las realizadas a sus partes 
+vinculadas, sea que se ejecuten mediante una o varias operaciones, simultáneas o sucesivas. 
+Dicha vinculación se establecerá conforme a lo establecido en el inciso b) del artículo 32-A de 
+la Ley del Impuesto a la Renta.  
+ 
+Queda establecido además que, independientemente del cumplimiento de las condiciones 
+reguladas en la Ley del Impuesto a la Renta, siempre se configurará una enajenación indirecta 
+gravada cuando, en un período cualquiera de 12 meses, el importe total de las acciones de la 
+personas jurídica peruana que se enajenan sea igual o mayor a cuarenta mil (40,000) UIT. 
+ 
+La fecha de vigencia inicialmente señalada que, cuando el enajenante sea una persona jurídica 
+no domiciliada que cuenta con una sucursal o cualquier establecimiento permanente en Perú 
+con patrimonio asignado, se considera a éste último corresponsable solidario, debiendo este 
+último sujeto proporcionar, entre otra información, a la correspondiente a las acciones o 
+participaciones de la persona jurídica no domiciliada que se enajenan.  
+ 
+P. Responsabilidad solidaria de los representantes legales y Directores de las sociedades:  
+A partir del 14 de setiembre de 2018 ha quedado establecido, mediante el Decreto Legislativo 
+N° 1422 que, cuando un sujeto fiscalizado sea sujeto de la Cláusula Anti-elusiva General 
+(CAG), se considera automáticamente que existe dolo, negligencia grave o abuso de 
+facultades respecto de sus representantes legales, salvo prueba en contrario. La referida 
+responsabilidad solidaria se atribuirá a dichos representantes siempre que hayan colaborado 
+con el diseño o aprobación o ejecución de actos, situaciones o relaciones económicas con 
+propósito elusivo.   
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2019_Individual_Anual_EEFF San Gabán 2019.pdf | PAGINA: 48 | vecina =====
+Empresa de Generación Eléctrica San Gabán S.A. – San Gabán 
+Notas a los Estados Financieros  
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+44 
+La norma precitada involucra también a los miembros del Directorio de sociedades, al 
+señalarse que a dichos sujetos les corresponde definir la estrategia tributaria de las 
+sociedades en las cuales son directores, debiendo éstos decidir la aprobación o no de actos, 
+situaciones o relaciones económicas a realizarse en el marco de la planificación fiscal, siendo 
+indelegable – según la norma en comentario – esta atribución de los directores.  
+ 
+Finalmente, se otorgó a los miembros del Directorio de sociedades domiciliadas, un plazo que 
+vende el 29 de marzo de 2019 para ratificar o modificar los actos, situaciones o relaciones 
+económicas realizados en el marco de la planificación fiscal, e implementados al 14 de 
+setiembre de 2018 que sigan teniendo efecto tributario hasta la actualidad. 
+ 
+El plazo máximo señalado para el cumplimiento de dicha obligación formal , y considerando la 
+referida responsabilidad solidaria atribuible tanto a representantes legales como a directores, 
+así como la falta de definición del término planificación fiscal será crítico revisar todo acto, 
+situación o relación económica que haya (i) incrementado atributos fiscales; y/o, (ii) generado 
+un menor pago de tributos por los ejercicios antes mencionados, a fin de evitar la atribución 
+de responsabilidad solidaria tributaria, tanto a nivel administrativo como incluso penal, 
+dependiendo del criterio del agente fiscalizador , en caso de aplicarse la CAG a la sociedad 
+que sea materia de una intervención fiscal por parte de la SUNAT. 
+ 
+27. Contingencias 
+Las principales contingencias tributarias y legales son: 
+ 
+A. Contingencias tributarias 
+La Administración Tributaria fiscalizó el impuesto a las ganancias de los ejercicios 1999 a 2003 e 
+impuesto general a las ventas (IGV) de los ejercicios 2001 a 2002, de cuyo resultado emitió 
+resoluciones de determinación y resoluciones de multa que incluyen multas e intereses. Mediante 
+Resolución del Tribunal Fiscal N° 08436-5-2017, de fecha 22 de setiembre de 2017, el Tribunal Fiscal 
+resuelve declarando Nulas las Resoluciones de Determinación y de Multa emitidas por la 
+Administración Tributaria. Actualmente la Administración Tributaria se encuentra llevando a cabo la 
+fiscalización de los años no prescritos. 
+ 
+Asimismo, la Administración Tributaria ha fiscalizado los períodos 2004 a 2005 de cuyo resultado 
+emitió resoluciones de determinación y de multa que incluyen multas e intereses por miles de  
+S/ 7,320. La Empresa ha apelado a dichas resoluciones mediante el Expediente N° 3259-2009, 
+solicitando la anulación de los mismos. Con fecha 20 de enero de 2019 mediante Resolución del 
+Tribunal Fiscal N° 8425-10-2018, se resuelve la revocatoria y declaran nulas las resoluciones de 
+determinación y de multa, y asimismo, confirman algunos reparos. A la fecha la Administración 
+Tributaria ha iniciado el proceso de fiscalización por los conceptos declarados nulos. 
+ 
+En opinión de la Gerencia y de sus asesores legales, estas demandas se deben resolver 
+favorablemente a la Empresa por lo que, no es necesario registrar pasivos adicionales por estos 
+conceptos, en vista de que se compensarían con activos provisionados de años anteriores al 31 de 
+diciembre de 2019 y 2018. 
+ 
+B. Otras contingencias 
+Al 31 de diciembre de 2019 y 2018, la Empresa afronta diversas demandas laborales, administrativas 
+y judiciales por miles de S/ 5,414. Dichas demandas se encuentran en proceso de apelación. Al  
+31 de diciembre de 2019 y 2018, la Empresa por los conceptos antes mencionados mantiene una 
+provisión por miles de S/ 2,541 que se muestra en el rubro provisiones; principalmente relacionada 
+con la controversia que mantiene con el Consorcio San Francisco (nota 14). En opinión de la 
+Gerencia y de sus asesores legales, cualquier liquidación adicional por estas contingencias no sería 
+significativa para los estados financieros en su conjunto. 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2015_Individual_Anual_San Gaban - Informe Corto 31 12 15-14.pdf | PAGINA: 26 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+18 
+estimados, se podría ver afectada la capacidad de la Compañía para realizar los activos 
+tributarios diferidos netos registrados en la fecha del estado de situación financiera. 
+ 
+(iv) Contingencias- nota 3.2 (j) – 
+ Por su naturaleza, las contingencias sólo se resolverán cuando uno o más eventos futuros 
+ocurran o dejen de ocurrir. La evaluación de la existencia, y monto potencial, de 
+contingencias involucra inherentemente el ejercicio de un juicio significativo y el uso de 
+estimados sobre los resultados de eventos futuros. 
+ 
+3.4 Normas contables – 
+(i) Nuevas normas contables e interpretaciones - 
+Algunas nuevas normas contables y modificaciones se aplican por primera vez en el 2015. 
+Sin embargo, no afectan a los estados financieros de la Compañía. A continuación, para 
+fines informativos, se incluye un resumen de las nuevas normas que tienen relación con la 
+Compañía: 
+ 
+- Ciclo de mejoras anuales 2010-2012 
+Estas enmiendas no tuvieron impacto en la información financiera de la Compañía. 
+Se incluye: 
+ 
+NIC 16 Propiedades, planta y equipo y NIC 38 Activos intangibles 
+Esta enmienda aclara en la NIC 16 y NIC 38 que los activos podrán ser revaluados 
+por referencia de datos observables ya sea ajustando el valor en libros bruto del 
+activo a valor de mercado o mediante la determinación del valor de mercado del 
+valor en libros proporcionalmente de modo que el valor en libros resultantes sea 
+igual al valor de mercado. Adicionalmente, la depreciación o amortización 
+acumulada resultante será la diferencia entre el valor bruto y el valor en libro de los 
+activos. La Compañía no ha registrado ningún ajuste por revaluación durante el 
+presente período. 
+ 
+NIC 24 Información a revelar sobre partes relacionadas 
+La enmienda aclara que una entidad administradora (una entidad que provee 
+servicios de personal administrativo) es una parte relacionada sujeta a la 
+información a revelar sobre partes relacionadas. Adicionalmente, una entidad que 
+requiere de los servicios de una entidad administradora es requerida de revelar la 
+información relacionada a los gastos incurridos por servicios de administración. 
+Esta enmienda no es relevante para la Compañía debido a que no recibe servicios 
+de administración por parte de otras entidades. 
+ 
+- Ciclo de mejoras anuales 2011-2013 
+Estas enmiendas no tuvieron impacto en la información financiera de la Compañía. 
+Se incluye: 
+ 
+NIIF 13 Medición al valor razonable 
+Esta enmienda aclara que la excepción de portafolio de la NIIF 13 puede ser 
+aplicada no solamente a los activos y pasivos financieros, y también a otros 
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2015_Individual_Anual_San Gaban - Informe Corto 31 12 15-14.pdf | PAGINA: 27 | puntaje 7 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+19 
+contratos dentro del alcance de la NIIF 9 (o NIC39, si aplica). La Compañía no ha 
+aplicado las excepciones de portafolio de la NIIF 13. 
+ 
+La Compañía aún no ha adoptado con anticipación ninguna otra norma, interpretación o 
+enmienda emitida pero aún no efectiva. 
+ 
+(ii) Nuevas emitidas aún no vigentes – 
+A continuación se enumeran las normas y modificaciones y mejoras a las normas emitidas 
+pero que no se encuentran en vigencia a la fecha de emisión de los presentes estados 
+financieros. La Compañía tiene la intención de adoptar estas normas y modificaciones y 
+mejoras a las normas, según corresponda, cuando entren en vigencia: 
+ 
+- NIIF 9 “Instrumentos financieros “, efectiva para períodos anuales que comiencen 
+en o a partir del 1 de enero de 2018. 
+- NIIF 15 “Ingresos de actividades ordinarias procedentes de contratos con Clientes”, 
+efectiva para períodos anuales que comiencen en o a partir del 1 de enero de 
+2018. 
+- Modificaciones a la NIC 16 “Propiedades, planta y equipo” y NIC 38 “Activos 
+intangibles”, efectiva para períodos anuales que comiencen en o a partir del 1 de 
+enero de 2016. 
+- Modificaciones a la NIC 16 “Propiedades, planta y equipo” y NIC 41 “Agricultura”, 
+efectiva para períodos anuales que comiencen en o a partir del 1 de enero de 
+2016. 
+- Modificaciones a la NIC 27 “Estados financieros separados”, efectiva para períodos 
+anuales que comiencen en o a partir del 1 de enero de 2016.  
+- Mejoras a las NIIF – Ciclo 2012-2014, éstas mejoras comprenden las 
+modificaciones a la NIIF 5 “Activos no corrientes mantenidos para la venta y 
+operaciones discontinuadas”,  NIIF 7 “Instrumentos financieros – Información a 
+revelar”, NIC 19 “Beneficios a los empleados” y NIC 34 “Información financiera 
+intermedia”, las cuales son efectivas para períodos anuales que comiencen en o a 
+partir del 1 de enero de 2016. 
+- Modificaciones a la NIC 1 “Presentación de estados financieros”, efectiva para 
+períodos que comiencen en o a partir del 1 de enero de 2016.  
+ 
+A la fecha de este informe, la Gerencia se encuentra evaluando el impacto que estas 
+normas y modificaciones y mejoras a las normas tendrían en  los estados financieros de la 
+Compañía cuando éstas entren en vigencia. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EMPRESA DE GENERACION ELECTRICA SAN GABAN S.A.-Individual.zip/2015_Individual_Anual_San Gaban - Informe Corto 31 12 15-14.pdf | PAGINA: 28 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+20 
+  4. Efectivo y equivalentes de efectivo y depósitos a plazo 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Cuentas corrientes (b) 5,209 43,448 
+Depósitos a plazo (c) 43,863 -  __________ __________ 
+Efectivo y equivalentes de efectivo 49,072 43,448  __________ __________    
+Depósitos a plazo  con vencimientos originales mayores a 
+90 días  4,000 8,500  __________ __________ 
+ 
+(b) Las cuentas corrientes bancarias se encuentran depositadas en bancos locales, en moneda 
+nacional y en moneda extranjera, son de libre disponibilidad y no generan intereses. 
+ 
+(c) Al 31 de diciembre de 2015, la Compañía mantiene depósitos a corto plazo denominados 
+principalmente en moneda nacional son de libre disponibilidad y mantenidos en bancos locales de 
+primer orden, los cuales devengan intereses a tasas efectivas anuales que fluctúan entre 3.70 y 
+6.70 por ciento, y  tienen vencimientos originales menores a 90 días. 
+ 
+  5. Cuentas por cobrar comerciales, neto  
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Cuentas por cobrar a terceros (b) 24,193 20,373 
+Cuentas por cobrar a relacionadas , nota 22(b) 3,750 3,243  ________ ________ 
+ 27,943 23,616 
+Menos - estimación para cuentas de cobranza dudosa (d) (5,329) (5,832)  ________ ________ 
+ 22,614 17,784  ________ ________ 
+ 
+(b) Las cuentas por cobrar están denominadas principalmente en soles, tienen vencimiento 
+corriente, no generan intereses y no cuentan con garantías específicas. 
+ 
+  

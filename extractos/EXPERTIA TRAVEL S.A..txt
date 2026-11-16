@@ -1,0 +1,897 @@
+EMPRESA: EXPERTIA TRAVEL S.A.
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI2_Informe EEFF y Notas 2Q.pdf | PAGINA: 12 | vecina =====
+ 
+- 22 -  
+ 
+Otros activos intangibles - 
+ 
+Comprenden la adquisición de licencias y programas de cómputo utilizados por el Grupo, las cuales 
+se registran inicialmente al costo, estos activos intangibles son amortizados siguiendo el método de 
+línea recta sobre la base de su vida útil estimada. Los proyectos y programas de cómputo en desarrollo 
+no se amortizan. 
+ 
+Los activos intangibles son reconocidos en el estado consolidado de situación financiera a su valor 
+estimado de mercado determinado en la fecha de la adquisición y son amortizados mediante el método 
+de línea recta sobre su vida útil estimada. 
+ 
+Los costos de desarrollo que son directamente atribuibles al diseño y prueba de software identificables 
+y únicos que el Grupo controla se reconocen como activos intangibles. 
+ 
+ii) Activos intangibles de vida útil indefinida – 
+ 
+Los activos intangibles de vida útil indefinida corresponden a las marcas “Cóndor Travel”, “Nuevo 
+Mundo” y “Destinos Mundiales” bajo la cual opera la Compañía y sus subsidiarias a nivel nacional y 
+cuenta con presencia en el mercado peruano por más de 25 años. Dichos activos no poseen 
+vencimiento, razón por la cual son considerados activos intangibles de vida útil indefinida y no se 
+amortizan. 
+ 
+Los intangibles de vida útil indefinida se miden inicialmente al costo. El costo de la marca adquirida en 
+la combinación de negocios es su valor razonable a la fecha de la adquisición. 
+ 
+De acuerdo con la NIC 36 ‘Deterioro del Valor de los Activos’, el Grupo verificará si un activo intangible 
+con una vida útil indefinida ha experimentado una pérdida por deterioro del valor comparando su 
+importe recuperable con su importe en libros anualmente y en cualquier momento en el que exista un 
+indicio de que el activo puede haber deteriorado su valor. 
+ 
+2.11 Plusvalía mercantil - 
+La plusvalía mercantil surge de la adquisición de subsidiarias y representa el valor pagado por la compra 
+sobre el valor razonable de los activos netos identificables, pasivos y pasivos contingentes de la entidad 
+adquirida y el valor razonable de la participación no controlante en la entidad adquirida. 
+ 
+Después del reconocimiento inicial, la plusvalía mercantil se mide al costo menos cualquier pérdida 
+acumulada por deterioro del valor. A los fines de las pruebas de deterioro del valor, la plusvalía mercantil 
+adquirida en una combinación de negocios se asigna, a partir de la fecha de la adquisición, a cada una 
+de las unidades generadoras de efectivo (UGE), o grupos de UGE, que se espera serán beneficiadas 
+de las sinergias de la combinación. La plusvalía mercantil es supervisada al nivel del segmento 
+operativo. Se realizan revisiones de deterioro de la plusvalía mercantil anualmente o de forma más 
+frecuente cuando ocurran eventos o cambios en circunstancias que indiquen un potencial deterioro en 
+su valor. La Gerencia del Grupo considera dos unidades generadoras de efectivo, las cuales son: 
+empresas de turismo receptivo y emisivo. 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI2_Informe EEFF y Notas 2Q.pdf | PAGINA: 13 | puntaje 9 =====
+ 
+- 23 -  
+El valor en libros de la UGE, que contiene la plusvalía mercantil, se compara con su valor recuperable, 
+que es el mayor entre el valor en uso y su valor razonable menos gastos para su venta. Cualquier 
+deterioro es reconocido como gasto y no es posible su revisión posterior. 
+ 
+Cuando la plusvalía mercantil forma parte de una unidad generadora de efectivo, y parte de la 
+operación dentro de tal unidad se vende, la plusvalía mercantil asociada con la operación vendida se 
+incluye en el importe en libros de la operación al momento de determinar la ganancia o pérdida por la 
+disposición de la misma. La plusvalía mercantil que se da de baja en esta circunstancia se mide sobre 
+la base de los valores relativos de la operación de venta y de la porción retenida de la unidad 
+generadora de efectivo. 
+ 
+2.12 Deterioro de activos no financieros - 
+ 
+Los activos que tienen vida útil indefinida no están sujetos a amortización y se someten a pruebas 
+anuales de deterioro en su valor. Los activos sujetos a depreciación o amortización se someten a 
+pruebas de deterioro cuando se producen eventos o circunstancias que indican que podría no 
+recuperarse su valor en libros. Las pérdidas por deterioro corresponden al monto en el que el valor en 
+libros del activo excede a su valor recuperable. 
+ 
+El valor recuperable de los activos corresponde al mayor entre su valor razonable menos los costos 
+para su venta y su valor en uso. El valor razonable es el monto que se puede obtener de la venta de un 
+activo en un mercado libre. El valor en uso corresponde al valor presente del estimado de los flujos de 
+efectivo futuros que se espera obtener del uso continuo del activo y de su venta al término de su vida 
+útil. 
+ 
+Para efectos de la evaluación por deterioro, los activos se agrupan a los niveles más pequeños en los 
+que generan flujos de efectivo identificables (unidades generadoras de efectivo). Los saldos en libros 
+de activos no financieros que han sido objeto de castigos por deterioro se revisan en cada fecha de 
+reporte para verificar posibles reversiones del deterioro. 
+ 
+2.13 Arrendamientos - 
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por arrendamiento 
+desde la fecha en que el activo arrendado está disponible para su uso por parte del Grupo. Los activos 
+y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores presentes. Los 
+pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos por arrendamiento:  
+ 
+• Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos fijos ‘en 
+sustancia’), menos cualquier saldo por cobrar por incentivos recibidos para iniciar el arrendamiento; 
+• Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales se 
+miden, inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del arrendamiento;   
+• Los importes de cualquier garantía de valor residual, que el Grupo se haya obligado a pagar;  
+• El precio de ejercer opciones de compra, si el Grupo considera que es razonablemente seguro que 
+las ejercerá; y  
+• Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que el Grupo ejercerá esta opción.  
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI2_Informe EEFF y Notas 2Q.pdf | PAGINA: 14 | vecina =====
+ 
+- 24 -  
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de arrendamiento 
+del plazo extendido también se incluyen en la medición del pasivo. Los pagos de arrendamiento se 
+descuentan utilizando la tasa de interés implícita en el arrendamiento. Si esa tasa no puede ser 
+determinada de forma simple, se utiliza la tasa incremental de endeudamiento del arrendatario, que 
+representa la tasa que se cargaría al arrendatario para captar los fondos necesarios para adquirir un 
+activo de valor similar al activo subyacente al derecho de uso, en un contexto económico similar y bajo 
+términos similares, en lo referido al plazo, garantías y condiciones. Para determinar la tasa de 
+endeudamiento incremental, el Grupo toma en cuenta los siguientes criterios:  
+ 
+• En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos.  
+• Cotiza en el mercado el producto deseado, revisando la tasa que los diversos bancos nacionales 
+ofrecen, para finalmente optar por la mejor opción, que le permita tener un balance positivo en la 
+inversión a realizar.  
+ 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interés periódica y constante aplicada sobre el 
+saldo del pasivo a la fecha de cierre. Los activos por derecho de uso se miden a su costo, el cual 
+incluye:  
+ 
+• El valor de la medición inicial del pasivo por arrendamiento.  
+• Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido.  
+• Los costos directos iniciales, y  
+• Los costos de restauración o rehabilitación a los que el Grupo esté obligada a incurrir.  
+ 
+Los activos por derecho de uso se deprecian, generalmente, en línea recta en el plazo más corto entre 
+la vida útil del activo arrendado y el plazo del arrendamiento. Si el Grupo considera que es 
+razonablemente seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en el 
+plazo de vida útil del activo subyacente. En ese sentido, las vidas útiles de los activos por derecho son 
+como siguen: 
+ 
+  Años 
+   
+Edificaciones  Entre 5 y 10 
+Equipo de cómputo  Entre 3 y 5 
+ 
+Excepciones al reconocimiento -  
+ 
+El Grupo no reconoce los activos por derecho de uso y pasivos por arrendamiento para los 
+arrendamientos a corto plazo de bienes que tienen un plazo de arrendamiento de doce meses o menos 
+y los arrendamientos de activos de bajo valor. El Grupo reconoce los pagos de arrendamiento 
+asociados a estos contratos de arrendamiento como un gasto de forma lineal durante el plazo del 
+arrendamiento. 
+ 
+2.14 Beneficios a los empleados – 
+ 
+El Grupo opera en 5 países, pero es en Perú dónde tiene la mayor cantidad de trabajadores (89 %). 
+A continuación, detallamos los principales beneficios de los trabajadores aplicables en Perú. 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI1_2_Informe EEFF y Notas 1Qv2.pdf | PAGINA: 12 | vecina =====
+ 
+- 22 -  
+ 
+Otros activos intangibles - 
+ 
+Comprenden la adquisición de licencias y programas de cómputo utilizados por el Grupo, las cuales 
+se registran inicialmente al costo, estos activos intangibles son amortizados siguiendo el método de 
+línea recta sobre la base de su vida útil estimada. Los proyectos y programas de cómputo en desarrollo 
+no se amortizan. 
+ 
+Los activos intangibles son reconocidos en el estado consolidado de situación financiera a su valor 
+estimado de mercado determinado en la fecha de la adquisición y son amortizados mediante el método 
+de línea recta sobre su vida útil estimada. 
+ 
+Los costos de desarrollo que son directamente atribuibles al diseño y prueba de software identificables 
+y únicos que el Grupo controla se reconocen como activos intangibles. 
+ 
+ii) Activos intangibles de vida útil indefinida – 
+ 
+Los activos intangibles de vida útil indefinida corresponden a las marcas “Cóndor Travel”, “Nuevo 
+Mundo” y “Destinos Mundiales” bajo la cual opera la Compañía y sus subsidiarias a nivel nacional y 
+cuenta con presencia en el mercado peruano por más de 25 años. Dichos activos no poseen 
+vencimiento, razón por la cual son considerados activos intangibles de vida útil indefinida y no se 
+amortizan. 
+ 
+Los intangibles de vida útil indefinida se miden inicialmente al costo. El costo de la marca adquirida en 
+la combinación de negocios es su valor razonable a la fecha de la adquisición. 
+ 
+De acuerdo con la NIC 36 ‘Deterioro del Valor de los Activos’, el Grupo verificará si un activo intangible 
+con una vida útil indefinida ha experimentado una pérdida por deterioro del valor comparando su 
+importe recuperable con su importe en libros anualmente y en cualquier momento en el que exista un 
+indicio de que el activo puede haber deteriorado su valor. 
+ 
+2.11 Plusvalía mercantil - 
+La plusvalía mercantil surge de la adquisición de subsidiarias y representa el valor pagado por la compra 
+sobre el valor razonable de los activos netos identificables, pasivos y pasivos contingentes de la entidad 
+adquirida y el valor razonable de la participación no controlante en la entidad adquirida. 
+ 
+Después del reconocimiento inicial, la plusvalía mercantil se mide al costo menos cualquier pérdida 
+acumulada por deterioro del valor. A los fines de las pruebas de deterioro del valor, la plusvalía mercantil 
+adquirida en una combinación de negocios se asigna, a partir de la fecha de la adquisición, a cada una 
+de las unidades generadoras de efectivo (UGE), o grupos de UGE, que se espera serán beneficiadas 
+de las sinergias de la combinación. La plusvalía mercantil es supervisada al nivel del segmento 
+operativo. Se realizan revisiones de deterioro de la plusvalía mercantil anualmente o de forma más 
+frecuente cuando ocurran eventos o cambios en circunstancias que indiquen un potencial deterioro en 
+su valor. La Gerencia del Grupo considera dos unidades generadoras de efectivo, las cuales son: 
+empresas de turismo receptivo y emisivo. 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI1_2_Informe EEFF y Notas 1Qv2.pdf | PAGINA: 13 | puntaje 9 =====
+ 
+- 23 -  
+El valor en libros de la UGE, que contiene la plusvalía mercantil, se compara con su valor recuperable, 
+que es el mayor entre el valor en uso y su valor razonable menos gastos para su venta. Cualquier 
+deterioro es reconocido como gasto y no es posible su revisión posterior. 
+ 
+Cuando la plusvalía mercantil forma parte de una unidad generadora de efectivo, y parte de la 
+operación dentro de tal unidad se vende, la plusvalía mercantil asociada con la operación vendida se 
+incluye en el importe en libros de la operación al momento de determinar la ganancia o pérdida por la 
+disposición de la misma. La plusvalía mercantil que se da de baja en esta circunstancia se mide sobre 
+la base de los valores relativos de la operación de venta y de la porción retenida de la unidad 
+generadora de efectivo. 
+ 
+2.12 Deterioro de activos no financieros - 
+ 
+Los activos que tienen vida útil indefinida no están sujetos a amortización y se someten a pruebas 
+anuales de deterioro en su valor. Los activos sujetos a depreciación o amortización se someten a 
+pruebas de deterioro cuando se producen eventos o circunstancias que indican que podría no 
+recuperarse su valor en libros. Las pérdidas por deterioro corresponden al monto en el que el valor en 
+libros del activo excede a su valor recuperable. 
+ 
+El valor recuperable de los activos corresponde al mayor entre su valor razonable menos los costos 
+para su venta y su valor en uso. El valor razonable es el monto que se puede obtener de la venta de un 
+activo en un mercado libre. El valor en uso corresponde al valor presente del estimado de los flujos de 
+efectivo futuros que se espera obtener del uso continuo del activo y de su venta al término de su vida 
+útil. 
+ 
+Para efectos de la evaluación por deterioro, los activos se agrupan a los niveles más pequeños en los 
+que generan flujos de efectivo identificables (unidades generadoras de efectivo). Los saldos en libros 
+de activos no financieros que han sido objeto de castigos por deterioro se revisan en cada fecha de 
+reporte para verificar posibles reversiones del deterioro. 
+ 
+2.13 Arrendamientos - 
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por arrendamiento 
+desde la fecha en que el activo arrendado está disponible para su uso por parte del Grupo. Los activos 
+y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores presentes. Los 
+pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos por arrendamiento:  
+ 
+• Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos fijos ‘en 
+sustancia’), menos cualquier saldo por cobrar por incentivos recibidos para iniciar el arrendamiento; 
+• Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales se 
+miden, inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del arrendamiento;   
+• Los importes de cualquier garantía de valor residual, que el Grupo se haya obligado a pagar;  
+• El precio de ejercer opciones de compra, si el Grupo considera que es razonablemente seguro que 
+las ejercerá; y  
+• Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que el Grupo ejercerá esta opción.  
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI1_2_Informe EEFF y Notas 1Qv2.pdf | PAGINA: 14 | vecina =====
+ 
+- 24 -  
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de arrendamiento 
+del plazo extendido también se incluyen en la medición del pasivo. Los pagos de arrendamiento se 
+descuentan utilizando la tasa de interés implícita en el arrendamiento. Si esa tasa no puede ser 
+determinada de forma simple, se utiliza la tasa incremental de endeudamiento del arrendatario, que 
+representa la tasa que se cargaría al arrendatario para captar los fondos necesarios para adquirir un 
+activo de valor similar al activo subyacente al derecho de uso, en un contexto económico similar y bajo 
+términos similares, en lo referido al plazo, garantías y condiciones. Para determinar la tasa de 
+endeudamiento incremental, el Grupo toma en cuenta los siguientes criterios:  
+ 
+• En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos.  
+• Cotiza en el mercado el producto deseado, revisando la tasa que los diversos bancos nacionales 
+ofrecen, para finalmente optar por la mejor opción, que le permita tener un balance positivo en la 
+inversión a realizar.  
+ 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interés periódica y constante aplicada sobre el 
+saldo del pasivo a la fecha de cierre. Los activos por derecho de uso se miden a su costo, el cual 
+incluye:  
+ 
+• El valor de la medición inicial del pasivo por arrendamiento.  
+• Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido.  
+• Los costos directos iniciales, y  
+• Los costos de restauración o rehabilitación a los que el Grupo esté obligada a incurrir.  
+ 
+Los activos por derecho de uso se deprecian, generalmente, en línea recta en el plazo más corto entre 
+la vida útil del activo arrendado y el plazo del arrendamiento. Si el Grupo considera que es 
+razonablemente seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en el 
+plazo de vida útil del activo subyacente. En ese sentido, las vidas útiles de los activos por derecho son 
+como siguen: 
+ 
+  Años 
+   
+Edificaciones  Entre 5 y 10 
+Equipo de cómputo  Entre 3 y 5 
+ 
+Excepciones al reconocimiento -  
+ 
+El Grupo no reconoce los activos por derecho de uso y pasivos por arrendamiento para los 
+arrendamientos a corto plazo de bienes que tienen un plazo de arrendamiento de doce meses o menos 
+y los arrendamientos de activos de bajo valor. El Grupo reconoce los pagos de arrendamiento 
+asociados a estos contratos de arrendamiento como un gasto de forma lineal durante el plazo del 
+arrendamiento. 
+ 
+2.14 Beneficios a los empleados – 
+ 
+El Grupo opera en 5 países, pero es en Perú dónde tiene la mayor cantidad de trabajadores (89 %). 
+A continuación, detallamos los principales beneficios de los trabajadores aplicables en Perú. 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI1_1_Informe EEFF y Notas 1Q.pdf | PAGINA: 12 | vecina =====
+ 
+- 22 -  
+ 
+Otros activos intangibles - 
+ 
+Comprenden la adquisición de licencias y programas de cómputo utilizados por el Grupo, las cuales 
+se registran inicialmente al costo, estos activos intangibles son amortizados siguiendo el método de 
+línea recta sobre la base de su vida útil estimada. Los proyectos y programas de cómputo en desarrollo 
+no se amortizan. 
+ 
+Los activos intangibles son reconocidos en el estado consolidado de situación financiera a su valor 
+estimado de mercado determinado en la fecha de la adquisición y son amortizados mediante el método 
+de línea recta sobre su vida útil estimada. 
+ 
+Los costos de desarrollo que son directamente atribuibles al diseño y prueba de software identificables 
+y únicos que el Grupo controla se reconocen como activos intangibles. 
+ 
+ii) Activos intangibles de vida útil indefinida – 
+ 
+Los activos intangibles de vida útil indefinida corresponden a las marcas “Cóndor Travel”, “Nuevo 
+Mundo” y “Destinos Mundiales” bajo la cual opera la Compañía y sus subsidiarias a nivel nacional y 
+cuenta con presencia en el mercado peruano por más de 25 años. Dichos activos no poseen 
+vencimiento, razón por la cual son considerados activos intangibles de vida útil indefinida y no se 
+amortizan. 
+ 
+Los intangibles de vida útil indefinida se miden inicialmente al costo. El costo de la marca adquirida en 
+la combinación de negocios es su valor razonable a la fecha de la adquisición. 
+ 
+De acuerdo con la NIC 36 ‘Deterioro del Valor de los Activos’, el Grupo verificará si un activo intangible 
+con una vida útil indefinida ha experimentado una pérdida por deterioro del valor comparando su 
+importe recuperable con su importe en libros anualmente y en cualquier momento en el que exista un 
+indicio de que el activo puede haber deteriorado su valor. 
+ 
+2.11 Plusvalía mercantil - 
+La plusvalía mercantil surge de la adquisición de subsidiarias y representa el valor pagado por la compra 
+sobre el valor razonable de los activos netos identificables, pasivos y pasivos contingentes de la entidad 
+adquirida y el valor razonable de la participación no controlante en la entidad adquirida. 
+ 
+Después del reconocimiento inicial, la plusvalía mercantil se mide al costo menos cualquier pérdida 
+acumulada por deterioro del valor. A los fines de las pruebas de deterioro del valor, la plusvalía mercantil 
+adquirida en una combinación de negocios se asigna, a partir de la fecha de la adquisición, a cada una 
+de las unidades generadoras de efectivo (UGE), o grupos de UGE, que se espera serán beneficiadas 
+de las sinergias de la combinación. La plusvalía mercantil es supervisada al nivel del segmento 
+operativo. Se realizan revisiones de deterioro de la plusvalía mercantil anualmente o de forma más 
+frecuente cuando ocurran eventos o cambios en circunstancias que indiquen un potencial deterioro en 
+su valor. La Gerencia del Grupo considera dos unidades generadoras de efectivo, las cuales son: 
+empresas de turismo receptivo y emisivo. 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI1_1_Informe EEFF y Notas 1Q.pdf | PAGINA: 13 | puntaje 9 =====
+ 
+- 23 -  
+El valor en libros de la UGE, que contiene la plusvalía mercantil, se compara con su valor recuperable, 
+que es el mayor entre el valor en uso y su valor razonable menos gastos para su venta. Cualquier 
+deterioro es reconocido como gasto y no es posible su revisión posterior. 
+ 
+Cuando la plusvalía mercantil forma parte de una unidad generadora de efectivo, y parte de la 
+operación dentro de tal unidad se vende, la plusvalía mercantil asociada con la operación vendida se 
+incluye en el importe en libros de la operación al momento de determinar la ganancia o pérdida por la 
+disposición de la misma. La plusvalía mercantil que se da de baja en esta circunstancia se mide sobre 
+la base de los valores relativos de la operación de venta y de la porción retenida de la unidad 
+generadora de efectivo. 
+ 
+2.12 Deterioro de activos no financieros - 
+ 
+Los activos que tienen vida útil indefinida no están sujetos a amortización y se someten a pruebas 
+anuales de deterioro en su valor. Los activos sujetos a depreciación o amortización se someten a 
+pruebas de deterioro cuando se producen eventos o circunstancias que indican que podría no 
+recuperarse su valor en libros. Las pérdidas por deterioro corresponden al monto en el que el valor en 
+libros del activo excede a su valor recuperable. 
+ 
+El valor recuperable de los activos corresponde al mayor entre su valor razonable menos los costos 
+para su venta y su valor en uso. El valor razonable es el monto que se puede obtener de la venta de un 
+activo en un mercado libre. El valor en uso corresponde al valor presente del estimado de los flujos de 
+efectivo futuros que se espera obtener del uso continuo del activo y de su venta al término de su vida 
+útil. 
+ 
+Para efectos de la evaluación por deterioro, los activos se agrupan a los niveles más pequeños en los 
+que generan flujos de efectivo identificables (unidades generadoras de efectivo). Los saldos en libros 
+de activos no financieros que han sido objeto de castigos por deterioro se revisan en cada fecha de 
+reporte para verificar posibles reversiones del deterioro. 
+ 
+2.13 Arrendamientos - 
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por arrendamiento 
+desde la fecha en que el activo arrendado está disponible para su uso por parte del Grupo. Los activos 
+y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores presentes. Los 
+pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos por arrendamiento:  
+ 
+• Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos fijos ‘en 
+sustancia’), menos cualquier saldo por cobrar por incentivos recibidos para iniciar el arrendamiento; 
+• Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales se 
+miden, inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del arrendamiento;   
+• Los importes de cualquier garantía de valor residual, que el Grupo se haya obligado a pagar;  
+• El precio de ejercer opciones de compra, si el Grupo considera que es razonablemente seguro que 
+las ejercerá; y  
+• Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que el Grupo ejercerá esta opción.  
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2026_Consolidada_TrimestreI1_1_Informe EEFF y Notas 1Q.pdf | PAGINA: 14 | vecina =====
+ 
+- 24 -  
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de arrendamiento 
+del plazo extendido también se incluyen en la medición del pasivo. Los pagos de arrendamiento se 
+descuentan utilizando la tasa de interés implícita en el arrendamiento. Si esa tasa no puede ser 
+determinada de forma simple, se utiliza la tasa incremental de endeudamiento del arrendatario, que 
+representa la tasa que se cargaría al arrendatario para captar los fondos necesarios para adquirir un 
+activo de valor similar al activo subyacente al derecho de uso, en un contexto económico similar y bajo 
+términos similares, en lo referido al plazo, garantías y condiciones. Para determinar la tasa de 
+endeudamiento incremental, el Grupo toma en cuenta los siguientes criterios:  
+ 
+• En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos.  
+• Cotiza en el mercado el producto deseado, revisando la tasa que los diversos bancos nacionales 
+ofrecen, para finalmente optar por la mejor opción, que le permita tener un balance positivo en la 
+inversión a realizar.  
+ 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interés periódica y constante aplicada sobre el 
+saldo del pasivo a la fecha de cierre. Los activos por derecho de uso se miden a su costo, el cual 
+incluye:  
+ 
+• El valor de la medición inicial del pasivo por arrendamiento.  
+• Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido.  
+• Los costos directos iniciales, y  
+• Los costos de restauración o rehabilitación a los que el Grupo esté obligada a incurrir.  
+ 
+Los activos por derecho de uso se deprecian, generalmente, en línea recta en el plazo más corto entre 
+la vida útil del activo arrendado y el plazo del arrendamiento. Si el Grupo considera que es 
+razonablemente seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en el 
+plazo de vida útil del activo subyacente. En ese sentido, las vidas útiles de los activos por derecho son 
+como siguen: 
+ 
+  Años 
+   
+Edificaciones  Entre 5 y 10 
+Equipo de cómputo  Entre 3 y 5 
+ 
+Excepciones al reconocimiento -  
+ 
+El Grupo no reconoce los activos por derecho de uso y pasivos por arrendamiento para los 
+arrendamientos a corto plazo de bienes que tienen un plazo de arrendamiento de doce meses o menos 
+y los arrendamientos de activos de bajo valor. El Grupo reconoce los pagos de arrendamiento 
+asociados a estos contratos de arrendamiento como un gasto de forma lineal durante el plazo del 
+arrendamiento. 
+ 
+2.14 Beneficios a los empleados – 
+ 
+El Grupo opera en 5 países, pero es en Perú dónde tiene la mayor cantidad de trabajadores (89 %). 
+A continuación, detallamos los principales beneficios de los trabajadores aplicables en Perú. 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2019_Consolidada_Anual_3916expertiacn19.pdf | PAGINA: 46 | vecina =====
+ 
+- 44 - 
+ 
+General de Accionistas aprueba la misma. Al 31 de diciembre de 2019 y de 2018 se encuentra 
+pendiente la transferencia legal de la utilidad del ejercicio 2019 y 2018 por US$ 903,100 y 
+US$388,248, respectivamente. 
+ 
+e) Resultados no realizados - 
+ 
+Al 31 de diciembre de 2019 y de 2018, el saldo de los resultados no realizados corresponde al efecto 
+neto de los cambios en el valor razonable de las inversiones a valor razonable con cambios en otros 
+resultados integrales. 
+ 
+f) Resultados acumulados - 
+ 
+Los dividendos que se distribuyen a accionistas distintos de personas jurídicas domiciliadas están 
+afectos al 5% por concepto del impuesto a la renta de cargo de estos accionistas; dicho impuesto es 
+retenido y liquidado por el Grupo. 
+ 
+Con fecha 6 de agosto del 2019, se acordó la distribución de dividendos con cargo a los resultados 
+del ejercicio 2019, por el monto de US$5,600,000 (equivalente a S/0.08 por acción). Con fecha 26 de 
+agosto del 2019, se acordó una distribución de dividendos pagada a uno de sus accionistas 
+minoritarios US$12,551 (equivalente a US$50.2 por acción). Adicionalmente, se incluyen US$29,826 
+de otros adelantos realizados a los accionistas minoritarios en 2019. 
+ 
+20 INGRESOS POR PRESTACION DE SERVICIOS 
+ 
+Los ingresos por prestación de servicios por los años terminados el 31 de diciembre comprende: 
+ 
+ 2019  2018  
+ US$  US$  
+ 
+Comisión por paquetes turísticos receptivos: 
+- Operadores de servicios, museos, restaurante y otros   13,930,443)  13,677,813) 
+- Hotel  4,418,668)  2,065,767) 
+- Transporte   2,317,693)   2,205,006) 
+   20,666,804)   17,948,586) 
+ 
+Comisión e incentivos por paquetes turísticos emisivo: 
+- Incentivos (“Back-end”) (a)  6,637,661)  7,147,596) 
+- Paquetes turísticos  2,497,445)  2,478,597) 
+- Comisiones de líneas aéreas y operadores   2,209,882)  2,093,185) 
+- Comisiones por tickets aéreos emitidos   1,580,004)   1,542,475) 
+   12,924,992)   13,261,853) 
+ 
+Otros ingresos   1,977,250)   1,780,615) 
+   35,569,046)   32,991,054) 
+ 
+Costo de los servicios: 
+- Servicios prestados por terceros ( 928,056) ( 1,368,191) 
+- Gastos de personal (Nota 22) ( 670,687) ( 634,133) 
+- Depreciación (Notas 11 y 14) ( 328,121) ( 230,740) 
+ ( 1,926,864) ( 2,233,064) 
+ 
+(a) Corresponden a incentivos y comisiones proporcionadas por las aerolíneas por la venta de tickets 
+aéreos al extranjero. Estos ingresos se registran en los resultados del año cuando se cumplen las 
+metas acordadas con las aerolíneas y cuando las aerolíneas realizan la liquidación del incentivo. 
+ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2019_Consolidada_Anual_3916expertiacn19.pdf | PAGINA: 47 | puntaje 11 =====
+ 
+- 45 - 
+ 
+21 GASTOS DE COMERCIALIZACION Y ADMINISTRACION 
+ 
+Los de comercialización y administración por los años terminados el 31 de diciembre comprende: 
+ 
+ 2019  2018  
+ US$  US$  
+ 
+Gasto de personal (Nota 22)  15,684,992  16,217,891 
+Servicios prestados por terceros  4,987,080  5,827,660 
+Amortización (Nota 12)  1,107,515  1,497,125 
+Cargas diversas de gestión  1,662,786  1,039,285 
+Depreciación (Notas 11 y 14)  1,521,951  526,587 
+Tributos  227,273  365,822 
+Estimación para cuentas de cobranza dudosa   779,012  143,201 
+Otros  62,468  47,939 
+  26,033,075  25,665,510 
+ 
+22 GASTOS DE PERSONAL 
+ 
+Los gastos de personal por los años terminados el 31 de diciembre comprende: 
+ 
+ 2019  2018  
+ US$  US$  
+ 
+Sueldos  11,184,010  11,375,987 
+Compensación por tiempo de servicios  930,658  820,701 
+Gratificaciones  2,086,099  1,906,714 
+Provisión de beneficios sociales  520,342  346,938 
+Vacaciones  871,391  810,288 
+Indemnizaciones al personal  348,290  1,137,032 
+Otros  414,889  454,364 
+  16,355,679  16,852,024 
+ 
+Los gastos de personal se encuentran distribuidos de la siguiente manera: 
+ 
+ 2019  2018  
+ US$  US$  
+ 
+Gastos de comercialización y administración  15,684,992  16,217,891 
+Costo de los servicios (Nota 20)  670,687  634,133 
+Total  16,355,679  16,852,024 
+ 
+23 OTROS GASTOS 
+ 
+ 2019  2018  
+ US$  US$  
+ 
+Publicidad    132,689  8,364 
+Comisiones de tarjeta de crédito  235,477  156,729 
+Baja de activo por derecho de uso  484,998             -  
+Costo de enajenación de instalaciones, mobiliario y equipo  155,429  222,824 
+Penalidades  106,097  82,226 
+Otros gastos  181,996  439,062 
+  1,296,686  909,205 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Consolidado.zip/2019_Consolidada_Anual_3916expertiacn19.pdf | PAGINA: 48 | vecina =====
+ 
+- 46 - 
+ 
+24 SITUACION TRIBUTARIA 
+ 
+a) Las compañías que conforman el Grupo están sujetas al régimen tributario del país en el que 
+operan; y tributan sobre la base de sus resultados separados en su moneda local. Al 31 de 
+diciembre de 2019 y de 2018, la tasa del impuesto a la renta sobre la utilidad gravable para los 
+años 2019 y 2018 en los principales países en que operan las compañías del Grupo se presentan 
+a continuación: 29.5% para Perú, 25% para Ecuador, 34% para Brasil y 30% para Estados 
+Unidos. 
+ 
+b) El gasto por impuesto a la renta mostrado en el estado consolidado de resultados integrales 
+comprende: 
+ 2019  2018  
+ US$  US$  
+Impuesto a la renta: 
+Corriente   )2,2,814,799)  1,919,742) 
+Diferido (Nota 18) ( 369,289) ( 140,837) 
+   2,445,510)   1,778,905) 
+ 
+c) El impuesto a la renta difiere del monto teórico que hubiera resultado de aplicar la tasa del 
+impuesto a la utilidad antes de impuesto a la renta del Grupo como sigue: 
+ 
+ 2019  2018  
+ US$  US$  
+ 
+Utilidad antes de impuesto a la renta   6,010,195)   4,634,355) 
+ 
+Tasa según ley  1,763,356)  1,367,134) 
+Impacto tributario neto de partidas no deducibles   682,154)   411,771) 
+Gasto por impuesto a la renta   2,445,510(   1,778,905) 
+ 
+d) En el Perú, la Administración Tributaria tiene la facultad de revisar y, de ser el caso, corregir el 
+Impuesto a la Renta determinado por cada una de las compañías del Grupo en los cuatro últimos 
+años, contados a partir del 1 de enero del año siguiente al de la presentación de la declaración 
+jurada del impuesto correspondiente (años abiertos a fiscalización). Debido a que pueden 
+producirse diferencias en la interpretación por parte de la Administración Tributaria sobre las 
+normas aplicables al Grupo, no es posible anticipar a la fecha si se producirán pasivos tributarios 
+adicionales como resultado de eventuales revisiones.  Cualquier impuesto adicional, multas e 
+intereses, si se produjeran, serán reconocidos en los resultados del año en el que la diferencia de 
+criterios con la Administración Tributaria se resuelva.  La Gerencia estima que no surgirán pasivos 
+de importancia como resultado de estas posibles revisiones. 
+ 
+En el caso de la subsidiaria en Ecuador, Chile, Estados Unidos y Brasil, de acuerdo con la 
+legislación vigente en cada país la administración tributaria tiene la facultad de revisar hasta los 
+últimos 6 años, 3 años, 5 años y 5 años, respectivamente, la declaración de impuesto a la renta. 
+ 
+Al 31 de diciembre de 2019, los años abiertos a fiscalización son los siguientes: 
+  
+Expertia Travel S.A.  2015 al 2019 
+Promotora de Turismo Nuevo Mundo S.A.C.  2016 al 2019 
+Cóndor Travel S.A.C.  2016 al 2019 
+Destinos Mundiales S.A.C.  2015 al 2019 
+Centro de Agencias Corporativas S.A.C.  2016 al 2019 
+Cóndor Travel Chile S.A.C.  2017 al 2019 
+Ecuador Sustainable Travel  2018 al 2019 
+Latam Sustainable Travel  2018 al 2019 
+Destinos Mundiales Chile SPA  2017 al 2019 
+L’expert Turimo Holding Ltda  2017 al 2019 
+Bekton S.A.C.  2015 al 2019 
+American Worldwide Travel  2017 al 2019 
+L’Expert Turismo Brasil   2017 al 2019 
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Individual.zip/2019_Individual_Anual_3916expertia19.pdf | PAGINA: 27 | vecina =====
+ 
+- 25 - 
+ 
+9 SITUACION TRIBUTARIA 
+ 
+a) La Gerencia considera que ha determinado la materia imponible bajo el régimen general del 
+impuesto a la renta de acuerdo con la legislación tributaria vigente, la que exige agregar y deducir 
+al resultado mostrado en los estados financieros separados, expresados en Soles, aquellas 
+partidas que la referida legislación reconoce como gravables y no gravables, respectivamente.  La 
+tasa del impuesto a la renta ha sido fijada en 29.5% para el año 2019 y 2018. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales están sujetas a la 
+retención de un impuesto adicional sobre los dividendos recibidos. 
+ 
+El impuesto a las ganancias difiere del monto teórico que hubiera resultado de aplicar la tasa del 
+impuesto a la utilidad antes de impuesto a la renta de la Compañía como sigue: 
+ 
+ 2019  2018  
+ US$000  US$000 
+ 
+Ganancia (pérdida) antes de impuesto a la renta   5,098,024) ( 499,393) 
+ 
+Tasa según ley (29.5%) ( 1,503,917)  147,320) 
+Efecto de gastos no deducibles ( 199,832) ( 147,320) 
+Efecto de ingresos no gravados (*)   1,703,749)             - ) 
+Gasto por impuesto a las ganancias             - )             - ) 
+ 
+(*) El efecto de ingresos no gravados corresponde principalmente a los dividendos percibidos de 
+sus subsidiarias. Al 31 de diciembre de 2019 y de 2018 las personas jurídicas se encuentran 
+inafectos al impuesto a la renta. 
+ 
+b) Al 31 de diciembre de 2019 la Compañía no registró el activo por impuesto a las ganancias 
+diferido de la pérdida tributaria debido a que por su actividad económica no espera obtener una 
+renta gravable que le permita compensar estas pérdidas tributarias. Al 31 de diciembre de 2019 y 
+de 2018 las pérdidas tributarias ascienden a S/3,019,950 (equivalente a US$910,446) y 
+S/S/1,746,991 (equivalente a US$516,398), respectivamente. 
+ 
+ De acuerdo con lo establecido en la Ley del Impuesto a la renta, las entidades establecidas en el 
+Perú tienen la facultad de optar entre uno de los dos métodos siguientes para el traslado de sus 
+pérdidas tributarias: 
+ 
+(i) La pérdida tributaria se podrá compensar con utilidades futuras año a año hasta su extinción 
+final, aplicando dicha pérdida hasta el 50 por ciento de su utilidad gravable. 
+(ii) La pérdida tributaria podrá ser utilizada hasta cuatro años después de haberse generado. 
+ 
+La Gerencia de la Compañía, decidió aplicar el método tributario en el cual la pérdida tributaria se 
+podrá compensar con utilidades futuras año a año hasta su extinción final, aplicando dicha 
+pérdida hasta el 50 por ciento de su utilidad gravable. El monto de la pérdida tributaria arrastrable 
+está sujeto al resultado de las revisiones indicadas en el párrafo c) siguiente. 
+ 
+Años de  Años de  
+generación  prescripción  Importe  
+    S/  
+ 
+2017  2021   440,986 
+2018  2022   1,306,005 
+2019  2023   1,632,461 
+     3,379,452 
+ 
+   
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Individual.zip/2019_Individual_Anual_3916expertia19.pdf | PAGINA: 28 | puntaje 9 =====
+ 
+- 26 - 
+ 
+c) Para propósito de la determinación del Impuesto a la Renta, los precios de transferencia de las 
+transacciones con empresas relacionadas y con empresas residentes en países o territorios de 
+baja o nula imposición, deben estar sustentados con documentación e información sobre los 
+métodos de valoración utilizados y los criterios considerados para su determinación.  Sobre la 
+base del análisis de las operaciones de la Compañía, la Gerencia y sus asesores legales opinan 
+que, como consecuencia de la aplicación de estas normas, no surgirán contingencias de 
+importancia para la Compañía al 31 de diciembre de 2019 y de 2018.  
+ 
+Con la dación del Decreto Legislativo No.1312, publicado el 31 de diciembre de 2016, se 
+modifican las obligaciones formales para las entidades comprendidas dentro del ámbito de 
+aplicación de los precios de transferencia, incorporando tres nuevas declaraciones juradas 
+informativas; la primera de Reporte Local, la segunda de Reporte Maestro y la tercera de Reporte 
+País por País. La primera vigente a partir del 2017 por las operaciones ocurridas durante el año 
+2016 y las dos últimas a partir del 2018 por las operaciones ocurridas a parir del ejercicio 2017. 
+ 
+ Mediante Decreto Supremo No.337-2018-EF se reglamentó y precisó el contenido referido al test 
+de beneficio por los servicios intragrupo, definiéndose, entre otros: el concepto de test de 
+beneficio, información sobre costos y gastos incurridos por el prestador del servicio, margen de 
+ganancia, documentación de soporte que debiese contener el referido test, el cual será de 
+aplicación a partir del 1 de enero del 2019. 
+ 
+d) La Administración Tributaria tiene la facultad de revisar y, de ser el caso, corregir el Impuesto a la 
+Renta determinado por la Compañía en los cuatro últimos años, contados a partir del 1 de enero 
+del año siguiente al de la presentación de la declaración jurada del impuesto correspondiente 
+(años abiertos a fiscalización). Los años 2015 al 2019 están abiertos a fiscalización.  Debido a que 
+pueden producirse diferencias en la interpretación por parte de la Administración Tributaria sobre 
+las normas aplicables a la Compañía, no es posible anticipar a la fecha si se producirán pasivos 
+tributarios adicionales como resultado de eventuales revisiones.  Cualquier impuesto adicional, 
+multas e intereses, si se produjeran, serán reconocidos en los resultados del año en el que la 
+diferencia de criterios con la Administración Tributaria se resuelva.  La Gerencia estima que no 
+surgirán pasivos de importancia como resultado de estas posibles revisiones. 
+ 
+e) La Ley No.29663, modificada posteriormente por la Ley No.29757, estableció que se consideran 
+rentas de fuente peruana a las obtenidas por la enajenación indirecta de acciones o 
+participaciones representativas del capital de personas jurídicas domiciliadas en el país.  
+ 
+Para tales efectos, se debe considerar que se produce una enajenación indirecta cuando se 
+enajenan acciones o participaciones representativas del capital de una persona jurídica no 
+domiciliada en el país que, a su vez, es propietaria - en forma directa o por intermedio de otra u 
+otras personas jurídicas - de acciones o participaciones representativas del capital de una o más 
+personas jurídicas domiciliadas en el país, siempre que se produzcan ciertas condiciones que 
+establece la ley. Al respecto, también define los supuestos en los cuales el emisor es responsable 
+solidario. 
+ 
+Actualmente la Ley del Impuesto a la Renta señala que, se configura un supuesto de transferencia 
+indirecta de acciones, cuando en cualquiera de los 12 meses anteriores a la enajenación, el valor 
+de mercado de las acciones o participaciones de la persona jurídica domiciliada equivalga al 50 
+por ciento o más del valor de mercado de las acciones o participaciones de la persona jurídica no 
+domiciliada. 
+ 
+Finalmente, como condición concurrente, se establece que en un período cualquiera de 12 meses 
+se enajene acciones o participaciones que representen el 10% o más del capital de una persona 
+jurídica no domiciliada.  
+ 
+   
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Individual.zip/2019_Individual_Anual_3916expertia19.pdf | PAGINA: 29 | puntaje 7 =====
+ 
+- 27 - 
+ 
+f) La Ley No.30341, con vigencia a partir del 1 de enero de 2016, ha dispuesto la exoneración del 
+Impuesto a la Renta hasta el 31 de diciembre de 2019 a las rentas provenientes de la enajenación 
+de acciones y demás valores representativos de acciones realizadas a través de un mecanismo 
+centralizado de negociación supervisado por la Superintendencia del Mercado de Valores. 
+ 
+En mérito a lo dispuesto por el Decreto Legislativo No.1262, publicado el 10 de diciembre de 
+2016, se amplió este beneficio hasta el 31 de diciembre de 2019; asimismo, se han contemplado 
+nuevos supuestos de exoneración, tales como: American Depositary Receipts (ADR) y Global 
+Depositary Receipts (GDR), Exchange Trade Fund (ETF) que tengan como subyacente acciones 
+y/o valores representativos de deuda, Valores representativos de deuda, Certificados de 
+Participación en Fondos Mutuos de Inversión en Valores, Certificados de Participación en Fondos 
+de Inversión en renta de bienes inmuebles (FIRBI) y Certificados de Participación en fideicomisos 
+de titulización para inversión en rentas de bienes raíces (FIBRA) y Facturas Negociables. 
+Mediante Decreto de Urgencia No.005-2019, publicado el 24 de octubre de 2019, se amplía la 
+exoneración hasta el 31 de diciembre del 2022. 
+ 
+Esta exoneración será aplicable siempre que se cumplan las condiciones establecidas 
+expresamente en el referido Decreto Legislativo 
+ 
+g) Marco regulatorio - Modificaciones a la Ley del Impuesto a la Renta - 
+ 
+Durante el año finalizado el 31 de diciembre de 2019 y de 2018, se emitieron los Decretos 
+Legislativos No.1422, 1424 y 1425 los cuales incluyen entre otras modificaciones la que 
+corresponde a incorporación de conceptos y/o definiciones de “país o territorio no cooperante” y 
+“régimen fiscal preferencial”, “establecimiento permanente”, “enajenación indirecta” de acciones, 
+así como de los siguientes más significativos: 
+ 
+Precios de Transferencia:  
+ 
+Se amplía el ámbito de aplicación de la normativa de Precios de Transferencia a las transacciones 
+realizadas desde, hacia o a través de países o territorios no cooperantes o con sujetos cuyos 
+ingresos o ganancias gocen de un régimen fiscal preferencial. 
+ 
+Devengo:  
+ 
+Se establece una definición legal de devengo para el reconocimiento de ingresos y gastos para 
+fines del Impuesto a la Renta, según la cual las rentas de tercera categoría se entienden 
+devengadas cuando se hayan producido los hechos sustanciales generadores del ingreso y el 
+derecho al mismo no se encuentra sujeto a una condición suspensiva.  
+ 
+Deducibilidad de gastos financieros: 
+ 
+Se incorporan nuevas reglas para la deducibilidad de intereses, y para la aplicabilidad de límites 
+tanto para préstamos otorgados por partes vinculadas, como a créditos otorgados por partes no 
+vinculadas económicamente, indicando términos para deudas constituidas o renovadas hasta el 
+13 de setiembre de 2018, desde el 14 de setiembre de 2018 y a partir del 1 de enero de 2019.  
+Para aquellas constituidas o renovadas a partir del 1 de enero de 2021, un nuevo límite para la 
+deducción de intereses netos (gastos por intereses menos intereses gravables) que excedan del 
+30% del EBITDA (renta neta luego de compensar pérdidas más intereses netos, depreciación y 
+amortización) del año anterior; pudiendo ser arrastrados a los 4 años inmediatos siguientes. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-EXPERTIA TRAVEL S.A.-Individual.zip/2019_Individual_Anual_3916expertia19.pdf | PAGINA: 30 | vecina =====
+ 
+- 28 - 
+ 
+Clausula Anti-elusiva General (Norma XVI): 
+ 
+Se ha establecido un procedimiento especial para la aplicación de la Norma XVI, según el cual la 
+SUNAT podrá aplicar lo dispuesto en los párrafos segundo al quinto de la Norma XVI en el marco 
+de una fiscalización definitiva, siempre que se cuente previamente con la opinión favorable de un 
+Comité Revisor integrado por tres (3) funcionarios de SUNAT. Asimismo, se ha establecido la 
+obligación del Directorio de aprobar, ratificar o modificar los actos, situaciones y relaciones 
+económicas a realizarse (o realizadas) en el marco de la “planificación fiscal”.  
+ 
+Por último, se establece un nuevo supuesto de responsabilidad solidaria para los representantes 
+legales del deudor tributario cuando éste sea sujeto de la aplicación de la Norma XVI, siempre 
+que tales representantes hubieren colaborado con el diseño o la aprobación o la ejecución de 
+actos o situaciones o relaciones económicas previstas en la citada norma.  Al 31 de diciembre de 
+2019, la Gerencia y los asesores legales de la Compañía han efectuado la evaluación de las 
+operaciones realizadas desde la fecha de constitución de la Compañía y que siguen produciendo 
+efecto al 31 de diciembre de 2019 y no han identificado situaciones que pudieran considerarse 
+elusivas de impuestos. 
+ 
+h) Mediante Decreto Legislativo No.1372, vigente desde el 2 de agosto de 2018, se regula la 
+obligación de las Personas Jurídicas y Entes Jurídicos de identificar a las personas naturales que 
+constituyan sus Beneficiarios Finales.  
+ 
+ El Decreto Supremo No.003-2019 reglamentó el Decreto Legislativo No.1372, estableciendo como 
+principales disposiciones los obligados a presentar la Declaración Jurada de Beneficiarios Finales 
+y los criterios para la determinación de los Beneficiarios Finales. 
+ 
+ Posteriormente, mediante Resolución de Superintendencia No.185-2019/SUNAT se regula los 
+plazos para presentar la declaración jurada estableciendo como primeros obligados las Personas 
+Jurídicas que constituyan Principales Contribuyentes para la Administración Tributaria. 
+ 
+La compañía ha realizado la presentación de la Declaración Jurada de Beneficiario Final con el 
+vencimiento de los impuestos del mes de diciembre 2019, con información al 30 de noviembre de 
+2019, de acuerdo a la obligación establecida en la Resolución de Superintendencia No.185-
+2019/SUNAT. 
+ 
+10 GASTOS DE PERSONAL 
+ 
+Los gastos de personal por el año terminado el 31 de diciembre, comprende: 
+ 
+ 2019  2018  
+ US$  US$  
+ 
+Gratificaciones extraordinarias   243,025  61,512 
+Sueldos  172,803  90,499 
+Compensación por tiempo de servicios  18,003  7,520 
+Vacaciones  25,175  7,510 
+Otros   81,256  48,832 
+  540,262  215,873 
+ 
+11 GANANCIA BASICA Y DILUIDA POR ACCION 
+ 
+La ganancia básica por acción común se calculó dividiendo la ganancia neta del año atribuible a los 
+accionistas, entre el promedio ponderado del número de acciones comunes en circulación durante el 
+año. 
+ 
+  

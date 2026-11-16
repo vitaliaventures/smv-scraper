@@ -1,0 +1,954 @@
+EMPRESA: H2OLMOS S.A.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2025_Individual_Anual_H2OLMOS_SA_EF_2025.pdf | PAGINA: 31 | vecina =====
+- 18 - 
+ 
+La vida útil, los valores residuales y el método de depreciación de los activos se 
+revisan periódicamente para asegurar que el método y el periodo de la depreciación 
+sean consistentes con el patrón previsto de beneficios económicos futuros. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable           
+si el valor en libros del activo es mayor que el estimado de su valor recuperable. 
+ 
+Al vender o retirar el inmueble, mobiliario y equipo la Concesionaria elimina el costo y 
+la depreciación acumulada correspondiente. Cualquier pérdida o ganancia que 
+resultase de su disposición se incluye en el estado de resultados integrales. 
+ 
+Los activos en etapa de construcción (trabajos en curso) se capitalizan como 
+componentes separados. A su culminación, el costo de estos activos se transfiere a su 
+categoría definitiva. Estos activos no se deprecian. 
+ 
+2.13 Activo intangible por la concesión  
+ 
+Los acuerdos de concesión de servicios públicos operados por la Concesionaria son 
+contabilizados como intangibles cuando los flujos de efectivo están condicionados 
+por la utilización del servicio público que efectúen los Usuarios, es decir, se 
+reconoce un activo intangible en la medida que el contrato le otorgue a la 
+Concesionaria un derecho contractual a cobrar a los Usuarios por los servicios 
+públicos prestados. 
+ 
+Los ingresos y costos por construcción de obras de infraestructura pública son 
+reconocidos sobre la base del grado de avance, mientras que los ingresos y gastos 
+relacionados con la prestación de servicios públicos se reconocen sobre la base del 
+devengado.  
+ 
+Si bien es cierto que la Concesión atiende a diversos Usuarios privados, que son los 
+propietarios de los terrenos que se adjudicaron en la poligonal de Tierras Nuevas del 
+valle de Olmos; la finalidad del proyecto abarca prestar los servicios de captación, 
+conducción, distribución de agua empleando para ello infraestructura hidráulica 
+pública, es decir, la Concesionaria opera y mantiene infraestructura de carácter 
+público, conforme al TUO de Concesiones. 
+ 
+En la fase de construcción, dado que el activo en concesión calificaba como un 
+activo apto, se capitalizaron los costos de financiamiento. La Concesionaria 
+reconoce un activo intangible en concesión el cual representa, el derecho que ha 
+adquirido de cobrar a los Usuarios por el servicio brindado, para recuperar los 
+montos invertidos en la fase preoperativa del Proyecto. Los flujos por recibir de los 
+Usuarios no cuentan con garantías del Concedente ni del Estado Peruano. 
+ 
+El Contrato de Concesión no prevé ninguna obligación específica de realizar 
+mantenimientos mayores, y a la fecha, las proyecciones de la Concesionaria no 
+consideran ningún mantenimiento significativo futuro. Sin embargo, debido a la 
+naturaleza de los bienes de la Concesión, el mantenimiento de estos es de 
+naturaleza constante y periódica, y forma parte de los costos de operación y 
+mantenimiento, siendo reconocidos como gastos cuando se incurren. 
+ 
+La amortización del activo intangible en Concesión se inició junto a la operación del 
+proyecto, el cual se extiende por un periodo de 251 meses siguiendo el método de 
+línea recta en un período que no excede el plazo del Contrato de Concesión. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2025_Individual_Anual_H2OLMOS_SA_EF_2025.pdf | PAGINA: 32 | puntaje 6 =====
+- 19 - 
+ 
+Un activo intangible se da de baja cuando se enajena (es decir, en la fecha en que el 
+receptor obtiene el control) o cuando no se espera obtener beneficios económicos 
+futuros derivados de su uso o enajenación. Cualquier ganancia o pérdida en el 
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto 
+procedente de la venta del activo y su importe en libros), se incluye en el estado de 
+resultados integrales cuando se da de baja el activo. 
+ 
+2.14 Deterioro de activos no financieros de larga duración  
+ 
+El valor de los activos no financieros de larga duración es revisado periódicamente 
+para determinar si existe deterioro, cuando se producen circunstancias que indiquen 
+que su valor en libros puede no ser recuperable. De haber indicios de deterioro, la 
+Concesionaria estima el importe recuperable de los activos y reconoce una pérdida 
+por desvalorización en el estado de resultados integrales.  
+ 
+El valor recuperable de un activo no financiero de larga duración es el mayor entre 
+su valor razonable menos los gastos de venta y su valor en uso. El valor de uso es el 
+valor presente de los flujos de efectivo futuros estimados que resultarán del uso 
+continuo de un activo, así como de su disposición al final de su vida útil. Los 
+importes recuperables se estiman para cada activo o, si no es posible, para la menor 
+unidad generadora de efectivo que haya sido identificada. De existir una 
+disminución de las pérdidas por desvalorización, determinada en años anteriores, se 
+registra un ingreso en el estado de resultados integrales. 
+ 
+2.15 Obligaciones financieras  
+ 
+Se reconocen inicialmente a su valor razonable, neto de los costos incurridos en la 
+transacción. Estas obligaciones se registran posteriormente a su costo amortizado; 
+cualquier diferencia entre los fondos recibidos (neto de los costos de la transacción) 
+y el valor de redención se reconoce en el estado de resultados durante el periodo 
+del préstamo usando el método de interés efectivo. 
+ 
+Las obligaciones financieras se clasifican en el pasivo corriente a menos que la 
+Concesionaria tenga derecho incondicional de diferir el pago de la obligación por lo 
+menos 12 meses contados desde la fecha del estado de situación financiera. 
+Los honorarios incurridos para obtener los préstamos se reconocen como costos de la 
+transacción en la medida de que sea probable que una parte o todo el préstamo se 
+reciban. En este caso los honorarios se difieren hasta el momento en que el 
+préstamo se reciba. En la medida de que no haya evidencia de que sea probable que 
+una parte o todo el préstamo se reciba, los honorarios se capitalizan como pagos por 
+servicios para obtener liquidez y se amortizan durante el período del préstamo con 
+el que se relaciona. 
+ 
+2.16 Valor adquisitivo constante (VAC)  
+ 
+Los costos relacionados con la actualización del valor adquisitivo de los bonos que 
+mantiene la Concesionaria se reconocen utilizando el método de la tasa ajustada 
+flotante de inflación (Ver Nota 1 f)). De acuerdo con este método, el gasto 
+financiero reconocido corresponde al valor de los intereses pagados ajustados por 
+inflación en el período, más el incremento en el capital como resultado del ajuste 
+por inflación. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2025_Individual_Anual_H2OLMOS_SA_EF_2025.pdf | PAGINA: 33 | vecina =====
+- 20 - 
+ 
+2.17 Costos de endeudamiento  
+ 
+Los costos de endeudamiento generales y específicos directamente atribuibles a la 
+adquisición, construcción y/o producción de activos aptos, los cuales son activos que 
+necesariamente toman un período sustancial para alcanzar su propósito de uso o 
+venta, son agregados al costo de dichos activos hasta que en dicho período los 
+activos estén sustancialmente listos para su propósito de uso o venta. 
+ 
+El ingreso obtenido en la inversión temporal de préstamos específicos que aún no se 
+han invertido en activos aptos se deduce de los costos de endeudamiento elegibles 
+para su capitalización. Todos los demás costos de endeudamiento son reconocidos 
+en resultados en el período en el cual han sido incurridos. 
+ 
+La Concesionaria capitaliza los costos de endeudamiento neto de los rendimientos 
+específicos de fondos aún no invertidos durante la construcción de las obras por 
+tratarse de un activo apto; caso contrario los costos de endeudamiento son 
+reconocidos como parte de los gastos financieros en el estado de resultados 
+integrales. 
+ 
+2.18 Cuentas por pagar comerciales  
+ 
+Las cuentas por pagar comerciales son obligaciones de pago por bienes o servicios 
+adquiridos de proveedores en el curso normal de los negocios. Las cuentas por pagar 
+se clasifican como pasivos corrientes si el pago se debe realizar dentro de un año o 
+menos (o en el ciclo operativo normal del negocio si es mayor); de lo contrario, se 
+presentan como pasivos no corrientes.  
+ 
+Las cuentas por pagar se reconocen inicialmente a su valor razonable y 
+posteriormente, en la medida que el efecto de su descuento a su valor presente sea 
+importante, se remiden al costo amortizado usando el método de interés efectivo; 
+de lo contrario, se muestran a su valor nominal. 
+ 
+2.19 Anticipos otorgados y recibidos  
+ 
+Los anticipos otorgados corresponden a adelantos a proveedores y subcontratistas 
+por la retribución futura de servicios relacionados al mantenimiento del proyecto. 
+Los anticipos otorgados en moneda extranjera corresponden a partidas no 
+monetarias que se reconocen en la moneda funcional al tipo de cambio de la fecha 
+de su otorgamiento. 
+ 
+Los anticipos otorgados de acuerdo con los términos de los correspondientes 
+contratos se clasifican como un activo corriente, y se amortizan aplicándolos contra 
+las facturas o valorizaciones en función de los porcentajes acordados en cada 
+contrato. 
+ 
+Los anticipos recibidos provenientes del Pago por Capacidad corresponden a 
+adelantos de los Usuarios por el servicio que es prestado desde el inicio de 
+operaciones del proyecto. Estos adelantos se reconocieron a su valor nominal en la 
+moneda funcional, utilizando el tipo de cambio de cierre financiero, y se amortizan 
+contra el estado de resultados integrales en la cuenta ingresos por servicios de 
+operación y mantenimiento durante el plazo de duración del respectivo contrato de 
+servicios, descrito en la Nota 16 (plazo en el cual la infraestructura será puesta a 
+disposición del usuario a fin de distribuir el agua). 
+ 
+Los anticipos recibidos de acuerdo con los términos de los correspondientes 
+contratos se clasifican como un pasivo corriente, y se amortizan aplicándolos contra 
+las facturas o valorizaciones en función de los porcentajes acordados en cada 
+contrato. 
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2022_Individual_Anual_EEFF H2Olmos 2022 Auditados.pdf | PAGINA: 31 | vecina =====
+- 18 -
+2.9 Cuentas por cobrar comerciales
+Las cuentas por cobrar comerciales son los montos que adeudan los Usuarios por el
+servicio de operación y mantenimiento por la Concesionaria de acuerdo con el
+contrato suscrito denominado Contrato de Servicio de Captación, Conducción y
+Distribución de Agua (Nota 1 (d)). Si se esperan cobrar en un año o menos se
+clasifican como activos corrientes. Las cuentas por cobrar comerciales se reconocen
+inicialmente a su valor razonable y posteriormente se miden al costo amortizado
+utilizando el método de interés efectivo menos la estimación por deterioro.
+2.10 Suministros
+Los suministros corresponden a materiales de obra usados en el desarrollo del
+mantenimiento anual de las obras de la Concesión y se valúan al costo de
+adquisición.  La estimación para desvalorización se carga a los resultados del año y
+es determinada en función a un análisis efectuado sobre las condiciones y la
+rotación de los inventarios.
+El costo de suministros se carga al estado de resultados integrales conforme se
+consumen.
+2.11 Inmueble, mobiliario y equipo
+El inmueble, mobiliario y equipo se presentan al costo de adquisición menos su
+depreciación acumulada y si las hubiera, el importe acumulado de las pérdidas por
+deterioro del valor.
+El costo histórico de adquisición incluye los desembolsos directamente atribuibles a
+la adquisición de los activos.
+Los desembolsos posteriores y renovaciones de importancia se reconocen como
+activo, cuando es probable que la Concesionaria obtenga beneficios económicos
+futuros derivados del mismo y su costo pueda ser valorizado con fiabilidad. El
+mantenimiento y las reparaciones menores son reconocidos como gastos según se
+incurren.
+La depreciación de los activos fijos es calculada siguiendo el método de línea recta
+sobre la base de su vida útil estimada, como sigue:
+Años
+Inmuebles y otras construcciones 20
+Maquinaria y equipo 10
+Unidades de transporte 5
+Equipos de cómputo 4
+Mobiliario y equipos diversos 4
+La vida útil, los valores residuales y el método de depreciación de los activos se
+revisan periódicamente para asegurar que el método y el periodo de la depreciación
+sean consistentes con el patrón previsto de beneficios económicos futuros.
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable
+si el valor en libros del activo es mayor que el estimado de su valor recuperable.
+Al vender o retirar el inmueble, mobiliario y equipo la Concesionaria elimina el costo y
+la depreciación acumulada correspondiente. Cualquier pérdida o ganancia que
+resultase de su disposición se incluye en el estado de resultados integrales.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2022_Individual_Anual_EEFF H2Olmos 2022 Auditados.pdf | PAGINA: 32 | puntaje 5 =====
+- 19 -
+Los activos en etapa de construcción (activos en curso) se capitalizan como
+componentes separados. A su culminación, el costo de estos activos se transfiere a su
+categoría definitiva. Estos activos no se deprecian.
+2.12 Activo intangible por la Concesión
+Los acuerdos de concesión de servicios públicos operados por la Concesionaria son
+contabilizados como intangibles cuando los flujos de efectivo están condicionados
+por la utilización del servicio público que efectúen los Usuarios, es decir, se
+reconoce un activo intangible en la medida que el contrato le otorgue a la
+Concesionaria un derecho contractual a cobrar a los Usuarios por los servicios
+públicos prestados.
+Los ingresos y costos por construcción de obras de infraestructura pública son
+reconocidos sobre la base del grado de avance, mientras que los ingresos y gastos
+relacionados con la prestación de servicios públicos se reconocen sobre la base del
+devengado.
+Si bien es cierto que la Concesión atiende a diversos Usuarios privados, que son los
+propietarios de los terrenos que se adjudicaron en la poligonal de Tierras Nuevas del
+valle de Olmos; la finalidad del proyecto abarca prestar los servicios de captación,
+conducción, distribución de agua empleando para ello infraestructura hidráulica
+pública, es decir, la Concesionaria opera y mantiene infraestructura de carácter
+público, conforme al TUO de Concesiones.
+En la fase de construcción, dado que el activo en concesión calificaba como un
+activo apto, se capitalizaron los costos de financiamiento. La Concesionaria
+reconoce un activo intangible en concesión el cual representa, el derecho que ha
+adquirido de cobrar a los Usuarios por el servicio brindado, para recuperar los
+montos invertidos en la fase preoperativa del Proyecto. Los flujos a recibir de los
+Usuarios no cuentan con garantías del Concedente ni del Estado Peruano.
+El Contrato de Concesión no prevé ninguna obligación específica de realizar
+mantenimientos mayores, y a la fecha, las proyecciones de la Concesionaria no
+consideran ningún mantenimiento significativo futuro. Sin embargo, debido a la
+naturaleza de los bienes de la Concesión, el mantenimiento de los mismos es de
+naturaleza constante y periódica, y forma parte de los costos de operación y
+mantenimiento, siendo reconocidos como gastos cuando se incurren.
+La amortización del activo intangible en Concesión se inició junto a la operación del
+proyecto, el cual se extiende por un periodo de 251 meses siguiendo el método de
+línea recta en un período que no excede el plazo del Contrato de Concesión.
+Un activo intangible se da de baja cuando se enajena (es decir, en la fecha en que el
+receptor obtiene el control) o cuando no se espera obtener beneficios económicos
+futuros derivados de su uso o enajenación. Cualquier ganancia o pérdida en el
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto
+procedente de la venta del activo y su importe en libros), se incluye en el estado de
+resultados integrales cuando se da de baja el activo.
+2.13 Deterioro de activos no financieros de largo plazo
+El valor del inmueble, mobiliario y equipo y el activo intangible por la Concesión son
+revisados periódicamente para determinar si existe deterioro, cuando se producen
+circunstancias que indiquen que el valor en libros puede no ser recuperable. De
+haber indicios de deterioro, la Concesionaria estima el importe recuperable de los
+activos y reconoce una pérdida por desvalorización en el estado de resultados
+integrales.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2022_Individual_Anual_EEFF H2Olmos 2022 Auditados.pdf | PAGINA: 33 | vecina =====
+- 20 -
+El valor recuperable de un activo es el mayor entre su valor razonable menos los
+gastos de venta y su valor en uso. El valor de uso es el valor presente de los flujos
+de efectivo futuros estimados que resultarán del uso continuo de un activo, así como
+de su disposición al final de su vida útil. Los importes recuperables se estiman para
+cada activo o, si no es posible, para la menor unidad generadora de efectivo que
+haya sido identificada.
+2.14 Obligaciones financieras
+Se reconocen inicialmente a su valor razonable, neto de los costos incurridos en la
+transacción. Estas obligaciones se registran posteriormente a su costo amortizado;
+cualquier diferencia entre los fondos recibidos (neto de los costos de la transacción)
+y el valor de redención se reconoce en el estado de resultados durante el periodo
+del préstamo usando el método de interés efectivo.
+Las obligaciones financieras se clasifican en el pasivo corriente a menos que la
+Concesionaria tenga derecho incondicional de diferir el pago de la obligación por lo
+menos 12 meses contados desde la fecha del estado de situación financiera.
+Los honorarios incurridos para obtener los préstamos se reconocen como costos de la
+transacción en la medida de que sea probable que una parte o todo el préstamo se
+reciban. En este caso los honorarios se difieren hasta el momento en que el
+préstamo se reciba. En la medida de que no haya evidencia de que sea probable que
+una parte o todo el préstamo se reciba, los honorarios se capitalizan como pagos por
+servicios para obtener liquidez y se amortizan durante el período del préstamo con
+el que se relaciona.
+2.15 Valor adquisitivo constante (VAC)
+Los costos relacionados con la actualización del valor adquisitivo de los bonos que
+mantiene la Concesionaria se reconocen utilizando el método de la tasa ajustada
+flotante de inflación (Nota 1f)). De acuerdo con este método, el gasto financiero
+reconocido corresponde al valor de los intereses pagados ajustados por inflación en
+el período, más el incremento en el capital como resultado del ajuste por inflación.
+2.16 Costos de endeudamiento
+Los costos de endeudamiento generales y específicos directamente atribuibles a la
+adquisición, construcción y/o producción de activos aptos, los cuales son activos que
+necesariamente toman un período sustancial para alcanzar su propósito de uso o
+venta, son agregados al costo de dichos activos hasta que en dicho período los
+activos estén sustancialmente listos para su propósito de uso o venta.
+El ingreso obtenido en la inversión temporal de préstamos específicos que aún no se
+han invertido en activos aptos se deduce de los costos de endeudamiento elegibles
+para su capitalización. Todos los demás costos de endeudamiento son reconocidos
+en resultados en el período en el cual han sido incurridos.
+La Concesionaria capitaliza los costos de endeudamiento neto de los rendimientos
+específicos de fondos aún no invertidos durante la construcción de las obras por
+tratarse de un activo apto; caso contrario los costos de endeudamiento son
+reconocidos como parte de los gastos financieros en el estado de resultados
+integrales.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2026_Individual_TrimestreI2_EEFF_2T2026_H2Olmos.pdf | PAGINA: 24 | vecina =====
+- 18 - 
+ 
+La vida útil, los valores residuales y el método de depreciación de los activos se 
+revisan periódicamente para asegurar que el método y el periodo de la depreciación 
+sean consistentes con el patrón previsto de beneficios económicos futuros. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable           
+si el valor en libros del activo es mayor que el estimado de su valor recuperable. 
+ 
+Al vender o retirar el inmueble, mobiliario y equipo la Concesionaria elimina el costo y 
+la depreciación acumulada correspondiente. Cualquier pérdida o ganancia que 
+resultase de su disposición se incluye en el estado de resultados integrales. 
+ 
+Los activos en etapa de construcción (trabajos en curso) se capitalizan como 
+componentes separados. A su culminación, el costo de estos activos se transfiere a su 
+categoría definitiva. Estos activos no se deprecian. 
+ 
+2.13 Activo intangible por la concesión  
+ 
+Los acuerdos de concesión de servicios públicos operados por la Concesionaria son 
+contabilizados como intangibles cuando los flujos de efectivo están condicionados 
+por la utilización del servicio público que efectúen los Usuarios, es decir, se 
+reconoce un activo intangible en la medida que el contrato le otorgue a la 
+Concesionaria un derecho contractual a cobrar a los Usuarios por los servicios 
+públicos prestados. 
+ 
+Los ingresos y costos por construcción de obras de infraestructura pública son 
+reconocidos sobre la base del grado de avance, mientras que los ingresos y gastos 
+relacionados con la prestación de servicios públicos se reconocen sobre la base del 
+devengado.  
+ 
+Si bien es cierto que la Concesión atiende a diversos Usuarios privados, que son los 
+propietarios de los terrenos que se adjudicaron en la poligonal de Tierras Nuevas del 
+valle de Olmos; la finalidad del proyecto abarca prestar los servicios de captación, 
+conducción, distribución de agua empleando para ello infraestructura hidráulica 
+pública, es decir, la Concesionaria opera y mantiene infraestructura de carácter 
+público, conforme al TUO de Concesiones. 
+ 
+En la fase de construcción, dado que el activo en concesión calificaba como un 
+activo apto, se capitalizaron los costos de financiamiento. La Concesionaria 
+reconoce un activo intangible en concesión el cual representa, el derecho que ha 
+adquirido de cobrar a los Usuarios por el servicio brindado, para recuperar los 
+montos invertidos en la fase preoperativa del Proyecto. Los flujos por recibir de los 
+Usuarios no cuentan con garantías del Concedente ni del Estado Peruano. 
+ 
+El Contrato de Concesión no prevé ninguna obligación específica de realizar 
+mantenimientos mayores, y a la fecha, las proyecciones de la Concesionaria no 
+consideran ningún mantenimiento significativo futuro. Sin embargo, debido a la 
+naturaleza de los bienes de la Concesión, el mantenimiento de estos es de 
+naturaleza constante y periódica, y forma parte de los costos de operación y 
+mantenimiento, siendo reconocidos como gastos cuando se incurren. 
+ 
+La amortización del activo intangible en Concesión se inició junto a la operación del 
+proyecto, el cual se extiende por un periodo de 251 meses siguiendo el método de 
+línea recta en un período que no excede el plazo del Contrato de Concesión. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2026_Individual_TrimestreI2_EEFF_2T2026_H2Olmos.pdf | PAGINA: 25 | puntaje 6 =====
+- 19 - 
+ 
+Un activo intangible se da de baja cuando se enajena (es decir, en la fecha en que el 
+receptor obtiene el control) o cuando no se espera obtener beneficios económicos 
+futuros derivados de su uso o enajenación. Cualquier ganancia o pérdida en el 
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto 
+procedente de la venta del activo y su importe en libros), se incluye en el estado de 
+resultados integrales cuando se da de baja el activo. 
+ 
+2.14 Deterioro de activos no financieros de larga duración  
+ 
+El valor de los activos no financieros de larga duración es revisado periódicamente 
+para determinar si existe deterioro, cuando se producen circunstancias que indiquen 
+que su valor en libros puede no ser recuperable. De haber indicios de deterioro, la 
+Concesionaria estima el importe recuperable de los activos y reconoce una pérdida 
+por desvalorización en el estado de resultados integrales.  
+ 
+El valor recuperable de un activo no financiero de larga duración es el mayor entre 
+su valor razonable menos los gastos de venta y su valor en uso. El valor de uso es el 
+valor presente de los flujos de efectivo futuros estimados que resultarán del uso 
+continuo de un activo, así como de su disposición al final de su vida útil. Los 
+importes recuperables se estiman para cada activo o, si no es posible, para la menor 
+unidad generadora de efectivo que haya sido identificada. De existir una 
+disminución de las pérdidas por desvalorización, determinada en años anteriores, se 
+registra un ingreso en el estado de resultados integrales. 
+ 
+2.15 Obligaciones financieras  
+ 
+Se reconocen inicialmente a su valor razonable, neto de los costos incurridos en la 
+transacción. Estas obligaciones se registran posteriormente a su costo amortizado; 
+cualquier diferencia entre los fondos recibidos (neto de los costos de la transacción) 
+y el valor de redención se reconoce en el estado de resultados durante el periodo 
+del préstamo usando el método de interés efectivo. 
+ 
+Las obligaciones financieras se clasifican en el pasivo corriente a menos que la 
+Concesionaria tenga derecho incondicional de diferir el pago de la obligación por lo 
+menos 12 meses contados desde la fecha del estado de situación financiera. 
+Los honorarios incurridos para obtener los préstamos se reconocen como costos de la 
+transacción en la medida de que sea probable que una parte o todo el préstamo se 
+reciban. En este caso los honorarios se difieren hasta el momento en que el 
+préstamo se reciba. En la medida de que no haya evidencia de que sea probable que 
+una parte o todo el préstamo se reciba, los honorarios se capitalizan como pagos por 
+servicios para obtener liquidez y se amortizan durante el período del préstamo con 
+el que se relaciona. 
+ 
+2.16 Valor adquisitivo constante (VAC)  
+ 
+Los costos relacionados con la actualización del valor adquisitivo de los bonos que 
+mantiene la Concesionaria se reconocen utilizando el método de la tasa ajustada 
+flotante de inflación (Ver Nota 1 f)). De acuerdo con este método, el gasto 
+financiero reconocido corresponde al valor de los intereses pagados ajustados por 
+inflación en el período, más el incremento en el capital como resultado del ajuste 
+por inflación. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2026_Individual_TrimestreI2_EEFF_2T2026_H2Olmos.pdf | PAGINA: 26 | vecina =====
+- 20 - 
+ 
+2.17 Costos de endeudamiento  
+ 
+Los costos de endeudamiento generales y específicos directamente atribuibles a la 
+adquisición, construcción y/o producción de activos aptos, los cuales son activos que 
+necesariamente toman un período sustancial para alcanzar su propósito de uso o 
+venta, son agregados al costo de dichos activos hasta que en dicho período los 
+activos estén sustancialmente listos para su propósito de uso o venta. 
+ 
+El ingreso obtenido en la inversión temporal de préstamos específicos que aún no se 
+han invertido en activos aptos se deduce de los costos de endeudamiento elegibles 
+para su capitalización. Todos los demás costos de endeudamiento son reconocidos 
+en resultados en el período en el cual han sido incurridos. 
+ 
+La Concesionaria capitaliza los costos de endeudamiento neto de los rendimientos 
+específicos de fondos aún no invertidos durante la construcción de las obras por 
+tratarse de un activo apto; caso contrario los costos de endeudamiento son 
+reconocidos como parte de los gastos financieros en el estado de resultados 
+integrales. 
+ 
+2.18 Cuentas por pagar comerciales  
+ 
+Las cuentas por pagar comerciales son obligaciones de pago por bienes o servicios 
+adquiridos de proveedores en el curso normal de los negocios. Las cuentas por pagar 
+se clasifican como pasivos corrientes si el pago se debe realizar dentro de un año o 
+menos (o en el ciclo operativo normal del negocio si es mayor); de lo contrario, se 
+presentan como pasivos no corrientes.  
+ 
+Las cuentas por pagar se reconocen inicialmente a su valor razonable y 
+posteriormente, en la medida que el efecto de su descuento a su valor presente sea 
+importante, se remiden al costo amortizado usando el método de interés efectivo; 
+de lo contrario, se muestran a su valor nominal. 
+ 
+2.19 Anticipos otorgados y recibidos  
+ 
+Los anticipos otorgados corresponden a adelantos a proveedores y subcontratistas 
+por la retribución futura de servicios relacionados al mantenimiento del proyecto. 
+Los anticipos otorgados en moneda extranjera corresponden a partidas no 
+monetarias que se reconocen en la moneda funcional al tipo de cambio de la fecha 
+de su otorgamiento. 
+ 
+Los anticipos otorgados de acuerdo con los términos de los correspondientes 
+contratos se clasifican como un activo corriente, y se amortizan aplicándolos contra 
+las facturas o valorizaciones en función de los porcentajes acordados en cada 
+contrato. 
+ 
+Los anticipos recibidos provenientes del Pago por Capacidad corresponden a 
+adelantos de los Usuarios por el servicio que es prestado desde el inicio de 
+operaciones del proyecto. Estos adelantos se reconocieron a su valor nominal en la 
+moneda funcional, utilizando el tipo de cambio de cierre financiero, y se amortizan 
+contra el estado de resultados integrales en la cuenta ingresos por servicios de 
+operación y mantenimiento durante el plazo de duración del respectivo contrato de 
+servicios, descrito en la Nota 16 (plazo en el cual la infraestructura será puesta a 
+disposición del usuario a fin de distribuir el agua). 
+ 
+Los anticipos recibidos de acuerdo con los términos de los correspondientes 
+contratos se clasifican como un pasivo corriente, y se amortizan aplicándolos contra 
+las facturas o valorizaciones en función de los porcentajes acordados en cada 
+contrato. 
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2023_Individual_Anual_EEFF_H2O_2023_Auditados.pdf | PAGINA: 31 | vecina =====
+- 18 -
+2.10 Suministros
+Los suministros corresponden a materiales de obra usados en el desarrollo del
+mantenimiento anual de las obras de la Concesión y se valúan al costo de
+adquisición.  La estimación para desvalorización se carga a los resultados del año y
+es determinada en función a un análisis efectuado sobre las condiciones y la
+rotación de los inventarios.
+El costo de suministros se carga al estado de resultados integrales conforme se
+consumen.
+2.11 Inmueble, mobiliario y equipo
+El inmueble, mobiliario y equipo se presentan al costo de adquisición menos su
+depreciación acumulada y si las hubiera, el importe acumulado de las pérdidas por
+deterioro del valor.
+El costo histórico de adquisición incluye los desembolsos directamente atribuibles a
+la adquisición de los activos.
+Los desembolsos posteriores y renovaciones de importancia se reconocen como
+activo, cuando es probable que la Concesionaria obtenga beneficios económicos
+futuros derivados del mismo y su costo pueda ser valorizado con fiabilidad. El
+mantenimiento y las reparaciones menores son reconocidos como gastos según se
+incurren.
+La depreciación de los activos fijos es calculada siguiendo el método de línea recta
+sobre la base de su vida útil estimada, como sigue:
+Años
+Inmuebles y otras construcciones 20
+Maquinaria y equipo 10
+Unidades de transporte 5
+Equipos de cómputo 4
+Mobiliario y equipos diversos 4
+La vida útil, los valores residuales y el método de depreciación de los activos se
+revisan periódicamente para asegurar que el método y el periodo de la depreciación
+sean consistentes con el patrón previsto de beneficios económicos futuros.
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable
+si el valor en libros del activo es mayor que el estimado de su valor recuperable.
+Al vender o retirar el inmueble, mobiliario y equipo la Concesionaria elimina el costo y
+la depreciación acumulada correspondiente. Cualquier pérdida o ganancia que
+resultase de su disposición se incluye en el estado de resultados integrales.
+Los activos en etapa de construcción (activos en curso) se capitalizan como
+componentes separados. A su culminación, el costo de estos activos se transfiere a su
+categoría definitiva. Estos activos no se deprecian.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2023_Individual_Anual_EEFF_H2O_2023_Auditados.pdf | PAGINA: 32 | puntaje 5 =====
+- 19 -
+2.12 Activo intangible por la concesión
+Los acuerdos de concesión de servicios públicos operados por la Concesionaria son
+contabilizados como intangibles cuando los flujos de efectivo están condicionados
+por la utilización del servicio público que efectúen los Usuarios, es decir, se
+reconoce un activo intangible en la medida que el contrato le otorgue a la
+Concesionaria un derecho contractual a cobrar a los Usuarios por los servicios
+públicos prestados.
+Los ingresos y costos por construcción de obras de infraestructura pública son
+reconocidos sobre la base del grado de avance, mientras que los ingresos y gastos
+relacionados con la prestación de servicios públicos se reconocen sobre la base del
+devengado.
+Si bien es cierto que la Concesión atiende a diversos Usuarios privados, que son los
+propietarios de los terrenos que se adjudicaron en la poligonal de Tierras Nuevas del
+valle de Olmos; la finalidad del proyecto abarca prestar los servicios de captación,
+conducción, distribución de agua empleando para ello infraestructura hidráulica
+pública, es decir, la Concesionaria opera y mantiene infraestructura de carácter
+público, conforme al TUO de Concesiones.
+En la fase de construcción, dado que el activo en concesión calificaba como un
+activo apto, se capitalizaron los costos de financiamiento. La Concesionaria
+reconoce un activo intangible en concesión el cual representa, el derecho que ha
+adquirido de cobrar a los Usuarios por el servicio brindado, para recuperar los
+montos invertidos en la fase preoperativa del Proyecto. Los flujos a recibir de los
+Usuarios no cuentan con garantías del Concedente ni del Estado Peruano.
+El Contrato de Concesión no prevé ninguna obligación específica de realizar
+mantenimientos mayores, y a la fecha, las proyecciones de la Concesionaria no
+consideran ningún mantenimiento significativo futuro. Sin embargo, debido a la
+naturaleza de los bienes de la Concesión, el mantenimiento de los mismos es de
+naturaleza constante y periódica, y forma parte de los costos de operación y
+mantenimiento, siendo reconocidos como gastos cuando se incurren.
+La amortización del activo intangible en Concesión se inició junto a la operación del
+proyecto, el cual se extiende por un periodo de 251 meses siguiendo el método de
+línea recta en un período que no excede el plazo del Contrato de Concesión.
+Un activo intangible se da de baja cuando se enajena (es decir, en la fecha en que el
+receptor obtiene el control) o cuando no se espera obtener beneficios económicos
+futuros derivados de su uso o enajenación. Cualquier ganancia o pérdida en el
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto
+procedente de la venta del activo y su importe en libros), se incluye en el estado de
+resultados integrales cuando se da de baja el activo.
+2.13 Deterioro de activos no financieros de larga duración
+El valor de los activos no financieros de larga duración es revisado periódicamente
+para determinar si existe deterioro, cuando se producen circunstancias que indiquen
+que su valor en libros puede no ser recuperable. De haber indicios de deterioro, la
+Concesionaria estima el importe recuperable de los activos y reconoce una pérdida
+por desvalorización en el estado de resultados integrales.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2023_Individual_Anual_EEFF_H2O_2023_Auditados.pdf | PAGINA: 33 | vecina =====
+- 20 -
+El valor recuperable de un activo no financiero de larga duración es el mayor entre
+su valor razonable menos los gastos de venta y su valor en uso. El valor de uso es el
+valor presente de los flujos de efectivo futuros estimados que resultarán del uso
+continuo de un activo, así como de su disposición al final de su vida útil. Los
+importes recuperables se estiman para cada activo o, si no es posible, para la menor
+unidad generadora de efectivo que haya sido identificada.
+2.14 Obligaciones financieras
+Se reconocen inicialmente a su valor razonable, neto de los costos incurridos en la
+transacción. Estas obligaciones se registran posteriormente a su costo amortizado;
+cualquier diferencia entre los fondos recibidos (neto de los costos de la transacción)
+y el valor de redención se reconoce en el estado de resultados durante el periodo
+del préstamo usando el método de interés efectivo.
+Las obligaciones financieras se clasifican en el pasivo corriente a menos que la
+Concesionaria tenga derecho incondicional de diferir el pago de la obligación por lo
+menos 12 meses contados desde la fecha del estado de situación financiera.
+Los honorarios incurridos para obtener los préstamos se reconocen como costos de la
+transacción en la medida de que sea probable que una parte o todo el préstamo se
+reciban. En este caso los honorarios se difieren hasta el momento en que el
+préstamo se reciba. En la medida de que no haya evidencia de que sea probable que
+una parte o todo el préstamo se reciba, los honorarios se capitalizan como pagos por
+servicios para obtener liquidez y se amortizan durante el período del préstamo con
+el que se relaciona.
+2.15 Valor adquisitivo constante (VAC)
+Los costos relacionados con la actualización del valor adquisitivo de los bonos que
+mantiene la Concesionaria se reconocen utilizando el método de la tasa ajustada
+flotante de inflación (Nota 1f)). De acuerdo con este método, el gasto financiero
+reconocido corresponde al valor de los intereses pagados ajustados por inflación en
+el período, más el incremento en el capital como resultado del ajuste por inflación.
+2.16 Costos de endeudamiento
+Los costos de endeudamiento generales y específicos directamente atribuibles a la
+adquisición, construcción y/o producción de activos aptos, los cuales son activos que
+necesariamente toman un período sustancial para alcanzar su propósito de uso o
+venta, son agregados al costo de dichos activos hasta que en dicho período los
+activos estén sustancialmente listos para su propósito de uso o venta.
+El ingreso obtenido en la inversión temporal de préstamos específicos que aún no se
+han invertido en activos aptos se deduce de los costos de endeudamiento elegibles
+para su capitalización. Todos los demás costos de endeudamiento son reconocidos
+en resultados en el período en el cual han sido incurridos.
+La Concesionaria capitaliza los costos de endeudamiento neto de los rendimientos
+específicos de fondos aún no invertidos durante la construcción de las obras por
+tratarse de un activo apto; caso contrario los costos de endeudamiento son
+reconocidos como parte de los gastos financieros en el estado de resultados
+integrales.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2026_Individual_TrimestreI1_EEFF_1T2026_H2Olmos.pdf | PAGINA: 24 | vecina =====
+- 18 - 
+ 
+La vida útil, los valores residuales y el método de depreciación de los activos se 
+revisan periódicamente para asegurar que el método y el periodo de la depreciación 
+sean consistentes con el patrón previsto de beneficios económicos futuros. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable           
+si el valor en libros del activo es mayor que el estimado de su valor recuperable. 
+ 
+Al vender o retirar el inmueble, mobiliario y equipo la Concesionaria elimina el costo y 
+la depreciación acumulada correspondiente. Cualquier pérdida o ganancia que 
+resultase de su disposición se incluye en el estado de resultados integrales. 
+ 
+Los activos en etapa de construcción (trabajos en curso) se capitalizan como 
+componentes separados. A su culminación, el costo de estos activos se transfiere a su 
+categoría definitiva. Estos activos no se deprecian. 
+ 
+2.13 Activo intangible por la concesión  
+ 
+Los acuerdos de concesión de servicios públicos operados por la Concesionaria son 
+contabilizados como intangibles cuando los flujos de efectivo están condicionados 
+por la utilización del servicio público que efectúen los Usuarios, es decir, se 
+reconoce un activo intangible en la medida que el contrato le otorgue a la 
+Concesionaria un derecho contractual a cobrar a los Usuarios por los servicios 
+públicos prestados. 
+ 
+Los ingresos y costos por construcción de obras de infraestructura pública son 
+reconocidos sobre la base del grado de avance, mientras que los ingresos y gastos 
+relacionados con la prestación de servicios públicos se reconocen sobre la base del 
+devengado.  
+ 
+Si bien es cierto que la Concesión atiende a diversos Usuarios privados, que son los 
+propietarios de los terrenos que se adjudicaron en la poligonal de Tierras Nuevas del 
+valle de Olmos; la finalidad del proyecto abarca prestar los servicios de captación, 
+conducción, distribución de agua empleando para ello infraestructura hidráulica 
+pública, es decir, la Concesionaria opera y mantiene infraestructura de carácter 
+público, conforme al TUO de Concesiones. 
+ 
+En la fase de construcción, dado que el activo en concesión calificaba como un 
+activo apto, se capitalizaron los costos de financiamiento. La Concesionaria 
+reconoce un activo intangible en concesión el cual representa, el derecho que ha 
+adquirido de cobrar a los Usuarios por el servicio brindado, para recuperar los 
+montos invertidos en la fase preoperativa del Proyecto. Los flujos por recibir de los 
+Usuarios no cuentan con garantías del Concedente ni del Estado Peruano. 
+ 
+El Contrato de Concesión no prevé ninguna obligación específica de realizar 
+mantenimientos mayores, y a la fecha, las proyecciones de la Concesionaria no 
+consideran ningún mantenimiento significativo futuro. Sin embargo, debido a la 
+naturaleza de los bienes de la Concesión, el mantenimiento de estos es de 
+naturaleza constante y periódica, y forma parte de los costos de operación y 
+mantenimiento, siendo reconocidos como gastos cuando se incurren. 
+ 
+La amortización del activo intangible en Concesión se inició junto a la operación del 
+proyecto, el cual se extiende por un periodo de 251 meses siguiendo el método de 
+línea recta en un período que no excede el plazo del Contrato de Concesión. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2026_Individual_TrimestreI1_EEFF_1T2026_H2Olmos.pdf | PAGINA: 25 | puntaje 6 =====
+- 19 - 
+ 
+Un activo intangible se da de baja cuando se enajena (es decir, en la fecha en que el 
+receptor obtiene el control) o cuando no se espera obtener beneficios económicos 
+futuros derivados de su uso o enajenación. Cualquier ganancia o pérdida en el 
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto 
+procedente de la venta del activo y su importe en libros), se incluye en el estado de 
+resultados integrales cuando se da de baja el activo. 
+ 
+2.14 Deterioro de activos no financieros de larga duración  
+ 
+El valor de los activos no financieros de larga duración es revisado periódicamente 
+para determinar si existe deterioro, cuando se producen circunstancias que indiquen 
+que su valor en libros puede no ser recuperable. De haber indicios de deterioro, la 
+Concesionaria estima el importe recuperable de los activos y reconoce una pérdida 
+por desvalorización en el estado de resultados integrales.  
+ 
+El valor recuperable de un activo no financiero de larga duración es el mayor entre 
+su valor razonable menos los gastos de venta y su valor en uso. El valor de uso es el 
+valor presente de los flujos de efectivo futuros estimados que resultarán del uso 
+continuo de un activo, así como de su disposición al final de su vida útil. Los 
+importes recuperables se estiman para cada activo o, si no es posible, para la menor 
+unidad generadora de efectivo que haya sido identificada. De existir una 
+disminución de las pérdidas por desvalorización, determinada en años anteriores, se 
+registra un ingreso en el estado de resultados integrales. 
+ 
+2.15 Obligaciones financieras  
+ 
+Se reconocen inicialmente a su valor razonable, neto de los costos incurridos en la 
+transacción. Estas obligaciones se registran posteriormente a su costo amortizado; 
+cualquier diferencia entre los fondos recibidos (neto de los costos de la transacción) 
+y el valor de redención se reconoce en el estado de resultados durante el periodo 
+del préstamo usando el método de interés efectivo. 
+ 
+Las obligaciones financieras se clasifican en el pasivo corriente a menos que la 
+Concesionaria tenga derecho incondicional de diferir el pago de la obligación por lo 
+menos 12 meses contados desde la fecha del estado de situación financiera. 
+Los honorarios incurridos para obtener los préstamos se reconocen como costos de la 
+transacción en la medida de que sea probable que una parte o todo el préstamo se 
+reciban. En este caso los honorarios se difieren hasta el momento en que el 
+préstamo se reciba. En la medida de que no haya evidencia de que sea probable que 
+una parte o todo el préstamo se reciba, los honorarios se capitalizan como pagos por 
+servicios para obtener liquidez y se amortizan durante el período del préstamo con 
+el que se relaciona. 
+ 
+2.16 Valor adquisitivo constante (VAC)  
+ 
+Los costos relacionados con la actualización del valor adquisitivo de los bonos que 
+mantiene la Concesionaria se reconocen utilizando el método de la tasa ajustada 
+flotante de inflación (Ver Nota 1 f)). De acuerdo con este método, el gasto 
+financiero reconocido corresponde al valor de los intereses pagados ajustados por 
+inflación en el período, más el incremento en el capital como resultado del ajuste 
+por inflación. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2026_Individual_TrimestreI1_EEFF_1T2026_H2Olmos.pdf | PAGINA: 26 | vecina =====
+- 20 - 
+ 
+2.17 Costos de endeudamiento  
+ 
+Los costos de endeudamiento generales y específicos directamente atribuibles a la 
+adquisición, construcción y/o producción de activos aptos, los cuales son activos que 
+necesariamente toman un período sustancial para alcanzar su propósito de uso o 
+venta, son agregados al costo de dichos activos hasta que en dicho período los 
+activos estén sustancialmente listos para su propósito de uso o venta. 
+ 
+El ingreso obtenido en la inversión temporal de préstamos específicos que aún no se 
+han invertido en activos aptos se deduce de los costos de endeudamiento elegibles 
+para su capitalización. Todos los demás costos de endeudamiento son reconocidos 
+en resultados en el período en el cual han sido incurridos. 
+ 
+La Concesionaria capitaliza los costos de endeudamiento neto de los rendimientos 
+específicos de fondos aún no invertidos durante la construcción de las obras por 
+tratarse de un activo apto; caso contrario los costos de endeudamiento son 
+reconocidos como parte de los gastos financieros en el estado de resultados 
+integrales. 
+ 
+2.18 Cuentas por pagar comerciales  
+ 
+Las cuentas por pagar comerciales son obligaciones de pago por bienes o servicios 
+adquiridos de proveedores en el curso normal de los negocios. Las cuentas por pagar 
+se clasifican como pasivos corrientes si el pago se debe realizar dentro de un año o 
+menos (o en el ciclo operativo normal del negocio si es mayor); de lo contrario, se 
+presentan como pasivos no corrientes.  
+ 
+Las cuentas por pagar se reconocen inicialmente a su valor razonable y 
+posteriormente, en la medida que el efecto de su descuento a su valor presente sea 
+importante, se remiden al costo amortizado usando el método de interés efectivo; 
+de lo contrario, se muestran a su valor nominal. 
+ 
+2.19 Anticipos otorgados y recibidos  
+ 
+Los anticipos otorgados corresponden a adelantos a proveedores y subcontratistas 
+por la retribución futura de servicios relacionados al mantenimiento del proyecto. 
+Los anticipos otorgados en moneda extranjera corresponden a partidas no 
+monetarias que se reconocen en la moneda funcional al tipo de cambio de la fecha 
+de su otorgamiento. 
+ 
+Los anticipos otorgados de acuerdo con los términos de los correspondientes 
+contratos se clasifican como un activo corriente, y se amortizan aplicándolos contra 
+las facturas o valorizaciones en función de los porcentajes acordados en cada 
+contrato. 
+ 
+Los anticipos recibidos provenientes del Pago por Capacidad corresponden a 
+adelantos de los Usuarios por el servicio que es prestado desde el inicio de 
+operaciones del proyecto. Estos adelantos se reconocieron a su valor nominal en la 
+moneda funcional, utilizando el tipo de cambio de cierre financiero, y se amortizan 
+contra el estado de resultados integrales en la cuenta ingresos por servicios de 
+operación y mantenimiento durante el plazo de duración del respectivo contrato de 
+servicios, descrito en la Nota 16 (plazo en el cual la infraestructura será puesta a 
+disposición del usuario a fin de distribuir el agua). 
+ 
+Los anticipos recibidos de acuerdo con los términos de los correspondientes 
+contratos se clasifican como un pasivo corriente, y se amortizan aplicándolos contra 
+las facturas o valorizaciones en función de los porcentajes acordados en cada 
+contrato. 
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2024_Individual_Anual_EEFF_H2O_2024_Auditados.pdf | PAGINA: 31 | vecina =====
+- 18 -
+La depreciación de los activos fijos es calculada siguiendo el método de línea recta
+sobre la base de su vida útil estimada, como sigue:
+Años
+Inmuebles y otras construcciones 20
+Maquinaria y equipo 10
+Unidades de transporte 5
+Equipos de cómputo 4
+Mobiliario y equipos diversos 4
+La vida útil, los valores residuales y el método de depreciación de los activos se
+revisan periódicamente para asegurar que el método y el periodo de la depreciación
+sean consistentes con el patrón previsto de beneficios económicos futuros.
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable
+si el valor en libros del activo es mayor que el estimado de su valor recuperable.
+Al vender o retirar el inmueble, mobiliario y equipo la Concesionaria elimina el costo y
+la depreciación acumulada correspondiente. Cualquier pérdida o ganancia que
+resultase de su disposición se incluye en el estado de resultados integrales.
+Los activos en etapa de construcción (activos en curso) se capitalizan como
+componentes separados. A su culminación, el costo de estos activos se transfiere a su
+categoría definitiva. Estos activos no se deprecian.
+2.13 Activo intangible por la concesión
+Los acuerdos de concesión de servicios públicos operados por la Concesionaria son
+contabilizados como intangibles cuando los flujos de efectivo están condicionados
+por la utilización del servicio público que efectúen los Usuarios, es decir, se
+reconoce un activo intangible en la medida que el contrato le otorgue a la
+Concesionaria un derecho contractual a cobrar a los Usuarios por los servicios
+públicos prestados.
+Los ingresos y costos por construcción de obras de infraestructura pública son
+reconocidos sobre la base del grado de avance, mientras que los ingresos y gastos
+relacionados con la prestación de servicios públicos se reconocen sobre la base del
+devengado.
+Si bien es cierto que la Concesión atiende a diversos Usuarios privados, que son los
+propietarios de los terrenos que se adjudicaron en la poligonal de Tierras Nuevas del
+valle de Olmos; la finalidad del proyecto abarca prestar los servicios de captación,
+conducción, distribución de agua empleando para ello infraestructura hidráulica
+pública, es decir, la Concesionaria opera y mantiene infraestructura de carácter
+público, conforme al TUO de Concesiones.
+En la fase de construcción, dado que el activo en concesión calificaba como un
+activo apto, se capitalizaron los costos de financiamiento. La Concesionaria
+reconoce un activo intangible en concesión el cual representa, el derecho que ha
+adquirido de cobrar a los Usuarios por el servicio brindado, para recuperar los
+montos invertidos en la fase preoperativa del Proyecto. Los flujos por recibir de los
+Usuarios no cuentan con garantías del Concedente ni del Estado Peruano.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2024_Individual_Anual_EEFF_H2O_2024_Auditados.pdf | PAGINA: 32 | puntaje 6 =====
+- 19 -
+El Contrato de Concesión no prevé ninguna obligación específica de realizar
+mantenimientos mayores, y a la fecha, las proyecciones de la Concesionaria no
+consideran ningún mantenimiento significativo futuro. Sin embargo, debido a la
+naturaleza de los bienes de la Concesión, el mantenimiento de estos es de
+naturaleza constante y periódica, y forma parte de los costos de operación y
+mantenimiento, siendo reconocidos como gastos cuando se incurren.
+La amortización del activo intangible en Concesión se inició junto a la operación del
+proyecto, el cual se extiende por un periodo de 251 meses siguiendo el método de
+línea recta en un período que no excede el plazo del Contrato de Concesión.
+Un activo intangible se da de baja cuando se enajena (es decir, en la fecha en que el
+receptor obtiene el control) o cuando no se espera obtener beneficios económicos
+futuros derivados de su uso o enajenación. Cualquier ganancia o pérdida en el
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto
+procedente de la venta del activo y su importe en libros), se incluye en el estado de
+resultados integrales cuando se da de baja el activo.
+2.14 Deterioro de activos no financieros de larga duración
+El valor de los activos no financieros de larga duración es revisado periódicamente
+para determinar si existe deterioro, cuando se producen circunstancias que indiquen
+que su valor en libros puede no ser recuperable. De haber indicios de deterioro, la
+Concesionaria estima el importe recuperable de los activos y reconoce una pérdida
+por desvalorización en el estado de resultados integrales.
+El valor recuperable de un activo no financiero de larga duración es el mayor entre
+su valor razonable menos los gastos de venta y su valor en uso. El valor de uso es el
+valor presente de los flujos de efectivo futuros estimados que resultarán del uso
+continuo de un activo, así como de su disposición al final de su vida útil. Los
+importes recuperables se estiman para cada activo o, si no es posible, para la menor
+unidad generadora de efectivo que haya sido identificada. De existir una
+disminución de las pérdidas por desvalorización, determinada en años anteriores, se
+registra un ingreso en el estado de resultados integrales.
+2.15 Obligaciones financieras
+Se reconocen inicialmente a su valor razonable, neto de los costos incurridos en la
+transacción. Estas obligaciones se registran posteriormente a su costo amortizado;
+cualquier diferencia entre los fondos recibidos (neto de los costos de la transacción)
+y el valor de redención se reconoce en el estado de resultados durante el periodo
+del préstamo usando el método de interés efectivo.
+Las obligaciones financieras se clasifican en el pasivo corriente a menos que la
+Concesionaria tenga derecho incondicional de diferir el pago de la obligación por lo
+menos 12 meses contados desde la fecha del estado de situación financiera.
+Los honorarios incurridos para obtener los préstamos se reconocen como costos de la
+transacción en la medida de que sea probable que una parte o todo el préstamo se
+reciban. En este caso los honorarios se difieren hasta el momento en que el
+préstamo se reciba. En la medida de que no haya evidencia de que sea probable que
+una parte o todo el préstamo se reciba, los honorarios se capitalizan como pagos por
+servicios para obtener liquidez y se amortizan durante el período del préstamo con
+el que se relaciona.
+
+===== ARCHIVO: EEFFDD-H2OLMOS S.A.-Individual.zip/2024_Individual_Anual_EEFF_H2O_2024_Auditados.pdf | PAGINA: 33 | vecina =====
+- 20 -
+2.16 Valor adquisitivo constante (VAC)
+Los costos relacionados con la actualización del valor adquisitivo de los bonos que
+mantiene la Concesionaria se reconocen utilizando el método de la tasa ajustada
+flotante de inflación (Nota 1f)). De acuerdo con este método, el gasto financiero
+reconocido corresponde al valor de los intereses pagados ajustados por inflación en
+el período, más el incremento en el capital como resultado del ajuste por inflación.
+2.17 Costos de endeudamiento
+Los costos de endeudamiento generales y específicos directamente atribuibles a la
+adquisición, construcción y/o producción de activos aptos, los cuales son activos que
+necesariamente toman un período sustancial para alcanzar su propósito de uso o
+venta, son agregados al costo de dichos activos hasta que en dicho período los
+activos estén sustancialmente listos para su propósito de uso o venta.
+El ingreso obtenido en la inversión temporal de préstamos específicos que aún no se
+han invertido en activos aptos se deduce de los costos de endeudamiento elegibles
+para su capitalización. Todos los demás costos de endeudamiento son reconocidos
+en resultados en el período en el cual han sido incurridos.
+La Concesionaria capitaliza los costos de endeudamiento neto de los rendimientos
+específicos de fondos aún no invertidos durante la construcción de las obras por
+tratarse de un activo apto; caso contrario los costos de endeudamiento son
+reconocidos como parte de los gastos financieros en el estado de resultados
+integrales.
+2.18 Cuentas por pagar comerciales
+Las cuentas por pagar comerciales son obligaciones de pago por bienes o servicios
+adquiridos de proveedores en el curso normal de los negocios. Las cuentas por pagar
+se clasifican como pasivos corrientes si el pago se debe realizar dentro de un año o
+menos (o en el ciclo operativo normal del negocio si es mayor); de lo contrario, se
+presentan como pasivos no corrientes.
+Las cuentas por pagar se reconocen inicialmente a su valor razonable y
+posteriormente, en la medida que el efecto de su descuento a su valor presente sea
+importante, se remiden al costo amortizado usando el método de interés efectivo;
+de lo contrario, se muestran a su valor nominal.
+2.19 Anticipos otorgados y recibidos
+Los anticipos otorgados corresponden a adelantos a proveedores y subcontratistas
+por la retribución futura de servicios relacionados al mantenimiento del proyecto.
+Los anticipos otorgados en moneda extranjera corresponden a partidas no
+monetarias que se reconocen en la moneda funcional al tipo de cambio de la fecha
+de su otorgamiento.
+Los anticipos otorgados de acuerdo con los términos de los correspondientes
+contratos se clasifican como un activo corriente, y se amortizan aplicándolos contra
+las facturas o valorizaciones en función de los porcentajes acordados en cada
+contrato.
+Los anticipos recibidos provenientes del Pago por Capacidad corresponden a
+adelantos de los Usuarios por el servicio que es prestado desde el inicio de
+operaciones del proyecto. Estos adelantos se reconocieron a su valor nominal en la
+moneda funcional, utilizando el tipo de cambio de cierre financiero, y se amortizan
+contra el estado de resultados integrales en la cuenta ingreso por operación y

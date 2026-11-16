@@ -1,0 +1,2542 @@
+EMPRESA: ELECTRO SUR ESTE S.A.A.
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI3_NOB4005.pdf | PAGINA: 16 | vecina =====
+La Compañía constituye una estimación para deterioro de materiales con cargo a los resultados 
+del período en los casos en que el valor de libros exceda su valor recuperable, sobre la base de 
+un análisis técnico efectuado por la Gerencia, que incluye la evaluación de las condiciones físicas 
+del inventario.  
+ 
+(f) Propiedades, maquinaria y equipo, neto, ver nota 11 - 
+ 
+El rubro propiedades, planta y equipo, se presentan al costo, neto de la depreciación acumulada 
+y, de ser aplicable, de las pérdidas acumuladas por deterioro del valor. Este costo incluye el costo 
+de reemplazar componentes de propiedades, planta y equipo. Para los componentes significativos 
+de propiedades, planta y equipo que deben ser reemplazados periódicamente, se da de baja el 
+componente reemplazado y se reconoce el componente nuevo con su correspondiente vida útil y 
+depreciación.  
+ 
+Los costos posteriores se incluyen en el valor en libros del activo o se reconocen como un activo 
+separado, según corresponda, solo cuando es probable que generen beneficios económicos 
+futuros para la Compañía, y el costo de estos activos se pueda medir con confiabilidad. 
+Desembolsos por mantenimiento ordinario y reparaciones se reconocen en resultados conforme 
+se incurren. 
+ 
+El costo de ciertos elementos de propiedades, planta y equipo al 1 de enero de 2013, fecha de 
+transición de la Compañía a las NIIF, fue determinado con referencia a su valor razonable a esa 
+fecha.  
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los costos de 
+financiamiento, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa 
+de construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se 
+calcula desde el momento en que están en condiciones para su uso.  
+ 
+Los terrenos no se deprecian. La depreciación de los otros activos se calcula en forma lineal a lo 
+largo de las vidas útiles estimadas en años de los activos en los plazos mostrados a continuación: 
+ 
+  Años 
+   
+Edificios y otras construcciones  Entre 40 y 80 
+Maquinaria y equipo  Entre 5 y 30 
+Unidades de transporte  8 
+Unidades de reemplazo  Entre 16 y 40 
+Muebles y enseres  Entre 4 y 16 
+Equipos diversos  Entre 4y 24 
+ 
+Los valores residuales, las vidas útiles y los métodos y tasas de depreciación de los activos  
+se revisan a cada fecha de cierre de ejercicio y se ajustan prospectivamente.  
+ 
+Debido a las características particulares de los activos mantenidos por la Compañía (difícil de ser 
+reutilizables y vendibles al final de su vida útil), la Gerencia, juntamente con su área técnica, han 
+determinado que el valor residual de los mismos no es significativo, por lo que se considera que 
+es cero.  
+ 
+Un componente de propiedades, planta y equipo o cualquier parte significativa del mismo 
+reconocida inicialmente, se da de baja al momento de su venta o cuando no se espera obtener 
+beneficios económicos futuros por su uso o venta. Cualquier ganancia o pérdida resultante al 
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto procedente 
+de la venta y el importe en libros del activo) se incluye en resultados, en los rubros “Otros ingresos” 
+u “Otros gastos”, respectivamente.  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI3_NOB4005.pdf | PAGINA: 17 | puntaje 7 =====
+Las obras de electrificación que recibe del Ministerio de Energía y Mina (MINEM) y otras entidades 
+gubernamentales en calidad de transferencia, son consideradas como propiedades, planta y 
+equipo a su valor de tasación, con abono al pasivo diferido que devengará durante el mismo plazo 
+de la vida útil asignado a dichos activos. Por otro lado, y en conexión con la normatividad de 
+electrificación, la Compañía recibe subsidios del MINEM para la ejecución de obras. La porción 
+subsidiada es acreditada en el rubro “Ingresos diferidos” del estado de situación financiera, para 
+su posterior reconocimiento como ingreso. Su valor de registro en el activo es del valor monetario 
+desembolsado más el subsidio recibido. 
+ 
+Cuando se haya celebrado con el Estado convenios de operación y mantenimiento, deberán 
+reconocer los activos recibidos en su contabilidad, dado que tienen el control económico, físico y 
+todos los riesgos y beneficios. Estas transferencias que están fuera de la concesión bajo 
+convenios de operación y mantenimiento deberán ser reconocidas como un activo a su valor de 
+tasación con abono al rubro ingresos diferidos; dicho pasivo se irá amortizando a ingresos 
+juntamente con la depreciación del bien, neutralizando los efectos en el estado de resultados. Al 
+30 de setiembre de 2026 y de 2025 la Compañía no ha celebrado este tipo de convenios. 
+ 
+(g) Arrendamientos -  
+ 
+La determinación de si un acuerdo constituye o incluye un arrendamiento se basa en la esencia 
+del acuerdo a la fecha de su celebración, si el cumplimiento del acuerdo depende del uso de uno 
+o más activos específicos, o si el acuerdo concede el derecho de uso del activo, incluso si tal 
+derecho no se encuentra especificado de manera explícita en el acuerdo. 
+  
+i) La Compañía como arrendataria -  
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por 
+arrendamiento, desde la fecha en que el activo arrendado está disponible para su uso por parte 
+de la Compañía.  
+ 
+Los activos y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores 
+presentes. Los pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos 
+por arrendamiento: 
+- Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos fijos “en 
+sustancia”), menos cualquier saldo por cobrar por incentivos recibidos para iniciar el 
+arrendamiento;  
+- Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales 
+se miden, inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del 
+arrendamiento;  
+- Los importes de cualquier garantía de valor residual, que la Compañía se haya obligado a 
+pagar;  
+- El precio de ejercer opciones de compra, si la Compañía considera que es razonablemente 
+seguro que las ejercerá; y  
+- Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que la Compañía ejercerá esta opción.  
+ 
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de 
+arrendamiento del plazo extendido también se incluyen en la medición del pasivo.  
+ 
+Los pagos de arrendamiento se descuentan utilizando la tasa de interés implícita en el 
+arrendamiento. Si esa tasa no puede ser determinada de forma simple, se utiliza la tasa 
+incremental de endeudamiento del arrendatario, que representa la tasa que se cargaría al 
+arrendatario para captar los fondos necesarios para adquirir un activo de valor similar al activo 
+subyacente al derecho de uso, en un contexto económico similar y bajo términos similares, en lo 
+referido al plazo, garantías y condiciones  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI3_NOB4005.pdf | PAGINA: 18 | vecina =====
+Para determinar la tasa de endeudamiento incremental, la Compañía toma en cuenta los 
+siguientes criterios:  
+ 
+- En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos y las ajusta para reflejar los cambios en las condiciones desde la 
+fecha que obtuvo tales financiamientos.  
+- En caso no cuente con financiamientos recientes, aplica un enfoque de acumulación que parte 
+de una tasa libre de riesgo, la que ajusta por el riesgo de crédito de la Compañía, y  
+- Aplica ajustes específicos a la tasa calculada que refleje las condiciones específicas del 
+arrendamiento; por ejemplo, lo referido al plazo, país, moneda y tipo de garantías.  
+ 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interés periódica y constante aplicada sobre 
+el saldo del pasivo a la fecha de cierre.  
+Los activos por derecho de uso se miden a su costo, el cual incluye:  
+ 
+- El valor de la medición inicial del pasivo por arrendamiento;  
+- Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido;  
+- Los costos directos iniciales, y  
+- Los costos de restauración o rehabilitación a los que la Compañía esté obligada a incurrir.  
+ 
+Los activos por derecho de uso se deprecian en línea recta en el plazo más corto entre la vida útil 
+del activo arrendado y el plazo del arrendamiento. Si la Compañía considera que es 
+razonablemente seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en 
+el plazo de vida útil del activo subyacente.  
+ 
+Los pagos asociados con arrendamientos de corto plazo de inmuebles y vehículos y todos los 
+arrendamientos de activos de bajo valor, se reconocen en resultados en línea recta. Los 
+arrendamientos de corto plazo son arrendamientos con un plazo de arrendamiento de 12 meses 
+o menos. Los activos de bajo valor comprenden, equipos de tecnología y equipos diversos.  
+ 
+ii) La Compañía como arrendadora -  
+ 
+Cuando la Compañía actúa como arrendadora, determina, al comienzo del arrendamiento, si cada 
+contrato de arrendamiento es un arrendamiento financiero o un arrendamiento operativo.  
+Para clasificar cada contrato de arrendamiento, la Compañía realiza una evaluación de si ha 
+transferido al arrendatario sustancialmente todos los riesgos y beneficios inherentes a la propiedad 
+del activo subyacente. Si este es el caso, el contrato de arrendamiento es un arrendamiento 
+financiero; caso contrario, es un arrendamiento operativo. Como parte de esta evaluación, la 
+Compañía considera ciertos indicadores, tales como, si el contrato de arrendamiento cubre la 
+mayor parte de la vida económica del activo o si se pretende recuperar del arrendatario el valor 
+sustancial del activo arrendado.  
+ 
+(h) Deterioro del valor de los activos no financieros -  
+El valor en libros de los propiedades, planta y equipo y activos intangibles de vida finita son 
+revisados para determinar si existen indicios de deterioro al cierre de cada ejercicio. Si existen 
+tales indicios, la Compañía estima el importe recuperable del activo, siendo este el mayor entre el 
+valor razonable, menos los costos de venta, y el valor en uso.  
+ 
+Cuando el importe recuperable de un activo está por debajo de su valor en libros se  
+considera que existe deterioro del valor.  
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI2_NOB4005.pdf | PAGINA: 16 | vecina =====
+La Compañía constituye una estimación para deterioro de materiales con cargo a los resultados 
+del período en los casos en que el valor de libros exceda su valor recuperable, sobre la base de 
+un análisis técnico efectuado por la Gerencia, que incluye la evaluación de las condiciones físicas 
+del inventario.  
+ 
+(f) Propiedades, maquinaria y equipo, neto, ver nota 11 - 
+ 
+El rubro propiedades, planta y equipo, se presentan al costo, neto de la depreciación acumulada 
+y, de ser aplicable, de las pérdidas acumuladas por deterioro del valor. Este costo incluye el costo 
+de reemplazar componentes de propiedades, planta y equipo. Para los componentes significativos 
+de propiedades, planta y equipo que deben ser reemplazados periódicamente, se da de baja el 
+componente reemplazado y se reconoce el componente nuevo con su correspondiente vida útil y 
+depreciación.  
+ 
+Los costos posteriores se incluyen en el valor en libros del activo o se reconocen como un activo 
+separado, según corresponda, solo cuando es probable que generen beneficios económicos 
+futuros para la Compañía, y el costo de estos activos se pueda medir con confiabilidad. 
+Desembolsos por mantenimiento ordinario y reparaciones se reconocen en resultados conforme 
+se incurren. 
+ 
+El costo de ciertos elementos de propiedades, planta y equipo al 1 de enero de 2013, fecha de 
+transición de la Compañía a las NIIF, fue determinado con referencia a su valor razonable a esa 
+fecha.  
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los costos de 
+financiamiento, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa 
+de construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se 
+calcula desde el momento en que están en condiciones para su uso.  
+ 
+Los terrenos no se deprecian. La depreciación de los otros activos se calcula en forma lineal a lo 
+largo de las vidas útiles estimadas en años de los activos en los plazos mostrados a continuación: 
+ 
+  Años 
+   
+Edificios y otras construcciones  Entre 40 y 80 
+Maquinaria y equipo  Entre 5 y 30 
+Unidades de transporte  8 
+Unidades de reemplazo  Entre 16 y 40 
+Muebles y enseres  Entre 4 y 16 
+Equipos diversos  Entre 4y 24 
+ 
+Los valores residuales, las vidas útiles y los métodos y tasas de depreciación de los activos  
+se revisan a cada fecha de cierre de ejercicio y se ajustan prospectivamente.  
+ 
+Debido a las características particulares de los activos mantenidos por la Compañía (difícil de ser 
+reutilizables y vendibles al final de su vida útil), la Gerencia, juntamente con su área técnica, han 
+determinado que el valor residual de los mismos no es significativo, por lo que se considera que 
+es cero.  
+ 
+Un componente de propiedades, planta y equipo o cualquier parte significativa del mismo 
+reconocida inicialmente, se da de baja al momento de su venta o cuando no se espera obtener 
+beneficios económicos futuros por su uso o venta. Cualquier ganancia o pérdida resultante al 
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto procedente 
+de la venta y el importe en libros del activo) se incluye en resultados, en los rubros “Otros ingresos” 
+u “Otros gastos”, respectivamente.  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI2_NOB4005.pdf | PAGINA: 17 | puntaje 7 =====
+Las obras de electrificación que recibe del Ministerio de Energía y Mina (MINEM) y otras entidades 
+gubernamentales en calidad de transferencia, son consideradas como propiedades, planta y 
+equipo a su valor de tasación, con abono al pasivo diferido que devengará durante el mismo plazo 
+de la vida útil asignado a dichos activos. Por otro lado, y en conexión con la normatividad de 
+electrificación, la Compañía recibe subsidios del MINEM para la ejecución de obras. La porción 
+subsidiada es acreditada en el rubro “Ingresos diferidos” del estado de situación financiera, para 
+su posterior reconocimiento como ingreso. Su valor de registro en el activo es del valor monetario 
+desembolsado más el subsidio recibido. 
+ 
+Cuando se haya celebrado con el Estado convenios de operación y mantenimiento, deberán 
+reconocer los activos recibidos en su contabilidad, dado que tienen el control económico, físico y 
+todos los riesgos y beneficios. Estas transferencias que están fuera de la concesión bajo 
+convenios de operación y mantenimiento deberán ser reconocidas como un activo a su valor de 
+tasación con abono al rubro ingresos diferidos; dicho pasivo se irá amortizando a ingresos 
+juntamente con la depreciación del bien, neutralizando los efectos en el estado de resultados. Al 
+30 de junio de 2026 y de 2025 la Compañía no ha celebrado este tipo de convenios. 
+ 
+(g) Arrendamientos -  
+ 
+La determinación de si un acuerdo constituye o incluye un arrendamiento se basa en la esencia 
+del acuerdo a la fecha de su celebración, si el cumplimiento del acuerdo depende del uso de uno 
+o más activos específicos, o si el acuerdo concede el derecho de uso del activo, incluso si tal 
+derecho no se encuentra especificado de manera explícita en el acuerdo. 
+  
+i) La Compañía como arrendataria -  
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por 
+arrendamiento, desde la fecha en que el activo arrendado está disponible para su uso por parte 
+de la Compañía.  
+ 
+Los activos y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores 
+presentes. Los pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos 
+por arrendamiento: 
+- Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos fijos “en 
+sustancia”), menos cualquier saldo por cobrar por incentivos recibidos para iniciar el 
+arrendamiento;  
+- Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales 
+se miden, inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del 
+arrendamiento;  
+- Los importes de cualquier garantía de valor residual, que la Compañía se haya obligado a 
+pagar;  
+- El precio de ejercer opciones de compra, si la Compañía considera que es razonablemente 
+seguro que las ejercerá; y  
+- Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que la Compañía ejercerá esta opción.  
+ 
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de 
+arrendamiento del plazo extendido también se incluyen en la medición del pasivo.  
+ 
+Los pagos de arrendamiento se descuentan utilizando la tasa de interés implícita en el 
+arrendamiento. Si esa tasa no puede ser determinada de forma simple, se utiliza la tasa 
+incremental de endeudamiento del arrendatario, que representa la tasa que se cargaría al 
+arrendatario para captar los fondos necesarios para adquirir un activo de valor similar al activo 
+subyacente al derecho de uso, en un contexto económico similar y bajo términos similares, en lo 
+referido al plazo, garantías y condiciones  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI2_NOB4005.pdf | PAGINA: 18 | vecina =====
+Para determinar la tasa de endeudamiento incremental, la Compañía toma en cuenta los 
+siguientes criterios:  
+ 
+- En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos y las ajusta para reflejar los cambios en las condiciones desde la 
+fecha que obtuvo tales financiamientos.  
+- En caso no cuente con financiamientos recientes, aplica un enfoque de acumulación que parte 
+de una tasa libre de riesgo, la que ajusta por el riesgo de crédito de la Compañía, y  
+- Aplica ajustes específicos a la tasa calculada que refleje las condiciones específicas del 
+arrendamiento; por ejemplo, lo referido al plazo, país, moneda y tipo de garantías.  
+ 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interés periódica y constante aplicada sobre 
+el saldo del pasivo a la fecha de cierre.  
+Los activos por derecho de uso se miden a su costo, el cual incluye:  
+ 
+- El valor de la medición inicial del pasivo por arrendamiento;  
+- Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido;  
+- Los costos directos iniciales, y  
+- Los costos de restauración o rehabilitación a los que la Compañía esté obligada a incurrir.  
+ 
+Los activos por derecho de uso se deprecian en línea recta en el plazo más corto entre la vida útil 
+del activo arrendado y el plazo del arrendamiento. Si la Compañía considera que es 
+razonablemente seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en 
+el plazo de vida útil del activo subyacente.  
+ 
+Los pagos asociados con arrendamientos de corto plazo de inmuebles y vehículos y todos los 
+arrendamientos de activos de bajo valor, se reconocen en resultados en línea recta. Los 
+arrendamientos de corto plazo son arrendamientos con un plazo de arrendamiento de 12 meses 
+o menos. Los activos de bajo valor comprenden, equipos de tecnología y equipos diversos.  
+ 
+ii) La Compañía como arrendadora -  
+ 
+Cuando la Compañía actúa como arrendadora, determina, al comienzo del arrendamiento, si cada 
+contrato de arrendamiento es un arrendamiento financiero o un arrendamiento operativo.  
+Para clasificar cada contrato de arrendamiento, la Compañía realiza una evaluación de si ha 
+transferido al arrendatario sustancialmente todos los riesgos y beneficios inherentes a la propiedad 
+del activo subyacente. Si este es el caso, el contrato de arrendamiento es un arrendamiento 
+financiero; caso contrario, es un arrendamiento operativo. Como parte de esta evaluación, la 
+Compañía considera ciertos indicadores, tales como, si el contrato de arrendamiento cubre la 
+mayor parte de la vida económica del activo o si se pretende recuperar del arrendatario el valor 
+sustancial del activo arrendado.  
+ 
+(h) Deterioro del valor de los activos no financieros -  
+El valor en libros de los propiedades, planta y equipo y activos intangibles de vida finita son 
+revisados para determinar si existen indicios de deterioro al cierre de cada ejercicio. Si existen 
+tales indicios, la Compañía estima el importe recuperable del activo, siendo este el mayor entre el 
+valor razonable, menos los costos de venta, y el valor en uso.  
+ 
+Cuando el importe recuperable de un activo está por debajo de su valor en libros se  
+considera que existe deterioro del valor.  
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI1_NOB4005.pdf | PAGINA: 16 | vecina =====
+un análisis técnico efectuado por la Gerencia, que incluye la evaluación de las condiciones físicas 
+del inventario.  
+ 
+(f) Propiedades, maquinaria y equipo, neto, ver nota 11 - 
+ 
+El rubro propiedades, planta y equipo, se presentan al costo, neto de la depreciación acumulada 
+y, de ser aplicable, de las pérdidas acumuladas por deterioro del valor. Este costo incluye el costo 
+de reemplazar componentes de propiedades, planta y equipo. Para los componentes significativos 
+de propiedades, planta y equipo que deben ser reemplazados periódicamente, se da de baja el 
+componente reemplazado y se reconoce el componente nuevo con su correspondiente vida útil y 
+depreciación.  
+ 
+Los costos posteriores se incluyen en el valor en libros del activo o se reconocen como un activo 
+separado, según corresponda, solo cuando es probable que generen beneficios económicos 
+futuros para la Compañía, y el costo de estos activos se pueda medir con confiabilidad. 
+Desembolsos por mantenimiento ordinario y reparaciones se reconocen en resultados conforme 
+se incurren. 
+ 
+El costo de ciertos elementos de propiedades, planta y equipo al 1 de enero de 2013, fecha de 
+transición de la Compañía a las NIIF, fue determinado con referencia a su valor razonable a esa 
+fecha.  
+ 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los costos de 
+financiamiento, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa 
+de construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se 
+calcula desde el momento en que están en condiciones para su uso.  
+ 
+Los terrenos no se deprecian. La depreciación de los otros activos se calcula en forma lineal a lo 
+largo de las vidas útiles estimadas en años de los activos en los plazos mostrados a continuación: 
+ 
+ 
+ 
+ 
+  Años 
+   
+Edificios y otras construcciones  Entre 40 y 80 
+Maquinaria y equipo  Entre 5 y 30 
+Unidades de transporte  8 
+Unidades de reemplazo  Entre 16 y 40 
+Muebles y enseres  Entre 4 y 16 
+Equipos diversos  Entre 4y 24 
+ 
+Los valores residuales, las vidas útiles y los métodos y tasas de depreciación de los activos  
+se revisan a cada fecha de cierre de ejercicio y se ajustan prospectivamente.  
+ 
+Debido a las características particulares de los activos mantenidos por la Compañía (difícil de ser 
+reutilizables y vendibles al final de su vida útil), la Gerencia, juntamente con su área técnica, han 
+determinado que el valor residual de los mismos no es significativo, por lo que se considera que 
+es cero.  
+ 
+Un componente de propiedades, planta y equipo o cualquier parte significativa del mismo 
+reconocida inicialmente, se da de baja al momento de su venta o cuando no se espera obtener 
+beneficios económicos futuros por su uso o venta. Cualquier ganancia o pérdida resultante al 
+momento de dar de baja el activo (calculada como la diferencia entre el ingreso neto procedente 
+de la venta y el importe en libros del activo) se incluye en resultados, en los rubros “Otros ingresos” 
+u “Otros gastos”, respectivamente.  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI1_NOB4005.pdf | PAGINA: 17 | puntaje 7 =====
+Las obras de electrificación que recibe del Ministerio de Energía y Mina (MINEM) y otras entidades 
+gubernamentales en calidad de transferencia, son consideradas como propiedades, planta y 
+equipo a su valor de tasación, con abono al pasivo diferido que devengará durante el mismo plazo 
+de la vida útil asignado a dichos activos. Por otro lado, y en conexión con la normatividad de 
+electrificación, la Compañía recibe subsidios del MINEM para la ejecución de obras. La porción 
+subsidiada es acreditada en el rubro “Ingresos diferidos” del estado de situación financiera, para 
+su posterior reconocimiento como ingreso. Su valor de registro en el activo es del valor monetario 
+desembolsado más el subsidio recibido. 
+ 
+Cuando se haya celebrado con el Estado convenios de operación y mantenimiento, deberán 
+reconocer los activos recibidos en su contabilidad, dado que tienen el control económico, físico y 
+todos los riesgos y beneficios. Estas transferencias que están fuera de la concesión bajo 
+convenios de operación y mantenimiento deberán ser reconocidas como un activo a su valor de 
+tasación con abono al rubro ingresos diferidos; dicho pasivo se irá amortizando a ingresos 
+juntamente con la depreciación del bien, neutralizando los efectos en el estado de resultados. Al 
+31 de marzo de 2026 y de 2025 la Compañía no ha celebrado este tipo de convenios. 
+ 
+(g) Arrendamientos -  
+ 
+La determinación de si un acuerdo constituye o incluye un arrendamiento se basa en la esencia 
+del acuerdo a la fecha de su celebración, si el cumplimiento del acuerdo depende del uso de uno 
+o más activos específicos, o si el acuerdo concede el derecho de uso del activo, incluso si tal 
+derecho no se encuentra especificado de manera explícita en el acuerdo. 
+  
+i) La Compañía como arrendataria -  
+ 
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por 
+arrendamiento, desde la fecha en que el activo arrendado está disponible para su uso por parte 
+de la Compañía.  
+ 
+Los activos y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores 
+presentes. Los pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos 
+por arrendamiento: 
+- Pagos fijos (incluidos los pagos que, independiente de su forma, se consideren pagos fijos “en 
+sustancia”), menos cualquier saldo por cobrar por incentivos recibidos para iniciar el 
+arrendamiento;  
+- Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales 
+se miden, inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del 
+arrendamiento;  
+- Los importes de cualquier garantía de valor residual, que la Compañía se haya obligado a 
+pagar;  
+- El precio de ejercer opciones de compra, si la Compañía considera que es razonablemente 
+seguro que las ejercerá; y  
+- Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que la Compañía ejercerá esta opción.  
+ 
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de 
+arrendamiento del plazo extendido también se incluyen en la medición del pasivo.  
+ 
+Los pagos de arrendamiento se descuentan utilizando la tasa de interés implícita en el 
+arrendamiento. Si esa tasa no puede ser determinada de forma simple, se utiliza la tasa 
+incremental de endeudamiento del arrendatario, que representa la tasa que se cargaría al 
+arrendatario para captar los fondos necesarios para adquirir un activo de valor similar al activo 
+subyacente al derecho de uso, en un contexto económico similar y bajo términos similares, en lo 
+referido al plazo, garantías y condiciones  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2026_Individual_TrimestreI1_NOB4005.pdf | PAGINA: 18 | vecina =====
+Para determinar la tasa de endeudamiento incremental, la Compañía toma en cuenta los 
+siguientes criterios:  
+ 
+- En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos y las ajusta para reflejar los cambios en las condiciones desde la 
+fecha que obtuvo tales financiamientos.  
+- En caso no cuente con financiamientos recientes, aplica un enfoque de acumulación que parte 
+de una tasa libre de riesgo, la que ajusta por el riesgo de crédito de la Compañía, y  
+- Aplica ajustes específicos a la tasa calculada que refleje las condiciones específicas del 
+arrendamiento; por ejemplo, lo referido al plazo, país, moneda y tipo de garantías.  
+ 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interés periódica y constante aplicada sobre 
+el saldo del pasivo a la fecha de cierre.  
+Los activos por derecho de uso se miden a su costo, el cual incluye:  
+ 
+- El valor de la medición inicial del pasivo por arrendamiento;  
+- Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido;  
+- Los costos directos iniciales, y  
+- Los costos de restauración o rehabilitación a los que la Compañía esté obligada a incurrir.  
+ 
+Los activos por derecho de uso se deprecian en línea recta en el plazo más corto entre la vida útil 
+del activo arrendado y el plazo del arrendamiento. Si la Compañía considera que es 
+razonablemente seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en 
+el plazo de vida útil del activo subyacente.  
+ 
+Los pagos asociados con arrendamientos de corto plazo de inmuebles y vehículos y todos los 
+arrendamientos de activos de bajo valor, se reconocen en resultados en línea recta. Los 
+arrendamientos de corto plazo son arrendamientos con un plazo de arrendamiento de 12 meses 
+o menos. Los activos de bajo valor comprenden, equipos de tecnología y equipos diversos.  
+ 
+ii) La Compañía como arrendadora -  
+ 
+Cuando la Compañía actúa como arrendadora, determina, al comienzo del arrendamiento, si cada 
+contrato de arrendamiento es un arrendamiento financiero o un arrendamiento operativo.  
+Para clasificar cada contrato de arrendamiento, la Compañía realiza una evaluación de si ha 
+transferido al arrendatario sustancialmente todos los riesgos y beneficios inherentes a la propiedad 
+del activo subyacente. Si este es el caso, el contrato de arrendamiento es un arrendamiento 
+financiero; caso contrario, es un arrendamiento operativo. Como parte de esta evaluación, la 
+Compañía considera ciertos indicadores, tales como, si el contrato de arrendamiento cubre la 
+mayor parte de la vida económica del activo o si se pretende recuperar del arrendatario el valor 
+sustancial del activo arrendado.  
+ 
+(h) Deterioro del valor de los activos no financieros -  
+El valor en libros de los propiedades, planta y equipo y activos intangibles de vida finita son 
+revisados para determinar si existen indicios de deterioro al cierre de cada ejercicio. Si existen 
+tales indicios, la Compañía estima el importe recuperable del activo, siendo este el mayor entre el 
+valor razonable, menos los costos de venta, y el valor en uso.  
+ 
+Cuando el importe recuperable de un activo está por debajo de su valor en libros se  
+considera que existe deterioro del valor.  
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2019_Individual_Anual_EEFF-2019.pdf | PAGINA: 75 | vecina =====
+Empresa Regional de Servicio Público de Electricidad del Sur Este S.A.A. –  
+ELECTRO SUR ESTE S.A.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+69 
+Incertidumbre sobre tratamiento de Impuesto a las Ganancias  
+ 
+H. La Empresa en aplicación de la CINIIF 23 ha reconocido pasivos por posiciones fiscales 
+inciertas a partir del 1 de enero de 2019 tal como se aprecia en la nota 15 a los estados 
+financieros, debido a que no es probable que las autoridades tributarias acepten el 
+tratamiento del impuesto a las ganancias a las pérdidas de energía (no técnicas) de los 
+períodos 2015 al 2016, en su determinación se ha utilizado las tasas aplicables a cada uno de 
+los ejercicios gravables. 
+ 
+Modificaciones tributarias de mayor relevancia vigentes a partir del 1 de enero de 2019 
+ 
+I. Nuevo concepto normativo de devengo 
+El Decreto Legislativo N° 1425 introdujo la definición de devengo jurídico para efectos del 
+Impuesto a la Renta estableciendo que los ingresos en el caso de: a) transferencia de bienes 
+se produce cuando: i) opera el cambio de control (de acuerdo a la NIIF 15); o ii) se produce la 
+transferencia del riesgo hacia el adquirente (Teoría del Riesgo establecida en el Código Civil), 
+lo que ocurra primero; y b) para el caso de prestación de servicios se ha establecido el grado 
+de realización de la prestación.  
+ 
+El nuevo concepto jurídico de devengo resulta aplicable a los arrendatarios para efectos de 
+establecer el tratamiento tributario del gasto asociado a los contratos de arrendamiento 
+regulados por la NIIF 16 (i.e. arrendamiento operativo para propósitos fiscales). 
+ 
+El concepto materia de comentario no resultará aplicable para aquellas entidades que 
+devenguen sus ingresos o gastos para el Impuesto a la Renta según disposiciones de 
+naturaleza tributaria que fijen un régimen especial (sectorial) de devengo.  
+ 
+J. Subcapitalización  
+A partir de 2019 y hasta el 31 de diciembre de 2020, el gasto financiero generado por 
+endeudamientos tanto entre partes independientes como relacionadas está sujeto al límite de 
+subcapitalización de (3:1 Debt-Equity Ratio) calculado al cierre del ejercicio anterior. A partir 
+del 1 de enero de 2021 los gastos financieros serán deducibles hasta el límite del 30% del 
+EBITDA tributario (Renta Neta – Compensación de Pérdidas + Intereses Netos + Depreciación 
++ Amortización) del ejercicio anterior. Existen algunas excepciones a la aplicación de esta 
+limitación para el caso de bancos, contribuyentes con ingresos no superiores a 2,500 UITs, 
+infraestructura, servicios públicos, etc. 
+ 
+K. Deducción de gastos o costos incurridos en operaciones con sujetos no domiciliados  
+El Decreto Legislativo N° 1369 exige que los costos y/o gastos (incluidos los intereses 
+outbound) incurridos con contrapartes no domiciliadas deben haber sido pagados de manera 
+efectiva para poder ser deducidos en el ejercicio en el que se incurrieron. En caso, contrario, 
+su impacto en la determinación de la renta neta se diferirá al ejercicio en el que efectivamente 
+sea pagado oportunidad en la que se aplicará la retención correspondiente. 
+ 
+Dicha norma eliminó la obligación de pagar el monto equivalente a la retención sobre el 
+monto contabilizado como costo y/o gasto. 
+ 
+L. Crédito Indirecto  
+Bajo ciertos requisitos, a partir del 1 de enero de 2019 las entidades domiciliadas que 
+obtengan dividendos (inbound) de fuente extranjera podrán deducir como crédito directo el 
+Impuesto a la Renta que hubiera gravado los dividendos en el exterior y el Impuesto a la 
+Renta Corporativo (crédito indirecto) pagado por la sociedad no domiciliada de primer y 
+segundo nivel (siempre que estén en la misma jurisdicción) que hubiesen distribuido los 
+dividendos desde el exterior.  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2019_Individual_Anual_EEFF-2019.pdf | PAGINA: 76 | puntaje 6 =====
+Empresa Regional de Servicio Público de Electricidad del Sur Este S.A.A. –  
+ELECTRO SUR ESTE S.A.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+70 
+M. Medidas para la aplicación de la Cláusula Anti-elusión General contenida en la  
+Norma XVI del Código Tributario 
+A través del Decreto Legislativo N° 1422 se ha establecido el procedimiento para la aplicación 
+de la referida Cláusula Anti-elusión General (CAG), señalándose fundamentalmente que:  
+(i) es aplicable sólo en procedimientos de fiscalización definitiva en que se revisen actos, 
+hechos o situaciones producidos desde el 19 de julio de 2012; (ii) para su aplicación debe 
+haber previa opinión favorable de un comité revisor integrado por funcionarios de la propia 
+SUNAT, no siendo recurrible dicha opinión; (iv) los procedimiento de fiscalización definitiva en 
+los que se aplique la CAG no están sujetos al plazo de un (01) año para requerir información a 
+los fiscalizados.  
+ 
+A la fecha de elaboración de la presente nota, se mantiene la suspensión de la CAG hasta que 
+se emita el respectivo decreto supremo que fije los parámetros de fondo y forma que se 
+encuentran dentro del ámbito de la Norma XVI del Código Tributario. 
+ 
+N. Información relacionada con beneficiarios finales  
+En el marco de las normas para fortalecer la lucha contra la evasión y elusión fiscal así como 
+contra el lavado de activos y financiamiento del terrorismo, a partir del 3 de agosto de 2018 se 
+encuentran vigentes las disposiciones introducidas a través del Decreto Legislativo N° 1372 
+que obligan a brindar a las autoridades competentes, a través de una declaración jurada de 
+beneficiarios finales, información relacionada con dichos sujetos, esto es, a revelar mediante 
+dicha declaración quiénes son las personas naturales que efectivamente tienen la propiedad o 
+control en personas jurídicas o entes jurídicos. Así, será obligatorio informar aspectos como  
+(i) identificación del beneficiario final; (ii) la cadena de titularidad con la respectiva 
+documentación de sustento; (iii) identificación de los terceros que cuentan con dicha 
+información, de ser el caso. Se señala además que la información relacionada a la 
+identificación de los beneficiarios finales de las personas jurídicas y entes jurídicos que se 
+proporcione a las autoridades competentes en el marco de estas normas no constituye 
+violación al secreto profesional ni tampoco está sujeta a las restricciones sobre revelación de 
+información derivadas de la confidencialidad impuesta por vía contractual o por cualquier 
+disposición legal o reglamentaria. 
+ 
+Debe tenerse en consideración que, de no presentarse la declaración jurada informativa que 
+contiene la información relacionada beneficiario final, incurrirán en responsabilidad solidaria 
+los representantes legales de la entidad que omitió cumplir con la presentación de dicha 
+declaración. 
+ 
+O. Enajenación indirecta de acciones  
+A partir del 1 de enero de 2019 se incorpora una técnica anti-elusiva para evitar el 
+fraccionamiento de operaciones, a través de las cuales, indirectamente se enajenen acciones 
+de empresas domiciliadas en el Perú.  
+ 
+Se indica que para establecer si en un período de 12 meses se ha cumplido con la 
+transferencia del 10% o más del capital de la sociedad peruana, se consideran las 
+transferencias realizadas por el sujeto analizado, así como las realizadas a sus partes 
+vinculadas, sea que se ejecuten mediante una o varias operaciones, simultáneas o sucesivas.  
+Dicha vinculación se establecerá conforme a lo establecido en el inciso b) del artículo 32-A de 
+la Ley del Impuesto a la Renta.  
+ 
+Queda establecido además que, independientemente del cumplimiento de las condiciones 
+reguladas en la Ley del Impuesto a la Renta, siempre se configurará una enajenación indirecta 
+gravada cuando, en un período cualquiera de 12 meses, el importe total de las acciones de la 
+persona jurídica peruana que se enajenan sea igual o mayor a cuarenta mil (40,000) UIT. 
+  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2019_Individual_Anual_EEFF-2019.pdf | PAGINA: 77 | vecina =====
+Empresa Regional de Servicio Público de Electricidad del Sur Este S.A.A. –  
+ELECTRO SUR ESTE S.A.A. 
+Notas a los Estados Financieros  
+31 de diciembre de 2019 y de 2018 
+ 
+ 
+ 
+71 
+La fecha de vigencia inicialmente señalada que, cuando el enajenante sea una persona jurídica 
+no domiciliada que cuenta con una sucursal o cualquier establecimiento permanente en el 
+Perú con patrimonio asignado, se considera a éste último corresponsable solidario, debiendo 
+este último sujeto proporcionar, entre otra información, a la correspondiente a las acciones o 
+participaciones de la persona jurídica no domiciliada que se enajenan.  
+ 
+P. Responsabilidad solidaria de los representantes legales y Directores de las Sociedades:  
+A partir del 14 de septiembre de 2018 ha quedado establecido, mediante el Decreto 
+Legislativo N° 1422 que, cuando un sujeto fiscalizado sea sujeto de la Cláusula Anti-elusiva 
+General (CAG), se considera automáticamente que existe dolo, negligencia grave o abuso de 
+facultades respecto de sus representantes legales, salvo prueba en contrario. La referida 
+responsabilidad solidaria se atribuirá a dichos representantes siempre que hayan colaborado 
+con el diseño o aprobación o ejecución de actos, situaciones o relaciones económicas con 
+propósito elusivo.  
+ 
+La norma precitada involucra también a los miembros del Directorio de sociedades, al 
+señalarse que a dichos sujetos les corresponde definir la estrategia tributaria de las 
+sociedades en las cuales son directores, debiendo éstos decidir la aprobación o no de actos, 
+situaciones o relaciones económicas a realizarse en el marco de la planificación fiscal, siendo 
+indelegable – según la norma en comentario – esta atribución de los directores.  
+ 
+Se otorgó a los miembros del Directorio de sociedades domiciliadas, un plazo que vende el  
+29 de marzo de 2019 para ratificar o modificar los actos, situaciones o relaciones económicas 
+realizados en el marco de la planificación fiscal, e implementados al 14 de setiembre de 2018 
+que sigan teniendo efecto tributario hasta la actualidad. 
+ 
+El plazo máximo señalado para el cumplimiento de dicha obligación formal , y considerando la 
+referida responsabilidad solidaria atribuible tanto a representantes legales como a directores, 
+así como la falta de definición del término planificación fiscal será crítico revisar todo acto, 
+situación o relación económica que haya (i) incrementado atributos fiscales; y/o, (ii) generado 
+un menor pago de tributos por los ejercicios antes mencionados, a fin de evitar la atribución 
+de responsabilidad solidaria tributaria, tanto a nivel administrativo como incluso penal, 
+dependiendo del criterio del agente fiscalizador, en caso de aplicarse la CAG a la sociedad que 
+sea materia de una intervención fiscal por parte de la SUNAT. 
+ 
+33. Compromisos y Contingencias 
+ 
+A. Compromisos 
+Al 31 de diciembre de 2019, la Empresa mantiene las siguientes cartas fianzas: 
+ 
+▪ Para garantizar el fiel de estudios del proyecto C.H. Vilcabamba la Convención – Cusco por 
+miles de S/ 244 con el BBVA Banco Continental, cuyo beneficiario es Ministerio de Energía y 
+Minas, con vencimiento el 3 de mayo de 2020. 
+ 
+▪ Para garantizar el fiel de estudios del proyecto C.H. Tincoc- Paruro- Cusco por miles de S/ 251 
+con el BBVA Banco Continental, cuyo beneficiario es Ministerio de Energía y Minas, con 
+vencimiento el 3 de mayo de 2020. 
+ 
+▪ Para garantizar el fiel del contrato relacionado con la ejecución de estudios proyecto C:H 
+Pachachaca Abancay por miles de S/ 261 con el BBVA Banco Continental, cuyo beneficiario 
+es Ministerio de Energía y Minas, con vencimiento el 3 de mayo de 2020. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 13 | vecina =====
+                                                  
+ Página 13 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+Los  estados financieros adjuntos  han sido preparados en base al costo histórico, a partir de los 
+registros de contabilidad mantenidos por la Empresa. Los estados financieros están presentados 
+en nuevos soles y todos los valores se redondean a la unidad más próxima en miles de nuevos 
+soles, excepto  cuando sea indicado lo contrario.  
+ 
+Las políticas de contabilidad adoptadas son consistentes con las aplicadas en años anteriores, 
+excepto por las nuevas NIIF y NIC’s revisadas que son obligatorias para los periodos que se 
+inician en o después del 1 de enero de 2014, pero que la Empresa ya ha adoptado; sin embargo, 
+debido a la estructura de la Empresa y la naturaleza de sus operaciones, la adopción de dichas 
+normas no tuvo un efecto significativo en su posición financiera y resultados; por lo tanto, no ha 
+sido necesario modificar los estados financieros comparativos de la Empresa. 
+ 
+A la fecha de emisión de los presentes estados financieros, existen ciertas normas, enmiendas e 
+interpretaciones a las normas ya existentes que aún no son de efectiva aplicación y que no han 
+sido adoptadas por la Empresa, y que a continuación detallamos:  
+En octubre de 2012 el IASB emitió la enmienda a la NIIF 10 “Entidades de inversión”, la cual 
+requiere que las inversoras que sean “entidades de inversión” con participaciones en  otras 
+entidades, midan tales participaciones por su valor razonable con cambios en resultados. Su 
+aplicación obligatoria es para los períodos iniciados el 1 de enero de 2014 y se admite su 
+aplicación anticipada. La Dirección de la Empresa prevé que esta enmienda no tendrá impactos 
+sobre su situación financiera, de rendimientos y flujos de efectivo. 
+En mayo de 2013, el IASB emitió una enmienda a la NIC 36, acerca de la información a revelar 
+sobre el importe recuperable, cuando el mismo se basa en el valor razonable de un activo o una 
+unidad generadora de efectivo, menos sus gastos de ventas. Esta enmienda es obligatoria para 
+los períodos iniciados el 1 de enero de 2014. La Gerencia  de la Empresa estima que no tendrá 
+impactos significativos para ella. 
+ 
+La en mienda “Compensación de Activos Financieros y Pasivos Financieros” (Modificaciones a la 
+NIC 32 y de la NIIF 7), emitidas en diciembre de 2011, derogó el párrafo GA38 y añadió los 
+párrafos GA38A a GA38F. Una Empresa aplicará esas modificaciones a periodos anuales que 
+comiencen a partir del 1 de enero de 2014. Una entidad aplicará esas modificaciones de forma 
+retroactiva. Se permite su aplicación anticipada. Si una entidad aplica esas modificaciones a partir 
+de una fecha anterior, revelará ese hecho y también revelará la información requerida en la 
+enmienda “Información a Revelar -Compensación de Activos Financieros y Pasivos Financieros 
+(Modificaciones a la NIIF 7)”, emitida en diciembre de 2011.  
+ 
+En mayo de 2013 el IASB aprobó la Interpretación del CINIIF Nº 21 Gravámenes, que interpreta a 
+la NIC 37 Provisiones, pasivos contingentes y activos contingentes, para el reconocimiento de las 
+obligaciones que surgen de las legislaciones fiscales diferentes a aquellas que graban ganancias 
+tributarias. Esta interpretación es de aplicación obligatoria para los períodos iniciados a partir del 1 
+de enero de 2014, y admite su aplicación anticipada. La Gerencia de la Empresa estima que su 
+adopción no producirá efectos significativos en sus estados financieros. 
+ 
+La Gerencia de la Empresa considera que estos cambios normativos no generarán un impacto 
+significativo en los estados financiero futuros de la Empresa. 
+ 
+La preparación de los estados financieros de acuerdo con NIIF requiere el uso de ciertos 
+estimados contables críticos. También requiere que la Gerencia ejerza su juicio en el proceso de 
+aplicación de los principios y prácticas contables de la Empresa. Las áreas que involucran un 
+mayor grado de juicio o complejidad o áreas en la que los supuestos y estimados son significativos 
+para los estados financieros se describen en la nota 04. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 14 | puntaje 6 =====
+                                                  
+ Página 14 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+3.2  Resumen de principios y políticas contables significativas 
+ 
+ Las  siguientes son las políticas contables significativas aplicadas por la Empresa en la 
+preparación de sus estados financieros: 
+3.2.1.  Efectivo y equivalente de efectivo 
+  
+El efectivo y equivalente de efectivo presentado en el estado de situación financiera comprende los 
+saldos en caja y cuentas corrientes bancarias. Para efectos de preparar el estado de flujos de 
+efectivo, el efectivo y equivalente de efectivo incluye los rubros de caja y cuentas corrientes.  
+ 
+3.2.2.  Instrumentos financieros: reconocimiento inicial y medición posterior  
+ 
+     (i) Activos financieros   
+  Reconocimiento y medición inicial  
+Los activos financieros dentro del ámbito de la Norma Internacional de Contabilidad (NIC) 39, son 
+clasificados como activos financieros al valor razonable con cambios en resultados, préstamos y 
+cuentas por cobrar, inversiones a ser mantenidas hasta su vencimiento, inversiones financieras 
+disponibles para la venta, o como derivados designados como instrumentos de cobertura en una 
+cobertura eficaz, según corresponda. La Empresa determina la clasificación de sus activos 
+financieros al momento del reconocimiento inicial.  
+ 
+Todos los activos financieros se reconocen inicialmente por su valor razonable más, en el caso de 
+los activos que no se contabilizan al valor razonable con cambios en resultados, los costos de 
+transacción directamente atribuibles.   
+ 
+Las compras o ventas de activos financieros que requieran la entrega de los activos dentro de un 
+periodo de tiempo establecido por una norma o convención del mercado se reconocen en la fecha 
+de la compraventa; es decir, la fecha en que la Empresa se compromete a comprar o vender el 
+activo.  
+ 
+Los activos financieros de la Empresa incluyen efectivo y equivalente de efectivo, cuentas por 
+cobrar comerciales, y las otras Cuentas por cobrar.  
+  
+Medición posterior 
+La medición posterior de los activos financieros depende de su clasificación como sigue:  
+ 
+Activos financieros al valor razonable con cambios en resultados 
+Los activos financieros al valor razonable con cambios en resultados incluyen a los activos 
+financieros mantenidos para negociar y los activos financieros designados al momento de su 
+reconocimiento inicial como al valor razonable con cambios en resultados. Los activos financieros 
+se clasifican como mantenidos para negociar si se adquieren con el propósito de venderlos o 
+recomprarlos en un futuro cercano. Esta categoría incluye los instrumentos financieros derivados 
+suscritos por la Empresa que no están designados como instrumentos de cobertura según la NIC 
+39. Los activos financieros al valor razonable con cambios en resultados se contabilizan en el 
+estado de situación financiera por su valor razonable, y los cambios en dicho valor son 
+reconocidos como ingresos o costos financieros en el estado de resultados integrales.  
+ 
+ Al 31 de diciembre de 2013, 2012 y 2011, la Empresa no mantuvo ningún activo financiero en esta 
+categoría.  
+ 
+ Préstamos y cuentas por cobrar 
+ 
+Los préstamos y cuentas por cobrar son activos financieros no derivados con pagos fijo o 
+determinables, que no cotizan en un mercado activo. Después del reconocimiento inicial, estos 
+activos financieros se miden al costo amortizado utilizando el método de la tasa de interés efectiva 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 15 | vecina =====
+                                                  
+ Página 15 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+(TIE), menos cualquier deterioro del valor. El costo amortizado se calcula tomando en cuenta 
+cualquier descuento o prima de adquisición, y las comisiones o los costos que son parte integrante 
+de la tasa de interés efectiva. Los intereses a la tasa de interés efectiva se reconocen en el estado 
+de resultados Integrales como ingreso financiero. Las pérdidas que resulten de un deterioro del 
+valor se reconocen en el estado de resultados integrales como una provisión. 
+ Inversiones a ser mantenidas hasta su vencimiento 
+ 
+Los activos financieros no derivados con cobros fijos o determinables y vencimientos fijos, se 
+clasifican como mantenidos hasta su vencimiento cuando la Empresa tiene la intención y la 
+capacidad de mantenerlos hasta su vencimiento. Después de su reconocimiento inicial, las 
+inversiones a ser mantenidas hasta su vencimiento se miden al costo amortizado utilizando el 
+método de la tasa de interés efectiva, menos cualquier deterioro del valor. El costo amortizado se 
+calcula tomando en cuenta cualquier descuento o prima de adquisición y las comisiones o los 
+costos que son una parte integrante de la tasa de interés efectiva. Los intereses a la tasa de 
+interés efectiva se reconocen en el estado de resultados integrales como ingreso financiero. Las 
+pérdidas que resulten de un deterioro del valor se reconocen en el estado de resultados integrales 
+como costo financiero.  
+ 
+Al 31 de diciembre de 2013, 2012 y 2011, la Empresa  no mantuvo ninguna inversión en esta 
+categoría. 
+ 
+ Inversiones financieras disponibles para la venta 
+ 
+Las inversiones clasificadas como disponibles para la venta son aquellas que no se clasifican en 
+las categorías anteriores. Después del reconocimiento inicial, las inversiones financieras 
+disponibles para la venta se miden por su valor razonable, y las ganancias o pérdidas no 
+realizadas se reconocen como otros resultados integrales en la reserva por actualización de 
+inversiones financieras disponibles para la venta, hasta que la inversión sea dada de baja. En ese 
+momento, la ganancia o pérdida acumulada se reconoce como una ganancia o pérdida en el 
+estado de resultados integrales. En caso exista un deterioro del valor de la inversión, la pérdida 
+acumulada se reclasifica al estado de resultados integrales como costo financiero y se elimina de 
+la reserva respectiva. 
+ 
+Al 31 de diciembre de 2013, 2012 y 2011, la Empresa no mantiene inversiones disponibles para la 
+venta. 
+ 
+Baja en cuenta 
+ 
+Un activo financiero (o, cuando resulte aplicable, parte de un activo financiero o parte de un grupo 
+de activos financieros similares) se da de baja cuando:  
+ 
+(i) Hayan expirado los derechos contractuales a recibir los flujos de efectivo generados por el 
+activo; o  
+ 
+(ii) Se hayan transferido los derechos contractuales sobre los flujos de efectivo generados por el 
+activo, o se haya asumido una obligación de pagar a un tercero la totalidad de esos flujos de 
+efectivo sin una demora significativa, a través de un acuerdo de intermediación, y  
+ 
+(iii) Se hayan transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad 
+del activo; o no se han ni transferido ni retenido sustancialmente todos los riesgos y beneficios 
+inherentes a la propiedad del activo, pero se haya transferido el control sobre el mismo.  
+ 
+ 
+Cuando se hayan transferido los derechos contractuales de recibir los flujos de efectivo generados 
+por el activo, o se haya celebrado un acuerdo de transferencia, pero no se hayan ni transferido ni 
+retenido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo, ni se 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 18 | vecina =====
+                                                  
+ Página 18 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+El valor razonable de un activo o pasivo se mide utilizando los supuestos que los participantes en 
+el mercado usarían al ponerle valor al activo o pasivo, asumiendo que los participantes en el 
+mercado actúan en su mejor interés económico.  
+ 
+La medición del valor razonable de activos no financieros toma en consideración la capacidad de 
+un participante en el mercado para generar beneficios económicos mediante el mayor y mejor uso 
+del activo o vendiéndolo a otro participante en el mercado que usaría el activo de la mejor manera 
+posible.  
+ 
+La Empresa utiliza técnicas de valuación que son apropiadas en las circunstancias y por las cuales 
+tiene suficiente información disponible para medir al valor razonable, maximizando el uso de datos 
+observables relevantes y minimizando el uso de datos no observables.  
+ 
+Todos los activos y pasivos por los cuales se determinan o revelan valores razonables en los 
+estados financieros son clasificados dentro de la jerarquía de valor razonable, descrito a 
+continuación, en base al nivel más bajo de los datos usados que sean significativos para la 
+medición al valor razonable como un todo:  
+ 
+- Nivel 1 - Precios cotizados (no ajustados) en mercados activos para activos o pasivos idénticos.  
+- Nivel 2 - Técnicas de valuación por las cuales el nivel más bajo de información que es 
+significativo para    la medición al valor razonable es directa o indirectamente 
+observable.  
+- Nivel 3 - Técnicas de valuación por las cuales el nivel más bajo de información que es 
+significativo para la medición al valor razonable no es observable.  
+ 
+Para los activos y pasivos que son reconocidos al valor razonable en los estados financieros sobre 
+una base recurrente, la Empresa determina si se han producido transferencias entre los diferentes 
+niveles dentro de la jerarquía mediante la revisión de la categorización al final de cada período de 
+reporte.  
+ 
+La Gerencia de la Empresa determina las políticas y procedimientos para mediciones al valor 
+razonable recurrentes y no recurrentes. A cada fecha de reporte, la Gerencia analiza los 
+movimientos en los valores de los activos y pasivos que deben ser valorizados de acuerdo con las 
+políticas contables de la Empresa.  
+ 
+Para propósitos de las revelaciones de valor razonable, la Empresa ha determinado las clases de 
+activos y pasivos sobre la base de su naturaleza, características y riesgos y el nivel de la jerarquía 
+de valor razonable tal como se explicó anteriormente.  
+ 
+3.2.3.  Moneda funcional y moneda de presentación de los estados financieros  
+Los estados financieros  de la Empresa ELECTRO SUR ESTE S.A.A, se presentan en nuevos 
+soles peruanos (S/), que a su vez constituye la moneda funcional de la Empresa, identificada en la 
+fecha de transición a las NIIF. La Empresa sobre la que se informa en los estados financieros  
+determina su propia moneda funcional, que es la moneda del entorno económico principal en el 
+que opera. Las partidas incluidas en los estados financieros se miden utilizando esa moneda 
+funcional.   
+3.2.4.  Conversión de la moneda extranjera en los estados financieros 
+ 
+Transacciones y saldos en moneda distintas de la moneda funcional 
+Las transacciones en moneda distinta de la moneda funcional –moneda extranjera – de cada 
+empresa individual  se convierten a la correspondiente moneda funcional empleando los tipos de 
+cambio vigentes a las fechas de las transacciones o de la valuación cuando las partidas son 
+medidas al cierre. Las ganancias y pérdidas en moneda extranjera que resultan de la liquidación 
+de estas transacciones y de la conversión de los activos y pasivos monetarios denominados en 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 19 | puntaje 6 =====
+                                                  
+ Página 19 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+moneda extranjera, a los tipos de cambio del cierre, se reconocen en el estado de resultado 
+integral. 
+• Conversión de información financiera en monedas distintas de la moneda funcional 
+Los resultados y la situación financiera de las empresas que tienen una moneda funcional distinta 
+de la moneda de presentación y que no se corresponde al de una economía hiperinflacionaria, se 
+convierten de la siguiente manera: 
+ 
+Los activos y pasivos se convierten al tipo de cambio de la fecha de cierre; 
+ 
+Los ingresos y gastos se convierten al tipo de cambio promedio de cada mes y 
+ 
+Las diferencias de cambio resultantes se presentan en el estado del resultado y otro resultado 
+integral del período dentro del otro resultado integral que se reclasificará a resultados, y se 
+acumulan en un componente separado del patrimonio de la Empresa en el estado de cambios en 
+el patrimonio. 
+3.2.5.  Cuentas por Cobrar Comerciales 
+ 
+Las cuentas por cobrar comerciales son activos financieros a corto plazo que se reconocen a su 
+valor nominal cuando: (a) el importe de los servicios prestados de potencia y distribución de 
+energía eléctrica, complementarios y de peaje, puede medirse con fiabilidad a las tarifas 
+establecidas o pactadas; (b) es probable  que fluyan a la Empresa beneficios económicos; y, (c) 
+puede medirse confiablemente la cantidad de potencia y de energía eléctrica distribuida a los 
+clientes y el grado de terminación de los servicios prestados, así como los correspondientes costos 
+incurridos. 
+ 
+Las cuentas por cobrar se presentan netas de la provisión por deterioro de valor, la cual es 
+estimada cuando exista evidencia objetiva de deterioro de que las cuentas por cobrar o un grupo 
+de ellas, que es el atraso mayor a 240 días, el importe de la pérdida por deterioro se mide como la 
+diferencia entre el importe en libros de la cuenta por cobrar y el monto que se espera recuperar a 
+dicha fecha. El importe de la pérdida por deterioro se reconoce en el resultado del periodo. 
+3.2.6.  Inventarios 
+ 
+Los inventarios son medidos al costo o al valor neto realizable, el que resulte menor. El valor neto 
+realizable es el precio de venta estimado en el curso normal del negocio, menos los costos 
+estimados para poner las existencias en condiciones de venta y realizar su comercialización. El 
+costo se determina usando el método de promedio ponderado diario, excepto en el caso de los 
+materiales, suministros y repuestos por recibir que se determinan usando el método de 
+identificación especifica. 
+Los materiales, suministros y repuestos son adquiridos para su uso en el mantenimiento y/o 
+construcción de las propiedades, planta y equipo; así como en la prestación de los servicios 
+complementarios a los clientes. 
+Cuando se estima que los inventarios han perdido valor por no tener el mismo potencial de servicio 
+y no se espera utilizarlos como resultado de su evaluación técnica, se reconoce una 
+desvalorización de inventarios con cargo a resultados del ejercicio en el que ocurren tales 
+reducciones. 
+3.2.7.  Propiedades, planta y equipo 
+ 
+La empresa utilizó el Valor Razonable como costo atribuido de los activos maquinaria y equipo 
+productivos de la Empresa ELECTRO SUR ESTE S.A.A., a la fecha de transición a las NIIF, los 
+mismos que fueron determinados sobre la base de valuaciones realizadas por expertos 
+independientes utilizando el enfoque de Ingresos que permite la NIIF 13 Valor Razonable. 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 20 | vecina =====
+                                                  
+ Página 20 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+Acogiéndose para ello al uso del costo atribuido,  exención permitida por la NIIF 1 en su párrafo 
+D5.  
+Edificios, Maquinaria y Equipo y Obras Civiles, catalogados como activos productivos, para la 
+emisión de los presentes Estados Financieros  fueron valuados sobre la base de dicho enfoque de 
+ingresos, y se presentan netos de las depreciaciones acumuladas que han sido re-expresadas 
+conforme la NIC 16, párrafo 35, ítem a. para mantener cantidades equivalentes para el tratamiento 
+posterior que exige la NIC 16 y la NIC 12.  
+Para dicha medición se ha desarrollado un proceso de definición de Unidades de Cuenta y de 
+Componentización de sus activos productivos basados en el modelo de gestión de los mismos y 
+en la posibilidad de medición del Valor Razonable tal como exige la NIIF 13, valor razonable.  La 
+posibilidad de medir dichos activos  a valor razonable depende de la obtención de datos 
+observables del Nivel II respecto a obsolescencia tecnológica y económica que permita a un 
+concurrente en el mercado obtener  un valor razonable por estos activos.  
+Para las demás partidas de propiedades, planta y equipo  denominados activos generales o 
+contributivos como: edificios administrativos, muebles y enseres, unidades de transporte y equipos 
+diversos, la Empresa ha utilizado para efectos de la adopción de NIIF el costo a la fecha de 
+transición. El costo de una partida de propiedades, planta y equipo,  incluye su precio de 
+adquisición, cualquier costo directamente relacionado con la ubicación y puesta en condiciones de 
+funcionamiento del activo y la estimación inicial de los costos de desmantelamiento o retiro del 
+mismo.  
+Los Componentes o partes importantes del activo, que constituyen unidad de medición de la 
+depreciación, se han identificado en función de su materialidad y sus vidas útiles.  
+La Empresa ha determinado el uso del método de línea recta para la asignación de la depreciación 
+del periodo.  
+El valor residual para las partidas de propiedad planta y equipo, por no tener materialidad, no son 
+motivo de deducción para calcular el importe depreciable de dichas partidas. 
+Los costos por préstamos que sean directamente atribuibles a la adquisición, construcción o 
+producción de un activo que necesariamente lleve un período de tiempo sustancial para 
+prepararlos para su uso o su venta se capitalizan como parte del costo de los activos respectivos.  
+Todas las clases de propiedades, planta y equipo se miden de acuerdo con el modelo del costo 
+(menos depreciaciones acumuladas y deterioros acumulados, de corresponder).  
+Las obras en curso representan los proyectos que se encuentran en construcción y se registran al 
+costo, y no se deprecian hasta que los activos relevantes se encuentran disponibles para su uso, 
+esto es cuando se cuenten con actas de conformidad de su culminación y haya control económico 
+respecto a estas.  
+Las Unidades de Reemplazo que se encuentran disponibles para su uso se deprecian en forma 
+lineal a una tasa que permita ajustar la pérdida de su potencial de servicios, incluso si se 
+encuentren almacenados.  
+Los repuestos importantes reclasificados como Unidades de Remplazo por tener uso probable en 
+más de un período se deprecian en forma lineal a una tasa que permita ajustar la pérdida de su 
+potencial de servicios, incluso si se encuentren almacenados.  
+Las siguientes vidas útiles son utilizadas para calcular la depreciación 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 26 | vecina =====
+                                                  
+ Página 26 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+de activos, componentes y ítems que conforman los activos valuados de la 
+entidad. 
+ 
+- Costo Histórico de  propiedades de inversión:  La Empresa ha utilizado como 
+costo atribuido para las partidas de propiedades de inversión el costo histórico de 
+ellas, a la fecha de transición a NIIF.  
+ 
+- Diferencias de conversión acumuladas  en negocios en el extranjero : las 
+diferencias de conversión acumuladas relacionadas con todos los negocios en el 
+exterior a la fecha de transición a las NIIF se consideraron nulas. 
+ 
+b.  Excepciones obligatorias a las N.I.I.F.  
+A continuación se detallan las excepciones obligatorias aplicadas por Empresa 
+ELECTRO SURESTE S.A.A. bajo NIIF 1:  
+- Estimaciones: Las estimaciones realizadas según NIIF por la Empresa al 01 de 
+Enero de 2012 (fecha de transición a las NIIF), son coherentes con las 
+estimaciones realizadas según los PCGA, para los Estados Financieros al 01 de 
+Enero del 2012. 
+De acuerdo con lo requerido por la NIIF 1, se exponen a continuación  las 
+conciliaciones del patrimonio determinado de acuerdo a las normas contables 
+anteriores aplicadas por la Empresa ELECTRO SURESTE S.A.A.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 27 | puntaje 8 =====
+                                                  
+ Página 27 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+4.1.2  REEXPRESION PATRIMONIAL AL 31.12.2011 O 01.01.2012 
+ 
+ESTADO DE SITUACION FINANCIERA DE APERTURA 
+EMPRESA REGIONAL DE SERVICIO PÚBLICO ELECTRO SUR ESTE S.A.A. 
+EFECTO DE ADOPCION DE LAS NIIF EN EL ESTADO DE SITUACION FINANCIERA  
+AL 31 DE DICIEMBRE 2011 
+(En nuevos soles) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+Notas  
+PCGA 
+Anteriores  
+Efecto de  
+Transición  
+A NIIF  NIIF  
+ACTIVOS  
+    
+        
+Activos Corrientes                  
+Efectivo y Equivalente de Efectivo 
+   
+a) 39,913,658 -334,698 39,578,960 
+Otros Activos  Financieros 
+   
+  0 0 0 
+Cuentas por Cobrar Comerciales (neto) 
+  
+b) 28,697,567 776,247 29,473,814 
+Otras Cuentas por Cobrar (neto) 
+   
+c) 4,082,888 -2,126,766 1,956,122 
+Cuentas por Cobrar a Entidades relacionadas  
+  
+d) 310,048 -310,048 0 
+Inventarios 
+    
+e) 10,425,217 -292,242 10,132,975 
+Activos Biológicos 
+    
+  0 0 0 
+Activos por Impuestos a las Ganancias 
+  
+  0 0 0 
+Gastos Pagados por Anticipado 
+   
+  726,713 0 726,713 
+Otros Activos 
+    
+  0 0 0 
+Total Activos Corrientes Distintos de los Activos  o Grupos           
+de Activos para su Disposición Clasificados como Mantenidos     84,156,091 -2,287,506 81,868,585 
+para la Venta o para Distribuir a los Propietarios           
+Activos No Corrientes o Grupos de Activos para su Disposición           
+Clasificados como Mantenidos para la Venta       0 0 0 
+Activos No Corrientes o Grupos de Activos para su Disposición           
+Clasificados como para Distribuir a los Propietarios     0 0 0 
+Activos No Corrientes o Grupos de Activos para su Disposición           
+Clasificados como Mantenidos para la Venta o como      0 0 0 
+Mantenidos para Distribuir a los Propietarios             
+Total Activos Corrientes         84,156,091 -2,287,506 81,868,585 
+  
+    
+        
+Activos No Corrientes               
+Otros Activos Financieros - No Cte 
+   
+  0 0 0 
+Inversiones  Contabilizadas aplicando el Método de Participación 
+ 
+  0 0 0 
+Cuentas por Cobrar Comerciales - No Cte 
+  
+  0 0 0 
+Otras Cuentas por Cobrar - No Cte 
+   
+  0 0 0 
+Cuentas por Cobrar a Entidades Relacionadas - No Cte 
+ 
+  0 0 0 
+Activos Biológicos - No Cte 
+   
+  0 0 0 
+Propiedades de Inversión 
+   
+  0 0 0 
+Propiedades, Planta y Equipo 
+   
+f) 833,670,767 -69,250,315 764,420,452 
+Depreciación 
+    
+g) -304,192,733 17,605,282 -286,587,451 
+Activos Intangibles (neto) 
+   
+  1,240,765 0 1,240,765 
+Activos por Impuestos  a las Ganancias Diferidos 
+  
+h) 1,196,915 639,852 1,836,767 
+Plusvalía 
+    
+  0 0 0 
+Otros Activos  - No Cte 
+   
+  0 0 0 
+Total Activos no Corrientes         531,915,714 -51,005,181 480,910,533 
+  
+    
+        
+TOTAL DE ACTIVOS         616,071,805 -53,292,687 562,779,118 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 28 | puntaje 6 =====
+                                                  
+ Página 28 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+EMPRESA REGIONAL DE SERVICIO PÚBLICO ELECTRO SUR ESTE S.A.A.  
+EFECTO DE ADOPCION DE LAS NIIF  EN EL ESTADO DE SITUACION FINANCIERA  
+AL 31 DE DICIEMBRE 2011  
+(En nuevos soles)  
+                       Efecto de    
+  
+    
+Notas  PCGA  Transición  NIIF  
+  
+    
+  Anteriores  a NIIF    
+                  
+         
+Efecto de 
+Transición  
+A NIIF 
+PASIVOS 
+    
+        
+Pasivos Corrientes                  
+Otros Pasivos Financieros 
+   
+  7,154,640 0 7,154,640 
+Cuentas por Pagar Comerciales  
+   
+i) 27,643,693 -8,986,507 18,657,186 
+Otras Cuentas por Pagar 
+   
+j) 21,215,432 -14,449,356 6,766,076 
+Cuentas por Pagar a Entidades Relacionadas 
+  
+k) 3,917,680 -3,917,680 0 
+Provisiones 
+    
+l) 0 1,100,000 1,100,000 
+Pasivos por Impuestos a las Ganancias 
+  
+m) 0 7,312,314 7,312,314 
+Provisión por Beneficios a los Empleados 
+  
+n) 0 4,419,599 4,419,599 
+Otros Pasivos 
+    
+  0 0 0 
+Total Pasivos Corrientes Distintos de los Pasivos incluidos en           
+Grupos de Activos para su Disposición Clasificados como     59,931,445 -14,521,631 45,409,814 
+Mantenidos para la Venta               
+Pasivos incluidos en Grupos de Activos para su Disposición           
+Clasificados como Mantenidos para la Venta       0 0 0 
+Total Pasivos Corrientes         59,931,445 -14,521,631 45,409,814 
+  
+    
+        
+Pasivos No Corrientes               
+Otros Pasivos Financieros - No Cte 
+   
+o) 14,682,998 -6,132,265 8,550,733 
+Cuentas por Pagar Comerciales - No Cte 
+  
+  0 0 0 
+Otras Cuentas por Pagar - No Cte 
+   
+p) 13,449,406 -13,449,406 0 
+Cuentas por Pagar a Entidades Relacionadas - No Cte 
+ 
+  0 0 0 
+Pasivos por Impuestos a las Ganancias Diferidos - No Cte 
+ 
+q) 5,509,991 -5,509,991 0 
+Provisiones - No Cte 
+    
+r) 0 14,282,506 14,282,506 
+Provisión para Beneficios a los Empleados - No Cte 
+ 
+s) 0 12,884,997 12,884,997 
+Otros Pasivos - No Cte 
+   
+t) 0 5,996,991 5,996,991 
+Ingresos Diferidos (netos) 
+   
+  0 0 0 
+Total Pasivos No Corrientes         33,642,395 8,072,832 41,715,227 
+TOTAL PASIVOS           93,573,840 -6,448,799 87,125,041 
+  
+    
+        
+Patrimonio                 
+Capital Emitido 
+    
+  338,737,022 0 338,737,022 
+Primas de Emisión 
+    
+  148,169,081 0 148,169,081 
+Acciones de Inversión 
+    
+  0 0 0 
+Acciones Propias en Cartera 
+   
+  0 0 0 
+Otras Reservas de Capital 
+   
+  4,202,353 0 4,202,353 
+Resultados Acumulados 
+   
+  -9,390,122 -6,284,367 -15,674,489 
+Otras Reservas de Patrimonio 
+   
+  40,779,631 -40,559,521 220,110 
+Ajustes NIIF en Resultado del Ejercicio 
+  
+    0 0 
+TOTAL PATRIMONIO         522,497,965 -46,843,888 475,654,077 
+TOTAL PASIVO Y PATRIMONIO           616,071,805 -53,292,687 562,779,118 
+ 
+ 
+ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 29 | vecina =====
+                                                  
+ Página 29 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+REFERENCIAS 
+ 
+a)  Detalle de ajustes en el rubro de Efectivo y Equivalente de Efectivo: 
+ 
+ 
+ 
+ 
+ 
+b)  Detalle de ajustes en el rubro de Cuentas por Cobrar Comerciales: 
+ 
+Concepto  Monto  
+Reclasificación de Depósitos no Identificados 631,419 
+Reclasificación de las cuentas por cobrar comerciales según NIC 39 310,048 
+Baja de Cobranza dudosa (165,220) 
+Total 776,247 
+ 
+c)  Ajustes a Otras Cuentas por Cobrar por los siguientes conceptos: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d)  Ajustes al rubro de Cuentas por Cobrar a Entidades Relacionadas: 
+ 
+ 
+ 
+ 
+ 
+e)  Ajustes a la partida de Inventarios según detalle siguiente: 
+ 
+Concepto  Monto  
+Baja de equipos y materiales desinstalados (292,242) 
+Total (292,242) 
+ 
+f)  Ajustes a Propiedad Planta y Equipo siguientes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+El movimiento de Propiedad Planta y Equipo producto de dichos ajustes es como sigue: 
+ 
+  2011  S/.  
+Costo   
+Saldo al 31-12-2011 AUDITADO 833,670,767 
+Adiciones  - 
+Retiros -69,250,315 
+Concepto  Monto  
+Reclasificación de depósitos a Plazo de 459 días (334,698) 
+Total (334,698) 
+Concepto  Monto  
+Reclasificación de depósitos a Plazo de 459 días. 334,698 
+Reclasificación de ITAN para efectos de presentación (2,461,464) 
+Total (2,126,766) 
+Concepto  Monto  
+Reclasificación de las cuentas por cobrar comerciales según NIC 39 310,048 
+Total (310,048) 
+Concepto  Monto  
+Baja de Incremento de Revaluación de Terrenos – 2010 (25,741,427) 
+Baja de Inoperativos, sujetos a mantenimiento mayor (1,383,224) 
+RAJE Data V Saldos Auditados 2011 (494) 
+Ajuste por Valuación Empresarial asignado por costo de reposición 
+corriente 
+(42,125,169) 
+Total (69,250,314) 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 32 | vecina =====
+                                                  
+ Página 32 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+r)  Ajustes en el rubro Provisiones – No Corriente: 
+ 
+Concepto  Monto  
+Compra de energía sin contrato, no facturados en el 2007 por las 
+empresas generadoras 
+12,904,187 
+Intereses de Deuda por retiro de energía sin respaldo contractual 1,378,320 
+Total 14,282,507 
+ 
+s)  Se realizó el ajuste de Provisión por Beneficios a los empleados – No Corriente: 
+ 
+Concepto  Monto  
+Presentación 12,884,997 
+Total 12,884,997 
+ 
+t)  Se realizó el ajuste de Otros Pasivos – No Corriente: 
+ 
+Concepto  Monto  
+Reclasificación de Fondo de Mantenimiento y Reposición 5,996,991 
+Total 5,996,991 
+ 
+ 
+RECONCILIACIÓN DE LAS CUENTAS PATRIMONIALES 
+ 
+La reconciliación de las cuentas patrimoniales bajo los principios de contabilidad 
+generalmente aceptados en el Perú y las NIIF al 1 de enero de 2012 (fecha de transición 
+a NIIF) se detalla a continuación: 
+ 
+PERIODO 2011
+Baja de Depósitos en Garantía 10,000.00
+292,241.53 Baja de equipos y materiales desinstalados
+25,741,427.00 Baja de Incremento de Revaluacion de Terrenos - 2010
+Por la baja del pasivo diferido por valuación anterior. 5,509,991.00
+945,726.63 Baja de Inoperativos, sujetos a Mtto. Mayor
+RAJE Data V Saldos Auditados 2011 297,033.99
+154,336.68 Quinquenios 2011
+Reclasificación de Depósitos no Identificados 631,419.15
+165,219.75 Baja de Cobranza dudosa
+10,436,819.37
+AJUSTE por Valuacion Empresarial asignado por costo de 
+reposiciòn corriente
+14,818,094.00
+AJUSTE por Valuacion Empresarial asignado por costo de 
+reposiciòn corriente
+1,378,319.54 Intereses de Deuda por retiro de energia sin respaldo contractual
+Impuesto Diferido 2011 1,836,766.85
+1,196,915.00 Extorno de Activo Diferido previo a Adopción
+8,285,210.99 55,129,099.49
+Movimiento del Periodo -46,843,888.50
+8,285,210.99 8,285,210.99
+VARIACIONES PATRIMONIALES - ADOPCION NIIF
+ADICIONES DEDUCCIONES
+ 
+ 
+4.1.2.  REEXPRESION PATRIMONIAL AL 31.12.2012 
+ESTADO DE SITUACIÓN FINANCIERA AL 31.12.2012 
+La reconciliación entre el estado de situación financiera bajo los principios de contabilidad 
+generalmente aceptados en el Perú y las NIIF al 31 de Diciembre de 2012  se detalla a 
+continuación: 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 33 | puntaje 8 =====
+                                                  
+ Página 33 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+EMPRESA REGIONAL DE SERVICIO PÚBLICO ELECTRO SUR ESTE S.A.A. 
+EFECTO DE ADOPCION DE LAS NIIF EN EL ESTADO DE SITUACION FINANCIERA 
+AL 31 DE DICIEMBRE 2012 
+(En Nuevos Soles) 
+                    Efecto de    
+  
+   
+Notas  PCGA  Transición  NIIF  
+  
+   
+  anteriores  a NIIF    
+                
+ACTIVOS  
+   
+        
+Activos Corrientes                
+Efectivo y Equivalente de Efectivo 
+  
+a) 74,038,884 -4,557,086 69,481,798 
+Otros Activos  Financieros 
+  
+  0 0 0 
+Cuentas por Cobrar Comerciales (neto) 
+ 
+b) 33,879,903 1,306,172 35,186,075 
+Otras Cuentas por Cobrar (neto) 
+  
+c) 6,467,215 2,042,954 8,510,169 
+Cuentas por Cobrar a Entidades relacionadas  
+ 
+d) 243,107 -243,107 0 
+Inventarios 
+   
+e) 8,975,446 -495,690 8,479,756 
+Activos Biológicos 
+   
+  0 0 0 
+Activos por Impuestos a las Ganancias 
+ 
+  0 0 0 
+Gastos Pagados por Anticipado 
+  
+  840,754 0 840,754 
+Otros Activos 
+   
+  0 0 0 
+Total Activos Corrientes Distintos de los Activos  o Grupos         
+de Activos para su Disposición Clasificados como Mantenidos   124,445,309 -1,946,758 122,498,551 
+para la Venta o para Distribuir a los Propietarios         
+Activos No Corrientes o Grupos de Activos para su Disposición         
+Clasificados como Mantenidos para la Venta     0 0 0 
+Activos No Corrientes o Grupos de Activos para su Disposición         
+Clasificados como para Distribuir a los Propietarios   0 0 0 
+Activos No Corrientes o Grupos de Activos para su Disposición         
+Clasificados como Mantenidos para la Venta o como    0 0 0 
+Mantenidos para Distribuir a los Propietarios           
+Total Activos Corrientes       124,445,309 -1,946,758 122,498,551 
+  
+   
+        
+Activos No Corrientes             
+Otros Activos Financieros - No Cte 
+  
+  0 0 0 
+Inversiones  Contabilizadas aplicando el Método de Participación   0 0 0 
+Cuentas por Cobrar Comerciales - No Cte 
+ 
+  0 0 0 
+Otras Cuentas por Cobrar - No Cte 
+  
+  0 0 0 
+Cuentas por Cobrar a Entidades Relacionadas - No Cte   0 0 0 
+Activos Biológicos - No Cte 
+  
+  0 0 0 
+Propiedades de Inversión 
+  
+  0 0 0 
+Propiedades, Planta y Equipo 
+  
+f) 886,880,461 -69,350,403 817,530,058 
+Depreciación 
+   
+g) 
+-
+331,536,024 21,384,416 
+-
+310,151,608 
+Activos Intangibles (neto) 
+  
+  102,196 0 102,196 
+Activos por Impuestos  a las Ganancias Diferidos 
+ 
+h) 458,496 5,419,220 5,877,716 
+Plusvalía 
+   
+  0 0 0 
+Otros Activos  - No Cte 
+  
+  0 0 0 
+Total Activos no Corrientes       555,905,129 -42,546,768 513,358,361 
+  
+   
+        
+TOTAL DE ACTIVOS       680,350,438 -44,493,526 635,856,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 34 | puntaje 6 =====
+                                                  
+ Página 34 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+ 
+EMPRESA REGIONAL DE SERVICIO PÚBLICO ELECTRO SUR ESTE S.A.A.  
+EFECTO DE ADOPCION DE LAS NIIF EN EL ESTADO DE SITUACION FINANCIERA  
+AL 31 DE DICIEMBRE 2012  
+(En nuevos soles)  
+                       Efecto de    
+  
+    
+Notas  PCGA  Transición  NIIF  
+  
+    
+  anteriores  a NIIF    
+                  
+PASIVOS 
+    
+        
+Pasivos Corrientes                  
+Otros Pasivos Financieros 
+   
+  6,607,302 0 6,607,302 
+Cuentas por Pagar Comerciales  
+   
+i) 31,924,877 -9,348,455 22,576,422 
+Otras Cuentas por Pagar 
+   
+j) 17,957,680 -14,938,622 3,019,058 
+Cuentas por Pagar a Entidades Relacionadas 
+  
+k) 3,877,234 -3,877,234 0 
+Provisiones 
+    
+  2,822,732 0 2,822,732 
+Pasivos por Impuestos a las Ganancias 
+  
+l) 0 9,576,138 9,576,138 
+Provisión por Beneficios a los Empleados 
+  
+m) 0 5,172,006 5,172,006 
+Otros Pasivos 
+    
+  0 0 0 
+Total Pasivos Corrientes Distintos de los Pasivos incluidos en           
+Grupos de Activos para su Disposición Clasificados como     63,189,825 -13,416,167 49,773,659 
+Mantenidos para la Venta               
+Pasivos incluidos en Grupos de Activos para su Disposición           
+Clasificados como Mantenidos para la Venta       0 0 0 
+Total Pasivos Corrientes         63,189,825 -13,416,167 49,773,659 
+  
+    
+        
+Pasivos No Corrientes               
+Otros Pasivos Financieros - No Cte 
+   
+n) 9,223,154 -7,571,329 1,651,825 
+Cuentas por Pagar Comerciales - No Cte 
+  
+  0 0 0 
+Otras Cuentas por Pagar - No Cte 
+   
+o) 13,442,407 -13,442,407 0.00 
+Cuentas por Pagar a Entidades Relacionadas - No Cte 
+ 
+  0 0 0 
+Pasivos por Impuestos a las Ganancias Diferidos - No Cte 
+ 
+p) 3,961,656 -3,961,656 0 
+Provisiones - No Cte 
+    
+q) 0 14,604,008 14,604,008 
+Provisión para Beneficios a los Empleados - No Cte 
+ 
+r) 0 12,088,060 12,088,060 
+Otros Pasivos - No Cte 
+   
+s) 0 6,903,584 6,903,584 
+Ingresos Diferidos (netos) 
+   
+  0 0 0 
+Total Pasivos No Corrientes         26,627,217 8,620,260 35,247,477 
+TOTAL PASIVOS           89,817,042 -4,795,906 85,021,136 
+  
+    
+        
+Patrimonio                 
+Capital Emitido 
+    
+  338,737,022 0 338,737,022 
+Primas de Emisión 
+    
+  194,550,983 0 194,550,983 
+Acciones de Inversión 
+    
+  0 0 0 
+Acciones Propias en Cartera 
+   
+  0 0 0 
+Otras Reservas de Capital 
+   
+  4,202,353 0 4,202,353 
+Resultados Acumulados 
+   
+  12,483,517 861,901 13,345,418 
+Otras Reservas de Patrimonio 
+   
+  40,559,521 -40,559,521 0 
+  
+    
+        
+TOTAL PATRIMONIO         590,533,396 -39,697,620 550,835,776 
+TOTAL PASIVO Y PATRIMONIO           680,350,438 -44,493,526 635,856,912 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 35 | vecina =====
+                                                  
+ Página 35 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+REFERENCIAS 
+ 
+a)  Ajustes en el rubro Efectivo y Equivalente de efectivo: 
+ 
+Concepto  Monto  
+Reclasificación de Cartas Fianza a Cuentas por Cobrar (4,557,086) 
+Total (4,557,086) 
+ 
+ 
+b)  Ajustes en el rubro Cuentas por Cobrar Comerciales: 
+ 
+Concepto  Mont o 
+Saldo inicial de rubro Cuentas por Cobrar Comerciales de 
+ajustes NIIF 2011 
+466,199  
+Reversión de Baja de Intangibles 2012 al estar considerados en 
+cálculo anual  
+165,220 
+Depósitos sin identificar 431,646 
+Reclasificación de Cuentas por Cobrar Relacionadas por aplicación 
+de NIC 38 
+243,107 
+Total 1,306,172 
+ 
+c)  Ajustes en el rubro de Otras Cuentas por Cobrar: 
+ 
+Concepto  Monto  
+Baja de cuentas por Responsabilidad de más de un período. (2,890) 
+Reclasificación de Cartas Fianza a Cuentas por Cobrar 4,557,087 
+Reclasificación de ITAN (2,511,243) 
+Total 2,042,954 
+ 
+d)  Ajustes en el rubro Cuentas por Cobrar a Entidades Relacionadas: 
+ 
+ 
+Concepto  Monto  
+Reclasificación de Cuentas por Cobrar Relacionadas por 
+aplicación de NIC 38 
+243,107 
+Total (243,107) 
+ 
+ 
+e)  Ajustes en el rubro Inventarios por Ajustes de NIIF. 
+ 
+ 
+Concepto  Monto  
+Saldo inicial de rubro Inventarios de ajustes NIIF 2011 (292,241)  
+Baja de Unidades de Reemplazo del período 2010  (203,449) 
+Total (495,690) 
+ 
+f)  Se efectuaron ajustes a Propiedad Planta y equipo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+El movimiento de Propiedad, Planta y Equipo producto de dichos ajustes es como sigue: 
+Concepto  Monto  
+Ajustes iniciales NIIF realizados en el período 2011 (69,250,315)  
+Ajuste de Saldos NIIF Vs PCGA 2012                   494 
+Diferencia en la data con saldo auditado Urbizagastegui (100,582) 
+Total (69,350,403) 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 39 | vecina =====
+                                                  
+ Página 39 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+u)  Ajustes en el Rubro Otros Ingresos Operativos: 
+ 
+Concepto  Monto  
+Ajuste Impuesto Diferido (1,548,335) 
+Total (1,548,335) 
+ 
+v)  Ajustes en el Rubro Otros Gastos Operativos: 
+ 
+Concepto  Monto  
+Baja de cuentas por Responsabilidad de más de un período. (2,889) 
+Baja de Unidades de Reemplazo del período 2010 (203,449) 
+Total (206,338) 
+ 
+w)  Ajustes en el Rubro Ingresos Financieros: 
+ 
+Concepto  Monto  
+Recupero de Diferencia de Tipo de Cambio (68,483) 
+Total (68,483) 
+ 
+x)  Ajustes en el Rubro Diferencia de Cambio: 
+ 
+Concepto  Monto  
+Recupero de Diferencia de Tipo de Cambio 68,483 
+Total 68,483 
+ 
+ 
+CONCILIACIÓN CUENTAS PATRIMONIALES AL 31.12.2012 
+Reconciliación del Patrimonio Neto desde principios contables generalmente aceptados 
+en el Perú a Normas Internacionales de Información Financiera al 31 de diciembre de 
+2012: 
+ 
+PERIODO 2012
+Ajustes Patrimonio 2011 - NIIF -46,843,888.50
+2,889.72 Baja de cuentas por Responsabilidad de más de un período.
+203,448.73 Baja de Unidades de Reemplazo del período 2010
+Reversion de Baja de Intangibles 2012 al estar considerados en calculo anual 165,219.75
+154,336.68 Quinquenios
+1,548,335.00 Ajuste Impuesto Diferido
+Baja Inoperativo y Diferencia en la data y saldo auditado(481,529,81 y 
+27603.20) 409,044.53
+DEPOSITOS SIN IDENTIFICAR 431,645.53
+RECUPERO DE MAYOR DEPRECIACIÒN activosgenerales 163,674.08
+Recupero de depreciacin CRC 3,106,326.64
+Ajuste de Impuesto Diferido 2012 738,419.00
+Impuesto Diferido 2012 4,040,949.15
+-37,788,609.83 1,909,010.13
+Movimiento del Periodo -39,697,619.96
+-37,788,609.83 -37,788,609.83
+VARIACIONES PATRIMONIALES - ADOPCION NIIF
+ADICIONES DEDUCCIONES
+ 
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 40 | puntaje 8 =====
+                                                  
+ Página 40 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+4.1.3.  CONCILIACION PATRIMONIAL AL 31.12.2013 
+ESTADO DE SITUACIÓN FINANCIERA AL 31.12.2013 RECONCILIADO 
+La reconciliación entre el estado de situación financiera bajo los principios de contabilidad 
+generalmente aceptados en el Perú y las NIIF al 31 de Diciembre de 2013 (fecha de 
+transición a NIIF) se detalla a continuación: 
+            Efecto de    
+  
+   
+Notas  PCGA  Transición  NIIF  
+  
+   
+  anteriores  a NIIF    
+                
+ACTIVOS          
+Activos Corrientes          
+Efectivo y Equivalente de Efectivo 
+  
+a) 77,273,338 -14,376,040 62,897,298 
+Otros Activos  Financieros 
+  
+  0 0 0 
+Cuentas por Cobrar Comerciales (neto) 
+ 
+b) 37,547,762 1,063,065 38,610,827 
+Otras Cuentas por Cobrar (neto) 
+  
+c) 3,155,762 14,373,150 17,528,912 
+Cuentas por Cobrar a Entidades relacionadas  
+ 
+  0 0 0 
+Inventarios 
+   
+d) 10,742,385 -495,690 10,246,695 
+Activos Biológicos 
+   
+  0 0 0 
+Activos por Impuestos a las Ganancias 
+ 
+  0 0 0 
+Gastos Pagados por Anticipado 
+  
+  1,697,399 0 1,697,399 
+Otros Activos 
+   
+  0 0 0 
+Total Activos Corrientes Distintos de los Activos  o Grupos         
+de Activos para su Disposición Clasificados como Mantenidos   130,416,645 564,485 130,981,130 
+para la Venta o para Distribuir a los Propietarios         
+Activos No Corrientes o Grupos de Activos para su Disposición         
+Clasificados como Mantenidos para la Venta     0 0 0 
+Activos No Corrientes o Grupos de Activos para su Disposición         
+Clasificados como para Distribuir a los Propietarios   0 0 0 
+Activos No Corrientes o Grupos de Activos para su Disposición         
+Clasificados como Mantenidos para la Venta o como    0 0 0 
+Mantenidos para Distribuir a los Propietarios           
+Total Activos Corrientes       130,416,645 564,485 130,981,130 
+  
+   
+        
+Activos No Corrientes             
+Otros Activos Financieros - No Cte 
+  
+  0 0 0 
+Inversiones  Contabilizadas aplicando el Método de Participación   0 0 0 
+Cuentas por Cobrar Comerciales - No Cte 
+ 
+  0 0 0 
+Otras Cuentas por Cobrar - No Cte 
+  
+  0 0 0 
+Cuentas por Cobrar a Entidades Relacionadas - No Cte   0 0 0 
+Activos Biológicos - No Cte 
+  
+  0 0 0 
+Propiedades de Inversión 
+  
+  0 0 0 
+Propiedades, Planta y Equipo 
+  
+e) 955,556,789 -68,297,328 887,259,462 
+Depreciación 
+   
+f) -356,397,558 21,745,222 -334,652,336 
+Activos Intangibles (neto) 
+  
+  0 0 0 
+Activos por Impuestos  a las Ganancias Diferidos 
+ 
+g) 525,061 798,722 1,323,783 
+Plusvalía 
+   
+  0 0 0 
+Otros Activos  - No Cte 
+  
+  0 0 0 
+Total Activos no Corrientes       599,684,292 -45,753,383 553,930,909 
+  
+   
+        
+TOTAL DE ACTIVOS       730,100,937 -45,188,898 684,912,039 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 41 | puntaje 6 =====
+                                                  
+ Página 41 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+EMPRESA REGIONAL DE SERVICIO PÚBLICO ELECTRO SUR ESTE S.A.A. 
+EFECTO DE ADOPCION DE LAS NIIF EN EL ESTADO DE SITUACION FINANCIERA 
+AL 31 DE DICIEMBRE 2013 
+(En nuevos soles)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              Efecto de    
+  
+    
+Notas  PCGA  Transición  NIIF  
+  
+    
+  anteriores  a NIIF    
+                  
+PASIVOS 
+    
+        
+Pasivos Corrientes                  
+Otros Pasivos Financieros 
+   
+  1,651,825 0 1,651,825 
+Cuentas por Pagar Comerciales  
+   
+h) 26,245,216 1,336,384 27,581,600 
+Otras Cuentas por Pagar 
+   
+i) 20,975,316 -20,093,150 882,166 
+Cuentas por Pagar a Entidades Relacionadas 
+  
+j) 1,336,384 -1,336,384 0 
+Provisiones 
+    
+  2,442,564 0 2,442,564 
+Pasivos por Impuestos a las Ganancias 
+  
+k) 8,871,681 6,487,563 15,359,244 
+Provisión por Beneficios a los Empleados 
+  
+l) 5,468,890 308,673 5,777,563 
+Otros Pasivos 
+    
+  0 0 0 
+Total Pasivos Corrientes Distintos de los Pasivos incluidos 
+en           
+Grupos de Activos para su Disposición Clasificados como     66,991,875 -13,296,914 53,694,962 
+Mantenidos para la Venta               
+Pasivos incluidos en Grupos de Activos para su Disposición           
+Clasificados como Mantenidos para la Venta       0 0 0 
+Total Pasivos Corrientes         66,991,875 -13,296,914 53,694,962 
+  
+    
+        
+Pasivos No Corrientes               
+Otros Pasivos Financieros - No Cte 
+   
+  0 0 0 
+Cuentas por Pagar Comerciales - No Cte 
+  
+  0 0 0 
+Otras Cuentas por Pagar - No Cte 
+   
+m) 8,164,129 -6,469,718 1,694,411 
+Cuentas por Pagar a Entidades Relacionadas - No Cte 
+ 
+  0 0 0 
+Pasivos por Impuestos a las Ganancias Diferidos - No Cte 
+ 
+n) 9,541,259 -9,541,259 0 
+Provisiones - No Cte 
+    
+o) 0 14,907,341 14,907,341 
+Provisión para Beneficios a los Empleados - No Cte 
+ 
+  11,572,301 0 11,572,301 
+Otros Pasivos - No Cte 
+   
+p) 0 8,164,129 8,164,129 
+Ingresos Diferidos (netos) 
+   
+q) 1,694,411 -1,694,411 0 
+Total Pasivos No Corrientes         30,972,100 5,366,082 36,338,182 
+TOTAL PASIVOS           97,963,976 -7,930,832 90,033,144 
+  
+    
+        
+Patrimonio                 
+Capital Emitido 
+    
+  338,737,022 0 338,737,022 
+Primas de Emisión 
+    
+  226,559,224 0 226,559,224 
+Acciones de Inversión 
+    
+  0 0 0 
+Acciones Propias en Cartera 
+   
+  0 0 0 
+Otras Reservas de Capital 
+   
+  5,450,705 0 5,450,705 
+Resultados Acumulados 
+   
+  20,830,489 3,301,455 24,131,944 
+Otras Reservas de Patrimonio 
+   
+  40,559,521 -40,559,521 0 
+  
+    
+        
+TOTAL PATRIMONIO         632,136,962 -37,258,066 594,878,895 
+TOTAL PASIVO Y PATRIMONIO           730,100,937 -45,188,898 684,912,039 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2013_Individual_Anual_Estados Financieros 2013.pdf | PAGINA: 42 | vecina =====
+                                                  
+ Página 42 de 67 
+ 
+ 
+Informe Corto de la Empresa Regional de Servicio Público Electro Sur Este S.A.A. al 31 de Diciembre de 2013. 
+REFERENCIAS: 
+ 
+a)  Ajustes en el rubro de Efectivo y Equivalente de Efectivo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b)  Ajustes en el rubro Cuentas por Cobrar Comerciales: 
+ 
+Concepto  Monto  
+Saldo inicial de rubro Cuentas por Cobrar Comerciales de 
+ajustes NIIF 2012 
+1,063,065  
+Total 1,063,065 
+ 
+c)  Ajustes en el rubro de Otras Cuentas por Cobrar: 
+ 
+Concepto  Monto  
+Saldo inicial de rubro Otras Cuentas por Cobrar de ajustes NIIF 
+2012 
+(2,890)  
+Reclasificación de Equivalente de Efectivo a Instituciones Financieras 
+Disponibles para la venta 
+14,376,040 
+Total 14,373,150 
+ 
+d)  Ajustes en el rubro Inventarios por Ajustes de NIIF. 
+ 
+Concepto  Monto  
+Saldo inicial de rubro Inventarios de ajustes NIIF 2012 (495,690) 
+Total (495,690) 
+ 
+e)  Se efectuaron ajustes a Propiedad Planta y equipo. 
+ 
+Concepto  Monto  
+Ajustes iniciales NIIF realizados en el período 2012 (69,350,403)  
+Recupero de Depreciación CRC  1,053,075 
+Total (68,297,328) 
+ 
+El movimiento de Propiedad, Planta y Equipo producto de dichos ajustes es como 
+sigue: 
+ 
+ 
+2012 S/.  
+Costo 
+ Saldo al 31-12-2013 PCGA 955,556,789 
+Adiciones  1,053,076 
+Retiros -69,350,403 
+Transferencias 0 
+Saldo al 31-12-2011 NIIF 887,259,462 
+  
+ Depreciación acumulada 
+ Saldo al 31-12-2013 PCGA -356,397,558 
+Adiciones 
+ Retiros 21,745,222 
+Saldo al 31-12-2013 NIIF -334,652,336 
+Valor neto en libros 552,607,126 
+Concepto  Monto  
+Reclasificación de Equivalente de Efectivo a Instituciones 
+Financieras Disponibles para la venta 
+14,376,040 
+Total 14,376,040 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2021_Individual_Anual_Estados Financieros Auditados.pdf | PAGINA: 72 | vecina =====
+Empresa Regional de Servicio Público de Electricidad del Sur Este S.A.A. –  
+ELECTRO SUR ESTE S.A.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+68 
+M. Responsabilidad solidaria de los representantes legales y Directores de las Sociedades:  
+A partir del 14 de setiembre de 2018 ha quedado establecido, mediante el Decreto Legislativo 
+N° 1422 que, cuando un sujeto fiscalizado sea sujeto de la Cláusula Anti-elusiva General 
+(CAG), se considera automáticamente que existe dolo, negligencia grave o abuso de 
+facultades respecto de sus representantes legales, salvo prueba en contrario. La referida 
+responsabilidad solidaria se atribuirá a dichos representantes siempre que hayan colaborado 
+con el diseño o aprobación o ejecución de actos, situaciones o relaciones económicas con 
+propósito elusivo. 
+ 
+La norma precitada involucra también a los miembros del Directorio de sociedades, al 
+señalarse que a dichos sujetos les corresponde definir la estrategia tributaria de las 
+sociedades en las cuales son directores, debiendo éstos decidir la aprobación o no de actos, 
+situaciones o relaciones económicas a realizarse en el marco de la planificación fiscal, siendo 
+indelegable – según la norma en comentario – esta atribución de los directores. 
+ 
+Se otorgó a los miembros del Directorio de sociedades domiciliadas, un plazo que vende el  
+29 de marzo de 2019 para ratificar o modificar los actos, situaciones o relaciones económicas 
+realizados en el marco de la planificación fiscal, e implementados al 14 de setiembre de 2018 
+que sigan teniendo efecto tributario hasta la actualidad.  
+ 
+No obstante el referido plazo máximo señalado para el cumplimiento de dicha obligación 
+formal, y considerando la referida responsabilidad solidaria atribuible tanto a representantes 
+legales como a directores, así como la falta de definición del término planificación fiscal será 
+crítico revisar todo acto, situación o relación económica que haya (i) incrementado atributos 
+fiscales; y/o, (ii) generado un menor pago de tributos por los ejercicios antes mencionados, a 
+fin de evitar la atribución de responsabilidad solidaria tributaria, tanto a nivel administrativo 
+como incluso penal, dependiendo del criterio del agente fiscalizador, en caso de aplicarse la 
+CAG a la sociedad que sea materia de una intervención fiscal por parte de la SUNAT.  
+ 
+N. Información relacionada con beneficiarios finales  
+En el marco de las normas para fortalecer la lucha contra la evasión y elusión fiscal así como 
+contra el lavado de activos y financiamiento del terrorismo, a partir del 3 de agosto de 2018 se 
+encuentran vigentes las disposiciones introducidas a través del Decreto Legislativo N° 1372 
+que obligan a brindar a las autoridades competentes, a través de una declaración jurada de 
+beneficiarios finales, información relacionada con dichos sujetos, esto es, a revelar mediante 
+dicha declaración quiénes son las personas naturales que efectivamente tienen la propiedad o 
+control en personas jurídicas o entes jurídicos. Así, será obligatorio informar aspectos como  
+(i) identificación del beneficiario final; (ii) la cadena de titularidad con la respectiva 
+documentación de sustento; (iii) identificación de los terceros que cuentan con dicha 
+información, de ser el caso. Se señala además que la información relacionada a la 
+identificación de los beneficiarios finales de las personas jurídicas y entes jurídicos que se 
+proporcione a las autoridades competentes en el marco de estas normas no constituye 
+violación al secreto profesional ni tampoco está sujeta a las restricciones sobre revelación de 
+información derivadas de la confidencialidad impuesta por vía contractual o por cualquier 
+disposición legal o reglamentaria. 
+ 
+Debe tenerse en consideración que, de no presentarse la declaración jurada informativa que 
+contiene la información relacionada beneficiario final, incurrirán en responsabilidad solidaria 
+los representantes legales de la entidad que omitió cumplir con la presentación de dicha 
+declaración. 
+ 
+La Empresa en fecha 20 de diciembre de 2019, cumplió con la presentación de la declaración 
+informativa en la fecha establecida en el cronograma de vencimientos mensuales. 
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2021_Individual_Anual_Estados Financieros Auditados.pdf | PAGINA: 73 | puntaje 6 =====
+Empresa Regional de Servicio Público de Electricidad del Sur Este S.A.A. –  
+ELECTRO SUR ESTE S.A.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+69 
+O. Enajenación indirecta de acciones  
+A partir del 1 de enero de 2019 se incorpora una técnica anti-elusiva para evitar el 
+fraccionamiento de operaciones, a través de las cuales, indirectamente se enajenen acciones 
+de empresas domiciliadas en Perú.  
+ 
+Se indica que para establecer si en un período de 12 meses se ha cumplido con la 
+transferencia del 10% o más del capital de la sociedad peruana, se consideran las 
+transferencias realizadas por el sujeto analizado, así como las realizadas a sus partes 
+vinculadas, sea que se ejecuten mediante una o varias operaciones, simultáneas o sucesivas. 
+ 
+Dicha vinculación se establecerá conforme a lo establecido en el inciso b) del artículo 32-A de 
+la Ley del Impuesto a la Renta.  
+ 
+Asimismo, queda establecido además que, independientemente del cumplimiento de las 
+condiciones reguladas en la Ley del Impuesto a la Renta, siempre se configurará una 
+enajenación indirecta gravada cuando, en un período cualquiera de 12 meses, el importe total 
+de las acciones de la persona jurídica peruana que se enajenan sea igual o mayor a cuarenta 
+mil (40,000) UIT. 
+ 
+Se agrega además desde la fecha de vigencia inicialmente señalada que, cuando el 
+enajenante sea una persona jurídica no domiciliada que cuenta con una sucursal o cualquier 
+establecimiento permanente en Perú con patrimonio asignado, se considera a este último  
+co-responsable solidario, debiendo este último sujeto proporcionar, entre otra información, a 
+la correspondiente a las acciones o participaciones de la persona jurídica no domiciliada que 
+se enajenan. 
+ 
+Modificaciones tributarias de mayor relevancia vigentes a partir del 2021 
+ 
+P. Depreciación de Activos  
+Mediante el Decreto Legislativo N° 1488 Régimen Especial de Depreciación y Modificación, 
+se incrementa los porcentajes de depreciación de los activos adquiridos durante los años 
+2020 y 2021, con el fin de promover la inversión privada y otorgar mayor liquidez dada la 
+actual coyuntura económica por efectos del COVID-19. 
+ 
+Q. Subcapitalización  
+A partir del 1 de enero de 2021 los gastos financieros serán deducibles hasta el límite del 
+30% del EBITDA tributario (Renta Neta – Compensación de Pérdidas + Intereses Netos + 
+Depreciación + Amortización) del ejercicio anterior. Existen algunas excepciones a la 
+aplicación de esta limitación para el caso de bancos, contribuyentes con ingresos no 
+superiores a 2,500 UITs, infraestructura, servicios públicos, entre otros. 
+ 
+Mediante Decreto Supremo N° 402-2021publicado el 30 de diciembre, vigente a partir del  
+31 de diciembre de 2021, se modificó el Reglamento de la Ley del Impuesto a la Renta que 
+regula el cálculo del EBITDA tributario a efectos del límite de interés de deudas. 
+ 
+Mediante Decreto Supremo N° 402-2021publicado el 30 de diciembre, vigente a partir del  
+31 de diciembre de 2021, se modificó el Reglamento de la Ley del Impuesto a la Renta que 
+regula el cálculo del EBITDA tributario a efectos del límite de interés de deudas 
+  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2021_Individual_Anual_Estados Financieros Auditados.pdf | PAGINA: 74 | vecina =====
+Empresa Regional de Servicio Público de Electricidad del Sur Este S.A.A. –  
+ELECTRO SUR ESTE S.A.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2021 y de 2020 
+ 
+ 
+ 
+70 
+R. Otros cambios relevantes  
+En el marco de la delegación de facultades para legislar en materia tributaria, fiscal, financiera 
+y de reactivación económica, dada al Poder Ejecutivo (Ley N° 31380), el 30 de diciembre de 
+2021 se publicaron las primeras normas tributarias, entre las que destacan los beneficios 
+tributarios aprobados para el sector Acuicultura y Forestal, la uniformización del costo por el 
+acceso a la estabilidad tributaria y la prórroga de las exoneraciones del IGV, entre las 
+principales tenemos: 
+ 
+Extienden la vigencia de algunas exoneraciones y beneficios tributarios, específicamente los 
+siguientes: 
+ 
+▪ Hasta el 31 de diciembre de 2022, se extienden las exoneraciones contenidas en los 
+Apéndices I y II de la Ley del IGV. En consecuencia, no estarán gravadas con IGV, entre 
+otros, la venta de alimentos de primera necesidad y servicios básicos como el 
+transporte público. 
+▪ Hasta el 31 de diciembre de 2024, la emisión de dinero electrónico no estará gravada 
+con IGV. 
+▪ Hasta el 31 de diciembre de 2024, se permite la devolución de impuestos que gravan 
+las adquisiciones con donaciones del exterior e importaciones de misiones 
+diplomáticas Enlace a la norma en comentario: Decreto Legislativo N° 1519. 
+ 
+Asimismo, mediante el Decreto Supremo N° 1516 publicado el 30 de diciembre de 2021 y 
+vigente a partir del 31 de diciembre de 2021 se ha dispuesto uniformizar el costo por el 
+acceso a la estabilidad prevista en los Convenios de Estabilidad Jurídica al amparo de los 
+Decretos Legislativos N° 662 y N° 757, por consiguiente dicho decreto ha modificado el 
+artículo 1° de la Ley N° 27342 que regula dichos convenios, por tanto las empresas 
+receptoras de inversión suscriban con el Estado, estabilizan el Impuesto a la Renta que 
+corresponde aplicar de acuerdo con las normas vigentes al momento de la suscripción del 
+convenio correspondiente, siendo aplicable la tasa vigente a que se refiere el primer párrafo 
+del artículo 55° de la Ley del Impuesto a la Renta en ese momento más 2 (dos) puntos 
+porcentuales. 
+ 
+32. Compromisos y Contingencias 
+ 
+Ver política contable en nota 4.I. 
+ 
+A. Compromisos 
+Al 31 de diciembre de 2021, la Empresa mantiene las siguientes cartas fianzas: 
+ 
+▪ Para garantizar el cumplimiento de obligaciones contractuales conforme al contrato de 
+suministros de energía eléctrica derivado de la licitación de Proinversión por miles de US$ 497 
+con el BBVA Banco Continental, con vencimiento el 31 de marzo de 2022. 
+ 
+▪ Para garantizar el fiel de todos y cada una de las obligaciones asumidas por ELECTROPERU 
+por miles de US$ 1,303 con el BBVA Banco Continental, cuyo beneficiario es Ministerio de 
+Energía y Minas, con vencimiento el 21 de junio de 2022. 
+ 
+▪ Para garantizar el fiel cumplimiento de las obligaciones contractuales del contrato de 
+suministro de energía eléctrica por miles de S/ 1,921 con el Banco de Crédito del Perú, cuyo 
+beneficiario es Termochilca S.A., con vencimiento el 14 de agosto de 2022. 
+  
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2025_Individual_Anual_Informe Financiero 2025.pdf | PAGINA: 28 | vecina =====
+- 25 -
+(e) Inventarios, neto, ver nota 10 -
+Los inventarios están conformados por materiales, suministros y repuestos diversos en almacenes, los 
+cuales se destinan al mantenimiento de las subestaciones de distribución e instalaciones eléctricas en 
+general y se miden al costo o a su valor de reposición, el que resulte menor sobre la base del costo 
+promedio. 
+La Compañía constituye una estimación para deterioro de materiales con cargo a los resultados del 
+período en los casos en que el valor de libros exceda su valor recuperable, sobre la base de un 
+análisis técnico efectuado por la Gerencia, que incluye la evaluación de las condiciones físicas del 
+inventario. 
+(f) Propiedades, maquinaria y equipo, neto, ver nota 11 -
+El rubro propiedades, planta y equipo, se presentan al costo, neto de la depreciación acumulada y, de 
+ser aplicable, de las pérdidas acumuladas por deterioro del valor. Este costo incluye el costo de 
+reemplazar componentes de propiedades, planta y equipo. Para los componentes significativos de 
+propiedades, planta y equipo que deben ser reemplazados periódicamente, se da de baja el 
+componente reemplazado y se reconoce el componente nuevo con su correspondiente vida útil y 
+depreciación. 
+Los costos posteriores se incluyen en el valor en libros del activo o se reconocen como un activo 
+separado, según corresponda, solo cuando es probable que generen beneficios económicos futuros 
+para la Compañía, y el costo de estos activos se pueda medir con confiabilidad. Desembolsos por 
+mantenimiento ordinario y reparaciones se reconocen en resultados conforme se incurren.
+El costo de ciertos elementos de propiedades, planta y equipo al 1 de enero de 2013, fecha de 
+transición de la Compañía a las NIIF, fue determinado con referencia a su valor razonable a esa 
+fecha. 
+Las obras en curso incluyen los desembolsos para la construcción de activos, los costos de 
+financiamiento, y los otros gastos directos atribuibles a dichas obras, devengados durante la etapa de 
+construcción. Las obras en curso se capitalizan cuando se completan y su depreciación se calcula 
+desde el momento en que están en condiciones para su uso. 
+Los terrenos no se deprecian. La depreciación de los otros activos se calcula en forma lineal a lo largo 
+de las vidas útiles estimadas en años de los activos en los plazos mostrados a continuación:
+Años
+Edificios y otras construcciones Entre 40 y 80
+Maquinaria y equipo Entre 5 y 30
+Unidades de transporte 8
+Unidades de reemplazo Entre 16 y 40
+Muebles y enseres Entre 4 y 16
+Equipos diversos Entre 4y 24
+Los valores residuales, las vidas útiles y los métodos y tasas de depreciación de los activos 
+se revisan a cada fecha de cierre de ejercicio y se ajustan prospectivamente. 
+Debido a las características particulares de los activos mantenidos por la Compañía (difícil de ser 
+reutilizables y vendibles al final de su vida útil), la Gerencia, juntamente con su área técnica, han 
+determinado que el valor residual de los mismos no es significativo, por lo que se considera que es 
+cero. 
+0028
+
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2025_Individual_Anual_Informe Financiero 2025.pdf | PAGINA: 29 | puntaje 7 =====
+- 26 -
+Un componente de propiedades, planta y equipo o cualquier parte significativa del mismo reconocida 
+inicialmente, se da de baja al momento de su venta o cuando no se espera obtener beneficios 
+económicos futuros por su uso o venta. Cualquier ganancia o pérdida resultante al momento de dar de 
+baja el activo (calculada como la diferencia entre el ingreso neto procedente de la venta y el importe 
+respectivamente. 
+Las obras de electrificación que recibe del Ministerio de Energía y Mina (MINEM) y otras entidades 
+gubernamentales en calidad de transferencia, son consideradas como propiedades, planta y equipo a 
+su valor de tasación, con abono al pasivo diferido que devengará durante el mismo plazo de la vida 
+útil asignado a dichos activos. Por otro lado, y en conexión con la normatividad de electrificación, la 
+Compañía recibe subsidios del MINEM para la ejecución de obras. La porción subsidiada es 
+acreditada en el rubro 
+reconocimiento como ingreso. Su valor de registro en el activo es del valor monetario desembolsado 
+más el subsidio recibido.
+Cuando se haya celebrado con el Estado convenios de operación y mantenimiento, deberán 
+reconocer los activos recibidos en su contabilidad, dado que tienen el control económico, físico y 
+todos los riesgos y beneficios. Estas transferencias que están fuera de la concesión bajo convenios de 
+operación y mantenimiento deberán ser reconocidas como un activo a su valor de tasación con abono 
+al rubro ingresos diferidos; dicho pasivo se irá amortizando a ingresos juntamente con la depreciación 
+del bien, neutralizando los efectos en el estado de resultados. Al 31 de diciembre de 2025 y de 2024 
+la Compañía no ha celebrado este tipo de convenios.
+(g) Arrendamientos -
+La determinación de si un acuerdo constituye o incluye un arrendamiento se basa en la esencia del 
+acuerdo a la fecha de su celebración, si el cumplimiento del acuerdo depende del uso de uno o más 
+activos específicos, o si el acuerdo concede el derecho de uso del activo, incluso si tal derecho no se 
+encuentra especificado de manera explícita en el acuerdo.
+i) La Compañía como arrendataria -
+Los arrendamientos se reconocen como un activo por derecho de uso y un pasivo por arrendamiento, 
+desde la fecha en que el activo arrendado está disponible para su uso por parte de la Compañía. 
+Los activos y pasivos que surgen de un arrendamiento se miden inicialmente en función de valores 
+presentes. Los pasivos por arrendamiento incluyen el valor presente neto de los siguientes pagos por 
+arrendamiento:
+-
+arrendamiento; 
+- Pagos de arrendamiento variables que estén basados en un índice o en una tasa, los cuales se 
+miden, inicialmente, utilizando el índice o la tasa vigente a la fecha de inicio del arrendamiento; 
+- Los importes de cualquier garantía de valor residual, que la Compañía se haya obligado a pagar; 
+- El precio de ejercer opciones de compra, si la Compañía considera que es razonablemente 
+seguro que las ejercerá; y 
+- Pagos de indemnizaciones por rescindir el arrendamiento, si el plazo del arrendamiento ha 
+considerado el supuesto que la Compañía ejercerá esta opción. 
+Si fuera razonablemente seguro extender el plazo de un arrendamiento, los pagos de arrendamiento 
+del plazo extendido también se incluyen en la medición del pasivo. 
+0029
+
+
+===== ARCHIVO: EEFFDD-ELECTRO SUR ESTE S.A.A.-Individual.zip/2025_Individual_Anual_Informe Financiero 2025.pdf | PAGINA: 30 | vecina =====
+- 27 -
+Los pagos de arrendamiento se descuentan utilizando la tasa de interés implícita en el arrendamiento. 
+Si esa tasa no puede ser determinada de forma simple, se utiliza la tasa incremental de 
+endeudamiento del arrendatario, que representa la tasa que se cargaría al arrendatario para captar los 
+fondos necesarios para adquirir un activo de valor similar al activo subyacente al derecho de uso, en 
+un contexto económico similar y bajo términos similares, en lo referido al plazo, garantías y 
+condiciones 
+Para determinar la tasa de endeudamiento incremental, la Compañía toma en cuenta los siguientes 
+criterios: 
+- En la medida que sea posible, utiliza, como punto de referencia, las tasas de financiamientos 
+recientemente obtenidos y las ajusta para reflejar los cambios en las condiciones desde la fecha 
+que obtuvo tales financiamientos. 
+- En caso no cuente con financiamientos recientes, aplica un enfoque de acumulación que parte de 
+una tasa libre de riesgo, la que ajusta por el riesgo de crédito de la Compañía, y 
+- Aplica ajustes específicos a la tasa calculada que refleje las condiciones específicas del 
+arrendamiento; por ejemplo, lo referido al plazo, país, moneda y tipo de garantías. 
+Los pagos de arrendamiento se distribuyen entre la porción que reduce el capital y la porción que 
+corresponde al costo financiero. El costo financiero se reconoce en resultados durante el plazo de 
+arrendamiento, en un importe que refleje una tasa de interés periódica y constante aplicada sobre el 
+saldo del pasivo a la fecha de cierre. 
+Los activos por derecho de uso se miden a su costo, el cual incluye: 
+- El valor de la medición inicial del pasivo por arrendamiento; 
+- Cualquier pago de arrendamiento realizado en o antes de la fecha de inicio del arrendamiento, 
+menos cualquier incentivo de arrendamiento que se haya recibido; 
+- Los costos directos iniciales, y 
+- Los costos de restauración o rehabilitación a los que la Compañía esté obligada a incurrir. 
+Los activos por derecho de uso se deprecian en línea recta en el plazo más corto entre la vida útil del 
+activo arrendado y el plazo del arrendamiento. Si la Compañía considera que es razonablemente 
+seguro ejercer su opción de compra, el activo por derecho de uso se deprecia en el plazo de vida útil 
+del activo subyacente. 
+Los pagos asociados con arrendamientos de corto plazo de inmuebles y vehículos y todos los 
+arrendamientos de activos de bajo valor, se reconocen en resultados en línea recta. Los 
+arrendamientos de corto plazo son arrendamientos con un plazo de arrendamiento de 12 meses o 
+menos. Los activos de bajo valor comprenden, equipos de tecnología y equipos diversos. 
+ii) La Compañía como arrendadora -
+Cuando la Compañía actúa como arrendadora, determina, al comienzo del arrendamiento, si cada 
+contrato de arrendamiento es un arrendamiento financiero o un arrendamiento operativo. 
+Para clasificar cada contrato de arrendamiento, la Compañía realiza una evaluación de si ha 
+transferido al arrendatario sustancialmente todos los riesgos y beneficios inherentes a la propiedad del 
+activo subyacente. Si este es el caso, el contrato de arrendamiento es un arrendamiento financiero; 
+caso contrario, es un arrendamiento operativo. Como parte de esta evaluación, la Compañía 
+considera ciertos indicadores, tales como, si el contrato de arrendamiento cubre la mayor parte de la 
+vida económica del activo o si se pretende recuperar del arrendatario el valor sustancial del activo 
+arrendado. 
+0030
+

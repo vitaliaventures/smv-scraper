@@ -1,0 +1,2049 @@
+EMPRESA: NEXA RESOURCES ATACOCHA S.A.A.
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2020_Individual_Anual_2_0922NRAtacochaIndiv20.pdf | PAGINA: 27 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los Estados financieros individuales  
+Al 31 de diciembre de 2020  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 25 de 48  
+15  Cuentas por cobrar comerciales 
+ 
+Política contable 
+ 
+Las cuentas por cobrar comerciales son montos adeudados por los clientes por los bienes vendidos 
+en el curso ordinario de los negocios de la Compañía. 
+ 
+Las cuentas por cobrar comerciales se reconocen inicialmente a su valor razonable y 
+posteriormente se miden a valor razonable con cambios en resultados, debido a que estas cuentas 
+por cobrar están relacionadas a las ventas que se ajustan por la volatilidad del LME (London Metal 
+Exchange) y no pasan la prueba SPPI (Solamente Pagos de Principal e Intereses) porque existe 
+un componente del riesgo de precio que modifica los flujos de efectivo que, de otro modo sería 
+requerido por el contrato de venta. 
+ 
+El riesgo de crédito puede surgir del incumplimiento por parte de las contrapartes de sus 
+obligaciones contractuales con la Compañía. Para garantizar una evaluación efectiva del riesgo 
+crediticio, la administración aplica procedimientos integrales relacionados con la solicitud de 
+otorgamiento y aprobación de créditos, renovación de límites de crédito, monitoreo continuo de 
+la exposición crediticia en relación con los límites establecidos y eventos que activan los requisitos 
+para condiciones de pago garantizadas. Como parte del proceso de la Compañía, las exposiciones 
+crediticias con todas las contrapartes se monitorean y evalúan periódicamente en forma oportuna. 
+ 
+La Compañía aplica el enfoque simplificado de la NIIF 9 para medir las pérdidas por deterioro de 
+las cuentas por cobrar comerciales. Este enfoque requiere el uso de las pérdidas crediticias 
+esperadas en sus cuentas por cobrar comerciales medidas al costo amortizado. Para calcular las 
+pérdidas crediticias esperadas, la Compañía utilizó una matriz de provisiones e información 
+prospectiva. Las adiciones al deterioro de las cuentas por cobrar comerciales se incluyen en los 
+gastos de venta. Las cuentas por cobrar comerciales generalmente se cancelan cuando no hay 
+expectativas de recuperar efectivo adicional. 
+ 
+(a) Composición  
+ 
+ 
+ 
+(i) El brote global de COVID-19 puede haber cambiado el perfil de riesgo de los clientes de la 
+Compañía, especialmente aquellos clientes que podrían tener transacciones o que están 
+ubicados en áreas que se ven afectadas o son más propensas a verse afectadas 
+económicamente. A medida que aumentan dichos riesgos, la Compañía espera un aumento 
+en las pérdidas por deterioro de las cuentas por cobrar comerciales. Del deterioro reconocido 
+al 31 de diciembre de 2020, la Compañía ha contabilizado US$ 14 relacionado con COVID-19, 
+para reflejar el escenario económico actual y el deterioro en el perfil de riesgo de los clientes 
+de la Compañía. Las ventas se realizan de acuerdo a las condiciones contractuales definidas 
+con cada cliente, las cuales se pactan a precios del mercado internacional. 
+ 
+(b) Cambios en el deterioro de cuentas por cobrar comerciales 
+ 
+  
+N o ta 2020 2019
+Relacionadas 17 (a) 1,408                  1,069
+Terceros 5,467                 3,594
+Deterioro (i) (88)                                              -   
+         6,787 4,663
+2020 2019
+ Saldo  inicial del año               -                -   
+Adiciones (141)                   - 
+Reversión 53                                           -   
+ Saldo  final del año  (88)                        -   
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2020_Individual_Anual_2_0922NRAtacochaIndiv20.pdf | PAGINA: 28 | puntaje 5 =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los Estados financieros individuales  
+Al 31 de diciembre de 2020  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 26 de 48  
+(c) Antiguamiento de las cuentas por cobrar comerciales 
+ 
+ 
+16 Inventarios 
+ 
+Política contable 
+ 
+Los costos relacionados con el proceso productivo se acumulan en productos en proceso y 
+concentrado. Los inventarios se registran al costo o a su valor neto de realización, el que resulte 
+menor. El costo incluye el precio de compra neto de descuentos, rebajas, entre otros. El costo de 
+repuestos y suministros se determina sobre la base del método de promedio ponderado, excepto 
+en el caso de los inventarios por recibir que se reconocen por el método de identificación 
+específica. 
+ 
+(i) Concentrados (zinc, plomo y cobre)  
+ 
+El saldo de la partida concentrados (zinc, plomo y cobre) resulta de las actividades de producción 
+de la Compañía, éstos se valorizan al costo promedio que incorpora los costos incurridos en el 
+proceso productivo. 
+ 
+El costo del concentrado y de los productos en proceso comprende el costo de los servicios de 
+contratistas, el consumo de repuestos y suministros, el costo de la mano de obra directa, otros 
+costos directos y los gastos generales de fabricación que se asignan al costo de los inventarios 
+sobre la base de la capacidad de operación normal de la planta. 
+ 
+La capacidad normal de la planta se sustenta en el presupuesto anual de producción. El costo de 
+los inventarios excluye los gastos de financiamiento y las diferencias en cambio. 
+ 
+La Gerencia calculó su costo de capacidad ociosa considerando la reducción en el nivel de 
+producción debido al brote de COVID 19. Los supuestos utilizados involucraron juicios basados en 
+la NIC 2 Inventarios. El cálculo de la ociosidad se basó en la comparación de la producción 
+realizada con las proyecciones de producción del pronóstico de la Compañía. 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de operaciones, 
+menos los costos estimados para terminar su producción y los gastos para poner los inventarios 
+en condición de venta y para realizar su comercialización. Por las reducciones en el valor en libros 
+de los inventarios a su valor neto de realización se constituye una provisión para desvalorización 
+de inventarios con cargo al costo de ventas del ejercicio en que ocurren tales reducciones. 
+ 
+(ii) Repuestos y suministros diversos  
+ 
+Los repuestos y suministros diversos se registran al costo por el método de promedio ponderado 
+El costo de estas partidas incluye fletes e impuestos aplicables no reembolsables. Los inventarios 
+por recibir se registran al costo por el método de identificación específica. La provisión para 
+desvalorización de estas partidas se determina sobre la base de evaluaciones anuales, realizadas 
+por personal técnico calificado de la Compañía, de los suministros y repuestos que se mantienen 
+inactivos por más de 2.5 años. Si se identifica que el valor en libros de los inventarios de repuestos 
+y suministros excede su valor de reposición, la diferencia se carga a resultados en el ejercicio en 
+el que se determina esta situación. La Gerencia considera que a la fecha de los estados financieros 
+individuales no se requiere constituir ninguna provisión adicional a la reconocida en los estados 
+financieros individuales para cubrir pérdidas por obsolescencia de estos inventarios.  
+2020 2019
+Vigentes 6,872 4,663
+Hasta 3 meses de vencimiento 3                        -   
+6,875 4,663
+Deterioro                    (88)                        -   
+6,787 4,663
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2020_Individual_Anual_2_0922NRAtacochaIndiv20.pdf | PAGINA: 29 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los Estados financieros individuales  
+Al 31 de diciembre de 2020  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+Página 27 de 48  
+(a) Composición 
+ 
+ 
+ 
+(i) Al 31 de diciembre de 2020, no hubo impacto de COVID-19 en los costos de inventario de la 
+Compañía considerando que el precio del zinc se incrementó al cierre del año en comparación 
+con el de diciembre de 2019. 
+ 
+Debido a la menor producción en la unidad minera ocasionada por las políticas implementadas 
+por el gobierno peruano en respuesta al COVID-19, como se explica en la nota 1, la Compañía 
+reconoció US$ 10,004 en costos de ventas relacionados a costos de producción anormales en 
+2020. La capacidad ociosa utilizada para determinar el costo anormal de producción se calculó 
+comparando los datos históricos de la producción con la producción real durante el período en 
+que se estimó esta capacidad ociosa. La gerencia calculó el nivel de capacidad ociosa considerando 
+la reducción en el nivel de producción debido al brote de COVID 19. Los supuestos utilizados 
+involucraron juicio basado en la NIC 2. 
+ 
+Desde agosto de 2020, la Compañía determinó que ya no era necesario reconocer ningún costo 
+de producción anormal ya que las unidades operativas estaban volviendo a su producción 
+proyectada. 
+ 
+Desde mediados de diciembre el tajo abierto San Gerardo estuvo suspendido temporalmente 
+debido a actividades de protesta que carecían de sustento legal, por lo que la Compañía reconoció 
+US$700 de costos de producción anormal por capacidad ociosa en diciembre 2020.  El 21 de enero 
+de 2021, la Compañía informó el reinicio de sus operaciones habiéndose reanudado el tránsito 
+vial hacia la operación. 
+ 
+(b) Cambios en la provisión del año 
+ 
+ 
+ 
+(i) Compuesto por consumo de materiales por US$ 694 e incremento de valor neto de realización 
+por US$1,712. 
+  
+2020 2019
+Concentrados 1,454                       3,916
+Productos en proceso 1,379                       546
+Repuestos y suministros diversos 4,229                      4,091
+Inventarios por recibir 55                            161
+Provisiones de invetarios (i) (1,873)                                          (3,526)
+5,244 5,188
+2020 2019
+ Saldo  al inicio  del año  (3,526)           (740)              
+Recuperos (i)                        2,406 -                          
+Incrementos en provisión                         (753)                      (2,786)
+ Saldo  final del año              (1,873)            (3,526)
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2022_Individual_Anual_2_0922NRAtacochaIND22.pdf | PAGINA: 26 | vecina =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2022  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 26 de 47   
+ 
+(i) Valor razonable con cambios en resultados cuando se relacionan con ventas que 
+posteriormente se ajustan a los cambios en los precios de la LME, que se registra en los 
+ingresos netos. Estas cuentas por cobrar no cumplen con los criterios de SPPI porque existe 
+un componente de riesgo de precio de la materia prima que modifica los flujos de efectivo 
+que de otro modo serían requeridos por el contrato de venta. 
+ 
+(ii) Costo amortizado utilizando el método de la tasa de interés efectiva, menos deterioro, cuando 
+las cuentas por cobrar no cumplan con las clasificaciones anteriores. 
+ 
+El riesgo de crédito puede surgir del incumplimiento por parte de las contrapartes de sus 
+obligaciones contractuales con la Compañía. Para garantizar una evaluación efectiva del riesgo 
+crediticio, la administración aplica procedimientos integrales relacionados con la solicitud de 
+otorgamiento y aprobación de créditos, renovación de límites de crédito, monitoreo continuo de 
+la exposición crediticia en relación con los límites establecidos y eventos que activan los requisitos 
+para condiciones de pago garantizadas. Como parte del proceso de la Compañía, las exposiciones 
+crediticias con todas las contrapartes se monitorean y evalúan periódicamente en forma oportuna. 
+ 
+La Compañía aplica el enfoque simplificado de la NIIF 9 Instrumentos Financieros para medir las 
+pérdidas por deterioro de las cuentas por cobrar comerciales. Este enfoque requiere el uso de las 
+pérdidas crediticias esperadas en sus cuentas por cobrar comerciales medidas al costo 
+amortizado. Para calcular las pérdidas crediticias esperadas, la Compañía utiliza una matriz de 
+provisiones e información prospectiva. Las adiciones al deterioro de las cuentas por cobrar 
+comerciales se incluyen en los gastos de venta. Las cuentas por cobrar comerciales generalmente 
+se cancelan cuando no hay expectativas de recuperar efectivo adicional. 
+ 
+(a) Composición  
+ 
+  Nota 2022  2021 
+Partes relacionadas 17 2,634   2,515 
+Terceros   11,524   3,403 
+Deterioro de cuentas por cobrar comerciales   (174)   (51) 
+    13,984   5,867 
+ 
+(b) Cambios en el deterioro de cuentas por cobrar comerciales 
+ 
+    2022  2021 
+ Saldo al inicio del año    (51)   (88) 
+Adiciones   (174)   (134) 
+Reversiones   51   171 
+ Saldo al final del año    (174)   (51) 
+ 
+(c) Antiguamiento de las cuentas por cobrar comerciales 
+ 
+    2022   2021 
+Vigentes   14,158   5,896 
+Más de 6 meses de vencimiento   -   22 
+    14,158   5,918 
+Deterioro   (174)   (51) 
+    13,984   5,867 
+ 
+15 Inventarios 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2022_Individual_Anual_2_0922NRAtacochaIND22.pdf | PAGINA: 27 | puntaje 5 =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2022  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 27 de 47   
+Política contable 
+ 
+Los costos relacionados con el proceso productivo se acumulan en productos en proceso y 
+concentrado. Los inventarios se registran al costo o a su valor neto de realización, el que resulte 
+menor. El costo incluye el precio de compra neto de descuentos, rebajas, entre otros. El costo de 
+repuestos y suministros se determina sobre la base del método de promedio ponderado, excepto 
+en el caso de los inventarios por recibir que se reconocen por el método de identificación 
+específica. 
+ 
+(i) Concentrados (zinc y plomo)  
+ 
+El saldo de las partidas concentrados resulta de las actividades de producción de la Compañía, 
+éstos se valorizan al costo promedio que incorpora los costos incurridos en el proceso productivo. 
+El costo del concentrado y de los productos en proceso comprende el costo de los servicios de 
+contratistas, el consumo de repuestos y suministros, el costo de la mano de obra directa, otros 
+costos directos y los gastos generales de fabricación que se asignan al costo de los inventarios 
+sobre la base de la capacidad de operación normal de la planta. 
+ 
+La capacidad normal de la planta se sustenta en el presupuesto anual de producción. El costo de 
+los inventarios excluye los gastos de financiamiento y las diferencias en cambio. 
+ 
+La Gerencia calculó su costo de capacidad ociosa considerando la reducción en el nivel de 
+producción, debido a las actividades de protestas y paros emprendidos por las comunidades. Los 
+supuestos utilizados involucraron juicios basados en la Norma Internacional de Contabilidad 
+(“NIC”) 2 Inventarios. El cálculo de la ociosidad se basó en la comparación de la producción 
+realizada con las proyecciones de producción del pronóstico de la Compañía. 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de operaciones, 
+menos los costos estimados para terminar su producción y los gastos para poner los inventarios 
+en condición de venta y para realizar su comercialización. Por las reducciones en el valor en libros 
+de los inventarios a su valor neto de realización se constituye una provisión para desvalorización 
+de inventarios con cargo al costo de ventas del ejercicio en que ocurren tales reducciones. 
+ 
+(ii) Repuestos y suministros  
+ 
+Los repuestos y suministros se registran al menor de su costo bajo el método de promedio 
+ponderado. El costo de estas partidas incluye el flete y los impuestos aplicables no reembolsables. 
+El inventario por recibir se registra al costo utilizando el método de identificación específico. La 
+provisión por deterioro de estos elementos se estima en base a una revisión anual de repuestos 
+y suministros sin movimiento por más de 2.5 años realizada por personal técnico calificado de la 
+Compañía. Si se identifica que el valor en libros de los inventarios de repuestos y suministros 
+excede su valor de reposición, la diferencia se carga a resultados en el periodo en que se 
+determina esta situación. La Gerencia considera que a la fecha de los estados financieros 
+individuales no se requiere constituir provisiones adicionales a las reconocidas en los estados 
+financieros individuales para cubrir pérdidas por obsolescencia de inventarios. 
+ 
+(a) Composición 
+ 
+    2022  2021 
+Repuestos y suministros   4,495   4,141 
+Concentrados   2,368   5,360 
+Productos en proceso   1,988   4,167 
+Inventarios por recibir   99   89 
+Provisiones de inventarios (b)   (2,443)   (1,983) 
+    6,507   11,774 
+ 
+(b) Cambios en las provisiones del año 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2022_Individual_Anual_2_0922NRAtacochaIND22.pdf | PAGINA: 28 | vecina =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2022  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 28 de 47   
+    2022  2021 
+Saldo al inicio del año   (1,983)   (1,873) 
+Recuperos   931   821 
+Adiciones   (1,391)   (931) 
+Saldo al final del año   (2,443)   (1,983) 
+ 
+16  Otros activos 
+ 
+Política contable 
+ 
+Ver nota 11 (i). 
+ 
+(a) Composición  
+ 
+Comprende saldos por cobrar a terceros por la venta de activos fijos, impuestos por cobrar, 
+materiales y suministros, préstamos al personal y otros. 
+ 
+  Nota 2022  2021 
+Partes relacionadas 17 135   1 
+          
+Terceros         
+Cuentas por cobrar a contratistas mineros   944   517 
+Seguros pagados por adelantado   282   234 
+Cuentas por cobrar al personal    280   292 
+Anticipos a proveedores   4   329 
+Crédito fiscal por impuesto general a las ventas   -   1,836 
+ITAN por recuperar   -   423 
+Otros activos   271   470 
+    1,916   4,102 
+          
+Activos corrientes   1,916   4,101 
+Activos no corrientes   -   1 
+    1,916   4,102 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2024_Individual_Anual_0922NRAtacocha24.pdf | PAGINA: 27 | vecina =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2024 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 27 de 52 
+14  Cuentas por cobrar comerciales 
+ 
+Política contable 
+ 
+Las cuentas por cobrar comerciales son montos adeudados por los clientes por los bienes vendidos 
+o servicios prestados en el curso ordinario de los negocios de la Compañía. 
+ 
+Las cuentas por cobrar comerciales se reconocen inicialmente a su valor razonable y 
+posteriormente se miden a: 
+ 
+(i) Valor razonable con cambios en resultados cuando se relacionan con ventas que 
+posteriormente se ajustan a los cambios en los precios de la LME, que se registra en los 
+ingresos netos. Estas cuentas por cobrar no cumplen con los criterios de SPPI porque existe 
+un componente de riesgo de precio de la materia prima que modifica los flujos de efectivo 
+que de otro modo serían requeridos por el contrato de venta. 
+ 
+(ii) Costo amortizado utilizando el método de la tasa de interés efectiva, menos deterioro, cuando 
+las cuentas por cobrar no cumplan con las clasificaciones anteriores. 
+ 
+El riesgo de crédito puede surgir del incumplimiento por parte de las contrapartes de sus 
+obligaciones contractuales con la Compañía. Para garantizar una evaluación efectiva del riesgo 
+crediticio, la administración aplica procedimientos integrales relacionados con la solicitud de 
+otorgamiento y aprobación de créditos, renovación de límites de crédito, monitoreo continuo de 
+la exposición crediticia en relación con los límites establecidos y eventos que activan los requisitos 
+para condiciones de pago garantizadas. Como parte del proceso de la Compañía, las exposiciones 
+crediticias con todas las contrapartes se monitorean y evalúan periódicamente en forma oportuna. 
+ 
+La Compañía aplica el enfoque simplificado de la NIIF 9 Instrumentos Financieros para medir las 
+pérdidas por deterioro de las cuentas por cobrar comerciales. Este enfoque requiere el uso de las 
+pérdidas crediticias esperadas en sus cuentas por cobrar comerciales medidas al costo 
+amortizado. Para calcular las pérdidas crediticias esperadas, la Compañía utiliza una matriz de 
+provisiones e información prospectiva. Las adiciones al deterioro de las cuentas por cobrar 
+comerciales se incluyen en los gastos de venta. Las cuentas por cobrar comerciales generalmente 
+se castigan cuando no hay expectativas de recuperar efectivo adicional. 
+ 
+(a) Composición  
+ 
+  Nota 2024   2023 
+Partes relacionadas 17 (a) 4,479   3,106 
+Terceros   3,163   2,950 
+Deterioro de cuentas por cobrar comerciales   (48)   (54) 
+    7,594   6,002 
+ 
+(b) Cambios en el deterioro de cuentas por cobrar comerciales 
+ 
+    2024   2023 
+ Saldo al inicio del periodo    (54)   (174) 
+Adiciones   (160)   (54) 
+Reversas    166   174 
+ Saldo al final del periodo    (48)   (54) 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2024_Individual_Anual_0922NRAtacocha24.pdf | PAGINA: 28 | puntaje 5 =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2024 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 28 de 52 
+(c) Anticuamiento de las cuentas por cobrar comerciales 
+ 
+    2024   2023 
+Vigentes   5,597   5,176 
+Hasta 3 meses de vencimiento   2,045   880 
+    7,642   6,056 
+Deterioro   (48)   (54) 
+    7,594   6,002 
+ 
+15 Inventarios 
+ 
+Política contable 
+ 
+Los inventarios se registran al costo o a su valor neto de realización, el que resulte menor. El 
+costo incluye el precio de compra neto de descuentos, rebajas, entre otros. El costo de repuestos 
+y suministros se determina sobre la base del método de promedio ponderado, excepto en el caso 
+de los inventarios por recibir que se reconocen por el método de identificación específica. 
+ 
+(i) Concentrados (zinc y plomo)  
+ 
+El saldo de las partidas de concentrados proviene de las actividades de producción de la Compañía, 
+éstos se valorizan al costo promedio que incorpora los costos incurridos en el proceso productivo. 
+El costo de los inventarios excluye gastos financieros y diferencias cambiarias.   
+ 
+El costo del concentrado y de los productos en proceso incluye materias primas, mano de obra 
+directa, otros costos directos y los gastos generales de fabricación (calculados sobre la base de 
+la capacidad de operación normal de la planta). La capacidad normal de la planta se sustenta en 
+el plan anual de producción. La Gerencia calculó su costo de capacidad ociosa teniendo en cuenta 
+la disminución en el nivel de producción debido a eventos inusuales. Los supuestos utilizados 
+involucran juicios basados en la Norma Internacional de Contabilidad (“NIC”) 2 Inventarios 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de operaciones, 
+menos los costos estimados para terminar su producción y los gastos para poner los inventarios 
+en condición de venta y para realizar su comercialización. Por las reducciones en el valor en libros 
+de los inventarios a su valor neto de realización se constituye una provisión para desvalorización 
+de inventarios con cargo al costo de ventas del ejercicio en que ocurren tales reducciones. 
+ 
+(ii) Repuestos y suministros  
+ 
+Los repuestos y suministros se registran el menor entre el costo y valor neto de realización bajo 
+el método de promedio ponderado. El costo de estas partidas incluye el flete y los impuestos 
+aplicables no reembolsables. El inventario por recibir se registra al costo utilizando el método de 
+identificación específico. La provisión por deterioro de estos elementos se estima en base a una 
+revisión anual de repuestos y suministros sin movimiento por más de 2.5 años realizada por 
+personal técnico calificado de la Compañía. Si se identifica que el valor en libros de los inventarios 
+de repuestos y suministros excede su valor de reposición, la diferencia se carga a resultados en 
+el periodo en que se determina esta situación. La Gerencia considera que a la fecha de los estados 
+financieros individuales no se requiere constituir provisiones adicionales a las reconocidas en los 
+estados financieros individuales para cubrir pérdidas por obsolescencia de inventarios. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2024_Individual_Anual_0922NRAtacocha24.pdf | PAGINA: 29 | vecina =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2024 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 29 de 52 
+(a) Composición 
+ 
+    2024   2023 
+Repuestos y suministros diversos   3,296   3,187 
+Productos en proceso   3,180   2,446 
+Concentrados   849   320 
+Provisiones de inventarios   (1,113)   (1,115) 
+    6,212   4,838 
+ 
+(b) Cambios en las provisiones del año 
+  2024  2023 
+Saldo al inicio del año  (1,115)  (2,443) 
+Recuperos  1,352  2,395 
+Adiciones  (1,350)  (1,067) 
+Saldo final del año  (1,113)  (1,115) 
+ 
+16  Otros activos 
+ 
+Política contable 
+  
+Ver nota 11(i). 
+ 
+ 
+(a) Composición  
+ 
+Comprende saldos por cobrar a terceros por la venta de activos fijos, impuestos por cobrar, 
+materiales y suministros, préstamos al personal y otros. 
+ 
+  2024  2023 
+Cuentas por cobrar a contratistas mineros  1,857  2,369 
+Anticipos a proveedores  12  503 
+Seguros pagados por adelantando  396  295 
+Crédito fiscal por impuesto general a las ventas  -  373 
+Cuentas por cobrar al personal  166  192 
+Otros impuestos por recuperar  27  45 
+Otras diversas  2,241  806 
+  4,699  4,583 
+     
+Corriente  2,789  4,583 
+No corriente  1,910  - 
+  4,699  4,583 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2007_Individual_Anual_InformeAuditoriaIndividual.pdf | PAGINA: 3 | vecina =====
+- 2 - 
+Los estados financieros individuales adjuntos de Compañía Minera Atacocha S.A.A. fueron 
+preparados para cumplir con requisitos sobre pres entación de información financiera vigentes en 
+Perú y reflejan la inversión en sus subsidia rias al costo (Nota 3(h)) y no sobre una base 
+consolidada.  Estos estados financieros deben le erse conjuntamente con los estados financieros 
+consolidados de Compañía Minera Atacocha S.A. A. y sus Subsidiarias, que se presentan por 
+separado y sobre los cuales hemos emitido una opinión sin salvedades el 24 de enero de 2008. 
+ 
+Opinión 
+ 
+En nuestra opinión, los estados financieros antes indicados preparados pa ra los fines expuestos 
+en el párrafo anterior, presentan razonablemen te, en todos sus aspectos significativos, la 
+situación financiera de Compañ ía Minera Atacocha S.A.A al  31 de diciembre de 2007 y 2006, 
+los resultados de sus operaciones y sus flujos de efectivo por los a ños terminados en esas fechas, 
+de acuerdo con principios de contabilidad generalmente aceptados en Perú. 
+ 
+Tal como se indica en la Nota 2 a los estados fi nancieros, a partir del 1ro. de enero de 2007, la 
+Compañía presenta sus estados financieros en  dólares estadounidenses, que es la moneda 
+funcional que le corresponde. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 de enero de 2008 
+ 
+
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2007_Individual_Anual_InformeAuditoriaIndividual.pdf | PAGINA: 4 | puntaje 8 =====
+- 3 - 
+COMPAÑIA MINERA ATACOCHA S.A.A.
+BALANCES GENERALES
+AL 31 DE DICIEMBRE DE 2007 Y 2006
+ACTIVO Notas 2007 2006 PASIVO Y PATRIMONIO NETO Notas 2007 2006
+US$000 US$000 US$000 US$000
+ACTIVO CORRIENTE: PASIVO CORRIENTE:
+Efectivo 5 6,465      290        Obligaciones financieras 18 10,790   5,407     
+Cuentas por cobrar comerciales (neto) 6 16,789    23,353   Cuentas por pagar comerciales 15 20,801   7,781     
+Cuentas por cobrar a empresas vinculadas 7 40,664    81,700   Impuesto a la renta y participaciones corrientes 16 9,859     19,674   
+Otras cuentas por cobrar (neto) 8 2,947      1,163     Otras cuentas por pagar 17 13,235   9,525     
+Existencias (neto) 9 3,974      4,672     Provisión para cierre de mina 19 571        
+Gastos diferidos 10 1,390      261        
+Total pasivo corriente 55,256   42,387   
+Total activo corriente 72,229    111,439 
+OBLIGACIONES FINANCIERAS 18 56,316   84,254   
+INVERSIONES FINANCIERAS 11 143,753  27,499   PROVISION PARA CIERRE DE MINA 19 16,762   --
+INVERSION INMOBILIARIA (neto) 12 1,115      712        IMPUESTO A LA RENTA Y PARTICIPACION
+ DE LOS TRABAJADORES DIFERIDO 34 10,504   14,912   
+INMUEBLES, MAQUINARIA Y EQUIPO (neto) 13 161,127  105,662 
+TOTAL PASIVO 138,838 141,553  
+ACTIVOS INTANGIBLES (neto) 14 22,611    14,924   
+PATRIMONIO NETO:
+Capital 20 146,147 42,924    
+Menos, valor nominal de las acciones en tesorería (2,999)    (4,292)    
+Total capital 143,148 38,632    
+Acciones de inversión 21 30          21,462   
+Menos, valor nominal de las acciones en tesorería (30)         
+Total acciones de inversión -         21,462   
+Otras reservas 22 7,730     9,392     
+Excedente de revaluación 13 1,155     1,155     
+Reserva legal 23 15,297   9,063     
+Efecto de transición a las NIIF 3(b) 3,454     3,454     
+Ganancia en venta de acciones en tesorería 22 47,641   
+Resultados acumulados 24 43,572   35,525   
+TOTAL PATRIMONIO NETO 261,997 118,683  
+TOTAL ACTIVO 400,835  260,236 TOTAL PASIVO Y PATRIMONIO NETO 400,835 260,236  
+Las notas adjuntas son parte integrante de estos estados financieros.
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2007_Individual_Anual_InformeAuditoriaIndividual.pdf | PAGINA: 5 | vecina =====
+- 4 - 
+COMPAÑÍA MINERA ATACOCHA S.A.A.
+ESTADOS DE GANANCIAS Y PERDIDAS
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2007 Y 2006
+Notas 2007 2006
+US$000 US$000
+VENTAS DE CONCENTRADOS DE MINERAL 175,949   177,702     
+COSTO DE VENTAS DE CONCENTRADOS DE 
+   MINERAL 25 (61,098)    (54,195)      
+UTILIDAD BRUTA 114,851   123,507     
+GASTOS OPERACIONALES:
+Gastos de administración 26 (23,795)    (16,138)      
+Gastos de venta 27 (3,840)       (3,600)        
+Otros ingresos y (gastos), neto 28 3,394        (483)           
+Total (24,241)    (20,221)      
+UTILIDAD OPERATIVA 90,610     103,286     
+OTROS INGRESOS (GASTOS):
+Pérdida por instrumentos financieros derivados 36 (1,538)        
+Ingresos financieros 29 6,818        1,753         
+Gastos financieros 30 (4,955)       (2,657)        
+Resultado por conversión 3(b) 3,844        (1,207)        
+Total 5,707        (3,649)        
+UTILIDAD ANTES DE PARTICIPACION DE LOS
+   TRABAJADORES, E IMPUESTO A LA RENTA 96,317     99,637       
+Participación de los trabajadores 31 (6,896)       (7,583)        
+Impuesto a la renta 32 (23,791)    (26,162)      
+UTILIDAD NETA 65,630     65,892       
+Utilidad básica por acción común y
+acción de inversión (en dólares) 35 0.156        0.316         
+Las notas adjuntas son parte integrante de estos estados financieros.
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2007_Individual_Anual_InformeAuditoriaIndividual.pdf | PAGINA: 6 | puntaje 11 =====
+- 5 - 
+COMPAÑIA MINERA ATACOCHA S.A.A.
+ESTADOS DE CAMBIOS EN EL PATRIMONIO NETO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2007 Y 2006
+Capital
+Acciones de 
+Inversión
+Otras 
+Reservas
+Excedente de 
+Revaluación 
+Neto
+Reserva 
+Legal
+Resultados 
+No 
+Realizados
+Efecto de
+Transición a
+las NIIF
+Ganancia en 
+Venta de 
+Acciones en 
+Tesoreria
+Resultados 
+Acumulados Total
+(Nota 20) (Nota 21) (Nota 22) (Nota 13) (Nota 23) (Nota 36) (Nota 3 (b)) (Nota 22) (Nota 24)
+US$000 US$000 US$000 US$000 US$000 US$000 US$000 US$000 US$000 US$000
+Saldos al 1ro. de enero de 2006 38,632   21,462     (303)      2,439      (299)      3,454         14,359     79,744   
+Pérdida realizada en instrumentos financieros derivados 299       299         
+Pasivo por impuesto a la renta diferido de ejercicios anteriores (300)         (300)      
+Revaluación de activos fijos adquiridos antes del 2005 1,793         1,793     
+Impuesto a la renta y participación de los
+  trabajadores diferido por revaluación de activos fijos (638)           (638)      
+Dividendos declarados:
+  Ejercicio anterior (4,434)      (4,434)   
+  A cuenta del ejercicio (23,673)    (23,673) 
+Utilidad neta 65,892     65,892   
+Transferencia 9,695    6,624      (16,319)    
+Saldos al 31 de diciembre de 2006 38,632   21,462     9,392    1,155         9,063      -- 3,454         -- 35,525     118,683 
+Aporte de capital 5,927     5,927     
+Prima de capital 47,417  47,417   
+Capitalización reserva de libre disposición 2,202     977          (3,179)   
+Capitalización de resultados acumulados 17,504   7,763       (25,267)    
+Capitalización de prima de capital 32,847   14,570     (47,417) 
+Acciones liberadas recibidas (4,703)   4,703    
+Venta de acciones en tesorería 5,997     (2,933)   47,641     9,205       59,910   
+Compra de acciones de propia emisión (30)           (253)      (283)      
+Canje de acciones de inversión 44,742   (44,742)    
+Dividendos declarados:
+  Ejercicio anterior (9,986)      (9,986)   
+  A cuenta del ejercicio (25,301)    (25,301) 
+Utilidad neta 65,630     65,630   
+Transferencia 6,234      (6,234)      
+Saldos al 31 de diciembre de 2007 143,148 -- 7,730     1,155         15,297    -- 3,454         47,641     43,572     261,997 
+Las notas adjuntas son parte integrante de estos estados financieros.
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2007_Individual_Anual_InformeAuditoriaIndividual.pdf | PAGINA: 7 | puntaje 10 =====
+- 6 - 
+COMPAÑIA MINERA ATACOCHA S.A.A.
+ESTADOS DE FLUJOS DE EFECTIVO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2007 Y 2006
+2007 2006
+US$000 US$000
+ACTIVIDADES DE OPERACION:
+Cobranza a clientes 182,513 173,534    
+Otros cobros de operación 9,033     1,772        
+Pago a proveedores (30,290) (32,843)     
+Pago de remuneraciones y beneficios sociales (26,986) (16,708)     
+Pago de tributos (38,254) (23,474)     
+Pagos por adquisición de instrumentos financieros derivados (528)         
+Pago de intereses (5,044)    (2,438)      
+Otros pagos de operación (5,062)    (4,642)      
+Efectivo neto proveniente de actividades de operación 85,910  94,673      
+ACTIVIDADES DE INVERSION:
+Venta de inmuebles, maquinaria y equipo 1,233     516           
+Compra de inmuebles, maquinaria y equipo (48,963) (23,674)     
+Compra de inversiones financieras (2)           (317)         
+Préstamos a empresas vinculadas, neto (67,536) (97,204)     
+Aumento en activos intangibles (14,074) (8,725)       
+Efectivo neto usado en actividades de inversión (129,342) (129,404)  
+ACTIVIDADES DE FINANCIAMIENTO:
+Ingresos por obligaciones financieras 96,799  105,261    
+Pago de obligaciones financieras (127,344) (44,720)    
+Emisión de acciones y aportes 53,344  
+Compra y venta de acciones de propia emisión 59,627  
+Pago de dividendos (32,819) (27,609)     
+Efectivo neto proveniente de actividades de financiamiento 49,607  32,932      
+AUMENTO (DISMINUCION) NETO DE EFECTIVO 6,175     (1,799)      
+EFECTIVO AL COMIENZO DEL AÑO 290        2,089        
+EFECTIVO AL FINAL DEL AÑO 6,465      290            
+(Continúa)
+ 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2007_Individual_Anual_InformeAuditoriaIndividual.pdf | PAGINA: 8 | puntaje 5 =====
+- 7 - 
+COMPAÑIA MINERA ATACOCHA S.A.A.
+ESTADOS DE FLUJOS DE EFECTIVO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2007 Y 2006
+2007 2006
+US$000 US$000
+CONCILIACION DE LA UTILIDAD NETA CON EL EFECTIVO
+   NETO PROVENIENTE DE ACTIVIDADES DE OPERACION:
+Utilidad neta 65,630    65,892       
+Ajustes a la utilidad neta:
+   Depreciación y amortización 23,445    18,236       
+   Provisión para desvalorización de existencias 946         916            
+   Pérdida en venta de maquinaria y equipo 127         393            
+   Impuesto a la renta y participación de los trabajadores diferido (5,411)     (3,871)       
+   Otros ajustes 1,003      1,102         
+Disminución (aumento) en activos:
+   Cuentas por cobrar comerciales 6,564      (4,168)       
+   Cuentas por cobrar a empresas vinculadas (7,680)     (2,135)       
+   Otras cuentas por cobrar (1,784)     (904)          
+   Intrumentos financieros derivados 1,010         
+   Existencias (248)        1,097         
+   Gastos diferidos (1,129)     696            
+Aumento (disminución) en pasivos:
+   Cuentas por pagar comerciales 13,020    (161)          
+   Otras cuentas por pagar (8,573)     16,570       
+Efectivo neto proveniente de actividades de operación 85,910    94,673       
+Transacciones de inversión y de financiamiento que no representan
+   flujos de efectivo:
+   Inversiones financieras recibidas por capitalización de deudas a
+     cargo de subsidiarias 112,347  14,372       
+   Inversiones financieras recibidas por compensación de deudas a
+     cargo de subsidiarias 3,905      12,415       
+   Maquinaria y equipo recibida en arrendamiento financiero 7,990      293            
+   Aumento en inmuebles, maquinaria y equipo y activos intangibles
+     por cierre de mina 17,333    
+   Inversión inmobiliaria transferida de inmuebles maquinaria y equipo 328         
+   Dividendos 3,368      900            
+Las notas adjuntas son parte integrante de estos estados financieros.
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2007_Individual_Anual_InformeAuditoriaIndividual.pdf | PAGINA: 9 | vecina =====
+- 8 - 
+COMPAÑIA MINERA ATACOCHA S.A.A. 
+ 
+NOTAS A LOS ESTADOS FINANCIEROS 
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2007 Y 2006 
+ 
+ 
+1. IDENTIFICACION DE LA COMPAÑIA Y ACTIVIDAD ECONOMICA 
+ 
+Compañía Minera Atacocha S.A.A. (en adelan te la Compañía) fue constituida el 8 de 
+febrero de 1936.  La actividad económica principal de la Comp añía es la exploración y 
+explotación de derechos mineros propios y de  terceros, para producir concentrados de 
+plomo, zinc y cobre. El domicilio legal de la Compañía, donde se encuentran sus oficinas 
+administrativas, es Av. Javier Prado Oeste 980,  San Isidro, Lima, Per ú, y su centro minero 
+y planta de tratamiento están ubicados en lo s distritos de San Francisco de Asís de 
+Yarusyacán y Yanacancha, provincia y región Pasco. 
+  
+El 27 de febrero de 2007 la Junta Obligat oria Anual de Acci onistas acordó la 
+transformación de la Compañía de una sociedad anónima a una sociedad anónima abierta. 
+ 
+De acuerdo con estudios geológi cos recientes y al volumen ac tual de producción, se estima 
+que las reservas de mineral de la Compañía, probadas y probables, tendrán una duración de 
+6 años (Nota 39). 
+ 
+Al 31 de diciembre de 2007 y 2006, el número de trabajadores (funcionarios, empleados y 
+obreros) de la Compañía fue de 600 y 355, respectivamente. 
+ 
+Aprobación de estados financieros 
+ 
+Los estados financieros por el año termina do el 31 de diciembre de 2007 han sido emitidos 
+con la autorización de la Gere ncia de la Compañía. Estos estados serán presentados al 
+Directorio en la sesión que se  realizará el 29 de enero de 2008 para la aprobación de su 
+emisión, y luego puestos a consideración de la Junta Obligatoria Anual de Accionistas que 
+se realizará dentro del plazo de ley, para su  aprobación definitiva. La Gerencia de la 
+Compañía considera que los estados financieros por el año terminado el 31 de diciembre de 
+2007, que se incluyen en el presente informe,  serán aprobados por los Accionistas sin 
+modificaciones. Los estados financieros por el  año terminado el 31 de diciembre de 2006 
+fueron aprobados sin modificaciones por la Junta Obligatoria Anual de Accionistas 
+realizada el 27 de febrero de 2007. 
+ 
+Los estados financieros adjuntos reflejan la actividad individual  de la Compañía sin incluir 
+los efectos de la consolidación de estos esta dos financieros con los de sus subsidiarias: 
+Corporación Minera San Manuel S.A., Minera Sinaycocha S.A.C., Empresa Energética de 
+Chaprín S.A., Corporación Peruana Cocachacra S.A.C., Calcios de Pacífico Sur S.A., 
+FINAMINER S.A. y El Quinual S.A. (Nota 11).  La Compañía prepara estados financieros 
+consolidados, los cuales se presentan por separado.  
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2021_Individual_Anual_2_NR Atacocha Individual 4Q2021.pdf | PAGINA: 28 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+ 
+Notas a los Estados financieros individuales 
+Al 31 de diciembre de 2021 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 27 de 49  
+Las cuentas por cobrar comerciales se reconocen inicialmente a su valor razonable y 
+posteriormente se miden a: 
+ 
+(i) Valor razonable con cambios en resultados cuando se relacionan con ventas que 
+posteriormente se ajustan a los cambios en los precios de la LME (London Metal Exchange 
+por sus siglas en ingles). Estas cuentas por cobrar no cumplen con los criterios SPPI ( the 
+solely payments of principal and interest  por sus siglas en inglés) porque existe un 
+componente de riesgo de precio de la materia prima que modifica los fl ujos de efectivo que 
+de otro modo serían requeridos por el contrato de venta. 
+ 
+(ii) Costo amortizado utilizando el método de la tasa de interés efectiva, menos deterioro, cuando 
+las cuentas por cobrar no cumplan con las clasificaciones anteriores. 
+ 
+El riesgo de crédito puede surgir del incumplimiento por parte de las contrapartes de sus 
+obligaciones contractuales con la Compañía. Para garantizar una evaluación efectiva del riesgo 
+crediticio, la administración aplica procedimientos integrales relacionados con la solicitud de 
+otorgamiento y aprobación de créditos, renovación de límites de crédito, monitoreo continuo de 
+la exposición crediticia en relación con los límites establecidos y eventos que activan los requisitos 
+para condiciones de pago garantizadas. Como parte del proceso de la Compañía, las exposiciones 
+crediticias con todas las contrapartes se monitorean y evalúan periódicamente en forma oportuna. 
+ 
+La Compañía aplica el enfoque simplificado de la NIIF 9 Instrumentos Financieros para medir las 
+pérdidas por deterioro de las cuentas por cobrar comerciales. Este enfoque requiere el uso de las 
+pérdidas crediticias esperadas en sus cuentas por cobrar comerciales medidas al costo 
+amortizado. Para calcular las pérdidas crediticias esperadas, la Compañía utiliza una matriz de 
+provisiones e información prospectiva. Las adiciones al deterioro de las cuentas por cobrar 
+comerciales se incluyen en los gastos de venta. Las cuentas por cobrar comerciales generalmente 
+se cancelan cuando no hay expectativas de recuperar efectivo adicional. 
+ 
+(a) Composición -  
+ 
+Nota 2021 2020
+Partes relacionadas 17                             2,515                             1,408 
+Terceros                            3,403                            5,467 
+Deterioro de cuentas por cobrar comerciales                                 (51)                                (88)
+5,867 6,787
+ 
+ 
+(b) Cambios en el deterioro de cuentas por cobrar comerciales - 
+ 
+2021 2020
+ Saldo al inicio del año                    (88)                      -  
+Adiciones                              (134)                               (141)
+Reversiones                                 171                                  53 
+ Saldo al final del año                    (51)                    (88)
+ 
+ 
+(c) Antiguamiento de las cuentas por cobrar comerciales -  
+ 
+2021 2020
+Vigentes                             5,896                           6,872 
+Hasta 3 meses de vencimiento                                    -                                      3 
+M ás de 6 meses de vencimiento 22                                   -  
+                 5,918                6,875 
+Deterioro                                 (51)                               (88)
+                5,867                6,787 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2021_Individual_Anual_2_NR Atacocha Individual 4Q2021.pdf | PAGINA: 29 | puntaje 5 =====
+Nexa Resources Atacocha S.A.A. 
+ 
+Notas a los Estados financieros individuales 
+Al 31 de diciembre de 2021 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 28 de 49  
+ 
+15 Inventarios 
+ 
+Política contable 
+ 
+Los costos relacionados con el proceso productivo se acumulan en productos en proceso y 
+concentrado. Los inventarios se registran al costo o a su valor neto de realización, el que resulte 
+menor. El costo incluye el precio de compra neto de descuentos, rebajas, entre otros. El costo de 
+repuestos y suministros se determina sobre la base del método de promedio ponderado, excepto 
+en el caso de los inventarios por recibir que se reconocen por el método de identificación 
+específica. 
+ 
+(i) Concentrados (zinc y plomo) -  
+ 
+El saldo de la partida concentrados resulta de las actividades de producción de la Compañía, éstos 
+se valorizan al costo promedio que incorpora los costos incurridos en el proceso productivo. 
+ 
+El costo del concentrado y de los productos en proceso comprende el costo de los servicios de 
+contratistas, el consumo de repuestos y suministros, el costo de la mano de obra directa, otros 
+costos directos y los gastos generales de fabricación que se asignan al costo de los inventarios 
+sobre la base de la capacidad de operación normal de la planta. 
+ 
+La capacidad normal de la planta se sustenta en el presupuesto anual de producción. El costo de 
+los inventarios excluye los gastos de financiamiento y las diferencias en cambio. 
+ 
+La Gerencia calculó su costo de capacidad ociosa considerando la reducción en el nivel de 
+producción debido al brote de COVID 19 y las actividades de protesta emprendidas por las 
+comunidades. Los supuestos utilizados involucraron juicios basados en la NIC 2 Inventarios. El 
+cálculo de la ociosidad se basó en la comparación de la producción realizada con las proyecciones 
+de producción del pronóstico de la Compañía. 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de operaciones, 
+menos los costos estimados para terminar su producción y los gastos para poner los inventarios 
+en condición de venta y para realizar su comercialización. Por las reducciones en el valor en libros 
+de los inventarios a su valor neto de realización se constituye una provisión para desvalorización 
+de inventarios con cargo al costo de ventas del ejercicio en que ocurren tales reducciones. 
+ 
+(ii) Repuestos y suministros diversos -  
+ 
+Los repuestos y suministros se valúan al menor de su costo bajo el método de promedio 
+ponderado. El costo de estos artículos incluye el flete y los impuestos no reembolsables aplicables. 
+El inventario en tránsito se registra al costo utilizando el método de identificación específico. La 
+provisión por deterioro de estos elementos se estima en base a una revisión anual de repuestos 
+y suministros sin movimiento por más de 2,5 años realizada por personal técnico calificado de la 
+Compañía. Si el valor en libros de los inventarios de repuestos y suministros excede su valor de 
+reposición, la diferencia se carga a resultados en el período en que se determina esta situación. 
+La Gerencia considera que a la fecha de los estados financieros individuales no se requiere 
+constituir provisiones adicionales a las reconocidas en los estados financieros individuales para 
+cubrir pérdidas por obsolescencia de inventarios. 
+  
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2021_Individual_Anual_2_NR Atacocha Individual 4Q2021.pdf | PAGINA: 30 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+ 
+Notas a los Estados financieros individuales 
+Al 31 de diciembre de 2021 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 29 de 49  
+(a) Composición -  
+ 
+2021 2020
+Concentrados 5,360                          1,454
+Productos en proceso 4,167                           1,379
+Repuestos y suministros diversos 4,141                            4,229
+Inventarios por recibir 89                                55
+Provisiones de inventarios (1,983)                                                (1,873)
+11,774 5,244
+ 
+ 
+(b) Cambios en la provisión del año - 
+ 
+2021 2020
+Saldo al inicio del año (1,873)              (3,526)           
+Recuperos 821 2,406
+Adiciones                              (931)                          (753)
+Saldo al final del año (1,983)                          (1,873)
+ 
+ 
+16  Otros activos 
+ 
+(a) Composición - 
+ 
+Comprende saldos por cobrar a terceros por la venta de activos fijos, impuestos por cobrar, 
+materiales y suministros, préstamos al personal y otros. 
+ 
+Nota 2021 2020
+Partes relacionadas 17 137
+Terceros
+Crédito fiscal por impuesto general a las ventas (i) 1,836                      2,421                       
+Cuentas por cobrar a contratistas mineros 517                         423                          
+ITAN por recuperar 423                        528                          
+Anticipos a proveedores 329                                                        -  
+Cuentas por cobrar al personal 292                        301                           
+Seguros pagados por adelantado 234                        141                            
+Otros activos 470                        852                          
+4,102 4,703
+Corriente 4,101 2,282
+No corriente 1 2,421
+4,102 4,703
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2019_Individual_Anual_NRA EEFF Sep.pdf | PAGINA: 10 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2019 
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+Página 7 de 45 
+(b) CINIIF 23 - Incertidumbre sobre Tratamientos de Impuesto a las Ganancias 
+ 
+Naturaleza del cambio 
+ 
+La interpretación explica cómo reconocer y medir los activos y pasivos por impuestos a la renta 
+diferidos y corrientes cuando existe incertidumbre sobre un tratamiento fiscal. 
+ 
+Método de transición 
+ 
+La Compañía aplicó la norma a partir de su fecha de adopción obligatoria del 1 de enero de 
+2019. 
+ 
+Impactos de la adopción 
+ 
+La interpretación afectó principalmente a la contabilización de las posiciones inciertas de 
+impuesto a la renta de la Compañía (nota 11(c)). La compañía concluyó que el impacto en la 
+adopción el 1 de enero de 2019 fue inmaterial. 
+ 
+4  Ventas netas 
+ 
+Política contable 
+ 
+Los ingresos comprenden el valor razonable de lo cobrado o por cobrar por la venta de bienes en 
+el curso normal de las operaciones de la Compañía. Después de eliminar las ventas entre las 
+compañías consolidadas. Los ingresos se muestran netos de impuestos a las ventas, rebajas y 
+descuentos. 
+ 
+La Compañía reconoce los ingresos cuando se cumple una obligación de desempeño, esto es al 
+transferir un bien o servicio a un cliente. El activo será transferido cuando el cliente obtenga el 
+control de ese activo. Para determinar el momento en que el cliente obtiene el control de un activo 
+prometido, la Compañía considera los siguientes indicadores: (i) la Compañía tiene un derecho 
+presente de pago por el activo; (ii) el cliente tiene título legal por el activo; (iii) la Compañía 
+transfiere la posesión física del activo; (iv) el cliente tiene los riesgos y beneficios significativos 
+del activo; (v) el cliente ha aceptado el activo. 
+ 
+Identificación y cumplimiento de las obligaciones de desempeño  
+ 
+La Compañía tiene dos obligaciones de desempeño incluidas en ciertos contratos de venta, que 
+son: (i) la promesa de proporcionar bienes a sus clientes, y (ii) la promesa de brindar el servicio 
+de transporte a sus clientes. 
+  
+Promesa de proporcionar bienes: esta obligación de desempeño se cumple cuando el control de 
+dichos bienes se transfiere al cliente final, que se determina sustancialmente en función de los 
+Incoterms acordados en cada uno de los contratos con los clientes. 
+ 
+Promesa de proporcionar servicio de transporte - esta obligación de desempeño se cumple cuando 
+se completa el servicio de carga de flete y seguro contratado por los clientes. 
+ 
+Como resultado de las distintas obligaciones de desempeño identificadas, parte de los ingresos 
+de la Compañía se presenta como “ingresos por servicios”. El costo relacionado con los ingresos 
+por servicios se presenta como “Costo de ventas”. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2019_Individual_Anual_NRA EEFF Sep.pdf | PAGINA: 11 | puntaje 6 =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2019 
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+Página 8 de 45 
+Determinación del precio de la transacción y asignación de los montos a las obligaciones de 
+desempeño 
+ 
+La Compañía considera las condiciones del contrato y sus prácticas comerciales habituales para 
+determinar el precio de la transacción. El precio de la transacción es el monto de la 
+contraprestación a la que la Compañía espera tener derecho a cambio de transferir los bienes o 
+servicios prometidos a sus clientes. El precio de transacción se asigna a cada obligación de 
+desempeño sobre una base independiente de precio de venta.  
+ 
+(a) Composición 
+2019 2018
+Concentrado de zinc 24,177 31,866 33,310 TMS 33,068 TMS
+Concentrado de plomo 68,716 55,165 32,950 TMS 24,542 TMS
+Concentrado de cobre 705 1,277 321 TMS 538 TMS
+93,598 88,308
+Ingresos por servicios (i) 2,183 1,779
+       95,781        90,087 
+CantidadValores
+2019 2018
+ 
+(i) Corresponde a los servicios de fletes y seguros. 
+ 
+En el 2019 los niveles de volumen de mineral vendido en las unidades mineras aumentaron, 
+ocasionando que los ingresos aumentaran en 6.32% respecto al mismo periodo del año anterior. 
+ 
+Las ventas de concentrados se discriminan en función del área geográfica a la que los clientes 
+pertenecen; así tenemos: 
+ 
+La totalidad de las ventas se ha realizado en el mercado local (Perú). 
+ 
+Durante el año 2019, la Compañía vendió concentrados a sus relacionadas Nexa Resources 
+Cajamarquilla S.A. por US$ 24,517 (durante el 2018 por US$29,557)  
+ 
+Concentración de ventas – 
+ 
+En el 2019, los tres clientes más importantes representaron el 44%, 30% y 26%, del total de las 
+ventas, (34%, 32% y 21% del total de las ventas en el 2018). 
+ 
+Al 31 de diciembre de 2019 y de 2018 el 99% y 96% de las cuentas por cobrar se relacionan con 
+estos clientes, respectivamente. 
+  
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2019_Individual_Anual_NRA EEFF Sep.pdf | PAGINA: 12 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2019 
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+Página 9 de 45 
+5  Costo de ventas 
+ 
+Política contable 
+ 
+El costo de ventas, que corresponde sustancialmente al costo de producción del concentrado que 
+comercializa la Compañía, se reconoce en resultados en la fecha de su entrega al cliente, en 
+simultáneo con el reconocimiento de los ingresos por su venta. 
+ 
+(a) Composición 
+ 
+Nota 2019 2018
+Saldo inicial de concentrados 18             4,527             1,046 
+Saldo inicial de productos en proceso 18                  48                173 
+           4,575            1,219 
+Costo de producción:
+Repuestos y suministros diversos utilizados           13,873           14,157 
+Gastos de personal 8           12,830           11,983 
+Servicios prestados por contratistas mineros (i)           50,095           44,363 
+Depreciación 20           13,335           12,055 
+Amortización 21 y 22                765                525 
+Desvalorización de repuestos y suministros, neto de 
+recuperos 18             2,786               (767)
+         93,684          82,316 
+Saldo final de concentrados  18            (3,916)            (4,527)
+Saldo final de productos en proceso  18               (546)                 (48)
+         93,797          78,960 
+Costo de servicios (ii) 4             2,183             1,779 
+         95,980          80,739 
+ 
+ 
+(i) Los servicios prestados por contratistas mineros incluyen principalmente las labores en 
+interior mina de preparación y desarrollo (avances horizontales y verticales) y gastos por 
+servicios de mantenimiento. 
+ 
+(ii) Corresponde a los servicios de fletes y seguros. 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2019_Individual_Anual_NRA EEFF Sep.pdf | PAGINA: 27 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2019  
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+Página 24 de 45 
+17  Partes relacionadas 
+ 
+(a) Saldos 
+2019 2018 2019 2018 2019 2018 2019 2018
+Controladora Directa
+Nexa Resources El Porvenir S.A.C. (i)              -                 -   215           260 377             641              -                -   
+Controladora Indirecta
+Nexa Resources Perú S.A.A. (ii)              -                 -   4        1,084 325                -                -                -   
+Nexa Resources Cajamarquilla S.A. (iii) 1,069            920              -               11                -                -                -   
+Otras partes relacionadas
+Votorantim Internacional CSC S.A.C. (iv)              -                 -                -                -   37               91              -                -   
+Otros              -                 -                -                -                  -             599           594 
+      1,069           920          219       1,355          739            732          599          594 
+Dividendos por pagar 
+(Nota 26)
+Cuentas por cobrar 
+comerciales (Nota 16)
+Otros activos
+ (Nota 19) Otros pasivos (Nota 26)
+ 
+ 
+(b) Transacciones 
+2019 2018 2019 2018
+Controladora Directa
+Nexa Resources El Porvenir S.A.C. (i)              -                  -   3,194              1,511 
+Controladora Indirecta
+Nexa Resources Perú S.A.A. (ii)              -                  -   (1,587)           (1,419)
+Nexa Resources Cajamarquilla S.A. (iii) 23,702        29,557              -                -   
+Otras partes relacionadas
+Votorantim Internacional CSC S.A.C. (iv)              -                  -            (437)          (453)
+    23,702       29,557       1,170       (361)
+Ventas netas
+Ingresos (gastos) 
+operativos
+ 
+ 
+i) Principalmente la venta de concentrado de zinc, servicios de gerenciamiento, relave y otros. 
+ii) Comprende la venta de concentrado de zinc y de plomo y servicios de gerenciamiento. 
+iii) Comprende principalmente a la venta de concentrado de zinc. 
+iv) Comprenden servicios relacionados a las actividades de back office contable, financiero y recursos humanos. 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2019_Individual_Anual_NRA EEFF Sep.pdf | PAGINA: 28 | puntaje 5 =====
+Nexa Resources Atacocha S.A.A.  
+    
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2019  
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+Página 25 de 45 
+(b) Compensación de la Gerencia clave - 
+ 
+La Compañía no posee personal de gerencia, ya que lo servicios de gerenciamiento son 
+proporcionados por Nexa Resources Perú S.A.A. 
+ 
+La compensación pagada o por pagar a la gerencia clave, que está conformada por el Directorio, 
+al 31 de diciembre de 2019 ascendió a US$385 (US$569 al 31 de diciembre de 2018) (Nota 6). 
+ 
+La Compañía no tiene vínculos comerciales con empresas relacionadas a los miembros del 
+Directorio. 
+ 
+18  Inventarios 
+ 
+Política contable 
+ 
+Los costos relacionados con el proceso productivo se acumulan en productos en proceso y 
+concentrado. Los inventarios se registran al costo o a su valor neto de realización, el que resulte 
+menor. El costo incluye el precio de compra neto de descuentos, rebajas, entre otros. El costo de 
+repuestos y suministros se determina sobre la base del método de promedio ponderado, excepto 
+en el caso de los inventarios por recibir que se reconocen por el método de identificación 
+específica. 
+ 
+(i) Concentrados (zinc, plomo y cobre) - 
+ 
+El saldo de la partida de concentrados (zinc, plomo y cobre) resulta de las actividades de 
+producción de la Compañía, éstos se valorizan al costo promedio que incorpora los costos 
+incurridos en el proceso productivo. 
+ 
+El costo del concentrado y de los productos en proceso comprende el costo de los servicios de 
+contratistas, el consumo de repuestos y suministros, el costo de la mano de obra directa, otros 
+costos directos y los gastos generales de fabricación que se asignan al costo de los inventarios 
+sobre la base de la capacidad de operación normal de la planta. 
+ 
+La capacidad normal de la planta se sustenta en el presupuesto anual de producción. El costo de 
+los inventarios excluye los gastos de financiamiento y las diferencias en cambio.  
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de operaciones, 
+menos los costos estimados para terminar su producción y los gastos para poner los inventarios 
+en condición de venta y para realizar su comercialización. Por las reducciones en el valor en libros 
+de los inventarios a su valor neto de realización se constituye una provisión para desvalorización 
+de inventarios con cargo al costo de ventas del ejercicio en que ocurren tales reducciones.  
+ 
+(ii)  Repuestos y suministros diversos - 
+ 
+Los repuestos y suministros diversos se registran al costo por el método de promedio ponderado 
+o a su valor reposición, el menor. El costo de estas partidas incluye fletes e impuestos aplicables 
+no reembolsables. Los inventarios por recibir se registran al costo por el método de identificación 
+específica. La provisión para desvalorización de estas partidas se determina sobre la base de 
+evaluaciones anuales, realizadas por personal técnico calificado de la Compañía, de los 
+suministros y repuestos que se mantienen inactivos por más de 2 años. Si se identifica que el 
+valor en libros de los inventarios de repuestos y suministros excede su valor de reposición, la 
+diferencia se carga a resultados en el ejercicio en el que se determina esta situación. La Gerencia 
+considera que a la fecha de los estados financieros no se requiere constituir ninguna provisión 
+adicional a la reconocida en los estados financieros individuales para cubrir pérdidas por 
+obsolescencia de estos inventarios. 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2019_Individual_Anual_NRA EEFF Sep.pdf | PAGINA: 29 | vecina =====
+Nexa Resources Atacocha S.A.A.  
+    
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2019  
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+Página 26 de 45 
+(a) Composición 
+2019 2018
+Concentrados         3,916 4,527        
+Productos en proceso            546 48             
+Repuestos y suministros diversos         4,091 4,321        
+Inventarios por recibir            161 5               
+       8,714        8,901 
+Estimación para desvalorización de repuestos y suministros        (3,526) (740)          
+5,188     8,161     
+ 
+ 
+(b)Movimiento de la provisión  
+ 
+El movimiento de la provisión por desvalorización de repuestos y suministros por el año terminado 
+el 31 de diciembre es el siguiente: 
+Nota 2019 2018
+Saldo al inicio del año           (740) (1,507)       
+Recuperos 5               -   2,232        
+Incrementos en provisión 5        (2,786) (1,465)       
+Saldo final del año (3,526)    (740)       
+ 
+ 
+19  Otros activos 
+ 
+Política contable 
+ 
+Ver nota 13. 
+ 
+(a) Composición 
+ 
+Comprende saldos por cobrar a terceros por la venta de activos fijos, impuestos por cobrar, 
+concesiones mineras, materiales y suministros, préstamos al personal y otros. 
+ 
+Nota 2019 2018
+Relacionadas 17                219 1,355         
+Terceros
+Saldo a favor de impuesto a la renta             2,451 2,128         
+Anticipos a proveedores             2,269 -             
+ITAN por recuperar                560 -             
+Cuentas por cobrar a contratistas mineros                523 687            
+Cuentas por cobrar al personal                413 365            
+Crédito fiscal por impuesto a las ganancias                404 970            
+Depósitos en garantía                  17 17              
+Otras diversas                436 971            
+7,292         6,493       
+Corriente             5,232           6,058 
+No corriente             2,060              435 
+7,292         6,493       
+ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2018_Individual_Anual_NR ATA EEFF Auditados.pdf | PAGINA: 8 | vecina =====
+DRAFT 
+Nexa Resources Atacocha S.A.A. 
+ 
+5 
+ 
+Estado individual de cambios en el patrimonio 
+Por los años terminados el 31 de diciembre  
+Expresado en miles de dólares estadounidenses 
+ 
+ Nota 
+Capital 
+emitido Reserva legal
+Otras 
+reservas de 
+capital
+Resultados 
+acumulados Total
+Saldo al 1 de enero de 2017 199,005         -                 2,679             (142,874)        58,810           
+Total resultado integral del año
+Ganancia del año -                 -                 -                 10,712           10,712           
+Total resultado integral del año -                 -                 -                 10,712           10,712           
+Total transacciones con accionistas
+Transferencia de otra reserva de capital 21 (iii) -                 (2,679)            2,679             -                 
+Reducción del capital social 21 (i) (87,442)          -                 -                 87,442           -                 
+Total transacciones con accionistas (87,442)          -                 (2,679)            90,121           -                 
+ Saldos al 31 de diciembre de 2017 111,563      -                 -              (42,041)      69,522        
+Total resultado integral del año
+Pérdida del año -                 -                 -                 (2,118)            (2,118)            
+Total resultado integral del año -                 -                 -                 (2,118)            (2,118)            
+Total transacciones con accionistas
+Transferencia de la reserva legal 21 (ii) -                 733                -                 (733)               -                 
+Reducción del capital social 21 (i) (51,259)          -                 -                 51,259           -                 
+Total transacciones con accionistas (51,259)          733                -                 50,526           -                 
+ Saldos al 31 de diciembre de 2018 60,304        733              -              6,367          67,404        
+ 
+ 
+ 
+ 
+Las notas que se acompañan forman parte integral de los estados financieros individuales.
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2018_Individual_Anual_NR ATA EEFF Auditados.pdf | PAGINA: 9 | puntaje 6 =====
+DRAFT 
+Nexa Resources Atacocha S.A.A.  
+ 
+6 
+ 
+Estado individual de flujos de efectivo 
+Por los años terminados el 31 de diciembre  
+Expresado en miles de dólares estadounidenses 
+ 
+Nota 2018 2017
+ACTIVIDADES DE OPERACIÓN
+Ganancia antes de impuesto a las ganancias 189                15,081           
+Menos, impuesto a las ganancias y minero 20 (2,307)           (4,369)           
+Ajustes:
+Depreciación y amortización 13 y 14 12,580           13,214           
+Impuesto a las ganancias diferido 20 1,886             1,558             
+Baja de activos fijos 13 1,139             274                
+Baja de inversiones -                9                    
+Pérdida neta de la venta de activos fijos e 
+intangibles 27 -                186                
+Desvalorización de repuestos y suministros, neto 
+de recuperos 10 (767)              (1,478)           
+Provisiones (2,597)           511                
+(Aumento) disminución en activos:
+Cuentas por cobrar comerciales (1,675)           (1,703)           
+Otras cuentas por cobrar e impuestos por cobrar (2,938)           2,422             
+Inventarios (80)                5,138             
+Otros activos no financieros (32)                1,919             
+Aumento (disminución) en pasivos:
+Cuentas por pagar comerciales (606)              700                
+Otras cuentas por pagar, beneficios a los 
+empleados e impuestos por pagar (13,982)         2,179             
+Pago de provisiones en el periodo 18 (416)              (2,187)           
+(9,606)           33,454           
+Pago del impuesto a las ganancias (2,640)           (1,727)           
+Efectivo neto (aplicado a) proveniente de 
+actividades de operación (12,246)         31,727           
+ACTIVIDADES DE INVERSION
+Venta de propiedades, planta y equipo -                1,205             
+Compra de propiedades, planta y equipo  13 (16,890)         (5,922)           
+Compra de intangibles 14 -                (267)              
+Efectivo neto aplicado a actividades de inversión (16,890)         (4,984)           
+Variación neta de efectivo y equivalentes del 
+efectivo (29,136)         26,743           
+Efectivo y equivalentes de efectivo al inicio del año 61,252           34,315           
+Diferencia en cambio del efectivo y equivalentes de 
+efectivo (128)              194                
+Efectivo y equivalentes de efectivo al final del año 7 31,988           61,252           
+Reducción de capital social y otras reservas de 
+capital por absorción de pérdidas acumuladas 21 (a)(i) 51,259           90,121           
+Disminución en propiedades, planta y equipo por 
+cierre mina 13 142                192                
+Transferencia de propiedades, planta y equipo a 
+activos intangibles 13 y 14 56                  2,590             
+Transacciones que no representan flujos de efectivo:
+ 
+ 
+ 
+Las notas que se acompañan forman parte integral de los estados financieros 
+individuales. 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2018_Individual_Anual_NR ATA EEFF Auditados.pdf | PAGINA: 10 | vecina =====
+Nexa Resources Atacocha S.A.A.  
+ 
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2018 y 31 de diciembre de 2017 
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+7 
+1 Información general y actividad económica 
+Nexa Resources Atacocha S.A.A. (en adelante la Compañía) es una sociedad anónima abierta 
+que se constituyó en Perú en 1936.  El domicilio legal de sus oficinas administrativas es Av. San 
+Borja Norte 523, San Borja, Lima, Perú. La Compañía, a partir del 2 de agosto de 2010, es una 
+subsidiaria indirecta de Votorantim S.A., entidad domiciliada en Brasil y de Nexa Resources S.A. 
+(la Casa Matriz), antes Votorantim Metais Holding, entidad domiciliada en Luxemburgo la que a 
+través de Nexa Resources El Porvenir S.A.C., subsidiaria al 100% de propiedad de Nexa 
+Resources Perú, controla el 66.62% de sus acciones. 
+ 
+Con fecha 18 de setiembre de 2018, se inscribió en el Registro Público de Lima el cambio de 
+denominación social de Compañía Minera Atacocha S.A.A. a Nexa Resources Atacocha S.A.A. Al 
+31 de diciembre de 2018 y de 2017, la Compañía cotiza sus acciones comunes en la Bolsa de 
+Valores de Lima (símbolo ATACOAC1 para las acciones clase A y símbolo ATACOBC1 para las 
+acciones clase B).   
+ 
+El 20 de diciembre de 2018 la Intendencia General de Supervisión de Conductas de la 
+Superintendencia de Mercado de Valores emitió la Resolución de Intendencia General SMV N° 
+108-2018-SMV/11.1, que dispone, a solicitud de la Compañía, la exclusión de las acciones 
+comunes pertenecientes a la Clase A y Clase B representativas del capital social de la Compañía 
+del Registro de Valores de la Bolsa de Valores de Lima.  De acuerdo con la indicada Resolución, 
+este proceso estará condicionado a la previa y efectiva realización de una oferta pública de 
+compra de valores por exclusión (OPC)1. 
+ 
+ Actividad económica - 
+La Compañía se dedica a la exploración, explotación, producción y comercialización de 
+concentrados de zinc, cobre y plomo que extrae de denuncios mineros propios. Su unidad 
+minera Atacocha se ubica en los distritos de San Francisco de Asís de Yarusyacán y Yanacancha, 
+provincia y región Pasco. 
+ 
+La Compañía adoptó la condición de sociedad irregular conforme a lo establecido por la Ley 
+General de Sociedades, debido a que las pérdidas acumuladas al 31 de diciembre 2015 
+redujeron su patrimonio neto a una cantidad por debajo de la tercera parte del capital social. La 
+Compañía implementó durante el año 2016, determinadas acciones orientadas a mitigar dicha 
+situación. Estas acciones tuvieron un impacto positivo en los resultados de la Compañía, sin 
+embargo, la Compañía aún continuaba en calidad de sociedad irregular bajo la Ley General de 
+Sociedades. 
+ 
+Ante ello, en Junta Obligatoria Anual de Accionistas realizada el 31 de marzo de 2017 se aprobó 
+la reducción del capital social en S/273,993,659.67, mediante la disminución del valor nominal 
+de las acciones A y B de S/0.66 a S/0.37 sin modificar el número de dichas acciones. 
+ 
+Asimismo, en Junta Obligatoria Anual de Accionistas realizada el 28 de marzo de 2018 se 
+aprobó la reducción del capital social en S/160,616,972.91, mediante la disminución del valor 
+nominal de las acciones A y B de S/0.37 a S/0.20 sin modificar el número de dichas acciones. 
+Esta acción hizo que la Compañía adopte nuevamente la condición de sociedad regular, 
+conforme a lo establecido por la Ley General de Sociedades 
+ 
+En el año 2018 la Compañía obtuvo un EBITDA de US$12,844, resultante de la disminución del 
+nivel de ventas en 80% y la optimización de costos. A nivel de pérdida neta se generó un total 
+de US$2,118. 
+ 
+                                            
+1 De conformidad con el Reglamento de Oferta Pública de Adquisición y de Compra de Valores por Exclusión, 
+aprobado por Resolución CONASEV N° 009-2006-EF/94.10 y sus modificatorias.  
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2018_Individual_Anual_NR ATA EEFF Auditados.pdf | PAGINA: 26 | vecina =====
+Nexa Resources Atacocha S.A.A.  
+ 
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2018 y 31 de diciembre de 2017 
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+23 
+ 
+9 Partes relacionadas 
+(a)  Composición 
+ 
+Los saldos de cuentas por cobrar y pagar, así como los ingresos y gastos con partes relacionadas son los siguientes: 
+ 
+2018 2017 2018 2017 2018 2017 2018 2017 2018 2017 2018 2017 
+Controladora Directa
+Nexa Resources El Porvenir S.A.C. (i) -           -           260          688          641          3,705       -           -           2,573     2,486     1,062     2,589     
+Controladora Indirecta
+Nexa Resources Perú S.A.A. (ii) -           -           1,084       -           -           12,952     -           -           -         289        1,419     2,581     
+Nexa Resources Cajamarquilla S.A. (iii) 920          2,025       11            -           -           -           -           -           29,557   34,608   -         -         
+Otras partes relacionadas
+Votorantim Internacional CSC S.A.C. (iv) -           -           -           -           91            33            -           -           -         -         453        446        
+Otros -           -           -           -           -           -           594          622          1            -         -         -         
+920          2,025       1,355       688          732          16,690     594          622          32,131   37,383   2,934     5,616     
+Ingresos Gastos
+Cuentas por cobrar 
+comerciales (Nota 8)
+Otras cuentas por 
+cobrar (Nota 12)
+Otras cuentas por 
+pagar (Nota 19) Dividendos por pagar
+ 
+ 
+(i) Comprende principalmente regalías relacionadas a los contratos de uso de concesiones mineras y venta de suministros y/o activos fijos. 
+(ii) Comprende principalmente servicios de gerenciamiento. 
+(iii) Comprende principalmente la venta de concentrado de zinc. 
+(iv) Comprende servicio relacionados a las actividades de back office contable, financiero y recursos humanos. 
+ 
+Al igual que las demás transacciones con partes relacionadas, las ventas de concentrado de zinc a Nexa Resources Cajamarquilla S.A. se pactan bajo 
+condiciones de mercado, siendo todas sometidas a evaluación a través de estudios de precios de transferencia que se encargan a profesionales externos 
+de la Compañía. 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2018_Individual_Anual_NR ATA EEFF Auditados.pdf | PAGINA: 27 | puntaje 8 =====
+Nexa Resources Atacocha S.A.A. 
+ 
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2018 y 31 de diciembre de 2017 
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+24 
+(b)  Compensación de la gerencia clave – 
+ 
+La Compañía no posee personal de gerencia, ya que lo servicios de gerenciamiento son 
+proporcionados por Nexa Resources Perú S.A.A. 
+ 
+La compensación pagada o por pagar a la gerencia clave, que está conformada por el Directorio, 
+al 31 de diciembre de 2018 ascendió a US$569 (US$575 al 31 de diciembre de 2017) (Nota 24). 
+ 
+La Compañía no tiene vínculos comerciales con empresas relacionadas a los miembros del 
+Directorio. 
+ 
+ 
+10 Inventarios 
+Política contable 
+ 
+Los costos relacionados con el proceso productivo se acumulan en productos en proceso y 
+concentrado. Los inventarios se registran al costo o a su valor neto de realización, el que resulte 
+menor. El costo incluye el precio de compra neto de descuentos, rebajas, entre otros. El costo 
+se determina sobre la base del método de promedio ponderado. 
+ 
+El valor neto de realización es el precio de venta estimado del producto en el curso normal del 
+negocio sobre la base del precio corriente y de los precios a largo plazo de los metales, menos 
+los costos estimados para completar su producción y los gastos para poner los inventarios en 
+condición de venta. Los castigos de los inventarios de productos en proceso y de concentrado, 
+resultantes de un deterioro en su valor neto de realización, se registran en el costo de ventas. 
+ 
+(i) Concentrados (zinc, plomo y cobre) - 
+ 
+El saldo de la partida de concentrados (zinc, plomo, cobre) resulta de las actividades de 
+producción de la Compañía, se valorizan al costo promedio que incorpora los costos incurridos 
+en el proceso productivo, incluyendo a los costos de refinación aplicables. 
+ 
+El costo del concentrado y de los productos en proceso comprende el costo de los servicios de 
+contratistas, el consumo de repuestos y suministros, el costo de la mano de obra directa, otros 
+costos directos y los gastos generales de fabricación que se asignan al costo de los inventarios 
+sobre la base de la capacidad de operación normal de la planta. 
+ 
+La capacidad normal de la planta se sustenta en el presupuesto anual de producción. El costo de 
+los inventarios excluye los gastos de financiamiento y las diferencias en cambio.  El valor neto 
+de realización, es el precio de venta estimado en el curso normal de operaciones, menos los 
+costos estimados para terminar su producción y los gastos para poner los inventarios en 
+condición de venta y para realizar su comercialización. Por las reducciones en el valor en libros 
+de los inventarios, a su valor neto de realización, se constituye una provisión para 
+desvalorización de inventarios con cargo al costo de ventas del ejercicio en que ocurren tales 
+reducciones. 
+ 
+(ii) Repuestos y suministros diversos - 
+ 
+Los repuestos y suministros diversos se registran al costo por el método de promedio ponderado 
+o a su valor de reposición, el menor.  El costo de estas partidas incluye fletes e impuestos 
+aplicables no reembolsables.  Los inventarios por recibir se registran al costo por el método de 
+identificación específica. La provisión para desvalorización de estas partidas se determina sobre 
+la base de evaluaciones anuales, realizadas por personal técnico calificado de la Compañía, de 
+los suministros y repuestos que se mantienen inactivos por más de 2 años.  Si se identifica que 
+el valor en libros de los inventarios de repuestos y suministros excede su valor de reposición, la 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2018_Individual_Anual_NR ATA EEFF Auditados.pdf | PAGINA: 28 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+ 
+Notas a los estados financieros individuales 
+Al 31 de diciembre de 2018 y 31 de diciembre de 2017 
+Expresado en miles de dólares estadounidenses, a menos que se indique lo contrario 
+ 
+25 
+diferencia se carga a resultados en el ejercicio en el que se determina esta situación.  La 
+Gerencia considera que a la fecha de los estados financieros no se requiere constituir ninguna 
+provisión adicional a la reconocida en los estados financieros individuales para cubrir pérdidas 
+por obsolescencia de estos inventarios. 
+ 
+(a) Composición 
+ 
+Nota 2018 2017
+Concentrados 4,527            1,046            
+Repuestos y suministros diversos 13 4,321            7,578            
+Productos en proceso 48                 173               
+Inventarios por recibir 5                   24                 
+8,901            8,821            
+Estimación para desvalorización de 
+repuestos y suministros (740)              (1,507)           
+8,161            7,314            
+ 
+La estimación para desvalorización de repuestos y suministros se determina sobre la base de 
+evaluaciones anuales, realizadas por personal técnico calificado de la Compañía, de los 
+suministros y repuestos que se mantienen inactivos por más de 2 años. 
+ 
+El movimiento de la provisión para desvalorización de repuestos y suministros por el periodo es 
+el siguiente: 
+ 
+2018 2017
+Saldo al inicio del año (1,507)           (2,985)           
+Recuperos 2,232            3,531            
+Incrementos en provisión (1,465)           (2,053)           
+Saldo final del año (740)              (1,507)           
+ 
+En opinión de la Gerencia de la Compañía, esta estimación cubre adecuadamente su riesgo de 
+desvalorización al 31 de diciembre del 2018 y de 2017. 
+ 
+En el año 2018, el costo de materiales, repuestos y suministros reconocido en resultados e 
+incluido en el costo de ventas asciende a US$11,925 (US$14,709 en el 2017) (Nota 23). 
+ 
+ 
+11 Impuestos por cobrar 
+Política contable 
+ 
+Los saldos por pagar del impuesto general a las ventas y del impuesto a la renta se compensan 
+con el crédito fiscal o saldo a favor relacionado al mismo impuesto y se presenta el efecto neto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2023_Individual_Anual_2_0922NRAtacocha23 - 4Q23.pdf | PAGINA: 26 | vecina =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2023 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 26 de 48   
+Las cuentas por cobrar comerciales se reconocen inicialmente a su valor razonable y 
+posteriormente se miden a: 
+ 
+(i) Valor razonable con cambios en resultados cuando se relacionan con ventas que 
+posteriormente se ajustan a los cambios en los precios de la LME, que se registra en los 
+ingresos netos. Estas cuentas por cobrar no cumplen con los criterios de SPPI porque existe 
+un componente de riesgo de precio de la materia prima que modifica los flujos de efectivo 
+que de otro modo serían requeridos por el contrato de venta. 
+ 
+(ii) Costo amortizado utilizando el método de la tasa de interés efectiva, menos deterioro, cuando 
+las cuentas por cobrar no cumplan con las clasificaciones anteriores. 
+ 
+El riesgo de crédito puede surgir del incumplimiento por parte de las contrapartes de sus 
+obligaciones contractuales con la Compañía.  Para garantizar una evaluación efectiva del riesgo 
+crediticio, la administración aplica procedimientos integrales relacionados con la solicitud de 
+otorgamiento y aprobación de créditos, renovación de límites de crédito, monitoreo continuo de 
+la exposición crediticia en relación con los límites establecidos y eventos que activan los requisitos 
+para condiciones de pago garantizadas.  Como parte del proceso de la Compañía, las exposiciones 
+crediticias con todas las contrapartes se monitorean y evalúan periódicamente en forma oportuna. 
+ 
+La Compañía aplica el enfoque simplificado de la NIIF 9 Instrumentos Financieros para medir las 
+pérdidas por deterioro de las cuentas por cobrar comerciales.  Este enfoque requiere el uso de las 
+pérdidas crediticias esperadas en sus cuentas por cobrar comerciales medidas al costo 
+amortizado.  Para calcular las pérdidas crediticias esperadas, la Compañía utiliza una matriz de 
+provisiones e información prospectiva.  Las adiciones al deterioro de las cuentas por cobrar 
+comerciales se incluyen en los gastos de venta. Las cuentas por cobrar comerciales generalmente 
+se castigan cuando no hay expectativas de recuperar efectivo adicional. 
+ 
+(a) Composición  
+ 
+  Nota 2023  2022 
+Partes relacionadas 17 (a) 3,106   2,634 
+Terceros   2,950   11,524 
+Deterioro de cuentas por cobrar comerciales   (54)   (174) 
+    6,002   13,984 
+ 
+(b) Cambios en el deterioro de cuentas por cobrar comerciales 
+ 
+    2023  2022 
+ Saldo al inicio del año    (174)   (51) 
+Adiciones   (54)   (174) 
+Reversiones   174   51 
+ Saldo al final del año    (54)   (174) 
+ 
+(c) Anticuamiento de las cuentas por cobrar comerciales 
+ 
+    2023   2022 
+Vigentes   5,176   14,158 
+Hasta 3 meses de vencimiento  880  - 
+    6,056   14,158 
+Deterioro   (54)   (174) 
+    6,002   13,984 
+ 
+  
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2023_Individual_Anual_2_0922NRAtacocha23 - 4Q23.pdf | PAGINA: 27 | puntaje 5 =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2023 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 27 de 48   
+15 Inventarios 
+ 
+Política contable 
+ 
+Los inventarios se registran al costo o a su valor neto de realización, el que resulte menor.  El 
+costo incluye el precio de compra neto de descuentos, rebajas, entre otros.  El costo de repuestos 
+y suministros se determina sobre la base del método de promedio ponderado, excepto en el caso 
+de los inventarios por recibir que se reconocen por el método de identificación específica. 
+ 
+(i) Concentrados (zinc y plomo)  
+ 
+El saldo de las partidas de concentrados proviene de las actividades de producción de la Compañía, 
+éstos se valorizan al costo promedio que incorpora los costos incurridos en el proceso productivo. 
+El costo de los inventarios excluye gastos financieros y diferencias cambiarias.   
+ 
+El costo del concentrado y de los productos en proceso incluye materias primas, mano de obra 
+directa, otros costos directos y los gastos generales de fabricación (calculados sobre la base de 
+la capacidad de operación normal de la planta).  La capacidad normal de la planta se sustenta en 
+el plan anual de producción.  La Gerencia calculó su costo de capacidad ociosa teniendo en cuenta 
+la disminución en el nivel de producción debido a eventos inusuales. Los supuestos utilizados 
+involucran juicios basados en la Norma Internacional de Contabilidad (“NIC”) 2 Inventarios 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de operaciones, 
+menos los costos estimados para terminar su producción y los gastos para poner los inventarios 
+en condición de venta y para realizar su comercialización.  Por las reducciones en el valor en libros 
+de los inventarios a su valor neto de realización se constituye una provisión para desvalorización 
+de inventarios con cargo al costo de ventas del ejercicio en que ocurren tales reducciones. 
+ 
+(ii) Repuestos y suministros  
+ 
+Los repuestos y suministros se registran al menor de su costo y valor neto de realización bajo el 
+método de promedio ponderado.  El costo de estas partidas incluye el flete y los impuestos 
+aplicables no reembolsables.  El inventario por recibir se registra al costo utilizando el método de 
+identificación específico.  La provisión por deterioro de estos elementos se estima en base a una 
+revisión anual de repuestos y suministros sin movimiento por más de 2.5 años realizada por 
+personal técnico calificado de la Compañía.  Si se identifica que el valor en libros de los inventarios 
+de repuestos y suministros excede su valor de reposición, la diferencia se carga a resultados en 
+el periodo en que se determina esta situación.  La Gerencia considera que a la fecha de los estados 
+financieros individuales no se requiere constituir provisiones adicionales a las reconocidas en los 
+estados financieros individuales para cubrir pérdidas por obsolescencia de inventarios. 
+ 
+(a) Composición 
+ 
+    2023  2022 
+Repuestos y suministros   3,187   4,495 
+Productos en proceso   2,446   1,988 
+Concentrados   320   2,368 
+Inventarios por recibir   -    99 
+Provisiones de inventarios (b)   (1,115)   (2,443) 
+    4,838   6,507 
+  
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2023_Individual_Anual_2_0922NRAtacocha23 - 4Q23.pdf | PAGINA: 28 | vecina =====
+Nexa Resources Atacocha S.A.A 
+ 
+Notas a los estados financieros individuales 
+Al y por el año terminado al 31 de diciembre de 2023 
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+ 
+ 
+Página 28 de 48   
+(b) Cambios en las provisiones del año 
+ 
+                  2023                2022 
+Saldo al inicio del año    (2,443)   (1,983) 
+Recuperos (i)   2,395   931 
+Adiciones   (1,067)    (1,391) 
+Saldo al final del año    (1,115)   (2,443) 
+(i) El incremento de los recuperos se debe a que durante los meses de noviembre y diciembre 
+se realizaron venta de materiales obsoletos. 
+ 
+16  Otros activos 
+ 
+Política contable 
+ 
+Ver nota 11 (i). 
+ 
+(a) Composición  
+ 
+Comprende saldos por cobrar a terceros por la venta de activos fijos, impuestos por cobrar, 
+materiales y suministros, préstamos al personal y otros. 
+ 
+   2023  2022 
+Cuentas por cobrar a contratistas mineros   2,369   944 
+Anticipos a proveedores   503   4 
+Crédito fiscal por impuesto general a las ventas   373   - 
+Seguros pagados por adelantado   295   282 
+Cuentas por cobrar al personal    192   280 
+ITAN por recuperar                    45    - 
+Otros activos   806   271 
+    4,583   1,781 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2025_Individual_Anual_1_1086025NRAtacocha25 vf.pdf | PAGINA: 27 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los estados financieros individuales  
+Al y por el año terminado al 31 de diciembre de 2025  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+27 de 51 
+ 
+14.  Cuentas por cobrar comerciales 
+ 
+Política contable 
+ 
+Las cuentas por cobrar comerciales son montos adeudados por los clientes por los bienes vendidos 
+o servicios prestados en el curso ordinario de los negocios de la Compañía. 
+ 
+Las cuentas por cobrar comerciales se reconocen inicialmente a su valor razonable y posteriormente 
+se miden a: 
+ 
+(i) Valor razonable con cambios en resultados cuando se relacionan con ventas que 
+posteriormente se ajustan a los cambios en los precios de la LME, que se registra en los 
+ingresos netos. Estas cuentas por cobrar no cumplen con los criterios de SPPI porque existe 
+un componente de riesgo de precio de la materia prima que modifica los flujos de efectivo que 
+de otro modo serían requeridos por el contrato de venta. 
+ 
+(ii) Costo amortizado utilizando el método de la tasa de interés efectiva, menos deterioro, cuando 
+las cuentas por cobrar no cumplan con las clasificaciones anteriores. 
+ 
+El riesgo de crédito puede surgir del incumplimiento por parte de las contrapartes de sus 
+obligaciones contractuales con la Compañía. Para garantizar una evaluación efectiva del riesgo 
+crediticio, la administración aplica procedimientos integrales relacionados con la solicitud de 
+otorgamiento y aprobación de créditos, renovación de límites de crédito, monitoreo continuo de la 
+exposición crediticia en relación con los límites establecidos y eventos que activan los requisitos 
+para condiciones de pago garantizadas. Como parte del proceso de la Compañía, las exposiciones 
+crediticias con todas las contrapartes se monitorean y evalúan periódicamente en forma oportuna. 
+ 
+La Compañía aplica el enfoque simplificado de la NIIF 9 Instrumentos Financieros para medir las 
+pérdidas por deterioro de las cuentas por cobrar comerciales. Este enfoque requiere el uso de las 
+pérdidas crediticias esperadas en sus cuentas por cobrar comerciales medidas al costo amortizado. 
+Para calcular las pérdidas crediticias esperadas, la Compañía utiliza una matriz de provisiones e 
+información prospectiva. Las adiciones al deterioro de las cuentas por cobrar comerciales se 
+incluyen en los gastos de venta. Las cuentas por cobrar comerciales generalmente se castigan 
+cuando no hay expectativas de recuperar efectivo adicional. 
+ 
+(a)  Composición  
+  Nota 2025   2024 
+Partes relacionadas 17 (a) 22,693   4,479 
+Terceros    7,017   3,163 
+Deterioro de cuentas por cobrar comerciales   (53)   (48) 
+    29,657   7,594 
+ 
+ 
+(b)  Cambios en el deterioro de cuentas por cobrar comerciales 
+    2025   2024 
+ Saldo al inicio del periodo    (48)  (54) 
+Adiciones   (284)   (160) 
+Reversas    279   166 
+ Saldo al final del periodo    (53)   (48) 
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2025_Individual_Anual_1_1086025NRAtacocha25 vf.pdf | PAGINA: 28 | puntaje 5 =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los estados financieros individuales  
+Al y por el año terminado al 31 de diciembre de 2025  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+28 de 51 
+ 
+(c)  Anticuamiento de las cuentas por cobrar comerciales 
+ 
+    2025   2024 
+Vigentes   17,995   5,597 
+Hasta 3 meses de vencimiento   6,407   2,045 
+Más de 6 meses de vencimiento   5,308                         -    
+    29,710   7,642 
+Deterioro   (53)   (48) 
+    29,657   7,594 
+ 
+15. Inventarios 
+ 
+Política contable 
+ 
+Los inventarios se registran al costo o a su valor neto de realización, el que resulte menor. El 
+costo incluye el precio de compra neto de descuentos, rebajas, entre otros. El costo de repuestos 
+y suministros se determina sobre la base del método de promedio ponderado, excepto en el caso 
+de los inventarios por recibir que se reconocen por el método de identificación específica. 
+ 
+(i)   Concentrados (zinc y plomo)  
+ 
+El saldo de las partidas de concentrados proviene de las actividades de producción de la Compañía, 
+éstos se valorizan al costo promedio que incorpora los costos incurridos en el proceso productivo. 
+El costo de los inventarios excluye gastos financieros y diferencias cambiarias.   
+ 
+El costo del concentrado y de los productos en proceso incluye materias primas, mano de obra 
+directa, otros costos directos y los gastos generales de fabricación (calculados sobre la base de 
+la capacidad de operación normal de la planta). La capacidad normal de la planta se sustenta en 
+el plan anual de producción. La Gerencia calculó su costo de capacidad ociosa teniendo en cuenta 
+la disminución en el nivel de producción debido a eventos inusuales. Los supuestos utilizados 
+involucran juicios basados en la Norma Internacional de Contabilidad (“NIC”) 2 Inventarios 
+ 
+El valor neto de realización es el precio de venta estimado en el curso normal de operaciones, 
+menos los costos estimados para terminar su producción y los gastos para poner los inventarios 
+en condición de venta y para realizar su comercialización. Por las reducciones en el valor en libros 
+de los inventarios a su valor neto de realización se constituye una provisión para desvalorización 
+de inventarios con cargo al costo de ventas del periodo en que ocurren tales reducciones. 
+ 
+(ii)   Repuestos y suministros  
+ 
+Los repuestos y suministros se registran el menor entre el costo y valor neto de realización bajo 
+el método de promedio ponderado. El costo de estas partidas incluye el flete y los impuestos 
+aplicables no reembolsables. El inventario por recibir se registra al costo utilizando el método de 
+identificación específico. La provisión por deterioro de estos elementos se estima en base a una 
+revisión anual de repuestos y suministros sin movimiento por más de 2.5 años realizada por 
+personal técnico calificado de la Compañía. Si se identifica que el valor en libros de los inventarios 
+de repuestos y suministros excede su valor de reposición, la diferencia se carga a resultados en 
+el periodo en que se determina esta situación. La Gerencia considera que a la fecha de los estados 
+financieros individuales no se requiere constituir provisiones adicionales a las reconocidas en los 
+estados financieros individuales para cubrir pérdidas por obsolescencia de inventarios.
+
+===== ARCHIVO: EEFFDD-NEXA RESOURCES ATACOCHA S.A.A.-Individual.zip/2025_Individual_Anual_1_1086025NRAtacocha25 vf.pdf | PAGINA: 29 | vecina =====
+Nexa Resources Atacocha S.A.A. 
+    
+Notas a los estados financieros individuales  
+Al y por el año terminado al 31 de diciembre de 2025  
+Expresado en miles de US$ dólares, a menos que se indique lo contrario 
+ 
+ 
+29 de 51 
+ 
+(a)  Composición 
+ 
+    2025   2024 
+Productos en proceso   5,125   3,180 
+Repuestos y suministros diversos   3,073   3,296 
+Concentrados   438   849 
+Inventarios por recibir   4                         -    
+Provisiones de inventarios   (1,069)   (1,113) 
+    7,571   6,212 
+ 
+(b)  Cambios en las provisiones del periodo 
+    2025   2024 
+ Saldo al inicio del periodo               (1,113)              (1,115) 
+Adiciones                  (441)               (1,350) 
+Recuperos                     485                   1,352  
+ Saldo final del periodo               (1,069)              (1,113) 
+ 
+16.  Otros activos 
+ 
+(a)  Composición  
+ 
+Comprende saldos por cobrar a terceros por la venta de activos fijos, impuestos por cobrar, 
+materiales y suministros, préstamos al personal y otros. 
+ 
+    2025   2024 
+Cuentas por cobrar a contratistas mineros   1,743   1,857 
+Seguros pagados por adelantando   394   396 
+Cuentas por cobrar al personal   194   166 
+Otros impuestos por recuperar                      20                         27  
+Anticipos a proveedores                         -      12 
+Otras diversas    2,481   2,241 
+    4,832   4,699 
+     
+Corriente   2,479   2,789 
+No corriente                  2,353                   1,910  
+    4,832   4,699 
+ 
+ 
+ 
+ 
