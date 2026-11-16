@@ -2,7 +2,8 @@
 """
 =============================================================================
  SCRAPER SMV PERU v3.1 -- Descarga masiva de Estados Financieros y Dictamen
- (v3: lista de empresas en empresas_eeff.txt, salta empresas_hechas.txt,
+ (v3.2: acepta "NOMBRE|CODIGO" para empresas retiradas.
+ v3: lista de empresas en empresas_eeff.txt, salta empresas_hechas.txt,
   elige la sugerencia mas parecida, anios desde ANIO_DESDE)
 =============================================================================
 
@@ -113,7 +114,11 @@ def _leer_lista(ruta):
 BATCH = int(os.environ.get("BATCH", "1"))
 NUM_TANDAS = int(os.environ.get("NUM_TANDAS", "1"))
 _hechas = {_normalizar(e) for e in _leer_lista("empresas_hechas.txt")}
-_todas = [e for e in _leer_lista("empresas_eeff.txt") if _normalizar(e) not in _hechas]
+# v3.2: cada linea puede ser "NOMBRE" o "NOMBRE|CODIGO_SMV". Con codigo, la
+# empresa se abre directo en Informacion Financiera marcando "retiradas"
+# (las empresas retiradas no aparecen en el buscador general de la SMV).
+_todas = [e for e in _leer_lista("empresas_eeff.txt")
+          if _normalizar(e.split("|")[0]) not in _hechas]
 EMPRESAS = _todas[BATCH - 1::NUM_TANDAS]
 print(f"[info] TANDA {BATCH}/{NUM_TANDAS}: {len(EMPRESAS)} empresas -> {EMPRESAS}")
 
@@ -454,7 +459,9 @@ def hacer_clic_filtrar(driver, tipo, anual, trimestre=None):
     marcar_tipo(driver, tipo)
     if not anual and trimestre:
         reconfirmar_trimestre(driver, trimestre)
-    boton = wait.until(EC.element_to_be_clickable((By.ID, "MainContent_lnkBuscar")))
+    boton = wait.until(lambda d: next((b for b in
+        d.find_elements(By.ID, "MainContent_lnkBuscar") + d.find_elements(By.ID, "MainContent_cbBuscar")
+        if b.is_displayed() and b.is_enabled()), False))
     click_seguro(driver, boton)
     time.sleep(PAUSA_ENTRE_ACCIONES + 1.5)
 
@@ -702,22 +709,52 @@ def nombre_carpeta_zip(prefijo, nombre_empresa, tipo):
     return limpiar_nombre(f"{prefijo}-{nombre_empresa}-{tipo_legible}")
 
 
-def procesar_empresa(driver, nombre_empresa):
+URL_INFO_FIN = ("https://www.smv.gob.pe/SIMV/Frm_InformacionFinanciera"
+                "?data=A70181B60967D74090DCD93C4920AA1D769614EC12")
+
+
+def abrir_por_codigo(driver, codigo):
+    """v3.2: abre Informacion Financiera, marca 'retiradas' y elige la empresa por codigo SMV."""
+    driver.get(URL_INFO_FIN)
+    wait = WebDriverWait(driver, 90)
+    wait.until(EC.presence_of_element_located((By.ID, "MainContent_cbxRetiradas")))
+    time.sleep(2)
+    cb = driver.find_element(By.ID, "MainContent_cbxRetiradas")
+    if not cb.is_selected():
+        driver.execute_script("arguments[0].click();", cb)   # postback: recarga la lista con retiradas
+        wait.until(lambda d: d.find_element(By.ID, "MainContent_cbxRetiradas").is_selected())
+        wait.until(lambda d: d.find_elements(By.XPATH,
+            f"//select[@id='MainContent_cboDenominacionSocial']/option[@value='{codigo}']"))
+        time.sleep(2)
+    Select(driver.find_element(By.ID, "MainContent_cboDenominacionSocial")).select_by_value(str(codigo))
+    time.sleep(PAUSA_ENTRE_ACCIONES + 3)                       # postback de la empresa
+    wait.until(lambda d: d.find_element(By.ID, "MainContent_cboDenominacionSocial")
+               .get_attribute("value") == str(codigo))
+    wait.until(EC.presence_of_element_located((By.ID, "MainContent_cboAnio")))
+    nombre = Select(driver.find_element(By.ID, "MainContent_cboDenominacionSocial")).first_selected_option.text
+    print(f"    [ok] Empresa abierta por codigo {codigo}: '{nombre.strip()}' (retiradas)")
+
+
+def entrar_empresa(driver, empresa):
+    """Abre la pantalla de Informacion Financiera de la empresa (por codigo o por nombre)."""
+    nombre, _, codigo = empresa.partition("|")
+    if codigo.strip():
+        _reintentar(lambda: abrir_por_codigo(driver, codigo.strip()), intentos=3, etiqueta="abrir_por_codigo")
+    else:
+        _reintentar(lambda: buscar_empresa(driver, nombre.strip()), intentos=2, etiqueta="buscar_empresa")
+        _reintentar(lambda: ir_a_informacion_financiera(driver), intentos=3, etiqueta="ir_a_informacion_financiera")
+
+
+def procesar_empresa(driver, empresa):
+    nombre_empresa = empresa.split("|")[0].strip()
     carpeta_empresa = os.path.join(OUTPUT_DIR, limpiar_nombre(nombre_empresa))
     os.makedirs(carpeta_empresa, exist_ok=True)
     print(f"\n{'='*70}\nEMPRESA: {nombre_empresa}\n{'='*70}")
 
     try:
-        _reintentar(lambda: buscar_empresa(driver, nombre_empresa), intentos=2, etiqueta="buscar_empresa")
+        entrar_empresa(driver, empresa)
     except Exception:
-        print(f"  [ERROR] No se pudo buscar la empresa (tras varios intentos):")
-        traceback.print_exc()
-        return
-
-    try:
-        _reintentar(lambda: ir_a_informacion_financiera(driver), intentos=3, etiqueta="ir_a_informacion_financiera")
-    except Exception:
-        print(f"  [ERROR] No se pudo entrar a Informacion Financiera (tras varios intentos):")
+        print(f"  [ERROR] No se pudo abrir la empresa (tras varios intentos):")
         traceback.print_exc()
         return
 
@@ -747,8 +784,7 @@ def procesar_empresa(driver, nombre_empresa):
                     pass
                 driver = setup_driver()
                 try:
-                    buscar_empresa(driver, nombre_empresa)
-                    ir_a_informacion_financiera(driver)
+                    entrar_empresa(driver, empresa)
                 except Exception:
                     print("    [ERROR] No se pudo recuperar la sesion. Se salta este (tipo, anio).")
                     continue

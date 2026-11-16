@@ -1,1 +1,1 @@
-# Vacio a proposito para la ronda 3: los artifacts de septiembre ya no existen y se vuelven a descargar.
+# Ronda 4: vacio a proposito (la lista ya trae solo las que faltan)

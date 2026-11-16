@@ -1,28 +1,15 @@
-# Ronda 3 (16/11/2026): las 26 empresas de septiembre (sus artifacts ya se borraron) + Backus
-Los Portales S.A.
-Inversiones Centenario S.A.A.
-Andino Investment Holding S.A.A.
-Rimac Seguros y Reaseguros
-Pacifico Compañia de Seguros y Reaseguros
-InRetail Peru Corp
-Interseguro Compañia de Seguros
-La Positiva Seguros y Reaseguros S.A.
-La Positiva Vida Seguros y Reaseguros S.A.
-Interproperties Peru S.A.
-Pacifico Vida
-Administradora Jockey Plaza Shopping Center S.A.
-Mapfre Peru Compañia de Seguros y Reaseguros
-Activo Inmobiliario Peruano S.A.A.
-Inmobiliaria IDE S.A.
-Futura Consorcio Inmobiliario S.A.
-Agro Industrial Paramonga S.A.
-Agro Pucala S.A.A.
-Agroindustrial Laredo S.A.A.
-Agroindustrias AIB S.A.
-Agroindustrias San Jacinto S.A.A.
-Empresa Agroindustrial Pomalca S.A.A.
-Empresa Agroindustrial Tuman S.A.A.
-Cumbra Holding S.A.A.
-Cementos Pacasmayo S.A.A.
-Corporacion Aceros Arequipa S.A.
-UNION DE CERVECERIAS PERUANAS BACKUS Y JOHNSTON S.A.A.
+# Ronda 4: las 13 empresas RETIRADAS que el buscador general no encuentra.
+# Formato: NOMBRE|CODIGO_SMV  (el codigo hace que se abran marcando "retiradas")
+INMOBILIARIA KANPU S.A.|164
+NEGOCIOS E INMUEBLES S.A.|272
+NISA INMUEBLES S.A|167632
+INMUEBLES COMERCIALES DEL PERU S.A.C.|117233
+INVERSIONES NACIONALES DE TURISMO S.A. INTURSA|145
+LIMA CAUCHO S.A. EN LIQUIDACION|158
+AGRICOLA CERRO PRIETO S.A.|127171
+ENFOCA SERVICIOS LOGISTICOS S.A.|166465
+ICCGSA INVERSIONES S.A.|159030
+INTEROC SOCIEDAD ANONIMA|162521
+CFI HOLDINGS S.A.|60249
+ORAZUL ENERGY EGENOR SOCIEDAD EN COMANDITA POR ACCIONES|30531
+BEAR CREEK MINING CORPORATION|147163
