@@ -763,7 +763,10 @@ def abrir_por_codigo(driver, codigo):
     wait.until(EC.presence_of_element_located((By.ID, "MainContent_cbxRetiradas")))
     time.sleep(2)
     cb = driver.find_element(By.ID, "MainContent_cbxRetiradas")
-    if not cb.is_selected():
+    # v3.6: si el codigo es de una empresa vigente, ya esta en la lista sin marcar "retiradas"
+    vigente = bool(driver.find_elements(By.XPATH,
+        f"//select[@id='MainContent_cboDenominacionSocial']/option[@value='{codigo}']"))
+    if not vigente and not cb.is_selected():
         driver.execute_script("arguments[0].click();", cb)   # postback: recarga la lista con retiradas
         wait.until(lambda d: d.find_element(By.ID, "MainContent_cbxRetiradas").is_selected())
         wait.until(lambda d: d.find_elements(By.XPATH,
@@ -775,7 +778,7 @@ def abrir_por_codigo(driver, codigo):
                .get_attribute("value") == str(codigo))
     wait.until(EC.presence_of_element_located((By.ID, "MainContent_cboAnio")))
     nombre = Select(driver.find_element(By.ID, "MainContent_cboDenominacionSocial")).first_selected_option.text
-    print(f"    [ok] Empresa abierta por codigo {codigo}: '{nombre.strip()}' (retiradas)")
+    print(f"    [ok] Empresa abierta por codigo {codigo}: '{nombre.strip()}'")
 
 
 ANIO_DESDE_PANEL = 2009
