@@ -1,0 +1,3521 @@
+EMPRESA: INMOBILIARIA MILENIA S.A.
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2013_Individual_Anual_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 5 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante del estado de situación financiera. 
+Inmobiliaria Milenia S.A. 
+Estado de situación financiera 
+Al 31 de diciembre de 2013 y de 2012  
+ Nota 2013 2012 
+  S/.(000) S/.(000) 
+    
+Activo    
+Activo corriente    
+Efectivo y equivalentes de efectivo 3 6,321 4,278 
+Cuentas por cobrar comerciales, neto  4 243 446 
+Otras cuentas por cobrar  95 222 
+Seguros y otros gastos pagados por anticipado  21 45   _________ _________ 
+  6,680 4,991   _________ _________ 
+    
+Propiedades de inversión disponibles para la venta 5 - 4,332   _________ _________ 
+    
+Activo no corriente    
+Propiedades de inversión 6 164,176 154,403 
+Inmuebles, mobiliario y equipo, neto 7 637 670   _________ _________ 
+  164,813 155,073   _________ _________ 
+    
+Total activo  171,493 164,396   _________ _________ 
+    
+Pasivo y patrimonio neto    
+Pasivo corriente    
+Cuentas por pagar comerciales  132 108 
+Otras cuentas por pagar 8 760 638   _________ _________ 
+Total pasivo corriente  892 746   _________ _________ 
+    
+Impuesto a la renta diferido, neto 9(a) 43,436 41,556   _________ _________ 
+    
+Total pasivo  44,328 42,302   _________ _________ 
+    
+Patrimonio  10   
+Capital social  23,370 23,370 
+Acciones en tesorería   - (144) 
+Reserva legal  5,443 4,516 
+Resultados acumulados  98,352 94,352   _________ _________ 
+Total patrimonio   127,165 122,094   _________ _________ 
+    
+Total pasivo y patrimonio   171,493 164,396   _________ _________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2013_Individual_Anual_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 6 | puntaje 11 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Inmobiliaria Milenia S.A. 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ Nota 2013 2012 
+  S/.(000) S/.(000) 
+    
+    
+Ingresos de servicio inmobiliario 5, 6 y 13 7,093 8,450 
+Costo de servicio inmobiliario  14 (1,917) (2,196)   __________ __________ 
+Resultado de servicio inmobiliario, neto  5,176 6,254     
+Pérdida en venta de propiedades de inversión 
+disponibles para la venta  5(b) (157) - 
+Fluctuación en valorización de las propiedades de 
+inversión 6(a) 8,586 8,136   __________ __________ 
+Resultado del negocio inmobiliario  13,605 14,390 
+    
+Gastos administrativos 15 (481) (760)   __________ __________ 
+Utilidad operativa  13,124 13,630     
+Ingresos financieros, neto  30 7 
+Ganancia (pérdida) por diferencia en cambio, neta  117 (196)   __________ __________ 
+Utilidad antes de impuesto a la renta  13,271 13,441     
+    
+Impuesto a la renta 9(b) (3,849) (4,167)   __________ _________     
+Utilidad neta  9,422 9,274   __________ _________ 
+    
+Otros resultados integrales   - -   __________ _________ 
+Total resultado integral  9,422 9,274   __________ _________ 
+    
+Utilidad por acción básica y diluida (en Nuevos Soles) 11 0.404 0.390   _________ _________ 
+    
+Número de acciones en circulación (en miles) 11 23,347 23,766   _________ _________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2013_Individual_Anual_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 7 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Inmobiliaria Milenia S.A. 
+Estado de cambios en el patrimonio  
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ 
+Capital 
+social 
+Acciones en 
+tesorería 
+Reserva  
+legal 
+Resultados 
+acumulados Total 
+ S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) 
+      
+Saldo al 1 de enero de 2012 26,799 (149) 2,934 131,458 161,042 
+      
+Utilidad neta - - - 9,274 9,274  ________ ________ ________ ________ ________ 
+Total resultados integrales - - - 9,274 9,274 
+      
+Efecto de escisión de bloque patrimonial, nota 1(b) (3,429) 5 - (35,830) (39,254) 
+Constitución de reserva legal, nota 10(b) - - 1,582 (1,582) - 
+Distribución de dividendos, nota 10(d) - - - (8,990) (8,990) 
+Otros ajustes - - - 22 22  ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre de 2012 23,370 (144) 4,516 94,352 122,094 
+      
+Utilidad neta - - - 9,422 9,422  ________ ________ ________ ________ ________ 
+Total resultados integrales - - - 9,422 9,422 
+      
+Venta de acciones en tesorería, nota 10(c)  - 144 - 5 149 
+Constitución de reserva legal, nota 10(b) - - 927 (927) - 
+Distribución de dividendos, nota 10(d) - - - (4,500) (4,500)  ________ ________ ________ ________ ________ 
+      
+Saldo al 31 de diciembre de 2013 23,370 - 5,443 98,352 127,165  ________ ________ ________ ________ ________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2013_Individual_Anual_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 8 | puntaje 14 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Inmobiliaria Milenia S.A. 
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ 2013 2012 
+ S/.(000) S/.(000) 
+Conciliación de la utilidad neta con el efectivo y equivalentes de 
+efectivo provenientes de (utilizados en) las actividades de 
+operación   
+Utilidad neta 9,422 9,274 
+Ajustes a la utilidad neta   
+Depreciación  33 34 
+Provisión de cobranza dudosa 15 1 
+Impuesto a la renta diferido 1,880 2,517 
+Ganancia por valorización de las propiedades de inversión (8,586) (8,136) 
+Pérdida por venta de propiedades de inversión disponible para la 
+venta  157 -    
+Variaciones netas de activos y pasivos:   
+Cuentas por cobrar comerciales 188 68 
+Otras cuentas por cobrar 127 (6) 
+Gastos pagados por anticipado 24 350 
+Cuentas por pagar comerciales 24 27 
+Otras cuentas por pagar  323 73 
+Otros 18 (45)  _________ _________ 
+Efectivo y equivalentes de efectivo proveniente de las 
+actividades de operación 3,625 4,157  _________ _________ 
+Actividades de inversión   
+Adelanto recibido por venta de inversiones disponibles para la 
+venta - 191 
+Venta de propiedades de inversión disponibles para la venta 3,966 - 
+Mejoras en propiedades de inversión (1,187) - - _________ _________ 
+Efectivo y equivalentes de efectivo proveniente de las 
+actividades de inversión 2,779 191  _________ _________ 
+Actividades de financiamiento   
+Dividendos pagados (4,510) (8,947) 
+Venta de acciones en tesorería 149 -  _________ _________ 
+Efectivo y equivalentes de efectivo utilizado en las actividades 
+de financiamiento (4,361) (8,947)  _________ _________ 
+Aumento neto (disminución) de efectivo en el ejercicio 2,043 (4,599)    
+Saldo de efectivo y equivalentes de efectivo al inicio del ejercicio 4,278 8,877  _________ _________ 
+Saldo de efectivo y equivalentes de efectivo al finalizar el 
+ejercicio 6,321 4,278  _________ _________ 
+Información adicional sobre el flujo de efectivo:   
+Efectivo en el año cobrado y pagado por   
+Impuesto a la renta 1,602 1,563 
+Intereses 30 - 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2013_Individual_Anual_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Inmobiliaria Milenia S.A. 
+Notas a los estados financieros 
+Al 31 de diciembre de 2013 y de 2012 
+  1. Identificación y actividad económica 
+(a) Identificación y actividad económica - 
+Inmobiliaria Milenia S.A. (en adelante “la Compañía”) es una sociedad anónima constituida el 29 
+de marzo de 2000, mediante el aporte de un bloque patrimonial cedido por Popular y Porvenir 
+Compañía de Seguros S.A.  Dicho bloque patrimonial estuvo conformado por 17 inmuebles cuyo 
+valor en libros ascendía a un importe aproximado de S/.33,007,000. 
+ 
+Hasta el 23 de Diciembre de 2010, el 98.26 por ciento de las acciones de la Compañía fueron de 
+propiedad del Ministerio de Economía y Finanzas, representado por el Fondo Nacional de 
+Financiamiento de la Actividad Empresarial del Estado (FONAFE), y el 1.74 por ciento de las 
+acciones restantes pertenecieron a un grupo de 118 accionistas privados.  En dicha fecha, Lince 
+Global Opportunities Corp. (empresa Holding constituida en Panamá subsidiaria de Intercorp 
+Retail Inc., que a su vez es subsidiaria de Intercorp Perú Ltd., en adelante “Grupo Intercorp 
+Perú”) adquirió la participación que tenía FONAFE y parte de la participación de los otros 
+accionistas privados, por lo que al 31 de diciembre de 2013 y de 2012 es el accionista 
+mayoritario con una participación en el capital social del 98.70 y 98.58 por ciento, 
+respectivamente, ver nota 10(a). 
+ 
+Al 31 de diciembre de 2013 y de 2012, la sede de la Compañía está ubicada en Av. Felipe Pardo 
+y Aliaga N°640, oficina 801, San Isidro, Lima, Perú.  
+ 
+El objeto social de la Compañía es dedicarse a todo tipo de actividades vinculadas a la cesión del 
+uso, usufructo o posesión de bienes inmuebles, mediante cualquier modalidad contractual; así 
+como enajenar los mismos, bajo cualquier título. 
+ 
+Los estados financieros al 31 de diciembre de 2012 y por el año terminado a dicha fecha han 
+sido aprobados por la Junta General Obligatoria Anual de Accionistas celebrada el 27 de marzo 
+de 2013. Los estados financieros al 31 de diciembre de 2013 adjuntos han sido aprobados por la 
+Gerencia de la Compañía y serán presentados para la aprobación del Directorio y de la Junta 
+General de Accionistas que se efectuará dentro de los plazos establecidos por Ley.  En opinión de 
+la Gerencia, dichos estados financieros serán aprobados sin modificaciones.  
+ 
+(b) Escisión de bloque patrimonial a favor de Supermercados Peruanos S.A. - 
+Mediante Junta General de Accionistas de fecha 14 de octubre de 2011, se aprobó la escisión de 
+un bloque patrimonial a favor de Supermercados Peruanos S.A. (en adelante “Supermercados”). 
+Con fecha 15 de febrero de 2012, entró en vigencia el contrato de escisión, el cual tuvo por 
+objeto transferir un bloque patrimonial de la Compañía a favor de Supermercados a efectos que 
+el mismo pase a integrar el patrimonio de Supermercados, dicho bloque estaba compuesto por 2 
+inmuebles cuyo valor de mercado fue S/.54,600,000.  
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2013_Individual_Anual_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 33 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+25 
+11. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2013     
+Saldo al 1 de enero de 2013 23,344 23,344 365 23,344 
+Venta de acciones en tesorería 26 26 41 3  __________ __________  __________      
+Saldo al 31 de diciembre de 2013 23,370 23,370  23,347  __________ __________  __________ 
+     
+Ejercicio 2012     
+Saldo al 1 de enero de 2012 26,769 26,769 365 26,769 
+Escisión del bloque patrimonial  (3,429) (3,429) 320 (3,006) 
+Entrega de acciones en tesorería por 
+escisión del bloque patrimonial  4 4 320 3  __________ __________  __________      
+Saldo al 31 de diciembre de 2012 23,344 23,344  23,766  __________ __________  __________ 
+ 
+ 2013  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 9,422 23,347 0.404  _________ _________ _________ 
+ 
+ 2012  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 9,274 23,766 0.390  _________ _________ _________ 
+ 
+12. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2013 y de 2012, 
+la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+(b) A partir del 1 de enero de 2010, sólo se encuentran inafectos al impuesto a la renta los intereses 
+y ganancias de capital provenientes de bonos emitidos por la República del Perú, así como los 
+intereses y ganancias de capital provenientes de Certificados de Depósito del Banco Central de 
+Reserva del Perú, utilizados con fines de regulación monetaria. De igual modo, sólo se 
+encontrarán inafectos los intereses y ganancias de capital provenientes de bonos emitidos con 
+anterioridad al 11 de marzo del 2007.  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2013_Individual_Anual_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 34 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+26 
+De otro lado, a partir del ejercicio 2010, se encuentran gravadas las ganancias de capital 
+resultantes de enajenación, redención o rescate de valores mobiliarios a través de mecanismos 
+centralizados de negociación en el Perú. 
+ 
+En este contexto, la Ley del impuesto a la renta precisa que, para establecer la renta bruta 
+producida por la enajenación de valores mobiliarios adquiridos con anterioridad al 1 de enero de 
+2010, el costo computable de dichos valores será el precio de cotización al cierre del ejercicio 
+gravable 2009 o el costo de adquisición o el valor de ingreso al patrimonio, el que resulte mayor. 
+Esta regla es aplicable para personas jurídicas cuando los valores sean enajenados dentro o fuera 
+de un mecanismo centralizado de negociación del Perú. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses; y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses. 
+ 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2009 a 2013 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2013 y de 2012. 
+ 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2013 y de 2012. 
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2013_Individual_Anual_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 35 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+27 
+13. Ingresos de servicio inmobiliario 
+(a) Al 31 de diciembre de 2013 y de 2012 el rubro correponde: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Ingresos por arrendamientos 5,748 5,883 
+Otros ingresos operacionales (b) 1,345 2,567  __________ __________    
+Total 7,093 8,450  __________ __________ 
+ 
+(b) Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta 
+de sus arrendatarios. Dichos gastos están relacionados principalmente a tributos municipales y 
+gastos de mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A 
+continuación se presenta la composición del rubro: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Propiedades de inversión, nota 6 1,345 2,552 
+Propiedades de inversión disponibles para la venta,  
+nota 6(b) - 15  __________ __________    
+Total 1,345 2,567  __________ __________ 
+ 
+14. Costo de servicio inmobiliario 
+(a) Al 31 de diciembre de 2013 y de 2012 el rubro comprende: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Tributos (b)  800 1,355 
+Servicios prestados por terceros (b) 1,093 803 
+Cargos diversos de gestión  24 38  __________ __________    
+Total 1,917 2,196  __________ __________    
+Costos asociados a:   
+Propiedades de inversión, nota 6 1,917 2,067 
+Propiedades de inversión disponibles para la venta, nota 5(b) - 129  __________ __________    
+Total 1,917 2,196  __________ __________ 
+ 
+(b) El presente rubro comprende los gastos de mantenimiento e impuestos asumidos por la 
+Compañía por cuenta de los arrendatarios según los contratos vigentes y su recuperación es 
+incluida dentro del rubro “Ingresos de servicios inmobiliario” del estado de resultados integrales. 
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 4 | vecina =====
+ 
+Inmobiliaria Milenia S.A. 
+Estado de cambios en el patrimonio 
+Por los periodos de tres meses terminados el 31 de marzo de 2019 y de 2018 
+ 
+ Capital social  Reserva legal  Resultados acumulados  Total 
+ S/(000)  S/(000)  S/(000)  S/(000) 
+ Saldo al 1 de enero de 2018 23,370                  5,443                  119,674                              148,487 
+ Utilidad neta                               -                            - 207                                              207 
+ Saldo al 31 de marzo de 2018                   23,370                   5,443                119,881                148,694 
+ Saldo al 1 de enero de 2019 23,370                  5,443                  136,939                              165,752 
+ Utilidad neta                               -                            - 638                                              638 
+ Saldo al 31 de marzo de 2019                   23,370                   5,443                137,577                166,390 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 5 | puntaje 10 =====
+ 
+Inmobiliaria Milenia S.A. 
+Estado de flujos de efectivo 
+Por los periodos de tres meses terminados el 31 de marzo de 2019 y de 2018 
+2019 2018
+ S/(000)  S/(000) 
+ Actividades de operación 
+ Cobranzas por: 
+ Ingreso de actividades ordinarias 773                   9                       
+ Menos pagos por: 
+ Proveedores de bienes y servicios (762)                (745)                
+ Remuneraciones y beneficios sociales (5)                     (4)                     
+ Pago de impuestos (255)                (36)                  
+ Otros pagos relativos a la actividad, neto                   (26)                      (7) 
+ }  Efectivo neto utilizado en actividades de operación                 (275)                 (783) 
+ Actividades de inversión 
+ Cobranzas por: 
+ Cobro por venta de propiedad inversión                     nota 1(b) 1,824               5,292               
+ Menos pagos por: 
+ Mejoras en propiedades inversión (204)                (59)                  
+ Compra de inversiones financieras con efecto en resultados                         -              (3,000) 
+ Efectivo neto proveniente de actividades de inversión                1,620                2,233 
+ Actividades de financiamiento 
+ Entradas por: 
+ Préstamos recibidos de parte relacionada, ver nota 15(e)                         -                         - 
+ Menos pagos por: 
+  Amortización préstamos vinculadas                         -                         - 
+ Pago de intereses mediano plazo                         -                         - 
+ Efectivo neto (utilizado en) proveniente de actividades de 
+financiamiento 
+                        -                         - 
+ Aumento neto del efectivo y equivalentes de efectivo                1,345                1,450 
+ Efectivo y equivalentes de efectivo al inicio del periodo 1,717               1,701               
+ Efectivo y equivalentes de efectivo al final del periodo                3,062                3,151 
+                        - 
+ Transacciones que no generan flujos de efectivo 
+ Cuenta por cobrar por venta de propiedad de inversión                7,295                         - 
+ 
+ 
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 6 | puntaje 10 =====
+Inmobiliaria Milenia S.A. 
+Notas a los estados financieros 
+Al 31 de marzo de 2019 y 31 de diciembre de 2018 
+ 
+1. Identificación y activación económica 
+(a) Identificación y activación económica – 
+Inmobiliaria Milenia S.A. (en adelante “La Compañía”) es una sociedad anónima constituida el 
+29 de marzo de 2000, mediante el aporte de un bloque patrimonial cedido por Popular y 
+Porvenir Compañía de Seguros S.A. Dicho bloque patrimonial estuvo conformado por 16 
+inmuebles cuyo valor en libros ascendía a un importe aproximado de S/33,007,000. 
+ 
+Hasta el 23 de diciembre de 2010, el 98.26 por ciento de las acciones de la Compañía fueron de 
+propiedad del Ministerio de Economía y Finanzas, representado por el Fondo Nacional de 
+Financiamiento de la Actividad Empresarial del Estado (FONAFE), y el 1.74 por ciento de las 
+acciones restantes pertenecieron a un grupo de 118 accionistas privados. En dicha fecha, Lince 
+Global Opportunities Corp. (empresa Holding constituida en Panamá subsidiaria de Intercorp 
+Retail Inc., que a su vez es subsidiaria de Intercorp Perú Ltd., en adelante “Grupo Intercorp 
+Perú”) adquirió la participación que tenía FONAFE y parte de la participación de los otros 
+accionistas privados, por lo que al 31 de marzo de 2019 y 31 de diciembre de 2018 es el 
+accionista mayoritario con una participación en el capital social del 98.79 por ciento, ver nota 
+8(a). 
+ 
+Al 31 de marzo de 2019 y 31 de diciembre de 2018, la sede de la Compañía está ubicada en 
+Calle Morelli N° 181, oficina 502, San Borja, Lima, Perú. 
+ 
+El objeto social de la Compañía es dedicarse a todo tipo de actividades vinculadas a la cesión 
+del uso, usufructo o posesión de bienes inmuebles, mediante cualquier modalidad contractual; 
+así como enajenar los mismos, bajo cualquier título, y al desarrollo y gerenciamiento de todo 
+tipo de proyecto inmobiliario; como también a la gestión de compra y venta de los mismos. 
+ 
+Los estados financieros al 31 de marzo de 2019 y 31 de diciembre de 2018 adjuntos fueron 
+aprobados en la sesión de directorio del 30 de abril de 2019. 
+ 
+(b) Venta de propiedades de la Compañía.- 
+ 
+Durante el mes de marzo de 2019, la Compañía vendió a un tercero no vinculado una parte del 
+terreno ubicado en Pueblo Libre, denominado “Colmenares” a un valor de US$2,750,000 
+equivalente a S/9,133,000 (ver nota 14). De este monto se cobró US$550,000 equivalente a 
+S/1,864,000 al tipo de cambio de la fecha de la transacción. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 7 | puntaje 11 =====
+ 
+ A la fecha de este informe, se encuentra pendiente de cobro un importe de US$2,200,000 
+equivalente aproximadamente a S/7,295,000 y se presenta en el rubro “Otras cuentas por 
+cobrar” del estado de situación financiera. 
+En el mes de noviembre de 2017, se vendió a un tercero no vinculado el inmueble ubicado en   
+calle “Belén” a un valor total de S/5,292,000, aproximadamente y fue cobrado en el primer 
+trimestre del año 2018. 
+ 
+2. Principios y prácticas contables 
+A continuación se presentan los principios y prácticas contables utilizados en la preparación de los 
+estados financieros de la Compañía: 
+ 
+2.1. Bases para la preparación – 
+Los estados financieros se preparan de acuerdo con las Normas Internacionales de Información 
+Financiera (en adelante “NIIF”), emitidas por el International Accounting Standards Board (en 
+adelante “IASB”). 
+ 
+Los estados financieros han sido preparados sobre la base del costo histórico, excepto por las 
+Propiedades de Inversión que han sido medidas a su valor razonable. Los estados financieros se 
+presentan en miles de Soles (moneda funcional y de presentación), excepto cuando se indique 
+lo contrario. 
+ 
+La información contenida en estos estados financieros es responsabilidad de la Gerencia de la 
+Compañía, quien manifiesta expresamente que se han aplicado en su totalidad los principios y 
+criterios incluidos en las Normas Internacionales de Información Financiera (NIIF) emitidas por 
+el IASB. 
+ 
+2.2. Resumen de principios y prácticas contables significativas – 
+(a) Instrumentos financieros: Reconocimiento inicial y medición posterior – 
+Las compras o ventas de activos financieros que requieren la entrega de activos dentro del 
+plazo generalmente establecido por la regulación o condiciones de mercado son 
+registradas en la fecha de negociación de la operación; es decir, la fecha en que la 
+Compañía se compromete a comprar o vender el activo. 
+ 
+La clasificación de los instrumentos financieros en su reconocimiento inicial depende de la 
+finalidad para que los instrumentos financieros fueron adquiridos y sus características. 
+Todos los instrumentos financieros son reconocidos inicialmente a su valor razonable más 
+los costos incrementales relacionados a la transacción que sean atribuidos directamente a 
+la compra o emisión del instrumento, excepto en el caso de los activos o pasivos 
+financieros que sean llevados a valor razonable con efecto en resultados.  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 8 | vecina =====
+ 
+A la fecha de los estados financieros, la Compañía clasifica sus instrumentos financieros en 
+las siguientes categorías definidas en la NIIF 9: (i) activos a costo amortizado, a valor 
+razonable con cambios en el patrimonio o con cambios en resultados, (ii) pasivos 
+financieros al costo amortizado o al valor razonable con cambios en resultados. 
+ 
+La Gerencia determina la clasificación de sus instrumentos financieros al momento de su 
+reconocimiento inicial. Al 31 de marzo de 2019 y 31 de diciembre de 2018, la Compañía 
+únicamente mantiene como instrumentos financieros préstamos y cuentas por cobrar y 
+pasivos financieros. Los aspectos más relevantes de las categorías de instrumentos 
+financieros que mantiene la Compañía se describen a continuación: 
+ 
+(i) Préstamos y cuentas por cobrar 
+La Compañía mantiene en esta categoría: efectivo y equivalentes de efectivo, 
+cuentas por cobrar comerciales, neto y otras cuentas por cobrar; las cuales son 
+expresadas al valor de la transacción, netas de su provisión de cobranza dudosa 
+cuando es aplicable. 
+ 
+El efectivo y equivalentes de efectivo mantenidos en bancos locales y están 
+sujetos a un riesgo no significativo de cambios en su valor. 
+ 
+Las cuentas por cobrar comerciales y otras cuentas por cobrar son activos 
+financieros no derivados con pagos fijos o determinables, que no cotizan en un 
+mercado inactivo. Después del reconocimiento inicial, estos activos financieros se 
+miden al costo amortizado utilizando el método de la tasa de interés efectiva, 
+menos cualquier deterioro del valor. 
+ 
+Después de su reconocimiento inicial, las cuentas por cobrar son llevadas al costo 
+amortizado usando el método de la tasa de interés efectiva, menos la provisión 
+por cobranza dudosa. Las pérdidas originadas por la provisión por cobranza 
+dudosa son reconocidas en el estado de resultados integrales. 
+ 
+(ii) Pasivos financieros 
+Al 31 de marzo de 2019 y 31 de diciembre de 2018, los pasivos financieros 
+incluyen cuentas por pagar comerciales y otras cuentas por pagar. 
+ 
+Los pasivos financieros se reconocen cuando la Compañía forma parte de los 
+acuerdos contractuales del instrumento. Después del reconocimiento inicial, los 
+pasivos financieros son posteriormente medidos al costo amortizado usando el 
+método de la tasa de interés efectiva. El costo amortizado es calculado 
+considerando cualquier descuento o prima en la emisión y los costos que son 
+parte integral de la tasa efectiva de interés. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 22 | vecina =====
+ 
+ 
+3. Efectivo y equivalentes de efectivo 
+a) A continuación se presenta la composición del rubro: 
+2019 2018
+S/(000) S/(000)
+Cuentas corrientes                   2,762                      243 
+Depósitos a plazo y ahorros                      300                   1,474 
+Total                   3,062                   1,717 
+ 
+b) Las cuentas corrientes y de ahorro se encuentran depositadas en bancos locales, 
+principalmente en una entidad vinculada de la Compañía, en Soles y Dólares estadounidenses y 
+son de libre disponibilidad. Las cuentas de ahorro generan intereses a tasas de mercado. 
+ 
+ 
+4. Cuentas por cobrar comerciales, neto 
+a) A continuación se presenta la composición del rubro: 
+2019 2018
+S/(000) S/(000)
+Facturas por cobrar (b) 572                     527                     
+Total 572                     527                     
+Provisión para cuentas de cobranza dudosa (c) (313)                  (302)                  
+Total Neto 259                     225                     
+ 
+b) Al 31 de marzo de 2019 y 31 de diciembre de 2018, las cuentas por cobrar comerciales están 
+denominadas en moneda nacional y extranjera, no generan intereses; y tienen vencimientos 
+corrientes. 
+ 
+c) El movimiento de la provisión para cuentas de cobranza dudosa es como sigue: 
+ 
+2019 2018
+S/(000) S/(000)
+Saldo al inicio del ejercicio 302                     294                     
+Provisión reconocida como gasto del ejercicio 11                       -                          
+ ______________  ______________ Saldo al 31 de marzo 313                     294                     
+Saldo al 31 de diciembre de 2018 302                     
+ 
+En opinión de la Gerencia de la Compañía, la provisión para cuentas de cobranza dudosa al 31 
+de marzo de 2019 y de 2018 cubre adecuadamente el riesgo de crédito de este rubro a esas 
+fechas. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 23 | puntaje 23 =====
+5. Propiedades de inversión 
+a) A continuación se presenta la composición del rubro: 
+2019 2018
+S/(000) S/(000)
+Centro comercial
+  San Isidro 189,560              189,560             
+  Colmenares 43,331                51,882               
+  El Dorado 1,915                  1,904                  
+Inmuebles
+  Azotea Wilson 128                     128                     
+Total               234,934              243,474 
+ 
+Asimismo, por el periodo de tres meses terminados el 31 de marzo de 2019 y de 2018, se 
+presenta el siguiente movimiento: 
+2019 2018
+S/(000) S/(000)
+Saldo al inicio del ejercicio 243,474           197,473           
+(Pérdida) ganancia por valorización de propiedades de inversión, nota 14 (292)                250                  
+Adiciones 204                  59                     
+Baja por venta de inmuebles a terceros (c ), nota 14 (8,046)             -                        
+Baja por retiro (406)                -                        
+Saldo al 31 de marzo            234,934            197,782 
+Saldo al 31 de diciembre de 2018            243,474 
+ 
+ 
+El valor razonable de las propiedades de inversión ha sido determinado por la Gerencia de la 
+Compañía sobre la base del método de flujos de caja descontados y basados en el valor 
+asignado por un tasador independiente para el caso de los inmuebles mantenidos para operar 
+en el futuro. La valorización se prepara sobre una base agregada y desapalancada. De acuerdo 
+a lo establecido en la nota 2.3(ii), para estimar los valores de mercado de las propiedades de 
+inversión, la Gerencia de la Compañía ha utilizado su conocimiento del mercado y juicio 
+profesional. 
+ 
+b) La Compañía no tiene restricciones sobre la posibilidad de disponer o vender sus propiedades 
+de inversión, ni tiene asumidas obligaciones financieras contractuales respecto de comprar, 
+construir o desarrollar propiedades de inversión, o de realizar reparaciones, tareas de 
+mantenimiento o ampliaciones. 
+ 
+c) Durante el mes de marzo de 2019, la Compañía vendió a un tercero no vinculado una parte del 
+terreno ubicado en Pueblo Libre, denominado “Colmenares” a un valor de US$2,750,000 
+equivalente a S/9,133,000 (ver nota 14). De este monto se cobró US$550,000 equivalente a 
+S/1,864,000 al tipo de cambio de la fecha de la transacción. 
+ 
+ A la fecha de este informe, se encuentra pendiente de cobro un importe de US$2,200,000 
+equivalente aproximadamente a S/7,295,000 y se presenta en el rubro “Otras cuentas por 
+cobrar” del estado de situación financiera. 
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 24 | vecina =====
+d) Con fecha 31 julio de 2016, La compañía suscribió un contrato con Supermercados Peruanos 
+S.A., (una entidad vinculada) de cesión de derecho de superficie. El contrato establece que 
+Supermercados Peruanos S.A. tiene la facultad de realizar obras sobre y/o bajo el área cedida, 
+las cuales podrán ser explotadas comercialmente durante la duración del contrato. En este 
+sentido Supermercados Peruanos S.A. construyó un complejo comercial cuyas obras 
+concluyeron durante el segundo trimestre del 2018. La vigencia del contrato es de 30 años 
+contados a partir de inicio de las operaciones del centro comercial (junio 2018). Una vez 
+transcurrido el periodo de vigencia, como propietario del terreno, la Compañía adquirirá en 
+forma automática, la propiedad sobre todo lo construido y/o edificado ejecutado en dicha área 
+por Supermercados Peruanos S.A.  
+ 
+En cumplimiento de las Normas Internacionales de Información Financiera la Compañía (nota 
+2.2 (h)) registro un activo de S/22,290,000, que corresponde al valor de la propiedad de 
+inversión  y un pasivo por el mismo monto que se presenta en el rubro “Otras cuentas por 
+pagar” del estado de situación financiera. 
+ 
+6. Otras cuentas por pagar 
+a) A continuación se presenta la composición del rubro: 
+2019 2018
+S/(000) S/(000)
+Dividendos por pagar 202                     202                     
+Depósitos en garantía (b) 99                       85                       
+Remuneraciones y beneficios sociales 24                       23                       
+Impuesto a la renta corriente 740                     -                          
+Provisiones 123                     62                       
+Diversas, nota 5(d ) 22,104               22,290               
+Total 23,292               22,662               
+Por plazo:
+Corto 1,188                  372                     
+Largo 22,104               22,290               
+Total 23,292               22,662               
+ 
+ 
+b) Los depósitos en garantía corresponden a entregas en efectivo a favor de la Compañía 
+depositados en bancos locales por parte de los arrendatarios de los inmuebles, en garantía por 
+el arrendamiento de los mismos.  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 28 | vecina =====
+ 
+d) Para propósito de la determinación del Impuesto a la Renta, los precios de transferencia de las 
+transacciones con empresas relacionadas y con empresas residentes en territorios de baja o 
+nula imposición, deben estar sustentados con documentación e información sobre los métodos 
+de valoración utilizados y los criterios considerados para su determinación. A partir de agosto 
+2012, ha sido eliminada la aplicación de las normas de precios de transferencia solamente para 
+propósitos del Impuesto General a las Ventas. Con base en el análisis de las operaciones del 
+Grupo, la Gerencia y sus asesores legales opinan que, como consecuencia de la aplicación de 
+estas normas, no surgirán contingencias para la Compañía al 31 de marzo de 2019 y 31 de 
+diciembre de 2018. 
+ 
+ 
+11. Ingresos de servicio inmobiliario 
+a) Al 31 de marzo de 2019 y de 2018 el rubro corresponde: 
+2019 2018
+S/(000) S/(000)
+Ingresos por arrendamiento 768                   449                   
+Otros ingresos operacionales (b) 118                   295                   
+Total 886                   744                   
+ 
+ 
+b) Comprende los ingresos por la recuperación de los gastos incurridos por la Compañía por 
+cuenta de sus arrendatarios. Dichos gastos están relacionados principalmente a tributos 
+municipales y gastos de mantenimiento de los locales de acuerdo a los contratos vigentes.  
+ 
+ 
+12. Costo de servicio inmobiliario 
+a) Al 31 de marzo de 2019 y de 2018 el rubro comprende: 
+2019 2018
+S/(000) S/(000)
+Tributos 191                   217                   
+Servicios prestados a terceros 93                     82                     
+Otros gastos diversos 40                     33                     
+Total 324                   332                   
+ 
+ 
+b) El presente rubro comprende los gastos de mantenimiento e impuestos asumidos por la 
+Compañía por cuenta de los arrendatarios según los contratos vigentes y su recuperación es 
+incluida dentro del rubro “Ingresos de servicio inmobiliario” del estado de resultados 
+integrales. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 29 | puntaje 16 =====
+ 
+ 
+13. Gastos de administración 
+a) Al 31 de marzo de 2019 y de 2018 el rubro comprende: 
+2019 2018
+S/(000) S/(000)
+Servicios prestados por terceros (b) 263                300                
+Tributos 1                     1                    
+Amortización 7                     7                    
+Depreciación 7                     7                    
+Gastos de personal 5                     4                    
+Otras cargas de gestión 3                     8                    
+Total 286                327                
+ 
+ 
+b) Al 31 de marzo de 2019 y de 2018 incluye principalmente los gastos por servicios de asesoría 
+financiera, auditoría y servicios contables de la Compañía, los cuales son servicios prestados 
+por IR Management S.R.L. (entidad vinculada) y terceros, respectivamente. 
+ 
+ 
+14. Otros ingresos (gastos) operativos, neto 
+Al 31 de marzo de 2019 y de 2018 el rubro comprende: 
+2019 2018
+S/(000) S/(000)
+Ganancia por valorización, nota 5(a) -                             250                       
+Venta de propiedad de inversión, nota 5(c) 9,133                    -                             
+Otros 185                       -                             
+Otros ingresos 9,318                    250                       
+Costo neto por venta  de propiedad de inversión, nota 5(a) 8,046                    -                             
+Pérdida por valorización, nota 5(a) 292                       -                             
+Costo neto por retiro de propiedad de inversión, nota 5(a) 406                       -                             
+Otros -                             5                            
+Otros gastos 8,744                    5                            
+Total, neto 574                       245                       
+ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2019_Individual_TrimestreI1_EEFF Notas MIlenia 1Q 2019 VF.pdf | PAGINA: 30 | vecina =====
+ 
+15. Transacciones con partes relacionadas 
+a) A continuación se presenta la composición del rubro: 
+2019 2018
+S/(000) S/(000)
+Cuentas por cobrar
+Supermercados Peruanos S.A. (b) 337               304               
+Lince Global Opportunities Corp. (d) 14                 14                 
+IR Management S.R.L. (c) 75                 76                 
+Banco Internacional del Perú S.A.A. – Interbank (b) 72                 32                 
+Total 498               426               
+Cuentas por pagar
+IR Management S.R.L. 55                 -                    
+Supermercados Peruanos S.A. 2                   2                   
+Total 57                 2                   
+ 
+ 
+b) Corresponde a los ingresos y costos relacionados al arrendamiento de un local. 
+ 
+c) Corresponde a ingresos por reembolsos de  gastos operativos. 
+ 
+d) Corresponde a un préstamo otorgado por un importe de S/160,000, con vencimiento en 
+diciembre 2018 y que devenga un interés de 6.0 por ciento anual, el préstamo fue pagado 
+íntegramente. Al 31 de marzo de 2019 se tiene un saldo pendiente por cobrar por intereses 
+generados de S/14,000. 
+ 
+ 
+16. Administración de los riesgos financieros 
+La Gerencia revisa y aprueba las políticas para manejar cada uno de estos riesgos que se resumen a 
+continuación: 
+ 
+Riesgo de crédito 
+El riesgo de crédito consiste en el riesgo de que una contraparte no pueda cumplir con sus 
+obligaciones en relación con un instrumento financiero o contrato de venta, generando una pérdida 
+financiera. Al 31 de marzo de 2019 y 31 de diciembre de 2018, la Gerencia considera que no existe 
+un riesgo significativo de crédito debido a que sus principales activos financieros corresponden a: 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_20_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 41 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+33 
+13. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2011     
+Saldo al 1 de enero de 2011 26,799 26,799 365 26,799 
+Compra de acciones de propia emisión, nota 12 (c) (30) (30) 278 (23)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2011 26,769 26,769  26,776 
+     
+Ejercicio 2010     
+Saldo al 1 de enero de 2010 26,799 26,799 365 26,799  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2010 26,799 26,799  26,799  __________ __________  __________ 
+ 
+ 2011  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 15,825 26,776 0.591  _________ _________ _________ 
+ 
+ 2010  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 8,824 26,799 0.329  _________ _________ _________ 
+ 
+14. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2011 y de 2010 y 
+al 1 de enero de 2010, la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad 
+gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_20_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 42 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+34 
+(b) A partir del ejercicio 2010 las ganancias de capital pagarán impuesto a la renta para lo cual se ha 
+establecido, entre otros temas, que el costo tributario para los títulos cuya enajenación estaba 
+exonerada de efectuarse en rueda de bolsa, adquiridos antes de dicha fecha, corresponde al 
+valor de mercado al 31 de diciembre de 2009, o el costo de adquisición o al valor de ingreso al 
+Patrimonio, el que resulte mayor, según el procedimiento señalado mediante Decreto Supremo 
+N° 011-2010-EF. 
+ 
+De otro lado, a partir del 1 de enero de 2010, se encuentran inafectos  los intereses y ganancias 
+de capital provenientes de bonos emitidos por la República del Perú: (i) en el marco del Decreto 
+Supremo N° 007-2002-EF, (ii) bajo el Programa de Creadores de Mercado o el mecanismo que 
+los sustituya, ó (iii) en el mercado internacional a partir del año 2002, así como los intereses y 
+ganancias de capital provenientes de obligaciones del Banco Central de Reserva del Perú, salvo 
+los originados por los depósitos de encaje que realicen las instituciones de crédito; y las 
+provenientes de la enajenación directa o indirecta de valores que conforman o subyacen los 
+Exchange Traded Fund (ETF) que repliquen índices construidos teniendo como referencia 
+instrumentos de inversión nacionales, cuando dicha enajenación se efectúe para la constitución, 
+cancelación o gestión de la cartera de inversiones de los ETF. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses (supuesto vigente desde el 16 de febrero 
+de 2011); y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses (supuesto vigente desde el 22 de julio de 2011). 
+ 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2007 a 2011 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2011, de 2010 y al 1 de enero de 2010. 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_20_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 43 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+35 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2011, de 2010 y al 1 de 
+enero de 2010. 
+ 
+15. Ingreso por cargo de servicio 
+Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta de sus 
+arrendatarios; dichos gastos están relacionados principalmente a tributos municipales y gastos de 
+mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A continuación se 
+presenta la composición del rubro: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Propiedades de inversión, nota 9(b) 1,078 1,041 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 19 -  __________ __________ 
+   
+Total 1,097 1,041  __________ __________ 
+ 
+16. Gasto por cargos de de servicio 
+(a) Al 31 de diciembre de 2011 y de 2010 el rubro comprende: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Tributos  (b) 776 758 
+Servicios prestados por terceros (b) 696 664 
+Cargas diversas de gestión 40 27  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+   
+Costos asociados a:   
+Propiedades de inversión, nota 9(b) 1,318 1,449 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 194 -  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_21_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 35 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+27 
+12. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2012     
+Saldo al 1 de enero de 2012 26,769 26,769 365 26,776 
+Escisión del bloque patrimonial  (3,429) (3,429) 320 (3,006)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2012    23,770     __________ 
+     
+Ejercicio 2011     
+Saldo al 1 de enero de 2011 26,799 26,799 365 26,799 
+Compra de acciones de propia emisión, 
+nota 11 (c) (30) (30) 278 (23)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2011 26,769 26,769  26,776  __________ __________  __________ 
+ 
+ 2012  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 9,274 23,770 0.390  _________ _________ _________ 
+ 
+ 2011  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 15,825 26,776 0.591  _________ _________ _________ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_21_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 36 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+28 
+13. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2012 y de 2011, 
+la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+(b) A partir del 1 de enero de 2010, sólo se encuentran inafectos al impuesto a la renta los intereses 
+y ganancias de capital provenientes de bonos emitidos por la República del Perú, así como los 
+intereses y ganancias de capital provenientes de Certificados de Depósito del Banco Central de 
+Reserva del Perú, utilizados con fines de regulación monetaria. De igual modo, sólo se 
+encontrarán inafectos los intereses y ganancias de capital provenientes de bonos emitidos con 
+anterioridad al 11 de marzo del 2007.  
+ 
+De otro lado, a partir del ejercicio 2010, se encuentran gravadas las ganancias de capital 
+resultantes de enajenación, redención o rescate de valores mobiliarios a través de mecanismos 
+centralizados de negociación en el Perú. 
+ 
+En este contexto, la Ley del impuesto a la renta precisa que, para establecer la renta bruta 
+producida por la enajenación de valores mobiliarios adquiridos con anterioridad al 1 de enero de 
+2010, el costo computable de dichos valores será el precio de cotización al cierre del ejercicio 
+gravable 2009 o el costo de adquisición o el valor de ingreso al patrimonio, el que resulte mayor. 
+Esta regla es aplicable para personas jurídicas cuando los valores sean enajenados dentro o fuera 
+de un mecanismo centralizado de negociación del Perú. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses; y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_21_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 37 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+29 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2009 a 2012 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2012 y de 2011. 
+ 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2012 y de 2011. 
+ 
+14. Ingreso por cargo de servicio 
+Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta de sus 
+arrendatarios; dichos gastos están relacionados principalmente a tributos municipales y gastos de 
+mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A continuación se 
+presenta la composición del rubro: 
+ 
+ 2012 2011 
+ S/.(000) S/.(000)    
+Propiedades de inversión, nota 8(b) 2,552 1,078 
+Propiedades de inversión disponibles para la venta, nota 7 (b) 15 19  __________ __________    
+Total 2,567 1,097  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_19_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 41 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+33 
+13. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2011     
+Saldo al 1 de enero de 2011 26,799 26,799 365 26,799 
+Compra de acciones de propia emisión, nota 12 (c) (30) (30) 278 (23)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2011 26,769 26,769  26,776 
+     
+Ejercicio 2010     
+Saldo al 1 de enero de 2010 26,799 26,799 365 26,799  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2010 26,799 26,799  26,799  __________ __________  __________ 
+ 
+ 2011  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 15,825 26,776 0.591  _________ _________ _________ 
+ 
+ 2010  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 8,824 26,799 0.329  _________ _________ _________ 
+ 
+14. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2011 y de 2010 y 
+al 1 de enero de 2010, la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad 
+gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_19_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 42 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+34 
+(b) A partir del ejercicio 2010 las ganancias de capital pagarán impuesto a la renta para lo cual se ha 
+establecido, entre otros temas, que el costo tributario para los títulos cuya enajenación estaba 
+exonerada de efectuarse en rueda de bolsa, adquiridos antes de dicha fecha, corresponde al 
+valor de mercado al 31 de diciembre de 2009, o el costo de adquisición o al valor de ingreso al 
+Patrimonio, el que resulte mayor, según el procedimiento señalado mediante Decreto Supremo 
+N° 011-2010-EF. 
+ 
+De otro lado, a partir del 1 de enero de 2010, se encuentran inafectos  los intereses y ganancias 
+de capital provenientes de bonos emitidos por la República del Perú: (i) en el marco del Decreto 
+Supremo N° 007-2002-EF, (ii) bajo el Programa de Creadores de Mercado o el mecanismo que 
+los sustituya, ó (iii) en el mercado internacional a partir del año 2002, así como los intereses y 
+ganancias de capital provenientes de obligaciones del Banco Central de Reserva del Perú, salvo 
+los originados por los depósitos de encaje que realicen las instituciones de crédito; y las 
+provenientes de la enajenación directa o indirecta de valores que conforman o subyacen los 
+Exchange Traded Fund (ETF) que repliquen índices construidos teniendo como referencia 
+instrumentos de inversión nacionales, cuando dicha enajenación se efectúe para la constitución, 
+cancelación o gestión de la cartera de inversiones de los ETF. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses (supuesto vigente desde el 16 de febrero 
+de 2011); y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses (supuesto vigente desde el 22 de julio de 2011). 
+ 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2007 a 2011 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2011, de 2010 y al 1 de enero de 2010. 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_19_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 43 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+35 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2011, de 2010 y al 1 de 
+enero de 2010. 
+ 
+15. Ingreso por cargo de servicio 
+Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta de sus 
+arrendatarios; dichos gastos están relacionados principalmente a tributos municipales y gastos de 
+mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A continuación se 
+presenta la composición del rubro: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Propiedades de inversión, nota 9(b) 1,078 1,041 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 19 -  __________ __________ 
+   
+Total 1,097 1,041  __________ __________ 
+ 
+16. Gasto por cargos de de servicio 
+(a) Al 31 de diciembre de 2011 y de 2010 el rubro comprende: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Tributos  (b) 776 758 
+Servicios prestados por terceros (b) 696 664 
+Cargas diversas de gestión 40 27  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+   
+Costos asociados a:   
+Propiedades de inversión, nota 9(b) 1,318 1,449 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 194 -  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2011_Individual_Anual_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 41 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+33 
+13. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2011     
+Saldo al 1 de enero de 2011 26,799 26,799 365 26,799 
+Compra de acciones de propia emisión, nota 12 (c) (30) (30) 278 (23)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2011 26,769 26,769  26,776 
+     
+Ejercicio 2010     
+Saldo al 1 de enero de 2010 26,799 26,799 365 26,799  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2010 26,799 26,799  26,799  __________ __________  __________ 
+ 
+ 2011  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 15,825 26,776 0.591  _________ _________ _________ 
+ 
+ 2010  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 8,824 26,799 0.329  _________ _________ _________ 
+ 
+14. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2011 y de 2010 y 
+al 1 de enero de 2010, la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad 
+gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2011_Individual_Anual_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 42 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+34 
+(b) A partir del ejercicio 2010 las ganancias de capital pagarán impuesto a la renta para lo cual se ha 
+establecido, entre otros temas, que el costo tributario para los títulos cuya enajenación estaba 
+exonerada de efectuarse en rueda de bolsa, adquiridos antes de dicha fecha, corresponde al 
+valor de mercado al 31 de diciembre de 2009, o el costo de adquisición o al valor de ingreso al 
+Patrimonio, el que resulte mayor, según el procedimiento señalado mediante Decreto Supremo 
+N° 011-2010-EF. 
+ 
+De otro lado, a partir del 1 de enero de 2010, se encuentran inafectos  los intereses y ganancias 
+de capital provenientes de bonos emitidos por la República del Perú: (i) en el marco del Decreto 
+Supremo N° 007-2002-EF, (ii) bajo el Programa de Creadores de Mercado o el mecanismo que 
+los sustituya, ó (iii) en el mercado internacional a partir del año 2002, así como los intereses y 
+ganancias de capital provenientes de obligaciones del Banco Central de Reserva del Perú, salvo 
+los originados por los depósitos de encaje que realicen las instituciones de crédito; y las 
+provenientes de la enajenación directa o indirecta de valores que conforman o subyacen los 
+Exchange Traded Fund (ETF) que repliquen índices construidos teniendo como referencia 
+instrumentos de inversión nacionales, cuando dicha enajenación se efectúe para la constitución, 
+cancelación o gestión de la cartera de inversiones de los ETF. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses (supuesto vigente desde el 16 de febrero 
+de 2011); y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses (supuesto vigente desde el 22 de julio de 2011). 
+ 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2007 a 2011 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2011, de 2010 y al 1 de enero de 2010. 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2011_Individual_Anual_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 43 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+35 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2011, de 2010 y al 1 de 
+enero de 2010. 
+ 
+15. Ingreso por cargo de servicio 
+Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta de sus 
+arrendatarios; dichos gastos están relacionados principalmente a tributos municipales y gastos de 
+mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A continuación se 
+presenta la composición del rubro: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Propiedades de inversión, nota 9(b) 1,078 1,041 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 19 -  __________ __________ 
+   
+Total 1,097 1,041  __________ __________ 
+ 
+16. Gasto por cargos de de servicio 
+(a) Al 31 de diciembre de 2011 y de 2010 el rubro comprende: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Tributos  (b) 776 758 
+Servicios prestados por terceros (b) 696 664 
+Cargas diversas de gestión 40 27  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+   
+Costos asociados a:   
+Propiedades de inversión, nota 9(b) 1,318 1,449 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 194 -  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_20_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 41 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+33 
+13. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2011     
+Saldo al 1 de enero de 2011 26,799 26,799 365 26,799 
+Compra de acciones de propia emisión, nota 12 (c) (30) (30) 278 (23)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2011 26,769 26,769  26,776 
+     
+Ejercicio 2010     
+Saldo al 1 de enero de 2010 26,799 26,799 365 26,799  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2010 26,799 26,799  26,799  __________ __________  __________ 
+ 
+ 2011  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 15,825 26,776 0.591  _________ _________ _________ 
+ 
+ 2010  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 8,824 26,799 0.329  _________ _________ _________ 
+ 
+14. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2011 y de 2010 y 
+al 1 de enero de 2010, la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad 
+gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_20_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 42 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+34 
+(b) A partir del ejercicio 2010 las ganancias de capital pagarán impuesto a la renta para lo cual se ha 
+establecido, entre otros temas, que el costo tributario para los títulos cuya enajenación estaba 
+exonerada de efectuarse en rueda de bolsa, adquiridos antes de dicha fecha, corresponde al 
+valor de mercado al 31 de diciembre de 2009, o el costo de adquisición o al valor de ingreso al 
+Patrimonio, el que resulte mayor, según el procedimiento señalado mediante Decreto Supremo 
+N° 011-2010-EF. 
+ 
+De otro lado, a partir del 1 de enero de 2010, se encuentran inafectos  los intereses y ganancias 
+de capital provenientes de bonos emitidos por la República del Perú: (i) en el marco del Decreto 
+Supremo N° 007-2002-EF, (ii) bajo el Programa de Creadores de Mercado o el mecanismo que 
+los sustituya, ó (iii) en el mercado internacional a partir del año 2002, así como los intereses y 
+ganancias de capital provenientes de obligaciones del Banco Central de Reserva del Perú, salvo 
+los originados por los depósitos de encaje que realicen las instituciones de crédito; y las 
+provenientes de la enajenación directa o indirecta de valores que conforman o subyacen los 
+Exchange Traded Fund (ETF) que repliquen índices construidos teniendo como referencia 
+instrumentos de inversión nacionales, cuando dicha enajenación se efectúe para la constitución, 
+cancelación o gestión de la cartera de inversiones de los ETF. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses (supuesto vigente desde el 16 de febrero 
+de 2011); y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses (supuesto vigente desde el 22 de julio de 2011). 
+ 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2007 a 2011 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2011, de 2010 y al 1 de enero de 2010. 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_20_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 43 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+35 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2011, de 2010 y al 1 de 
+enero de 2010. 
+ 
+15. Ingreso por cargo de servicio 
+Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta de sus 
+arrendatarios; dichos gastos están relacionados principalmente a tributos municipales y gastos de 
+mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A continuación se 
+presenta la composición del rubro: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Propiedades de inversión, nota 9(b) 1,078 1,041 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 19 -  __________ __________ 
+   
+Total 1,097 1,041  __________ __________ 
+ 
+16. Gasto por cargos de de servicio 
+(a) Al 31 de diciembre de 2011 y de 2010 el rubro comprende: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Tributos  (b) 776 758 
+Servicios prestados por terceros (b) 696 664 
+Cargas diversas de gestión 40 27  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+   
+Costos asociados a:   
+Propiedades de inversión, nota 9(b) 1,318 1,449 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 194 -  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_21_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 35 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+27 
+12. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2012     
+Saldo al 1 de enero de 2012 26,769 26,769 365 26,776 
+Escisión del bloque patrimonial  (3,429) (3,429) 320 (3,006)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2012    23,770     __________ 
+     
+Ejercicio 2011     
+Saldo al 1 de enero de 2011 26,799 26,799 365 26,799 
+Compra de acciones de propia emisión, 
+nota 11 (c) (30) (30) 278 (23)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2011 26,769 26,769  26,776  __________ __________  __________ 
+ 
+ 2012  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 9,274 23,770 0.390  _________ _________ _________ 
+ 
+ 2011  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 15,825 26,776 0.591  _________ _________ _________ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_21_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 36 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+28 
+13. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2012 y de 2011, 
+la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+(b) A partir del 1 de enero de 2010, sólo se encuentran inafectos al impuesto a la renta los intereses 
+y ganancias de capital provenientes de bonos emitidos por la República del Perú, así como los 
+intereses y ganancias de capital provenientes de Certificados de Depósito del Banco Central de 
+Reserva del Perú, utilizados con fines de regulación monetaria. De igual modo, sólo se 
+encontrarán inafectos los intereses y ganancias de capital provenientes de bonos emitidos con 
+anterioridad al 11 de marzo del 2007.  
+ 
+De otro lado, a partir del ejercicio 2010, se encuentran gravadas las ganancias de capital 
+resultantes de enajenación, redención o rescate de valores mobiliarios a través de mecanismos 
+centralizados de negociación en el Perú. 
+ 
+En este contexto, la Ley del impuesto a la renta precisa que, para establecer la renta bruta 
+producida por la enajenación de valores mobiliarios adquiridos con anterioridad al 1 de enero de 
+2010, el costo computable de dichos valores será el precio de cotización al cierre del ejercicio 
+gravable 2009 o el costo de adquisición o el valor de ingreso al patrimonio, el que resulte mayor. 
+Esta regla es aplicable para personas jurídicas cuando los valores sean enajenados dentro o fuera 
+de un mecanismo centralizado de negociación del Perú. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses; y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_21_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 37 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+29 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2009 a 2012 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2012 y de 2011. 
+ 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2012 y de 2011. 
+ 
+14. Ingreso por cargo de servicio 
+Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta de sus 
+arrendatarios; dichos gastos están relacionados principalmente a tributos municipales y gastos de 
+mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A continuación se 
+presenta la composición del rubro: 
+ 
+ 2012 2011 
+ S/.(000) S/.(000)    
+Propiedades de inversión, nota 8(b) 2,552 1,078 
+Propiedades de inversión disponibles para la venta, nota 7 (b) 15 19  __________ __________    
+Total 2,567 1,097  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2012_Individual_Anual_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 35 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+27 
+12. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2012     
+Saldo al 1 de enero de 2012 26,769 26,769 365 26,776 
+Escisión del bloque patrimonial  (3,429) (3,429) 320 (3,006)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2012    23,770     __________ 
+     
+Ejercicio 2011     
+Saldo al 1 de enero de 2011 26,799 26,799 365 26,799 
+Compra de acciones de propia emisión, 
+nota 11 (c) (30) (30) 278 (23)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2011 26,769 26,769  26,776  __________ __________  __________ 
+ 
+ 2012  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 9,274 23,770 0.390  _________ _________ _________ 
+ 
+ 2011  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 15,825 26,776 0.591  _________ _________ _________ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2012_Individual_Anual_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 36 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+28 
+13. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2012 y de 2011, 
+la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+(b) A partir del 1 de enero de 2010, sólo se encuentran inafectos al impuesto a la renta los intereses 
+y ganancias de capital provenientes de bonos emitidos por la República del Perú, así como los 
+intereses y ganancias de capital provenientes de Certificados de Depósito del Banco Central de 
+Reserva del Perú, utilizados con fines de regulación monetaria. De igual modo, sólo se 
+encontrarán inafectos los intereses y ganancias de capital provenientes de bonos emitidos con 
+anterioridad al 11 de marzo del 2007.  
+ 
+De otro lado, a partir del ejercicio 2010, se encuentran gravadas las ganancias de capital 
+resultantes de enajenación, redención o rescate de valores mobiliarios a través de mecanismos 
+centralizados de negociación en el Perú. 
+ 
+En este contexto, la Ley del impuesto a la renta precisa que, para establecer la renta bruta 
+producida por la enajenación de valores mobiliarios adquiridos con anterioridad al 1 de enero de 
+2010, el costo computable de dichos valores será el precio de cotización al cierre del ejercicio 
+gravable 2009 o el costo de adquisición o el valor de ingreso al patrimonio, el que resulte mayor. 
+Esta regla es aplicable para personas jurídicas cuando los valores sean enajenados dentro o fuera 
+de un mecanismo centralizado de negociación del Perú. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses; y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2012_Individual_Anual_Inmobiliaria Milenia 31-12-12-11.pdf | PAGINA: 37 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+29 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2009 a 2012 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2012 y de 2011. 
+ 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2012 y de 2011. 
+ 
+14. Ingreso por cargo de servicio 
+Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta de sus 
+arrendatarios; dichos gastos están relacionados principalmente a tributos municipales y gastos de 
+mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A continuación se 
+presenta la composición del rubro: 
+ 
+ 2012 2011 
+ S/.(000) S/.(000)    
+Propiedades de inversión, nota 8(b) 2,552 1,078 
+Propiedades de inversión disponibles para la venta, nota 7 (b) 15 19  __________ __________    
+Total 2,567 1,097  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_22_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 5 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante del estado de situación financiera. 
+Inmobiliaria Milenia S.A. 
+Estado de situación financiera 
+Al 31 de diciembre de 2013 y de 2012  
+ Nota 2013 2012 
+  S/.(000) S/.(000) 
+    
+Activo    
+Activo corriente    
+Efectivo y equivalentes de efectivo 3 6,321 4,278 
+Cuentas por cobrar comerciales, neto  4 243 446 
+Otras cuentas por cobrar  95 222 
+Seguros y otros gastos pagados por anticipado  21 45   _________ _________ 
+  6,680 4,991   _________ _________ 
+    
+Propiedades de inversión disponibles para la venta 5 - 4,332   _________ _________ 
+    
+Activo no corriente    
+Propiedades de inversión 6 164,176 154,403 
+Inmuebles, mobiliario y equipo, neto 7 637 670   _________ _________ 
+  164,813 155,073   _________ _________ 
+    
+Total activo  171,493 164,396   _________ _________ 
+    
+Pasivo y patrimonio neto    
+Pasivo corriente    
+Cuentas por pagar comerciales  132 108 
+Otras cuentas por pagar 8 760 638   _________ _________ 
+Total pasivo corriente  892 746   _________ _________ 
+    
+Impuesto a la renta diferido, neto 9(a) 43,436 41,556   _________ _________ 
+    
+Total pasivo  44,328 42,302   _________ _________ 
+    
+Patrimonio  10   
+Capital social  23,370 23,370 
+Acciones en tesorería   - (144) 
+Reserva legal  5,443 4,516 
+Resultados acumulados  98,352 94,352   _________ _________ 
+Total patrimonio   127,165 122,094   _________ _________ 
+    
+Total pasivo y patrimonio   171,493 164,396   _________ _________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_22_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 6 | puntaje 11 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Inmobiliaria Milenia S.A. 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ Nota 2013 2012 
+  S/.(000) S/.(000) 
+    
+    
+Ingresos de servicio inmobiliario 5, 6 y 13 7,093 8,450 
+Costo de servicio inmobiliario  14 (1,917) (2,196)   __________ __________ 
+Resultado de servicio inmobiliario, neto  5,176 6,254     
+Pérdida en venta de propiedades de inversión 
+disponibles para la venta  5(b) (157) - 
+Fluctuación en valorización de las propiedades de 
+inversión 6(a) 8,586 8,136   __________ __________ 
+Resultado del negocio inmobiliario  13,605 14,390 
+    
+Gastos administrativos 15 (481) (760)   __________ __________ 
+Utilidad operativa  13,124 13,630     
+Ingresos financieros, neto  30 7 
+Ganancia (pérdida) por diferencia en cambio, neta  117 (196)   __________ __________ 
+Utilidad antes de impuesto a la renta  13,271 13,441     
+    
+Impuesto a la renta 9(b) (3,849) (4,167)   __________ _________     
+Utilidad neta  9,422 9,274   __________ _________ 
+    
+Otros resultados integrales   - -   __________ _________ 
+Total resultado integral  9,422 9,274   __________ _________ 
+    
+Utilidad por acción básica y diluida (en Nuevos Soles) 11 0.404 0.390   _________ _________ 
+    
+Número de acciones en circulación (en miles) 11 23,347 23,766   _________ _________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_22_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 7 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Inmobiliaria Milenia S.A. 
+Estado de cambios en el patrimonio  
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ 
+Capital 
+social 
+Acciones en 
+tesorería 
+Reserva  
+legal 
+Resultados 
+acumulados Total 
+ S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) 
+      
+Saldo al 1 de enero de 2012 26,799 (149) 2,934 131,458 161,042 
+      
+Utilidad neta - - - 9,274 9,274  ________ ________ ________ ________ ________ 
+Total resultados integrales - - - 9,274 9,274 
+      
+Efecto de escisión de bloque patrimonial, nota 1(b) (3,429) 5 - (35,830) (39,254) 
+Constitución de reserva legal, nota 10(b) - - 1,582 (1,582) - 
+Distribución de dividendos, nota 10(d) - - - (8,990) (8,990) 
+Otros ajustes - - - 22 22  ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre de 2012 23,370 (144) 4,516 94,352 122,094 
+      
+Utilidad neta - - - 9,422 9,422  ________ ________ ________ ________ ________ 
+Total resultados integrales - - - 9,422 9,422 
+      
+Venta de acciones en tesorería, nota 10(c)  - 144 - 5 149 
+Constitución de reserva legal, nota 10(b) - - 927 (927) - 
+Distribución de dividendos, nota 10(d) - - - (4,500) (4,500)  ________ ________ ________ ________ ________ 
+      
+Saldo al 31 de diciembre de 2013 23,370 - 5,443 98,352 127,165  ________ ________ ________ ________ ________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_22_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 8 | puntaje 14 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante de este estado. 
+Inmobiliaria Milenia S.A. 
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2013 y de 2012 
+ 2013 2012 
+ S/.(000) S/.(000) 
+Conciliación de la utilidad neta con el efectivo y equivalentes de 
+efectivo provenientes de (utilizados en) las actividades de 
+operación   
+Utilidad neta 9,422 9,274 
+Ajustes a la utilidad neta   
+Depreciación  33 34 
+Provisión de cobranza dudosa 15 1 
+Impuesto a la renta diferido 1,880 2,517 
+Ganancia por valorización de las propiedades de inversión (8,586) (8,136) 
+Pérdida por venta de propiedades de inversión disponible para la 
+venta  157 -    
+Variaciones netas de activos y pasivos:   
+Cuentas por cobrar comerciales 188 68 
+Otras cuentas por cobrar 127 (6) 
+Gastos pagados por anticipado 24 350 
+Cuentas por pagar comerciales 24 27 
+Otras cuentas por pagar  323 73 
+Otros 18 (45)  _________ _________ 
+Efectivo y equivalentes de efectivo proveniente de las 
+actividades de operación 3,625 4,157  _________ _________ 
+Actividades de inversión   
+Adelanto recibido por venta de inversiones disponibles para la 
+venta - 191 
+Venta de propiedades de inversión disponibles para la venta 3,966 - 
+Mejoras en propiedades de inversión (1,187) - - _________ _________ 
+Efectivo y equivalentes de efectivo proveniente de las 
+actividades de inversión 2,779 191  _________ _________ 
+Actividades de financiamiento   
+Dividendos pagados (4,510) (8,947) 
+Venta de acciones en tesorería 149 -  _________ _________ 
+Efectivo y equivalentes de efectivo utilizado en las actividades 
+de financiamiento (4,361) (8,947)  _________ _________ 
+Aumento neto (disminución) de efectivo en el ejercicio 2,043 (4,599)    
+Saldo de efectivo y equivalentes de efectivo al inicio del ejercicio 4,278 8,877  _________ _________ 
+Saldo de efectivo y equivalentes de efectivo al finalizar el 
+ejercicio 6,321 4,278  _________ _________ 
+Información adicional sobre el flujo de efectivo:   
+Efectivo en el año cobrado y pagado por   
+Impuesto a la renta 1,602 1,563 
+Intereses 30 - 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_22_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Inmobiliaria Milenia S.A. 
+Notas a los estados financieros 
+Al 31 de diciembre de 2013 y de 2012 
+  1. Identificación y actividad económica 
+(a) Identificación y actividad económica - 
+Inmobiliaria Milenia S.A. (en adelante “la Compañía”) es una sociedad anónima constituida el 29 
+de marzo de 2000, mediante el aporte de un bloque patrimonial cedido por Popular y Porvenir 
+Compañía de Seguros S.A.  Dicho bloque patrimonial estuvo conformado por 17 inmuebles cuyo 
+valor en libros ascendía a un importe aproximado de S/.33,007,000. 
+ 
+Hasta el 23 de Diciembre de 2010, el 98.26 por ciento de las acciones de la Compañía fueron de 
+propiedad del Ministerio de Economía y Finanzas, representado por el Fondo Nacional de 
+Financiamiento de la Actividad Empresarial del Estado (FONAFE), y el 1.74 por ciento de las 
+acciones restantes pertenecieron a un grupo de 118 accionistas privados.  En dicha fecha, Lince 
+Global Opportunities Corp. (empresa Holding constituida en Panamá subsidiaria de Intercorp 
+Retail Inc., que a su vez es subsidiaria de Intercorp Perú Ltd., en adelante “Grupo Intercorp 
+Perú”) adquirió la participación que tenía FONAFE y parte de la participación de los otros 
+accionistas privados, por lo que al 31 de diciembre de 2013 y de 2012 es el accionista 
+mayoritario con una participación en el capital social del 98.70 y 98.58 por ciento, 
+respectivamente, ver nota 10(a). 
+ 
+Al 31 de diciembre de 2013 y de 2012, la sede de la Compañía está ubicada en Av. Felipe Pardo 
+y Aliaga N°640, oficina 801, San Isidro, Lima, Perú.  
+ 
+El objeto social de la Compañía es dedicarse a todo tipo de actividades vinculadas a la cesión del 
+uso, usufructo o posesión de bienes inmuebles, mediante cualquier modalidad contractual; así 
+como enajenar los mismos, bajo cualquier título. 
+ 
+Los estados financieros al 31 de diciembre de 2012 y por el año terminado a dicha fecha han 
+sido aprobados por la Junta General Obligatoria Anual de Accionistas celebrada el 27 de marzo 
+de 2013. Los estados financieros al 31 de diciembre de 2013 adjuntos han sido aprobados por la 
+Gerencia de la Compañía y serán presentados para la aprobación del Directorio y de la Junta 
+General de Accionistas que se efectuará dentro de los plazos establecidos por Ley.  En opinión de 
+la Gerencia, dichos estados financieros serán aprobados sin modificaciones.  
+ 
+(b) Escisión de bloque patrimonial a favor de Supermercados Peruanos S.A. - 
+Mediante Junta General de Accionistas de fecha 14 de octubre de 2011, se aprobó la escisión de 
+un bloque patrimonial a favor de Supermercados Peruanos S.A. (en adelante “Supermercados”). 
+Con fecha 15 de febrero de 2012, entró en vigencia el contrato de escisión, el cual tuvo por 
+objeto transferir un bloque patrimonial de la Compañía a favor de Supermercados a efectos que 
+el mismo pase a integrar el patrimonio de Supermercados, dicho bloque estaba compuesto por 2 
+inmuebles cuyo valor de mercado fue S/.54,600,000.  
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_22_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 33 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+25 
+11. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2013     
+Saldo al 1 de enero de 2013 23,344 23,344 365 23,344 
+Venta de acciones en tesorería 26 26 41 3  __________ __________  __________      
+Saldo al 31 de diciembre de 2013 23,370 23,370  23,347  __________ __________  __________ 
+     
+Ejercicio 2012     
+Saldo al 1 de enero de 2012 26,769 26,769 365 26,769 
+Escisión del bloque patrimonial  (3,429) (3,429) 320 (3,006) 
+Entrega de acciones en tesorería por 
+escisión del bloque patrimonial  4 4 320 3  __________ __________  __________      
+Saldo al 31 de diciembre de 2012 23,344 23,344  23,766  __________ __________  __________ 
+ 
+ 2013  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 9,422 23,347 0.404  _________ _________ _________ 
+ 
+ 2012  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 9,274 23,766 0.390  _________ _________ _________ 
+ 
+12. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2013 y de 2012, 
+la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+(b) A partir del 1 de enero de 2010, sólo se encuentran inafectos al impuesto a la renta los intereses 
+y ganancias de capital provenientes de bonos emitidos por la República del Perú, así como los 
+intereses y ganancias de capital provenientes de Certificados de Depósito del Banco Central de 
+Reserva del Perú, utilizados con fines de regulación monetaria. De igual modo, sólo se 
+encontrarán inafectos los intereses y ganancias de capital provenientes de bonos emitidos con 
+anterioridad al 11 de marzo del 2007.  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_22_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 34 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+26 
+De otro lado, a partir del ejercicio 2010, se encuentran gravadas las ganancias de capital 
+resultantes de enajenación, redención o rescate de valores mobiliarios a través de mecanismos 
+centralizados de negociación en el Perú. 
+ 
+En este contexto, la Ley del impuesto a la renta precisa que, para establecer la renta bruta 
+producida por la enajenación de valores mobiliarios adquiridos con anterioridad al 1 de enero de 
+2010, el costo computable de dichos valores será el precio de cotización al cierre del ejercicio 
+gravable 2009 o el costo de adquisición o el valor de ingreso al patrimonio, el que resulte mayor. 
+Esta regla es aplicable para personas jurídicas cuando los valores sean enajenados dentro o fuera 
+de un mecanismo centralizado de negociación del Perú. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses; y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses. 
+ 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2009 a 2013 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2013 y de 2012. 
+ 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2013 y de 2012. 
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2016_Individual_Anual_22_Inmobiliaria Milenia 31-12-13-12.pdf | PAGINA: 35 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+27 
+13. Ingresos de servicio inmobiliario 
+(a) Al 31 de diciembre de 2013 y de 2012 el rubro correponde: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Ingresos por arrendamientos 5,748 5,883 
+Otros ingresos operacionales (b) 1,345 2,567  __________ __________    
+Total 7,093 8,450  __________ __________ 
+ 
+(b) Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta 
+de sus arrendatarios. Dichos gastos están relacionados principalmente a tributos municipales y 
+gastos de mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A 
+continuación se presenta la composición del rubro: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Propiedades de inversión, nota 6 1,345 2,552 
+Propiedades de inversión disponibles para la venta,  
+nota 6(b) - 15  __________ __________    
+Total 1,345 2,567  __________ __________ 
+ 
+14. Costo de servicio inmobiliario 
+(a) Al 31 de diciembre de 2013 y de 2012 el rubro comprende: 
+ 
+ 2013 2012 
+ S/.(000) S/.(000) 
+   
+Tributos (b)  800 1,355 
+Servicios prestados por terceros (b) 1,093 803 
+Cargos diversos de gestión  24 38  __________ __________    
+Total 1,917 2,196  __________ __________    
+Costos asociados a:   
+Propiedades de inversión, nota 6 1,917 2,067 
+Propiedades de inversión disponibles para la venta, nota 5(b) - 129  __________ __________    
+Total 1,917 2,196  __________ __________ 
+ 
+(b) El presente rubro comprende los gastos de mantenimiento e impuestos asumidos por la 
+Compañía por cuenta de los arrendatarios según los contratos vigentes y su recuperación es 
+incluida dentro del rubro “Ingresos de servicios inmobiliario” del estado de resultados integrales. 
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 7 | vecina =====
+ 
+Las notas adjuntas son parte integrante de este estado. 
+Inmobiliaria Milenia S.A. 
+Estado de cambios en el patrimonio 
+Por los años terminados el 31 de diciembre de 2015 y de 2014 
+ 
+Capital 
+social 
+Reserva  
+legal 
+Resultados 
+acumulados Total 
+ S/(000) S/(000) S/(000) S/(000) 
+     
+Saldo al 1 de enero de 2014 23,370 5,443 98,352 127,165 
+     
+Utilidad neta - - 38,390 38,390  ________ ________ ________ ________ 
+Total resultados integrales - - 38,390 38,390 
+     
+Distribución de dividendos, nota 11(c) - - (5,000) (5,000)  ________ ________ ________ ________ 
+     
+Saldo al 31 de diciembre de 2014 23,370 5,443 131,742 160,555 
+     
+Utilidad neta - - 21,380 21,380  ________ ________ ________ ________ 
+Total resultados integrales - - 21,380 21,380 
+     
+Distribución de dividendos, nota 11(c) - - (20,000) (20,000)  ________ ________ ________ ________ 
+     
+Saldo al 31 de diciembre de 2015 23,370 5,443 133,122 161,935  ________ ________ ________ ________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 8 | puntaje 9 =====
+ 
+Las notas adjuntas son parte integrante de este estado. 
+Inmobiliaria Milenia S.A. 
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2015 y de 2014 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Actividades de operación   
+Cobranzas a clientes 5,835 4,812 
+Pago a proveedores (3,219) (1,415) 
+Pagos de remuneraciones y beneficios sociales (1,377) (256) 
+Pago de tributos (7,902) (2,019) 
+Otros activos, neto 495 130  _________ _________ 
+Efectivo y equivalente de efectivo (utilizado en) proveniente de 
+las actividades de operación (6,168) 1,252  _________ _________ 
+Actividades de inversión   
+Compra de inversión financiera a valor razonable con cambios en 
+resultados (12,610) - 
+Venta de propiedades de inversión 38,846 - 
+Mejoras en propiedades de inversión (940) (674) 
+Compra de mobiliarios y equipo (141) - 
+Compra de intangibles (306) - - _________ _________ 
+Efectivo y equivalente de efectivo proveniente de (utilizado en) 
+las actividades de inversión 24,849 (674)  _________ _________ 
+Actividades de financiamiento   
+Dividendos pagados (20,000) (5,000)  _________ _________ 
+Efectivo y equivalentes de efectivo utilizado en las actividades 
+de financiamiento (20,000) (5,000)  _________ _________    
+Disminución neta del efectivo y equivalentes de efectivo (1,319) (4,422)    
+Saldo de efectivo y equivalentes de efectivo al inicio del ejercicio, 
+nota 2.2(f) 1,899 6,321  _________ _________ 
+Efectivo y equivalentes de efectivo al finalizar el ejercicio, nota 
+2.2(f) 580 1,899  _________ _________ 
+Transacciones que no generan flujos de efectivo:   
+Transferencia de activo fijo a Inversiones inmobiliarias - 592 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Inmobiliaria Milenia S.A. 
+Notas a los estados financieros 
+Al 31 de diciembre de 2015 y de 2014 
+  1. Identificación y actividad económica 
+Inmobiliaria Milenia S.A. (en adelante “la Compañía”) es una sociedad anónima constituida el 29 de 
+marzo de 2000, mediante el aporte de un bloque patrimonial cedido por Popular y Porvenir Compañía 
+de Seguros S.A.  Dicho bloque patrimonial estuvo conformado por 17 inmuebles cuyo valor en libros 
+ascendía a un importe aproximado de S/33,007,000. 
+ 
+Hasta el 23 de Diciembre de 2010, el 98.26 por ciento de las acciones de la Compañía fueron propiedad 
+del Ministerio de Economía y Finanzas, representado por el Fondo Nacional de Financiamiento de la 
+Actividad Empresarial del Estado (FONAFE), y el 1.74 por ciento de las acciones restantes pertenecieron 
+a un grupo de 118 accionistas privados.  En dicha fecha, Lince Global Opportunities Corp. (empresa 
+Holding constituida en Panamá subsidiaria de Intercorp Retail Inc., que a su vez es subsidiaria de 
+Intercorp Perú Ltd., en adelante “Grupo Intercorp Perú”) adquirió la participación que tenía FONAFE y 
+parte de la participación de los otros accionistas privados, por lo que al 31 de diciembre de 2015 y de 
+2014 es el accionista mayoritario con una participación en el capital social del 98.71 y 98.70 por 
+ciento, respectivamente, ver nota 11(a). 
+ 
+Al 31 de diciembre de 2015 y de 2014, el domicilio legal de la Compañía está ubicada en Calle Morelli 
+N°181, San Borja, Lima, Perú. 
+ 
+El objeto social de la Compañía es dedicarse a todo tipo de actividades vinculadas a la cesión del uso, 
+usufructo o posesión de bienes inmuebles, mediante cualquier modalidad contractual; así como enajenar 
+los mismos, bajo cualquier título, y al desarrollo y gerenciamiento de todo tipo de proyecto inmobiliario; 
+como también a la gestión de compra y venta de los mismos. 
+ 
+Los estados financieros al 31 de diciembre de 2014 y por el año terminado a dicha fecha han sido 
+aprobados por la Junta General Obligatoria Anual de Accionistas celebrada el 30 de marzo de 2015. Los 
+estados financieros al 31 de diciembre de 2015 adjuntos han sido aprobados por la Gerencia de la 
+Compañía y serán presentados para la aprobación del Directorio y de la Junta General de Accionistas 
+que se efectuará dentro de los plazos establecidos por Ley.  En opinión de la Gerencia, dichos estados 
+financieros serán aprobados sin modificaciones. 
+ 
+  2. Principios y prácticas contables 
+A continuación se presentan los principales principios y prácticas contables utilizados en la preparación 
+de los estados financieros de la Compañía: 
+ 
+2.1. Bases para la preparación -  
+Los estados financieros se preparan de acuerdo con las Normas Internacionales de Información 
+Financiera (en adelante “NIIF”), emitidas por la International Accounting Standards Board (en 
+adelante “IASB”). 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 20 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+12 
+(s) Eventos posteriores - 
+Los eventos posteriores al cierre del ejercicio que proveen información adicional sobre la 
+situación financiera de la Compañía a la fecha del estado de situación financiera (eventos 
+de ajuste) son incluidos en los estados financieros.  Los eventos posteriores importantes 
+que no son eventos de ajuste son expuestos en notas a los estados financieros. 
+ 
+(t) Reclasificaciones - 
+Cuando ha sido necesario, los importes del año anterior han sido reclasificados para 
+hacerlos comparables con la presentación del año corriente. La Gerencia considera que las 
+reclasificaciones efectuadas en los estados financieros de la Compañía al 31 de diciembre 
+de 2014, no son significativas tomando en consideración los estados financieros en su 
+conjunto. 
+ 
+(u) Nuevos procedimientos contables - 
+La Compañía decidió no adoptar anticipadamente las siguientes normas e interpretaciones 
+que fueron emitidas por el IASB, pero que no son efectivas al 31 de diciembre de 2015: 
+ 
+- NIIF 9 "Instrumentos financieros: Clasificación y Medición", efectiva para períodos 
+anuales que comiencen en o a partir del 1 de enero de 2018. 
+ 
+- NIIF 14 “Cuentas de Diferimientos de Actividades Reguladas”, efectiva para 
+períodos anuales que comiencen en o a partir del 1 de enero de 2016.  
+ 
+- NIIF 15 “Ingresos de Actividades Ordinarias Procedentes de Contratos con 
+Clientes”, efectiva para períodos anuales que comiencen en o a partir del 1 de 
+enero de 2018. 
+ 
+- NIIF 16 “Arrendamientos”, efectiva para períodos anuales que comiencen en o a 
+partir del 1° de enero de 2019. 
+ 
+- Modificaciones a la NIIF 10 “Estados Financieros Consolidados”, NIIF 11 “Acuerdos 
+Conjuntos”, NIIF 12 “Información a Revelar sobre Participaciones en Otras 
+Entidades”, NIC 1 “Presentación de Estados Financieros”, NIC 16 “Propiedades, 
+Planta y Equipo”,  NIC 27 “Estados Financieros Separados”, NIC 28 ”Inversiones en 
+Asociadas y Negocios Conjuntos”, NIC 38 “Activos Intangibles” y NIC 41 
+“Agricultura”, efectivas para períodos anuales que comiencen en o a partir del 1 de 
+enero de 2016. 
+ 
+- Modificaciones a la IFRS 10 “Estados Financieros Consolidados” y a la NIC 28 
+“Inversiones en Asociadas y Negocios Conjuntos”, en lo relacionado con la venta o 
+contribución de activos entre un inversor y sus asociadas y negocios conjuntos, 
+cuya aplicación efectiva ha sido pospuesta de manera indefinida por el 
+International Accounting Standars Board (IASB por sus siglas en inglés) en 
+diciembre de 2015. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 21 | puntaje 18 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+13 
+-  Mejoras (ciclos 2012 – 2014) a la NIIF 5 “Activos no Corrientes Mantenidos para la 
+Venta y Operaciones Discontinuadas”, NIIF 7”Instrumentos Financieros: 
+Información a Revelar”, NIC 19 “Beneficios a los Empleados” y NIC 34 “Información 
+Financiera Intermedia”, efectivas para períodos anuales que comiencen en o a 
+partir del 1 de enero de 2016. 
+ 
+En opinión de la Gerencia, la adopción de dichas normas e interpretaciones no tendrá un efecto 
+significativo en la posición financiera y resultados de Inmobiliaria Milenia S.A.  cuando entren en 
+vigencia, así como tampoco en las revelaciones requeridas para sus estados financieros. 
+ 
+2.3 Juicios, estimados y supuestos contables significativos 
+La preparación de los estados financieros requiere que la Gerencia utilice juicios, estimados y 
+supuestos para determinar las cifras reportadas de activos y pasivos, la exposición de activos y 
+pasivos contingentes a la fecha de los estados financieros, así como las cifras reportadas de 
+ingresos y gastos por los años terminados el 31 de diciembre de 2015 y de 2014.   
+ 
+En opinión de la Gerencia, estas estimaciones se efectuaron sobre la base de su mejor 
+conocimiento de los hechos relevantes y circunstancias a la fecha de preparación de los estados 
+financieros; sin embargo, los resultados finales podrán diferir de las estimaciones incluidas en los 
+estados financieros. La Gerencia de la Compañía no espera que las variaciones, si las hubiera, 
+tengan un efecto importante sobre los estados financieros. 
+ 
+Los estimados más significativos considerados por la Gerencia en relación con los estados 
+financieros adjuntos se refieren básicamente a: 
+ 
+(i) Deterioro del valor de los activos no financieros (nota 2.2(j)) - 
+La Compañía evalúa cada fin de año si existe un indicador de que un activo podría estar 
+deteriorado.  
+ 
+A la fecha de los estados financieros, en opinión de la Gerencia, no existe evidencia de 
+deterioro ya que muestran tendencias favorables a los intereses de la Compañía, lo que 
+sustenta la recuperación de sus activos permanentes. 
+ 
+(ii) Valor razonable de las propiedades de inversión (nota 2.2(h)) – 
+El valor razonable de las propiedades de inversión que generan renta para la Compañía, ha 
+sido determinado por la Gerencia utilizando el método de flujos de caja descontados. 
+ 
+Las propiedades de inversión mantenidas para operar en el futuro también se miden a su 
+valor razonable, el cual es determinado mediante tasaciones realizadas por un tasador 
+acreditado, independiente y externo, excepto si estos valores no se pueden determinar 
+con fiabilidad. En casos excepcionales, cuando el valor razonable no puede determinarse 
+de manera fiable, estas inversiones se registran al costo. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 22 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+14 
+La determinación del valor razonable de las propiedades de inversión requiere la 
+utilización de estimaciones, tales como los flujos de efectivo futuros de los activos (por 
+ejemplo: arrendamientos, ventas, alquileres fijos a los diferentes tipos de locatarios, 
+alquiler variable en función a un porcentaje de las ventas, costos de operación, costos de 
+construcción (CAPEX), mantenimiento del CAPEX y tasas de descuento aplicables a los 
+activos. Adicionalmente, los riesgos de desarrollo (como la construcción y el abandono) 
+también se tienen en cuenta al determinar el valor razonable de las propiedades de 
+inversión en construcción. 
+ 
+La volatilidad en el sistema financiero se refleja en los mercados inmobiliarios. Por lo 
+tanto, para estimar los valores de mercado de las propiedades de inversión en el estado de 
+situación financiera, la Gerencia y tasadores utilizan su conocimiento del mercado y el 
+criterio profesional, y no dependen únicamente de transacciones comparables históricas. 
+En este sentido, hubo un mayor grado de incertidumbre que la que existe en un mercado 
+más activo, para la estimación de los valores de mercado de las propiedades de inversión. 
+ 
+Los métodos y supuestos significativos utilizados en la estimación del valor razonable de 
+las propiedades de inversión se detallan en la nota 6. 
+ 
+(iii) Método de depreciación, vidas útiles y valores residuales de los mobiliarios  y equipo (nota 
+2.2(i)) – 
+La determinación del método de depreciación, las vidas útiles y los valores residuales de 
+los componentes de los mobiliarios y equipo involucra juicios y supuestos que podrían ser 
+afectados si cambian las circunstancias. La Gerencia revisa periódicamente estos 
+supuestos y los ajusta de forma prospectiva en el caso de que se identifique cambios. 
+ 
+(iv) Impuestos (nota 2.2(k)) – 
+Existe incertidumbre con respecto a la interpretación de regulaciones tributarias 
+complejas, a los cambios en las normas tributarias y al monto y la oportunidad en que se 
+genera el resultado gravable futuro. La Compañía calcula provisiones, sobre la base de 
+estimaciones razonables, para las posibles consecuencias derivadas de las inspecciones 
+realizadas por parte de la Autoridad Tributaria. El importe de esas provisiones se basa en 
+varios factores, tales como la experiencia en inspecciones tributarias anteriores, y en las 
+diferentes interpretaciones acerca de las regulaciones tributarias realizadas por la 
+Compañía y sus asesores. Esas diferencias de interpretación pueden surgir en una gran 
+variedad de cuestiones, dependiendo de las circunstancias y condiciones existentes en el 
+lugar de domicilio de la Compañía. 
+ 
+Debido a que la Compañía considera remota la probabilidad de litigios de carácter 
+tributario y posteriores desembolsos como consecuencia de ello, no se ha reconocido 
+ningún pasivo contingente relacionado con impuestos. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 26 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+18 
+ 
+2015 2014 
+ 
+S/(000) S/(000) 
+ 
+  
+Almacén:   
+La Victoria 647 647 
+   
+Tienda:   
+Huiracocha 351 338  __________ __________    
+ 
+198,051 207,813 
+ __________ __________ 
+ 
+Asimismo, se presenta el movimiento del rubro: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Saldo inicial 207,813 164,176 
+Ganancia por valorización de propiedades de inversión 24,373 42,371 
+Adiciones 940 674 
+Costo de ventas de inversión inmobiliaria (f) (35,075) - 
+Transferencias de mobiliarios y equipo, nota 7 - 592  __________ __________    
+Saldo final  198,051 207,813  __________ __________ 
+ 
+El valor razonable de las propiedades de inversión ha sido determinado por la Gerencia de la 
+Compañía sobre la base del método de flujos de caja descontados y del valor asignado por un 
+tasador independiente para el caso de los inmuebles mantenidos para operar en el futuro. La 
+valorización se prepara sobre una base agregada y desapalancada.  De acuerdo a lo establecido 
+en la nota 2.3(ii), para estimar los valores de mercado de las propiedades de inversión, la 
+Gerencia de la Compañía ha utilizado su conocimiento del mercado y juicio profesional. 
+ 
+ 
+2015 2014 
+ 
+S/(000) S/(000) 
+ 
+  
+Tasaciones de Inmuebles 25,165 21,473 
+Flujos futuros descontados (792) 20,898  __________ __________    
+Saldos  de tasaciones  24,373 42,371 
+ __________ __________ 
+ 
+(b) La Compañía no tiene restricciones sobre la posibilidad de disponer o vender sus propiedades de 
+inversión, ni tiene asumidas obligaciones financieras contractuales respecto de comprar, 
+construir o desarrollar propiedades de inversión, o de realizar reparaciones, tareas de 
+mantenimiento o ampliaciones. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 27 | puntaje 12 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+19 
+(c) A continuación se detallan los principales supuestos utilizados en la valorización y en la 
+estimación del valor de mercado de las propiedades de inversión: 
+ 
+ 2015 2014 
+ % % 
+   
+Inflación de largo plazo 2.50 2.50 
+Tasa de ocupación promedio de inmuebles a largo plazo 98.00 98.00 
+Tasa de crecimiento promedio en la renta de alquiler  2.50 2.50 
+Margen EBITDA promedio 90.10 85.56 
+Tasa de descuento 9.17 9.17 
+ 
+(d) A continuación se presenta el análisis de sensibilidad sobre la valorización de las inversiones en 
+propiedades, frente a cambios en los factores que la Gerencia estima más relevantes: 
+ 
+ 
+Cambio de 
+tasas  2015 2014 
+  S/(000) S/(000) 
+    
+Tasa de crecimiento promedio en la renta de 
+alquiler (base) 2.50%   
+Incremento +0.25% 1,571 2,196 
+Disminución  -0.25% (1,475) (2,009) 
+Tasa de descuento (base) 9.17%   
+Incremento +0.50% (4,889) (5,099) 
+Disminución -0.50% (5,704) 5,964 
+ 
+(e) El monto de los ingresos mínimos fijos futuros por moneda correspondiente a los arrendamientos 
+de las inversiones inmobiliarias es como sigue: 
+ 
+Año Relacionadas Terceros Total  ________________________ _______________________ _______________________ 
+ US$(000) S/(000) US$(000) S/(000) US$(000) S/(000) 
+       
+2016 - 1,003 318 301 318 1,304 
+2017 - 497 - 52 - 549 
+2018 - - - 33 - 33 
+2019 - - - 32 - 32 
+2020-2041 - - - 5 - 5  _________ _________ _________ _________ _________ _________        
+Total - 1,500 318 423 318 1,923  _________ _________ _________ _________ _________ _________ 
+ 
+(f) Durante el año 2015, la Compañía vendió los inmuebles “Larco” y “Edificio Cantuarias” a 
+terceros, en efectivo y a valores de mercado, por un valor ascendente a US$9,000,000 y 
+US$3,500,000, respectivamente (equivalente a S/27,657,000 y S/11,189,500, 
+respectivamente). Producto de estas ventas se generó una utilidad de aproximadamente 
+S/3,771,000 que se presenta en el rubro “Ganancia por la venta de inversiones inmobiliarias” del 
+estado de resultados integrales, neto de las comisiones por  la venta de los inmuebles por 
+aproximadamente S/1,114,000.  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 28 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+20 
+  7. Mobiliarios y equipo, neto 
+(a) A continuación se presenta el movimiento del rubro por los ejercicios 2015 y de 2014: 
+ 
+Descripción 
+Equipos de 
+cómputo 
+Unidades de 
+transporte Muebles y enseres 
+Total 
+2015 
+Total 
+2014 
+ S/(000) S/(000) S/(000) S/(000) S/(000) 
+      
+Costo      
+Saldo al 1 de enero de 2015 - - - - 940 
+Adiciones 12 128 1 141 - 
+Retiros  - - - - (220) 
+Transferencia a Inversión inmobiliaria, nota 
+6(a) 
+- - - - (720) 
+ __________ __________ __________ __________ __________ 
+Saldo al 31 de diciembre de 2015 12 128 1 141 -  __________ __________ __________ __________ __________ 
+      
+Depreciación acumulada       
+Saldo al 1 de enero de 2015 - - - - 303 
+Adiciones 2 17 - 19 30 
+Retiros - - - - (205) 
+Transferencia a Inversión inmobiliaria, nota 
+6(a) 
+- - - - (128) 
+ __________ __________ __________ __________ __________ 
+Saldo al 31 de diciembre de 2015 2 17 - 19 -  __________ __________ __________ __________ __________       
+Valor neto en libros 10 111 1 122 -  __________ __________ __________ __________ __________ 
+ 
+(b) La Gerencia revisa periódicamente el método de depreciación utilizado, con la finalidad de asegurar que sea consistente con el beneficio económico 
+de los activos fijos.  En opinión de la Gerencia de la Compañía, no existe evidencia de deterioro de los activos fijos mantenidos por la Compañía al 31 
+de diciembre de 2015 y de 2014. 
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 35 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+27 
+16. Gastos administrativos 
+(a) Al 31 de diciembre de 2015 y de 2014 el rubro comprende: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Cargas de personal 1,091 563 
+Servicios prestados por terceros (b) 968 268 
+Amortización 39 - 
+Depreciación, ver nota 7(a) 19 30 
+Cargas diversas de gestión 14 57 
+Tributos (c) 5 18  __________ __________    
+Total 2,136 936  __________ __________ 
+ 
+(b) Al 31 de diciembre de 2015 y de 2014, incluye principalmente los gastos por servicios 
+administrativos y contables de la Compañía. Al 31 de diciembre de 2015, los servicios son 
+prestados principalmente por InRetail Properties Management S.R.L. (entidad vinculada), nota 
+17(a). 
+ 
+17. Transacciones con empresas vinculadas 
+(a) A continuación se presenta la composición del rubro: 
+ 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Estado de situación financiera -   
+Efectivo y equivalentes de efectivo   
+Cuentas de ahorro    
+Banco Internacional del Peru S.A.A. - Interbank, nota 3(b)  155 85 
+Cuentas corrientes    
+Banco Internacional del Peru S.A.A. - Interbank, nota 3(b)  211 1,598 
+Inversión financiera a valor razonable con cambios en 
+resultados   
+Fondo mutuo   
+Interfondos S.A. SAF, nota 4 12,623 - 
+Cuentas por cobrar a partes relacionadas (b)   
+Banco Internacional del Peru S.A.A. – Interbank 19 1 
+Supermercados Peruanos S.A. 482 522 
+   
+Estado de resultados integrales -   
+Ingresos de servicio inmobiliario (b)   
+Ingresos por arrendamientos   
+Banco Internacional del Peru S.A.A. – Interbank 107 110 
+Supermercados Peruanos S.A. 978 492 
+   
+   
+   
+   
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 36 | puntaje 7 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+28 
+ 2015 2014 
+ S/(000) S/(000) 
+   
+Otros ingresos operacionales   
+Banco Internacional del Peru S.A.A. – Interbank 4 13 
+Supermercados Peruanos S.A. 351 - 
+Costo de servicio inmobiliario   
+Real Plaza S.R.L. (c) (185) (185) 
+Ganancia por la venta de inversiones inmobiliarias   
+InRetail Properties Management S.R.L. (d) (557) - 
+Gasto de administración   
+InRetail Properties Management S.R.L., nota 16(b) (550) (11) 
+Ingresos financieros   
+Interfondos S.A. SAF, nota 4 19 - 
+ 
+(b) Corresponde a los ingresos y costos relacionados al arrendamiento de un local al Banco 
+Internacional del Perú S.A.A. – Interbank y Supermercados Peruanos S.A. 
+ 
+(c) Corresponde a los servicios de administración de los inmuebles de la Compañía. 
+ 
+(d) Corresponde a la comisión por la venta del inmueble “Edificio Cantuarias”. 
+ 
+18. Administración de riesgos financieros 
+La Gerencia revisa y aprueba las políticas para manejar cada uno de estos riesgos que se resumen a 
+continuación: 
+ 
+Riesgo de crédito 
+El riesgo de crédito consiste en el riesgo de que una contraparte no pueda cumplir con sus obligaciones 
+en relación con un instrumento financiero o contrato de venta, generando una pérdida financiera.  Al 31 
+de diciembre de 2015 y de 2014, la Gerencia considera que no existe un riesgo significativo de crédito 
+debido a que sus principales activos financieros corresponden a: 
+ 
+(i) Efectivo y equivalentes de efectivo los cuales se mantienen, a dicha fecha, en instituciones 
+financieras de primer orden; y,  
+ 
+(ii) El riesgo de crédito de los clientes es manejado por la Gerencia, sujeto a políticas, procedimientos 
+y controles debidamente establecidos. Los saldos pendientes de cuentas por cobrar son 
+periódicamente revisados para asegurar su recupero de acuerdo a los criterios descritos en la 
+nota 2.2(a)(ii). 
+ 
+La máxima exposición al riesgo de crédito por los componentes de los estados financieros al 31 
+de diciembre de 2015 y de 2014 es el valor en libros de los mismos según se presenta en nota 5. 
+ 
+(ii) Cuentas por cobrar a partes relacionadas y otras cuentas por cobrar a los arrendatarios de sus 
+inmuebles, los cuales son de naturaleza corriente y se liquidan mensualmente. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 37 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+29 
+Riesgo de mercado 
+El riesgo de mercado consiste en el riesgo de que el valor razonable de los flujos futuros de un 
+instrumento financiero fluctúe debido a cambios en los precios de mercado.  En el caso de la Compañía, 
+los precios de mercado comprenden dos tipos de riesgo: el riesgo de tasa de interés y el riesgo de 
+moneda.  
+ 
+El análisis de sensibilidad que se muestra en la siguiente sección se relaciona con la posición al 31 de 
+diciembre de 2015 y de 2014.  El análisis de sensibilidad ha sido preparado considerando que el monto 
+de la deuda neta y la proporción de instrumentos financieros en moneda extranjera permanecen 
+constantes. 
+ 
+(i) Riesgo de tasa de interés -  
+La política de la Compañía es mantener instrumentos financieros que devenguen tasas fijas de 
+interés.  Al 31 de diciembre de 2015 y de 2014, los principales instrumentos financieros que 
+devengan tasas de interés corresponden a depósitos a plazo en bancos locales. Los flujos de 
+efectivo de estos instrumentos son sustancialmente  independientes de los cambios de las tasas 
+de interés del mercado, por lo cual, en opinión de la Gerencia, la Compañía no tiene una 
+exposición importante a los riesgos de tasas de interés. 
+ 
+(ii) Riesgo de tipo de cambio -  
+El riesgo de tipo de cambio consiste en el riesgo de que el valor razonable o flujos de caja futuros 
+de un instrumento financiero fluctúen debido a cambios en los tipos de cambio. 
+ 
+Las operaciones en moneda extranjera se efectúen a los tipos de cambio del mercado libre 
+publicados por la Superintendencia de Banca, Seguros y AFP (SBS). 
+ 
+Al 31 de diciembre de 2015, los tipos de cambio del mercado libre para las transacciones en 
+dólares estadounidenses fueron de S/3.408 por US$1 para la compra y S/3.413 por US$1 para 
+la venta (S/2.981  por US$1 para la compra y S/2.989 por US$1 para la venta al 31 de diciembre 
+de 2014).  
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 39 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+31 
+El siguiente cuadro muestra el análisis de sensibilidad de los dólares estadounidenses (la única 
+moneda distinta a la funcional en que la Compañía tiene exposición al 31 de diciembre de 2015 y 
+de 2014), en sus activos y pasivos monetarios y sus flujos de caja estimados.  El análisis 
+determina el efecto de una variación razonablemente posible del tipo de cambio del dólar 
+estadounidense, considerando las otras variables constantes en el estado de resultados 
+integrales antes del impuesto a la renta.  Un monto negativo muestra una reducción potencial 
+neta en el estado de resultados integrales, mientras que un monto positivo refleja un incremento 
+potencial neto. 
+ 
+Análisis de sensibilidad  
+Cambio en tasas 
+de cambio  2015 2014 
+ % S/(000) S/(000) 
+Devaluación -    
+Dólares 10 (1,262) (106) 
+Dólares 5 (631) (53) 
+    
+Revaluación -    
+Dólares 10 1,262 106 
+Dólares 5 631 53 
+ 
+Riesgo de liquidez 
+Al 31 de diciembre de 2015 y de 2014, la Gerencia de la Compañía considera que no presentan 
+riesgo significativo de liquidez ya que sus pasivos (los cuales son en su totalidad de naturaleza 
+corriente), se encuentran íntegramente cubiertos por los saldos mantenidos en el rubro de 
+efectivo y equivalentes de efectivo del estado de situación financiera. 
+ 
+Gestión de capital 
+La Compañía administra de manera activa una base de capital para cubrir los riesgos inherentes 
+en sus actividades.  La adecuación del capital de la Compañía es monitoreada usando, entre otras 
+medidas, los ratios establecidos por la Gerencia. 
+ 
+Los objetivos de la Compañía cuando maneja capital, que es un concepto más amplio que el 
+“Patrimonio” que se muestra en el estado de situación financiera son: (i) salvaguardar la 
+capacidad de la Compañía para continuar operando de manera que continúe brindando retornos 
+a los accionistas y beneficios a los otros participantes; y (ii) mantener una fuerte base de capital 
+para apoyar el desarrollo de sus actividades.  
+ 
+Al 31 de diciembre de 2015 y de 2014, no han existido cambios en las actividades y políticas de 
+manejo de capital en la Compañía. 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2015_Individual_Anual_Inmobiliaria Milenia 31-12-15 VF.pdf | PAGINA: 40 | puntaje 13 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+32 
+Estimación del valor razonable  
+Las metodologías y supuestos empleados por la Compañía para determinar los valores estimados de 
+mercado dependen de los términos y características de riesgo de los diversos instrumentos financieros y 
+comprenden lo siguiente: 
+ 
+(i) Activos cuyo valor razonable es similar a su valor en libros – Para los activos y pasivos financieros 
+que son líquidos o tienen vencimientos a corto plazo (menor a tres meses), se considera que el 
+valor en libros es similar a su valor razonable.  Este supuesto también es aplicable para los 
+depósitos a plazo, cuentas de ahorro sin un vencimiento específico e instrumentos financieros a 
+tasa variable. Estos instrumentos se clasifican de la siguiente manera: 
+ 
+- El efectivo y equivalentes de efectivo no representa un riesgo de crédito ni de tasa de 
+interés significativo; por lo tanto, sus valores en libros se aproximan a su valor razonable. 
+ 
+- Las cuentas por cobrar debido que principalmente tienen vencimiento corriente la 
+Gerencia ha considerado que su valor razonable no es significativamente diferente a su 
+valor en libros. 
+ 
+- Las cuentas por pagar comerciales y otras cuentas por pagar, debido a su vencimiento 
+corriente, la Gerencia de la Compañía estima que su saldo contable se aproxima a su valor 
+razonable. 
+ 
+(ii) Instrumentos financieros a tasa fija – El valor razonable de los activos y pasivos financieros que 
+se encuentran a tasa fija y a costo amortizado, se determina comparando las tasas de interés del 
+mercado en el momento de su reconocimiento inicial con las tasas de mercado actuales 
+relacionadas con instrumentos financieros similares.  Al 31 de diciembre de 2015 y de 2014 la 
+Compañía no mantiene Instrumentos financieros a tasa fija. 
+ 
+Sobre la base de los criterios descritos anteriormente, la Gerencia estima que no existen 
+diferencias importantes entre el valor en libros y el valor razonable de los instrumentos 
+financieros de la Compañía al 31 de diciembre de 2015 y de 2014. 
+ 
+19. Evento subsecuente 
+El 19 de enero de 2016, la Gerencia de la Compañía firmó el contrato de Compraventa con Inversiones 
+Centenario S.A.A. por la venta del inmueble “Camino Real”, cuyo precio asciende a un importe de 
+US$579,618, el cual fue cancelado durante los dos primeros meses del 2016. 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_19_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 41 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+33 
+13. Utilidad por acción 
+A continuación se muestra el cálculo del número de acciones y la utilidad por acción: 
+ 
+ 
+Acciones en 
+circulación 
+Acciones base 
+para el cálculo 
+Días de 
+vigencia en el 
+año 
+Número 
+promedio de 
+acciones 
+ (en miles) (en miles)  (en miles) 
+     
+Ejercicio 2011     
+Saldo al 1 de enero de 2011 26,799 26,799 365 26,799 
+Compra de acciones de propia emisión, nota 12 (c) (30) (30) 278 (23)  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2011 26,769 26,769  26,776 
+     
+Ejercicio 2010     
+Saldo al 1 de enero de 2010 26,799 26,799 365 26,799  __________ __________  __________ 
+     
+Saldo al 31 de diciembre de 2010 26,799 26,799  26,799  __________ __________  __________ 
+ 
+ 2011  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 15,825 26,776 0.591  _________ _________ _________ 
+ 
+ 2010  __________________________________________________ 
+ 
+Utilidad 
+(numerador) 
+Acciones 
+(denominador) 
+Utilidad por 
+acción 
+ S/.(000) (en miles) S/. 
+    
+Utilidad por acción básica 8,824 26,799 0.329  _________ _________ _________ 
+ 
+14. Situación tributaria 
+(a) La Compañía está sujeta al régimen tributario peruano.  Al 31 de diciembre de 2011 y de 2010 y 
+al 1 de enero de 2010, la tasa del impuesto a la renta es de 30 por ciento sobre la utilidad 
+gravable. 
+ 
+Las personas jurídicas no domiciliadas en el Perú y las personas naturales deberán pagar un 
+impuesto adicional de 4.1 por ciento sobre los dividendos recibidos. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_19_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 42 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+34 
+(b) A partir del ejercicio 2010 las ganancias de capital pagarán impuesto a la renta para lo cual se ha 
+establecido, entre otros temas, que el costo tributario para los títulos cuya enajenación estaba 
+exonerada de efectuarse en rueda de bolsa, adquiridos antes de dicha fecha, corresponde al 
+valor de mercado al 31 de diciembre de 2009, o el costo de adquisición o al valor de ingreso al 
+Patrimonio, el que resulte mayor, según el procedimiento señalado mediante Decreto Supremo 
+N° 011-2010-EF. 
+ 
+De otro lado, a partir del 1 de enero de 2010, se encuentran inafectos  los intereses y ganancias 
+de capital provenientes de bonos emitidos por la República del Perú: (i) en el marco del Decreto 
+Supremo N° 007-2002-EF, (ii) bajo el Programa de Creadores de Mercado o el mecanismo que 
+los sustituya, ó (iii) en el mercado internacional a partir del año 2002, así como los intereses y 
+ganancias de capital provenientes de obligaciones del Banco Central de Reserva del Perú, salvo 
+los originados por los depósitos de encaje que realicen las instituciones de crédito; y las 
+provenientes de la enajenación directa o indirecta de valores que conforman o subyacen los 
+Exchange Traded Fund (ETF) que repliquen índices construidos teniendo como referencia 
+instrumentos de inversión nacionales, cuando dicha enajenación se efectúe para la constitución, 
+cancelación o gestión de la cartera de inversiones de los ETF. 
+ 
+(c) De acuerdo con el texto de la Ley del Impuesto a la Renta, modificada por la Ley N°29663 y 
+N°29757, a partir del ejercicio 2011, entre las operaciones sujetas al referido tributo, se 
+encuentran las obtenidas por la enajenación indirecta de acciones de empresas peruanas.  
+ 
+Para estos fines, se configura una transferencia indirecta cuando ocurran los siguientes dos 
+supuestos de manera conjunta: 
+ 
+(i) En primer lugar, el 10 por ciento o más de las acciones de la no domiciliada debe ser 
+vendido en un periodo cualquiera de doce meses (supuesto vigente desde el 16 de febrero 
+de 2011); y, 
+ 
+(ii) En segundo lugar, el valor de mercado de las acciones de la sociedad peruana debe 
+representar el 50 por ciento o más del valor de mercado de la no domiciliada, en un 
+período cualquiera de doce meses (supuesto vigente desde el 22 de julio de 2011). 
+ 
+(d) La Autoridad Tributaria tiene la facultad de fiscalizar y, de ser aplicable, corregir el Impuesto a la 
+Renta calculado por la Compañía en los cuatro años posteriores a la presentación de la 
+declaración de impuestos.  Las declaraciones juradas del Impuesto a la Renta e Impuesto General 
+a las Ventas de los años 2007 a 2011 están pendientes de fiscalización por parte de la Autoridad 
+Tributaria.  Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las 
+normas legales vigentes, no es posible determinar a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Compañía, por lo que cualquier eventual mayor impuesto o 
+recargo que pudiera resultar de las revisiones fiscales sería aplicado a los resultados del ejercicio 
+en que éste se determine.  En opinión de la Gerencia de la Compañía y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2011, de 2010 y al 1 de enero de 2010. 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2017_Individual_Anual_19_Inmobiliaria Milenia 31-12-11-10.pdf | PAGINA: 43 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+35 
+(e) Para propósito de la determinación del Impuesto a la Renta e Impuesto General a las Ventas, los 
+precios de transferencia de las transacciones con empresas relacionadas y con empresas 
+residentes en territorios de baja o nula imposición, deben estar sustentados con documentación 
+e información sobre los métodos de valoración utilizados y los criterios considerados para su 
+determinación.  Con base en el análisis de las operaciones de la Compañía, la Gerencia y sus 
+asesores legales opinan que, como consecuencia de la aplicación de estas normas, no surgirán 
+contingencias de importancia para la Compañía al 31 de diciembre de 2011, de 2010 y al 1 de 
+enero de 2010. 
+ 
+15. Ingreso por cargo de servicio 
+Comprende los ingresos por la recuperación de los gastos incurridos por la compañía por cuenta de sus 
+arrendatarios; dichos gastos están relacionados principalmente a tributos municipales y gastos de 
+mantenimiento de los locales arrendados de acuerdo a los contratos vigentes. A continuación se 
+presenta la composición del rubro: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Propiedades de inversión, nota 9(b) 1,078 1,041 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 19 -  __________ __________ 
+   
+Total 1,097 1,041  __________ __________ 
+ 
+16. Gasto por cargos de de servicio 
+(a) Al 31 de diciembre de 2011 y de 2010 el rubro comprende: 
+ 
+ 2011 2010 
+ S/.(000) S/.(000) 
+   
+Tributos  (b) 776 758 
+Servicios prestados por terceros (b) 696 664 
+Cargas diversas de gestión 40 27  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+   
+Costos asociados a:   
+Propiedades de inversión, nota 9(b) 1,318 1,449 
+Propiedades de inversión disponibles para la venta, nota 8 (b) 194 -  __________ __________ 
+   
+Total 1,512 1,449  __________ __________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2014_Individual_Anual_Inmobiliaria Milenia 31-12-14 V-4-.pdf | PAGINA: 5 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante del estado de situación financiera. 
+Inmobiliaria Milenia S.A. 
+Estado de situación financiera 
+Al 31 de diciembre de 2014 y de 2013  
+ Nota 2014 2013 
+  S/.(000) S/.(000) 
+    
+Activo    
+Activo corriente    
+Efectivo y equivalentes de efectivo 3 1,899 6,321 
+Cuentas por cobrar comerciales, neto  4 1,060 243 
+Otras cuentas por cobrar  42 95 
+Seguros y otros gastos pagados por anticipado  33 21   _________ _________ 
+  3,034 6,680   _________ _________ 
+    
+    
+Activo no corriente    
+Propiedades de inversión 5 207,813 164,176 
+Inmuebles, mobiliario y equipo, neto 6 - 637   _________ _________ 
+  207,813 164,813   _________ _________ 
+    
+Total activo  210,847 171,493   _________ _________ 
+    
+Pasivo y patrimonio    
+Pasivo corriente    
+Cuentas por pagar comerciales  91 132 
+Otras cuentas por pagar 7 752 760   _________ _________ 
+Total pasivo corriente  843 892   _________ _________ 
+    
+Impuesto a la renta diferido, neto 8(a) 49,449 43,436   _________ _________ 
+    
+Total pasivo  50,292 44,328   _________ _________ 
+    
+Patrimonio  9   
+Capital social  23,370 23,370 
+Reserva legal  5,443 5,443 
+Resultados acumulados  131,742 98,352   _________ _________ 
+Total patrimonio   160,555 127,165   _________ _________ 
+    
+Total pasivo y patrimonio   210,847 171,493   _________ _________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2014_Individual_Anual_Inmobiliaria Milenia 31-12-14 V-4-.pdf | PAGINA: 6 | puntaje 11 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante del estado de situación financiera. 
+Inmobiliaria Milenia S.A. 
+Estado de resultados integrales 
+Por los años terminados el 31 de diciembre de 2014 y de 2013 
+ Nota 2014 2013 
+  S/.(000) S/.(000) 
+    
+    
+Ingresos de servicio inmobiliario 12 5,608 7,093 
+Costo de servicio inmobiliario  13 (1,897) (1,917)   __________ __________ 
+Resultado de servicio inmobiliario, neto  3,711 5,176     
+Pérdida en venta de propiedades de inversión 
+disponibles para la venta   - (157) 
+Ganancia por valorización de las propiedades de 
+inversión 5(a) 42,371 8,586   __________ __________ 
+Resultado del negocio inmobiliario  46,082 13,605 
+    
+Gastos administrativos y ventas  14 (988) (481)   __________ __________ 
+Utilidad operativa  45,094 13,124     
+Ingresos financieros  66 30 
+Diferencia de cambio, neta  47 117   __________ __________ 
+Utilidad antes de impuesto a la renta  45,207 13,271     
+    
+Impuesto a la renta 8(b) (6,817) (3,849)   _________ __________     
+Utilidad neta  38,390 9,422   _________ __________ 
+    
+Otros resultados integrales   - -   _________ __________ 
+Total resultado integral  38,390 9,422   _________ __________ 
+    
+Utilidad por acción básica y diluida (en nuevos soles) 10 1.643 0.404   _________ _________ 
+    
+Número de acciones en circulación (en miles) 10 23,370 23,370   _________ _________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2014_Individual_Anual_Inmobiliaria Milenia 31-12-14 V-4-.pdf | PAGINA: 7 | vecina =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante del estado de situación financiera. 
+Inmobiliaria Milenia S.A. 
+Estado de cambios en el patrimonio  
+Por los años terminados el 31 de diciembre de 2014 y de 2013 
+ 
+Capital 
+social 
+Acciones en 
+tesorería 
+Reserva  
+legal 
+Resultados 
+acumulados Total 
+ S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) 
+      
+Saldo al 1 de enero de 2013 23,370 (144) 4,516 94,352 122,094 
+      
+Utilidad neta - - - 9,422 9,422  ________ ________ ________ ________ ________ 
+Total resultados integrales - - - 9,422 9,422 
+      
+Venta de acciones en tesorería, nota 9(d)  - 144 - 5 149 
+Constitución de reserva legal, nota 9(b) - - 927 (927) - 
+Distribución de dividendos, nota 9(c) - - - (4,500) (4,500)  ________ ________ ________ ________ ________ 
+      
+Saldo al 31 de diciembre de 2013 23,370 - 5,443 98,352 127,165 
+      
+Utilidad neta - - - 38,390 38,390  ________ ________ ________ ________ ________ 
+Total resultados integrales 23,370 - 5,443 136,742 165,555 
+      
+Distribución de dividendos, nota 9(d) - - - (5,000) (5,000)  ________ ________ ________ ________ ________ 
+      
+Saldo al 31 de diciembre de 2014 23,370 - 5,443 131,742 160,555  ________ ________ ________ ________ ________ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2014_Individual_Anual_Inmobiliaria Milenia 31-12-14 V-4-.pdf | PAGINA: 8 | puntaje 11 =====
+ 
+Las notas a los estados financieros adjuntas son parte integrante del estado de situación financiera. 
+Inmobiliaria Milenia S.A. 
+Estado de flujos de efectivo 
+Por los años terminados el 31 de diciembre de 2014 y de 2013 
+ 2014 2013 
+ S/.(000) S/.(000) 
+Conciliación de la utilidad neta con el efectivo y equivalentes de 
+efectivo provenientes de (utilizados en) las actividades de 
+operación   
+Utilidad neta 38,390 9,422 
+Ajustes a la utilidad neta   
+Depreciación  30 33 
+Provisión de cobranza dudosa 52 15 
+Impuesto a la renta diferido 6,013 1,880 
+Ganancia por valorización de las propiedades de inversión (42,371) (8,586) 
+Costo neto de Activo fijo retirado 15 157    
+Variaciones netas de activos y pasivos:   
+Cuentas por cobrar comerciales (869) 188 
+Otras cuentas por cobrar 53 127 
+Seguros y otros gastos pagados por anticipado (12) 24 
+Cuentas por pagar comerciales (41) 24 
+Otras cuentas por pagar  (26) 323 
+Otros  - 18  _________ _________ 
+Efectivo y equivalentes de efectivo proveniente de las 
+actividades de operación 1,234 3,625  _________ _________ 
+Actividades de inversión   
+Venta de propiedades de inversión disponibles para la venta - 3,966 
+Mejoras en propiedades de inversión (674) (1,187) - _________ _________ 
+Efectivo y equivalentes de efectivo proveniente de las 
+actividades de inversión (674) 2,779  _________ _________ 
+Actividades de financiamiento   
+Dividendos pagados (4,982) (4,510) 
+Venta de acciones en tesorería - 149  _________ _________ 
+Efectivo y equivalentes de efectivo utilizado en las actividades 
+de financiamiento (4,982) (4,361)  _________ _________ 
+Aumento neto (disminución neto) de efectivo en el ejercicio (4,422) 2,043    
+Saldo de efectivo y equivalentes de efectivo al inicio del ejercicio 6,321 4,278  _________ _________ 
+Saldo de efectivo y equivalentes de efectivo al finalizar el 
+ejercicio 1,899 6,321  _________ _________ 
+ 
+Transacciones que no generan flujos de efectivo:   
+ 
+Transferencia de activo fijo a Inversiones inmobiliarias 592 - 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2014_Individual_Anual_Inmobiliaria Milenia 31-12-14 V-4-.pdf | PAGINA: 9 | vecina =====
+ 
+ 
+Inmobiliaria Milenia S.A. 
+Notas a los estados financieros 
+Al 31 de diciembre de 2014 y de 2013 
+  1. Identificación y actividad económica 
+Identificación y actividad económica - 
+Inmobiliaria Milenia S.A. (en adelante “la Compañía”) es una sociedad anónima constituida el 29 de 
+marzo de 2000, mediante el aporte de un bloque patrimonial cedido por Popular y Porvenir Compañía 
+de Seguros S.A.  Dicho bloque patrimonial estuvo conformado por 17 inmuebles cuyo valor en libros 
+ascendía a un importe aproximado de S/. 33,007,000. 
+ 
+Hasta el 23 de Diciembre de 2010, el 98.26 por ciento de las acciones de la Compañía fueron de 
+propiedad del Ministerio de Economía y Finanzas, representado por el Fondo Nacional de Financiamiento 
+de la Actividad Empresarial del Estado (FONAFE), y el 1.74 por ciento de las acciones restantes 
+pertenecieron a un grupo de 118 accionistas privados.  En dicha fecha, Lince Global Opportunities Corp. 
+(empresa Holding constituida en Panamá subsidiaria de Intercorp Retail Inc., que a su vez es subsidiaria 
+de Intercorp Perú Ltd., en adelante “Grupo Intercorp Perú”) adquirió la participación que tenía FONAFE 
+y parte de la participación de los otros accionistas privados, por lo que al 31 de diciembre de 2014 y de 
+2013 es el accionista mayoritario con una participación en el capital social del 98.70 y 98.58 por 
+ciento, respectivamente, ver nota 10(a). 
+ 
+Al 31 de diciembre de 2014 y de 2013, la sede de la Compañía está ubicada en Av. Felipe Pardo y Aliaga 
+N°640, oficina 801, San Isidro, Lima, Perú.  
+ 
+El objeto social de la Compañía es dedicarse a todo tipo de actividades vinculadas a la cesión del uso, 
+usufructo o posesión de bienes inmuebles, mediante cualquier modalidad contractual; así como enajenar 
+los mismos, bajo cualquier título. 
+ 
+Los estados financieros al 31 de diciembre de 2013 y por el año terminado a dicha fecha han sido 
+aprobados por la Junta General Obligatoria Anual de Accionistas celebrada el 27 de marzo de 2014. Los 
+estados financieros al 31 de diciembre de 2014 adjuntos han sido aprobados por la Gerencia de la 
+Compañía y serán presentados para la aprobación del Directorio y de la Junta General de Accionistas 
+que se efectuará dentro de los plazos establecidos por Ley.  En opinión de la Gerencia, dichos estados 
+financieros serán aprobados sin modificaciones.  
+ 
+  2. Principios y prácticas contables 
+A continuación se presentan los principales principios y prácticas contables utilizados en la preparación 
+de los estados financieros de la Compañía: 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2014_Individual_Anual_Inmobiliaria Milenia 31-12-14 V-4-.pdf | PAGINA: 28 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+20 
+ 
+2014 2013 
+ 
+S/.(000) S/.(000) 
+ 
+  
+Tasaciones de Inmuebles 21,473 6,901 
+Flujos futuros descontados 20,898 1,685  __________ __________    
+Saldos  de tasaciones  42,371 8,586 
+ __________ __________ 
+ 
+(b) La Compañía no tiene restricciones sobre la posibilidad de disponer o vender sus propiedades de 
+inversión, ni tiene asumidas obligaciones financieras contractuales respecto de comprar, 
+construir o desarrollar propiedades de inversión, o de realizar reparaciones, tareas de 
+mantenimiento o ampliaciones. 
+ 
+(c) A continuación se detallan los principales supuestos utilizados en la valorización y en la 
+estimación del valor de mercado de las propiedades de inversión: 
+ 
+ 2014 2013 
+ % % 
+   
+Inflación de largo plazo 2.50 2.50 
+Tasa de ocupación promedio de inmuebles a largo plazo 98.00 97.00 
+Tasa de crecimiento promedio en la renta de alquiler  2.50 2.50 
+Margen EBITDA promedio 85.56 94.00 
+Tasa de descuento 9.17 9.60 
+ 
+(d) A continuación se presenta el análisis de sensibilidad sobre la valorización de las inversiones en 
+propiedades, frente a cambios en los factores que la Gerencia estima más relevantes: 
+ 
+ 
+Cambio de 
+tasas  2014 2013 
+  S/.(000) S/.(000) 
+Tasa de crecimiento promedio en la renta de 
+alquiler (base) 2.50%   
+Incremento +0.25% 2,196 13,733 
+Disminución  -0.25% (2,009) (12,661) 
+Tasa de descuento (base) 9.17%   
+Incremento +0.50% (5,099) (29,627) 
+Disminución -0.50% 5,964 32,963 
+ 
+  
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2014_Individual_Anual_Inmobiliaria Milenia 31-12-14 V-4-.pdf | PAGINA: 29 | puntaje 6 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+ 
+21 
+(e) El monto de los ingresos mínimos fijos futuros por moneda correspondiente a los arrendamientos 
+de las inversiones inmobiliarias es como sigue: 
+ 
+Año Vinculadas Terceros Total  ________________________ _______________________ _______________________ 
+ US$(000) S/.(000) US$(000) S/.(000) US$(000) S/.(000) 
+       
+2015 854 1,011 - 337 854 1,348 
+2016 627 960 - 18 627 978 
+2017 283 480 - - 283 480 
+2018 89 - - - 89 -  _________ _________ _________ _________ _________ _________        
+Total 1,853 2,451 - 355 1,853 2,806  _________ _________ _________ _________ _________ _________ 
+ 
+(f) Con respecto a los operaciones que realizó la compañía durante el 2014, en el mes de noviembre 
+la Compañía firmó un compromiso de compraventa con La Quinta de los Fabricantes S.A.C. (en 
+adelante “Futuro comprador”), quienes mediante dicho compromiso acuerdan celebrar un 
+contrato de compraventa con respecto al local comercial de “Larco”, cuyo precio convenido 
+asciende a un importe de US$ 9,000,000 (equivalente a S/.26,865,000 aproximadamente). En 
+enero de 2015, los compradores realizaron el pago acordado procediéndose a la transferencia 
+legal del inmueble.  
+ 
+
+===== ARCHIVO: EEFFDD-INMOBILIARIA MILENIA S.A.-Individual.zip/2014_Individual_Anual_Inmobiliaria Milenia 31-12-14 V-4-.pdf | PAGINA: 30 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+22 
+  6. Inmuebles, mobiliario y equipo, neto 
+(a) A continuación se presenta el movimiento del rubro por los ejercicios 2014 y de 2013: 
+ 
+Descripción Edificios Instalaciones  Muebles 
+Equipos de 
+cómputo Equipos diversos 
+Total 
+2014 
+Total 
+2013 
+ S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) S/.(000) 
+        
+Costo        
+Saldo al 01 de enero de 2014 720 - 56 164 - 940 940 
+Retiros  - - (56) (164) - (220) - 
+Transferencia a Inversión inmobiliaria, nota 5 (720) - - - - (720) -  __________ __________ __________ __________ __________ __________ __________ 
+Saldo al 31 de diciembre de 2014 - - - - - - 940  __________ __________ __________ __________ __________ __________ __________ 
+        
+Depreciación acumulada         
+Saldo al 1 de enero de 2014 104 - 44 155 - 303 270 
+Adiciones 24 - 4 2 - 30 33 
+Retiros - - (48) (157) - (205) - 
+Transferencia a Inversión inmobiliaria, nota 5 (128) - - - - (128) -  __________ __________ __________ __________ __________ __________ __________ 
+Saldo al 31 de diciembre de 2014 - - - - - - 303  __________ __________ __________ __________ __________ __________ __________         
+Valor neto en libros - - - - - - 637  __________ __________ __________ __________ __________ __________ __________ 
+ 
+(b) La Gerencia revisa periódicamente el método de depreciación utilizado, con la finalidad de asegurar que sea consistente con el beneficio económico de los activos fijos.  En opinión de 
+la Gerencia de la Compañía, no existe evidencia de deterioro de los activos fijos mantenidos por la Compañía al 31 de diciembre de 2014 y de 2013. 
