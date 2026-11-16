@@ -13,7 +13,7 @@ on:
 
 permissions:
   actions: read
-  contents: read
+  contents: write
 
 jobs:
   extraer:
@@ -46,3 +46,17 @@ jobs:
           name: extractos
           path: extractos/**
           retention-days: 90
+      - name: Guardar extractos en una rama (para que Claude los lea sin descargar artifacts)
+        run: |
+          rama="extractos-${{ github.run_id }}"
+          mkdir -p /tmp/ext && cp -r extractos /tmp/ext/
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git checkout --orphan "$rama"
+          git rm -rq --cached . || true
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -r /tmp/ext/extractos .
+          git add extractos
+          git commit -qm "Extractos de la corrida ${{ github.run_id }}"
+          git push -q origin "$rama"
+
