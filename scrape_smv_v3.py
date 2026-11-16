@@ -131,6 +131,8 @@ ANIO_HASTA = int(os.environ.get("ANIO_HASTA", time.strftime("%Y")))
 ANIOS = list(range(ANIO_HASTA, ANIO_DESDE - 1, -1))   # descendente
 
 TIPOS = ["Individual", "Consolidada"]
+# v3.5: SOLO_ANUAL=1 -> solo el Dictamen anual (sin trimestres ni reportes tabulares). Mucho mas rapido.
+SOLO_ANUAL = os.environ.get("SOLO_ANUAL", "0") == "1"
 
 # ============================================================================
 # NO HACE FALTA TOCAR NADA DE AQUI PARA ABAJO
@@ -716,13 +718,15 @@ def procesar_anio_tipo(driver, carpeta_dictamen, carpeta_tabular, anio, tipo):
     if _filtrar(anual=True):
         etiqueta = f"{anio}_{tipo}_Anual"
         filas_anual, _ = descargar_todas_las_filas(driver, carpeta_dictamen, ["Dictamen"], etiqueta)
-        exitos_tab = descargar_reporte_eeff_tabular(driver, carpeta_tabular, etiqueta)
+        exitos_tab = 0 if SOLO_ANUAL else descargar_reporte_eeff_tabular(driver, carpeta_tabular, etiqueta)
         if filas_anual > 0 or exitos_tab > 0:
             encontro_algo = True
 
         if filas_anual > 0:
             # Se encontro la fila de Dictamen en Anual -> no hace falta revisar trimestres.
             return True
+        if SOLO_ANUAL:
+            return encontro_algo
     else:
         print(f"    [info] {anio} ({tipo}): Anual no disponible en el selector para este anio.")
 

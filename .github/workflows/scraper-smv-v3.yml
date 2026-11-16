@@ -34,9 +34,13 @@ jobs:
       - run: pip install -r requirements.txt
       - uses: browser-actions/setup-chrome@v1
       - name: Correr el scraper (tanda ${{ matrix.batch }})
+        timeout-minutes: 330
         env:
           BATCH: ${{ matrix.batch }}
           NUM_TANDAS: ${{ github.event.inputs.tandas }}
+          SOLO_ANUAL: "1"
+          ANIO_DESDE: "2008"
+          ANIO_HASTA: "2025"
         run: python scrape_smv_v3.py
       - name: Subir los resultados (zips)
         if: always()
