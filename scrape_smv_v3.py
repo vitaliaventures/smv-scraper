@@ -2,7 +2,8 @@
 """
 =============================================================================
  SCRAPER SMV PERU v3.1 -- Descarga masiva de Estados Financieros y Dictamen
- (v3.3: retiradas por codigo + revision rapida; los anios vacios recientes ya no cortan la busqueda.
+ (v3.4: espera la recarga de la pagina con retiradas y clic seguro al descargar.
+ v3.3: retiradas por codigo + revision rapida; los anios vacios recientes ya no cortan la busqueda.
  v3.2: acepta "NOMBRE|CODIGO" para empresas retiradas.
  v3: lista de empresas en empresas_eeff.txt, salta empresas_hechas.txt,
   elige la sugerencia mas parecida, anios desde ANIO_DESDE)
@@ -169,6 +170,28 @@ def click_seguro(driver, elemento):
             elemento.click()
         except Exception:
             driver.execute_script("arguments[0].click();", elemento)
+
+
+def esperar_recarga(driver, viejo, segundos=30):
+    """v3.4: la pantalla de Informacion Financiera (con retiradas) recarga la pagina
+    completa al buscar o al cambiar a Intermedio. Espera a que termine."""
+    try:
+        WebDriverWait(driver, segundos).until(EC.staleness_of(viejo))
+    except Exception:
+        pass
+    try:
+        WebDriverWait(driver, 60).until(
+            EC.presence_of_element_located((By.ID, "MainContent_cboAnio")))
+        WebDriverWait(driver, 60).until(lambda d: d.execute_script(
+            "var m=document.getElementById('myLoading');"
+            "return document.readyState=='complete' && (!m || getComputedStyle(m).display=='none');"))
+    except Exception:
+        pass
+    time.sleep(1.5)
+
+
+def en_pantalla_retiradas(driver):
+    return bool(driver.find_elements(By.ID, "MainContent_cbBuscar"))
 
 
 CHROME_PROFILE_DIR = os.path.join(OUTPUT_DIR, "_chrome_profile")  # perfil/cache de Chrome
@@ -386,7 +409,12 @@ def marcar_periodo(driver, anual=True):
         )
         radio = driver.find_element(By.ID, id_periodo)
         if not radio.is_selected():
-            click_seguro(driver, label)
+            if en_pantalla_retiradas(driver) and not anual:
+                viejo = driver.find_element(By.TAG_NAME, "html")
+                click_seguro(driver, label)
+                esperar_recarga(driver, viejo, segundos=10)
+            else:
+                click_seguro(driver, label)
         return driver.find_element(By.ID, id_periodo).is_selected()
     except Exception as e:
         print(f"    [!] No se pudo marcar Periodo: {e}")
@@ -460,11 +488,21 @@ def hacer_clic_filtrar(driver, tipo, anual, trimestre=None):
     marcar_tipo(driver, tipo)
     if not anual and trimestre:
         reconfirmar_trimestre(driver, trimestre)
-    boton = wait.until(lambda d: next((b for b in
-        d.find_elements(By.ID, "MainContent_lnkBuscar") + d.find_elements(By.ID, "MainContent_cbBuscar")
-        if b.is_displayed() and b.is_enabled()), False))
-    click_seguro(driver, boton)
-    time.sleep(PAUSA_ENTRE_ACCIONES + 1.5)
+    def _boton(d):
+        try:
+            return next((b for b in
+                d.find_elements(By.ID, "MainContent_lnkBuscar") + d.find_elements(By.ID, "MainContent_cbBuscar")
+                if b.is_displayed() and b.is_enabled()), False)
+        except Exception:
+            return False
+    boton = wait.until(_boton)
+    if boton.get_attribute("id") == "MainContent_cbBuscar":
+        viejo = driver.find_element(By.TAG_NAME, "html")
+        click_seguro(driver, boton)
+        esperar_recarga(driver, viejo)
+    else:
+        click_seguro(driver, boton)
+        time.sleep(PAUSA_ENTRE_ACCIONES + 1.5)
 
 
 def buscar_filas_por_palabras(driver, palabras_clave):
@@ -490,9 +528,9 @@ def descargar_fila(driver, fila, carpeta_destino, etiqueta):
     archivos_antes = esperar_descarga_completa()
     ventanas_antes = driver.window_handles
     try:
-        link.click()
+        click_seguro(driver, link)
     except Exception as e:
-        print(f"    [!] {etiqueta}: no se pudo hacer clic ({e})")
+        print(f"    [!] {etiqueta}: no se pudo hacer clic ({str(e)[:120]})")
         return False
 
     time.sleep(2)
