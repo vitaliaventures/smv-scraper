@@ -2,7 +2,8 @@
 """
 =============================================================================
  SCRAPER SMV PERU v3.1 -- Descarga masiva de Estados Financieros y Dictamen
- (v3.2: acepta "NOMBRE|CODIGO" para empresas retiradas.
+ (v3.3: retiradas por codigo + revision rapida; los anios vacios recientes ya no cortan la busqueda.
+ v3.2: acepta "NOMBRE|CODIGO" para empresas retiradas.
  v3: lista de empresas en empresas_eeff.txt, salta empresas_hechas.txt,
   elige la sugerencia mas parecida, anios desde ANIO_DESDE)
 =============================================================================
@@ -735,6 +736,39 @@ def abrir_por_codigo(driver, codigo):
     print(f"    [ok] Empresa abierta por codigo {codigo}: '{nombre.strip()}' (retiradas)")
 
 
+ANIO_DESDE_PANEL = 2009
+
+
+def tiene_datos(driver):
+    """v3.3: una sola busqueda Anual con anio = TODOS (valor -1) por tipo.
+    Devuelve el ultimo anio >= 2008 con 'Dictamen', o None si no hay."""
+    for tipo in TIPOS:
+        try:
+            marcar_tipo(driver, tipo)
+            marcar_periodo(driver, anual=True)
+            if not seleccionar_anio(driver, -1):
+                continue
+            hacer_clic_filtrar(driver, tipo=tipo, anual=True)
+            time.sleep(4)
+            filas = driver.find_elements(By.XPATH, "//table[@id='MainContent_grdInfoFinanciera']//tr[td]")
+            anios = []
+            for f in filas:
+                t = f.text.strip()
+                m = re.match(r"(\d{4})\s", t)
+                if m and ("Dictamen" in t or "Estados Financieros" in t):
+                    anios.append(int(m.group(1)))
+            hay_mas_paginas = bool(driver.find_elements(
+                By.XPATH, "//table[@id='MainContent_grdInfoFinanciera']//a[normalize-space(text())='2']"))
+            print(f"    [debug] revision {tipo}: anios {sorted(set(anios))[-5:]} mas paginas={hay_mas_paginas}")
+            if any(x >= 2008 for x in anios):
+                return max(anios)
+            if hay_mas_paginas:
+                return 9999
+        except Exception as e:
+            print(f"    [!] revision rapida {tipo}: {e}")
+    return None
+
+
 def entrar_empresa(driver, empresa):
     """Abre la pantalla de Informacion Financiera de la empresa (por codigo o por nombre)."""
     nombre, _, codigo = empresa.partition("|")
@@ -747,9 +781,7 @@ def entrar_empresa(driver, empresa):
 
 def procesar_empresa(driver, empresa):
     nombre_empresa = empresa.split("|")[0].strip()
-    carpeta_empresa = os.path.join(OUTPUT_DIR, limpiar_nombre(nombre_empresa))
-    os.makedirs(carpeta_empresa, exist_ok=True)
-    print(f"\n{'='*70}\nEMPRESA: {nombre_empresa}\n{'='*70}")
+    print(f"\n{'='*70}\nEMPRESA: {empresa}\n{'='*70}")
 
     try:
         entrar_empresa(driver, empresa)
@@ -757,6 +789,27 @@ def procesar_empresa(driver, empresa):
         print(f"  [ERROR] No se pudo abrir la empresa (tras varios intentos):")
         traceback.print_exc()
         return
+
+    # v3.3: con codigo, el nombre se toma de la SMV (la lista puede traer solo el codigo)
+    if "|" in empresa:
+        try:
+            nombre_empresa = Select(driver.find_element(
+                By.ID, "MainContent_cboDenominacionSocial")).first_selected_option.text.strip() or nombre_empresa
+        except Exception:
+            pass
+    carpeta_empresa = os.path.join(OUTPUT_DIR, limpiar_nombre(nombre_empresa))
+    os.makedirs(carpeta_empresa, exist_ok=True)
+
+    # v3.3: empresas retiradas (con codigo): revision rapida antes de bajar todo.
+    # Si no hay ningun EEFF anual individual ni consolidado en anios alternos 2009-2025, se salta.
+    if "|" in empresa:
+        primer = tiene_datos(driver)
+        if primer is None:
+            print(f"  [skip] {nombre_empresa}: sin EEFF anuales entre {ANIO_DESDE_PANEL} y 2025. Se salta.")
+            with open("empresas_sin_datos.txt", "a", encoding="utf-8") as f:
+                f.write(empresa + "\n")
+            return driver
+        print(f"  [info] {nombre_empresa}: hay EEFF (por ejemplo {primer}). Descargando...")
 
     carpetas_generadas = []
 
@@ -769,6 +822,7 @@ def procesar_empresa(driver, empresa):
         os.makedirs(carpeta_tabular, exist_ok=True)
 
         anios_vacios_seguidos = 0
+        hubo_datos = False   # v3.3: empresas retiradas no tienen datos recientes
         for anio in ANIOS:
             print(f"\n  --- {nombre_empresa} | {tipo} | {anio} ---")
 
@@ -798,7 +852,8 @@ def procesar_empresa(driver, empresa):
 
             if encontro_algo:
                 anios_vacios_seguidos = 0
-            else:
+                hubo_datos = True
+            elif hubo_datos:
                 anios_vacios_seguidos += 1
                 if anios_vacios_seguidos >= 3:
                     print(f"    [info] {tipo}: 3 anios seguidos sin ninguna informacion "

@@ -36,6 +36,13 @@ PALABRAS = {
     "ganancia en venta": 3, "perdida en venta": 3, "utilidad en venta": 3,
     "ingreso por venta de activo": 3, "baja de activo": 2, "dacion en pago": 3,
     "mantenidos para la venta": 3, "niif 5": 2,
+    # v2: verbos y detalle de la venta (ahi suelen estar precio y costo)
+    "vendio": 3, "vendieron": 3, "se vendio": 3, "venta del inmueble": 4,
+    "venta del terreno": 4, "venta de los inmuebles": 4, "venta de inmuebles": 4,
+    "venta de terrenos": 4, "venta del edificio": 4, "precio de venta": 3,
+    "costo de enajenacion": 3, "ingreso por enajenacion": 3, "costo neto": 1,
+    "valor neto en libros": 2, "valor en libros": 1, "provias": 4,
+    "tasacion comercial": 3, "transferencia forzosa": 5, "aporte en especie": 3,
     # contexto de medicion
     "propiedades de inversion": 2, "propiedad de inversion": 2, "nic 40": 2,
     "nic 16": 1, "valor razonable": 1, "revaluacion": 2, "excedente de revaluacion": 2,
@@ -103,6 +110,7 @@ def main():
             no_abiertos.append(archivo)
             continue
         sin_texto = 0
+        seleccion, textos = set(), {}
         for i, pagina in enumerate(paginas, 1):
             try:
                 texto = pagina.extract_text() or ""
@@ -114,10 +122,28 @@ def main():
             puntaje, hallados = puntuar(texto)
             if puntaje < UMBRAL or (EXIGE_EVENTO and not (set(hallados) & EVENTO)):
                 continue
+            seleccion.add(i)
             filas.append({"empresa": empresa, "archivo": archivo, "pagina": i,
                           "puntaje": puntaje, "palabras": ", ".join(sorted(hallados))})
+            textos[i] = (texto, puntaje)
+        # v2: se agrega la pagina anterior y la siguiente de cada pagina elegida
+        # (las notas suelen partir el detalle de una venta entre dos paginas)
+        vecinas = {j for i in seleccion for j in (i - 1, i + 1)
+                   if 1 <= j <= len(paginas) and j not in seleccion}
+        for j in sorted(seleccion | vecinas):
+            if j in textos:
+                texto, puntaje = textos[j]
+                marca = f"puntaje {puntaje}"
+            else:
+                try:
+                    texto = paginas[j - 1].extract_text() or ""
+                except Exception:
+                    texto = ""
+                if len(texto.strip()) < 50:
+                    continue
+                marca = "vecina"
             paquetes.setdefault(empresa, []).append(
-                f"\n===== ARCHIVO: {archivo} | PAGINA: {i} | puntaje {puntaje} =====\n{texto}\n")
+                f"\n===== ARCHIVO: {archivo} | PAGINA: {j} | {marca} =====\n{texto}\n")
         if sin_texto > 0.5 * max(1, len(paginas)):
             print(f"[aviso] {archivo}: {sin_texto} paginas sin texto (PDF escaneado; "
                   f"revisarlo a mano o con OCR)")
