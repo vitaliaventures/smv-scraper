@@ -1,28 +1,28 @@
-# Ronda 2 del scraper v3.1 (15/11/2026): solo las 26 empresas que fallaron en la ronda 1
-# (Chrome se cayo, corte por tiempo, o se eligio una empresa equivocada)
-SOCIEDAD MINERA EL BROCAL S.A.A.
-INVERSIONES NACIONALES DE TURISMO S.A. INTURSA
-UNACEM CORP SOCIEDAD ANONIMA ABIERTA - UNACEM CORP S.A.A.
-ICCGSA INVERSIONES S.A.
+# Ronda 3 (16/11/2026): las 26 empresas de septiembre (sus artifacts ya se borraron) + Backus
+Los Portales S.A.
+Inversiones Centenario S.A.A.
+Andino Investment Holding S.A.A.
+Rimac Seguros y Reaseguros
+Pacifico Compañia de Seguros y Reaseguros
+InRetail Peru Corp
+Interseguro Compañia de Seguros
+La Positiva Seguros y Reaseguros S.A.
+La Positiva Vida Seguros y Reaseguros S.A.
+Interproperties Peru S.A.
+Pacifico Vida
+Administradora Jockey Plaza Shopping Center S.A.
+Mapfre Peru Compañia de Seguros y Reaseguros
+Activo Inmobiliario Peruano S.A.A.
+Inmobiliaria IDE S.A.
+Futura Consorcio Inmobiliario S.A.
+Agro Industrial Paramonga S.A.
+Agro Pucala S.A.A.
+Agroindustrial Laredo S.A.A.
+Agroindustrias AIB S.A.
+Agroindustrias San Jacinto S.A.A.
+Empresa Agroindustrial Pomalca S.A.A.
+Empresa Agroindustrial Tuman S.A.A.
+Cumbra Holding S.A.A.
+Cementos Pacasmayo S.A.A.
+Corporacion Aceros Arequipa S.A.
 UNION DE CERVECERIAS PERUANAS BACKUS Y JOHNSTON S.A.A.
-COMPAÑIA MINERA PODEROSA S.A.A.
-ELECTRO SUR ESTE S.A.A.
-EMPRESA ELECTRICIDAD DEL PERU - ELECTROPERU S.A.
-EXPERTIA TRAVEL S.A.
-H2OLMOS S.A.
-LAIVE S.A.
-PERU HOLDING DE TURISMO S.A.A.
-RED DE ENERGIA DEL PERU S.A.
-SOCIEDAD ELECTRICA DEL SUR OESTE S.A. - SEAL
-VOLCAN COMPAÑIA MINERA S.A.A.
-INMOBILIARIA KANPU S.A.
-EMPRESA AGRARIA AZUCARERA ANDAHUASI S.A.A.
-EMPRESA REGIONAL DE SERVICIO PUBLICO DE ELECTRICIDAD - ELECTROSUR S.A.
-FABRICA NACIONAL DE ACUMULADORES ETNA S.A.
-HERMES TRANSPORTES BLINDADOS S.A.
-LUZ DEL SUR S.A.A.
-PERUANA DE ENERGIA S.A.A.
-RED VIAL 5 S.A.
-SOCIEDAD MINERA CERRO VERDE S.A.A.
-YURA S.A.
-INMOBILIARIA MILENIA S.A.
