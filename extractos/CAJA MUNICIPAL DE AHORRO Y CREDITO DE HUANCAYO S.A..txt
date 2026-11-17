@@ -1,0 +1,2925 @@
+EMPRESA: CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_12_INFORME EEFF 2016.pdf | PAGINA: 17 | vecina =====
+ 
+17 
+ 
+i) Bienes recibidos en dación de pago y adjudicados  
+Están conformados por bienes muebles e inmuebles; los primeros básicamente por joyas dejadas 
+como garantía por créditos; en el caso específico de los inmuebles, éstos son adjudicados 
+judicialmente y las joyas provienen de créditos prendarios vencidos, que habiendo sido rematadas no 
+fueron vendidos, por lo que pasan a ser adjudicados por la CMAC Huancayo. El registro contable de 
+los bienes adjudicados se produce en la fecha de adjudicación judicial o extrajudicial. 
+ 
+Los bienes adjudicados son registrados al valor de adjudicación judicial o extrajudicial; en ningún 
+caso, el valor del bien adjudicado es mayor al valor total de la deuda que se cancela. 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, se 
+constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor neto de 
+realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la provisión inicial 
+requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la adjudicación, 
+una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de los bienes menos la 
+provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo de un (1) año, se debe 
+completar la provisión hasta alcanzar el equivalente al 100% del costo en libros, al vencimiento del 
+referido plazo. Tratándose de bienes que cuenten con la prórroga prevista en el Artículo 215º de la 
+Ley General del Sistema Financiero, se debe completar la provisión hasta alcanzar el equivalente al 
+100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, se constituyen provisiones mensuales uniformes, sobre el valor neto 
+en libros obtenido al décimo segundo (12º) mes.  Adicionalmente, la Resolución SBS N°1535-2005 
+permite el otorgamiento de una prórroga de seis meses, en cuyo caso, se constituirán provisiones 
+mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo mes (18º).  En ambos 
+casos, las provisiones se constituirán hasta alcanzar el 100% del valor neto en libros en un plazo de 
+(3.5) año, contados a partir de la fecha en la cual se empezaron a constituir las provisiones uniformes 
+mensuales. 
+ 
+La actualización anual de las valuaciones de los bienes inmuebles es realizada por un perito 
+independiente consideran que las valuaciones no podrán tener una antigüedad mayor a un año, esto 
+implicara de ser necesario, la constitución de provisiones por desvalorización. 
+ 
+j) Participaciones 
+La CMAC Huancayo mantiene inversiones financieras permanentes de disponibilidad restringida, las 
+cuales están representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – 
+FOCMAC y se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de mayo de 
+1990, se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  Con fecha 01 
+de diciembre de 2016 se adquirió 465,000 acciones tipo B de Pagos Digitales Peruanos S.A. 
+ 
+k) Inmueble, Mobiliario y Equipos  
+Los inmuebles, mobiliario y equipo son registrados al costo adquisición, menos la depreciación 
+acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser aplicable. Los 
+costos de mantenimiento y reparación se cargan a resultados y toda renovación y mejora significativa 
+se capitaliza siempre que: a) sea probable que la entidad obtenga los beneficios económicos futuros 
+derivados de la misma; y, b) su costo pueda ser valorizado confiabilidad.  
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_12_INFORME EEFF 2016.pdf | PAGINA: 18 | puntaje 10 =====
+ 
+18 
+El costo y la correspondiente depreciación acumulada de los activos vendidos o retirados son 
+eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye en los resultados del 
+ejercicio.  
+ 
+Las obras en curso y bienes por recibir son registradas al costo de adquisición.  Esto incluye el costo 
+de adquisición o construcción y otros costos directos.  Estos bienes no se deprecian hasta que los 
+activos relevantes se reciban o terminen y estén operativos. 
+ 
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil estimada, 
+como sigue: 
+ 
+Vida útil estimada: 
+ 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados  Según el Contrato 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados Según el Contrato 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para asegurar que 
+el método y el periodo de la depreciación sean consistentes con el beneficio económico futuro y las 
+expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+l) Deterioro del valor de los activos  
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo puede 
+no ser recuperable, La Caja revisa el valor de sus inmuebles, mobiliario y equipo, e intangibles para 
+verificar que no existe ningún deterioro permanente en su valor. Cuando el valor del activo en libros 
+excede su valor recuperable se reconoce una pérdida por deterioro en el estado de ganancias y 
+pérdidas para los rubros de inmuebles, mobiliario y equipo e intangibles. El valor recuperable es el 
+mayor entre el precio de venta neto y su valor en uso. El precio de venta neto es el monto que se 
+puede obtener en la venta de un activo en un mercado libre, mientras que el valor en uso es el valor 
+presente de los flujos futuros estimados del uso continuo de un activo y de su disposición al final de su 
+vida útil. 
+ 
+m) Provisiones  
+Se reconoce una provisión sólo cuando la CMAC- Huancayo tiene una obligación presente (legal o 
+implícita) como resultado de un evento pasado, es probable que se requieran recursos para cancelar 
+dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera fiable. Las 
+provisiones se revisan cada período y se ajustan para reflejar la mejor estimación que se tenga a la 
+fecha del balance general. Cuando el efecto del valor del dinero en el tiempo es importante, el monto 
+de la provisión es el valor presente de los gastos que se espera incurrir para cancelarla. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_12_INFORME EEFF 2016.pdf | PAGINA: 19 | vecina =====
+ 
+19 
+n) Contingencias  
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en notas a los 
+estados financieros, a menos que la posibilidad de que se desembolse un flujo económico sea remota. 
+Un activo contingente no se reconoce en los estados financieros, pero se revela cuando su grado de 
+contingencia es probable. 
+ 
+o) Utilidad por acción  
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones que 
+provienen de la capitalización de utilidades constituyen una división de acciones y; por lo tanto, para el 
+cálculo del promedio ponderado de acciones se considera que esas acciones siempre estuvieron en 
+circulación. A la fecha de los estados financieros, la CMAC- Huancayo no tiene instrumentos 
+financieros con efecto dilutivo, por lo que las utilidades por acción básica y diluida son las mismas. 
+ 
+p)  Activos Intangibles 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y su 
+costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa específico. Estos costos son amortizados en el 
+estimado de sus vidas útiles que va de 1 a 5 años. 
+ 
+Los activos intangibles incluidos en el rubro “Otros Activos” del Balance General, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. Estos 
+activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil estimada. 
+ 
+La vida útil y el método de amortización se revisan periódicamente para asegurar que sean 
+consistentes con el patrón previsto de beneficios económicos de las partidas de intangibles de vida 
+limitada. 
+ 
+q) Beneficios laborales  
+Los beneficios laborales se registran como gasto y como pasivo en el momento de su devengamiento. 
+Los beneficios laborales incluyen las remuneraciones de carácter mensual que se entrega a los 
+trabajadores tales como: las vacaciones, gratificaciones, compensación por tiempo de servicios y la 
+participación de los trabajadores en la utilidad del ejercicio. 
+ 
+La provisión para compensación por tiempo de servicios – CTS, se registra con cargo a resultados del 
+ejercicio a medida que se devenga la obligación, que es calculada de acuerdo a lo establecido por el 
+Texto Único Ordenado del D.L. Nº 650, Reglamento, y disposiciones modificatorias y complementarias 
+vigentes. 
+ 
+En aplicación de los Arts. 2° y 22° del Decreto Supremo N° 001-97 – TR, a partir del 01 de noviembre 
+de 2004, se establece el régimen general de depósitos semestrales de la CTS. De acuerdo al referido 
+régimen, deben efectuarse dos (2) depósitos al año. El primero por el periodo comprendido entre el 01 
+de noviembre y el 30 de abril, y el segundo por el periodo comprendido entre el 01 de mayo y el 31 de 
+octubre. 
+ 
+El empleador debe realizar el depósito semestral de la CTS dentro de los primeros quince (15) días 
+naturales de los meses de mayo y noviembre de cada año. Si el último día es inhábil, el depósito 
+puede efectuarse el primer día hábil siguiente. 
+ 
+Los pagos efectuados con carácter cancelatorio son depositados principalmente en la CMAC-
+HUANCAYO, por ser una institución financiera elegida por los colaboradores. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2010_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 19 | vecina =====
+ 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, 
+se constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor 
+neto de realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la 
+provisión inicial requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la 
+adjudicación, una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de 
+los bienes menos la provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo 
+de un (1) año, se debe completar la provisión hasta alcanzar el equivalente al 100% del costo 
+en libros, al vencimiento del referido plazo. Tratándose de bienes que cuenten con la prórroga 
+prevista en el Artículo 215º de la Ley General del Sistema Financiero, se debe completar la 
+provisión hasta alcanzar el equivalente al 100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, en el plazo de tres y medio (3.5) años, se deben constituir 
+provisiones, al vencimiento de cada mes, sobre el valor neto en libros obtenido al décimo octavo 
+(18º) o décimo segundo (12º) mes, teniendo en consideración la existencia de la prórroga, hasta 
+completar un monto equivalente al 100%, del costo en libros de los bienes no vendidos. 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+ 
+ 
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2010_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 20 | puntaje 10 =====
+ 
+ 
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados 20 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados 5% 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos – 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La CMAC-HUANCAYO revisa el valor de sus inmuebles, mobiliario y 
+equipo, e intangibles para verificar que no existe ningún deterioro permanente en su valor. 
+Cuando el valor del activo en libros excede su valor recuperable se reconoce una pérdida por 
+deterioro en el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y 
+equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en 
+uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2010_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 21 | vecina =====
+ 
+ 
+O. Provisiones  
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  tiene una obligación presente 
+(legal o implícita) como resultado de un evento pasado, es probable que se requieran recursos 
+para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera 
+fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación 
+que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en el tiempo 
+es importante, el monto de la provisión es el valor presente de los gastos que se espera incurrir 
+para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción básica 
+y diluida son las mismas. 
+ 
+ 
+ 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa especifico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2024_Individual_Anual_Informe sobre los estados financiero.pdf | PAGINA: 35 | vecina =====
+- 33 - 
+(g) A continuación se presenta la cartera de créditos al 31 de diciembre de 2024 y de 2023, 
+clasificada por vencimiento sobre la base del plazo remanente a la fecha de pago: 
+ 
+ 2024  2023 
+ S/000  S/000 
+    
+Cartera vigente y refinanciada     
+Por vencer     
+Hasta 1 mes  30,962  25,183 
+De 1-3 meses  112,805  105,099 
+De 3 meses a 1 año  1,583,384  1,521,245 
+De 1-3 años  4,528,853  4,119,177 
+De 3-5 años  1,562,939  1,422,452 
+Más de 5 años  425,641  460,464 
+ 8,244,584  7,653,620 
+Vencidos y en cobranzas judicial  399,831  306,144 
+ 8,644,415  7,959,764 
+ 
+(h) Al 31 de diciembre de 2024 la Caja realizó la venta de cartera de créditos vencidos y judiciales 
+cuyos valores nominales al momento de la venta ascendieron a S/64,132 miles (S/176,723 miles 
+al 31 de diciembre de 2023), los cuales se encontraban cien (100) por ciento provisionados. 
+ 
+7 CUENTAS POR COBRAR  
+ 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2024   2023  
+ S/000   S/000  
+    
+Comisiones por cobrar (b)  10,416   4,833  
+Cuentas por cobrar a terceros (a)  5,703   3,603  
+Garantías por alquileres  5,438   5,260  
+Activos por instrumentos financieros (c)  2,148   1,149  
+Pagos efectuados por cuenta de terceros  1,280   865  
+Cuentas por cobrar por obras por impuestos  1,005   856  
+Cuentas por cobrar a Essalud por subsidios por  
+incapacidad temporal  875   1,405  
+Otras cuentas por cobrar  785   667  
+ 27,650   18,638  
+Provisiones para incobrabilidad de cuentas por cobrar  (353)   (214)  
+ 27,297   18,424 
+ 
+(a) Las cuentas por cobrar a terceros están compuestas por garantías de locales alquilados, 
+embargos indebidos y otras cuentas por cobrar a terceros, las cuales a la fecha de cierre y en 
+opinión de la Gerencia no tienen indicios de deterioro. 
+ 
+(b) El detalle de comisiones por cobrar está compuesto de los cobros pendientes por comisiones de 
+cobranza de seguro de desgravamen con la empresa Mapfre S.A., comisión de recaudación de 
+primas con la empresa Chubb Perú S.A. y comisiones por servicio de cobranza de instituciones 
+educativas, empresas de seguros y empresas públicas y privadas como: Disashop Perú SAC 
+(comisión por recargas), La Positiva, Rimac Seguros y Reaseguros (venta de SOAT), 
+Electrocentro. Las cuentas por cobrar serán regularizadas en enero 2025.  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2024_Individual_Anual_Informe sobre los estados financiero.pdf | PAGINA: 36 | puntaje 6 =====
+- 34 - 
+(c) De acuerdo con la Resolución SBS No.5790-2014 a partir del 3 de setiembre de 2014 las 
+operaciones de reporte son registradas en el rubro de cuentas por cobrar, al 31 de diciembre 
+de 2024, se mantienen operaciones de reporte con las empresas Credibolsa Sociedad Agente 
+de Bolsa S.A. por un monto de S/2,068 miles, y Kallpa SAB por un monto de S/45 miles, las 
+cuales generaron un interés devengado, por el total de las operaciones de reporte, de S/35 
+miles. (Al 31 de diciembre de 2023, se mantiene operaciones de reporte con las empresas 
+Credibolsa Sociedad Agente de Bolsa S.A. por S/642 miles, y Kallpa SAB por S/493 miles, las 
+cuales generaron un interés devengado de S/14 miles). 
+ 
+El capital y los intereses de las operaciones de reporte se contabilizan en el rubro de cuentas 
+por cobrar, por el derecho de recibir efectivo al vencimiento del contrato, considerando el 
+monto inicial más los rendimientos generados; adicionalmente, se registra el monto del capital 
+en cuentas de orden.  Los rendimientos son reconocidos en el rubro de otros ingresos y 
+gastos, neto del estado de resultados integrales. 
+ 
+8 BIENES REALIZABLES, ADJUDICADOS Y RECIBIDOS EN PAGO  
+ 
+A continuación, se presenta la composición del rubro: 
+   2024  2023 
+  S/000  S/000      
+Inmuebles recibidos en pago y adjudicados  6,636  6,977 
+Otros bienes recibidos en pago y adjudicados  1,688  1,194 
+( - ) Provisión para inmuebles recibidos en pago y     
+       adjudicados  (6,036)  (5,740) 
+( - ) Provisión para otros bienes recibidos en pago y adjudicados (1,423)  (809) 
+  865  1,622 
+ 
+Este rubro contiene a los bienes adjudicados, los cuales vienen siendo provisionados de acuerdo a la 
+Resolución SBS No.1535-2005 (Nota 2 (g)). por los inmuebles adjudicados, de los cuales 3 se 
+encuentran en proceso judicial por desalojo y 18 disponibles para la venta al 31 de diciembre de 2024 
+(5 se encuentran en proceso judicial y 20 disponibles para la venta al 31 de diciembre de 2023).  La 
+principal variación entre 2024 y 2023 fue por la venta de 4 inmuebles adjudicados provenientes de 
+dación en pago con opción de compra por el importe de S/341 miles ejecutado en el mes de enero, 
+abril, junio y diciembre de 2024. 
+ 
+9 PARTICIPACIÓN EN ASOCIADA  
+ 
+Al 31 de diciembre, este rubro comprende: 
+   2024  2023 
+  S/000  S/ 000      
+Participación patrimonial en el FOCMAC  4,554  4,363 
+  4,554  4,363 
+ 
+Representa la participación patrimonial en el Fondo de Cajas Municipales de Ahorro y Crédito - 
+FOCMAC que, al 31 de diciembre de 2024 asciende a S/4,554 miles, equivalente a 9.53 por ciento del 
+accionariado. (Al 31 de diciembre de 2023 se tuvo una participación patrimonial de S/4,363 miles 
+equivalente a 9.52 por ciento del accionariado). 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2024_Individual_Anual_Informe sobre los estados financiero.pdf | PAGINA: 37 | vecina =====
+- 35 - 
+10 INMUEBLES, MOBILIARIO Y EQUIPO, NETO   
+ 
+A continuación, se presenta la composición del rubro: 
+ 
+  
+Saldos 
+Iniciales  Adiciones  
+Deducciones 
+(b)  
+Saldos 
+Finales 
+  S/000  S/000  S/000  S/000 
+         
+Año 2024         
+Terrenos  9,377  -  -  9,377 
+Edificios  13,285  -  -  13,285 
+Instalaciones  3,433  762  (13)  4,182 
+Mobiliario  4,157  103  (28)  4,232 
+Equipos de computación  41,197  7,311  (3,591)  44,917 
+Vehículos  6,207  1,864  (133)  7,938 
+Otros bienes y equipos de oficina  23,987  2,994  (394)  26,587 
+Instalaciones en bienes alquilados  84,135  6,794  (475)  90,454 
+Obras en ejecución  157  1,636  (1,580)  213 
+Costo  185,935  21,464  (6,214)  201,185 
+ 
+Edificios  8,045  606  -  8,651 
+Instalaciones  1,585  359  (13)  1,931 
+Mobiliario  3,024  191  (28)  3,187 
+Equipos de computación  29,355  4,757  (3,583)  30,529 
+Vehículos  5,251  335  (133)  5,453 
+Otros bienes y equipos de oficina  9,767  2,145  (353)  11,559 
+Instalaciones en bienes alquilados  41,908  7,770  (475)  49,203 
+Depreciación acumulada (a)  98,935  16,163  (4,585)  110,513 
+Total saldo al 31 de diciembre 2024  87,000  5,301  (1,629)  90,672 
+         
+         
+Año 2023         
+Terrenos  9,377  -  -  9,377 
+Edificios  13,285  -  -  13,285 
+Instalaciones  3,353  229  (149)  3,433 
+Mobiliario  4,189  196  (227)  4,158 
+Equipos de computación  36,268  4,935  (6)  41,197 
+Vehículos  6,706  -  (499)  6,207 
+Otros bienes y equipos de oficina  21,069  3,054  (136)  23,987 
+Instalaciones en bienes alquilados  73,129  12,160  (1,154)  84,135 
+Obras en ejecución  1,042  1,762  (2,646)  158 
+Costo  168,418  22,336  (4,817)  185,937 
+ 
+Edificios  7,400  645  -  8,045 
+Instalaciones  1,423  311  (149)  1,585 
+Mobiliario  3,071  180  (225)  3,026 
+Equipos de computación  24,979  4,382  (6)  29,355 
+Vehículos  5,469  281  (499)  5,251 
+Otros bienes y equipos de oficina  7,972  1,931  (136)  9,767 
+Instalaciones en bienes alquilados  35,889  7,158  (1,139)  41,908 
+Depreciación acumulada (a)  86,203  14,888  (2,154)  98,937 
+Total saldo al 31 de diciembre 2023  82,215  7,448  (2,663)  87,000 
+ 
+(a) Durante el 2024, el gasto por depreciación de los activos fijos mantenidos por la Caja registrado 
+en el rubro “Depreciaciones y amortizaciones” del estado de resultados integrales asciende a 
+S/16,163 miles (S/14,888 miles durante el 2023), este incremento se debe a la adquisición de 
+nuevos activos fijos para cubrir las necesidades de las nuevas agencias aperturadas en el 2024.  
+(b) Las bajas incluyen ventas y bajas por vida útil cumplida, esto incluye bajas de mejoras en 
+propiedades alquiladas. 
+(c) La Gerencia de la Caja considera que no hay situaciones que indiquen que existe un posible 
+deterioro en el valor de sus inmuebles, mobiliario y equipo.  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2020_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 19 | vecina =====
+ 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, 
+se constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor 
+neto de realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la 
+provisión inicial requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la 
+adjudicación, una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de 
+los bienes menos la provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo 
+de un (1) año, se debe completar la provisión hasta alcanzar el equivalente al 100% del costo 
+en libros, al vencimiento del referido plazo. Tratándose de bienes que cuenten con la prórroga 
+prevista en el Artículo 215º de la Ley General del Sistema Financiero, se debe completar la 
+provisión hasta alcanzar el equivalente al 100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, en el plazo de tres y medio (3.5) años, se deben constituir 
+provisiones, al vencimiento de cada mes, sobre el valor neto en libros obtenido al décimo octavo 
+(18º) o décimo segundo (12º) mes, teniendo en consideración la existencia de la prórroga, hasta 
+completar un monto equivalente al 100%, del costo en libros de los bienes no vendidos. 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+ 
+ 
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2020_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 20 | puntaje 10 =====
+ 
+ 
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados 20 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados 5% 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos – 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La CMAC-HUANCAYO revisa el valor de sus inmuebles, mobiliario y 
+equipo, e intangibles para verificar que no existe ningún deterioro permanente en su valor. 
+Cuando el valor del activo en libros excede su valor recuperable se reconoce una pérdida por 
+deterioro en el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y 
+equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en 
+uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2020_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 21 | vecina =====
+ 
+ 
+O. Provisiones  
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  tiene una obligación presente 
+(legal o implícita) como resultado de un evento pasado, es probable que se requieran recursos 
+para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera 
+fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación 
+que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en el tiempo 
+es importante, el monto de la provisión es el valor presente de los gastos que se espera incurrir 
+para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción básica 
+y diluida son las mismas. 
+ 
+ 
+ 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa especifico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_12_INFORME EEFF 2016.pdf | PAGINA: 17 | vecina =====
+ 
+17 
+ 
+i) Bienes recibidos en dación de pago y adjudicados  
+Están conformados por bienes muebles e inmuebles; los primeros básicamente por joyas dejadas 
+como garantía por créditos; en el caso específico de los inmuebles, éstos son adjudicados 
+judicialmente y las joyas provienen de créditos prendarios vencidos, que habiendo sido rematadas no 
+fueron vendidos, por lo que pasan a ser adjudicados por la CMAC Huancayo. El registro contable de 
+los bienes adjudicados se produce en la fecha de adjudicación judicial o extrajudicial. 
+ 
+Los bienes adjudicados son registrados al valor de adjudicación judicial o extrajudicial; en ningún 
+caso, el valor del bien adjudicado es mayor al valor total de la deuda que se cancela. 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, se 
+constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor neto de 
+realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la provisión inicial 
+requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la adjudicación, 
+una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de los bienes menos la 
+provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo de un (1) año, se debe 
+completar la provisión hasta alcanzar el equivalente al 100% del costo en libros, al vencimiento del 
+referido plazo. Tratándose de bienes que cuenten con la prórroga prevista en el Artículo 215º de la 
+Ley General del Sistema Financiero, se debe completar la provisión hasta alcanzar el equivalente al 
+100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, se constituyen provisiones mensuales uniformes, sobre el valor neto 
+en libros obtenido al décimo segundo (12º) mes.  Adicionalmente, la Resolución SBS N°1535-2005 
+permite el otorgamiento de una prórroga de seis meses, en cuyo caso, se constituirán provisiones 
+mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo mes (18º).  En ambos 
+casos, las provisiones se constituirán hasta alcanzar el 100% del valor neto en libros en un plazo de 
+(3.5) año, contados a partir de la fecha en la cual se empezaron a constituir las provisiones uniformes 
+mensuales. 
+ 
+La actualización anual de las valuaciones de los bienes inmuebles es realizada por un perito 
+independiente consideran que las valuaciones no podrán tener una antigüedad mayor a un año, esto 
+implicara de ser necesario, la constitución de provisiones por desvalorización. 
+ 
+j) Participaciones 
+La CMAC Huancayo mantiene inversiones financieras permanentes de disponibilidad restringida, las 
+cuales están representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – 
+FOCMAC y se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de mayo de 
+1990, se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  Con fecha 01 
+de diciembre de 2016 se adquirió 465,000 acciones tipo B de Pagos Digitales Peruanos S.A. 
+ 
+k) Inmueble, Mobiliario y Equipos  
+Los inmuebles, mobiliario y equipo son registrados al costo adquisición, menos la depreciación 
+acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser aplicable. Los 
+costos de mantenimiento y reparación se cargan a resultados y toda renovación y mejora significativa 
+se capitaliza siempre que: a) sea probable que la entidad obtenga los beneficios económicos futuros 
+derivados de la misma; y, b) su costo pueda ser valorizado confiabilidad.  
+ 
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_12_INFORME EEFF 2016.pdf | PAGINA: 18 | puntaje 10 =====
+ 
+18 
+El costo y la correspondiente depreciación acumulada de los activos vendidos o retirados son 
+eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye en los resultados del 
+ejercicio.  
+ 
+Las obras en curso y bienes por recibir son registradas al costo de adquisición.  Esto incluye el costo 
+de adquisición o construcción y otros costos directos.  Estos bienes no se deprecian hasta que los 
+activos relevantes se reciban o terminen y estén operativos. 
+ 
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil estimada, 
+como sigue: 
+ 
+Vida útil estimada: 
+ 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados  Según el Contrato 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados Según el Contrato 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para asegurar que 
+el método y el periodo de la depreciación sean consistentes con el beneficio económico futuro y las 
+expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+l) Deterioro del valor de los activos  
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo puede 
+no ser recuperable, La Caja revisa el valor de sus inmuebles, mobiliario y equipo, e intangibles para 
+verificar que no existe ningún deterioro permanente en su valor. Cuando el valor del activo en libros 
+excede su valor recuperable se reconoce una pérdida por deterioro en el estado de ganancias y 
+pérdidas para los rubros de inmuebles, mobiliario y equipo e intangibles. El valor recuperable es el 
+mayor entre el precio de venta neto y su valor en uso. El precio de venta neto es el monto que se 
+puede obtener en la venta de un activo en un mercado libre, mientras que el valor en uso es el valor 
+presente de los flujos futuros estimados del uso continuo de un activo y de su disposición al final de su 
+vida útil. 
+ 
+m) Provisiones  
+Se reconoce una provisión sólo cuando la CMAC- Huancayo tiene una obligación presente (legal o 
+implícita) como resultado de un evento pasado, es probable que se requieran recursos para cancelar 
+dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera fiable. Las 
+provisiones se revisan cada período y se ajustan para reflejar la mejor estimación que se tenga a la 
+fecha del balance general. Cuando el efecto del valor del dinero en el tiempo es importante, el monto 
+de la provisión es el valor presente de los gastos que se espera incurrir para cancelarla. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_12_INFORME EEFF 2016.pdf | PAGINA: 19 | vecina =====
+ 
+19 
+n) Contingencias  
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en notas a los 
+estados financieros, a menos que la posibilidad de que se desembolse un flujo económico sea remota. 
+Un activo contingente no se reconoce en los estados financieros, pero se revela cuando su grado de 
+contingencia es probable. 
+ 
+o) Utilidad por acción  
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones que 
+provienen de la capitalización de utilidades constituyen una división de acciones y; por lo tanto, para el 
+cálculo del promedio ponderado de acciones se considera que esas acciones siempre estuvieron en 
+circulación. A la fecha de los estados financieros, la CMAC- Huancayo no tiene instrumentos 
+financieros con efecto dilutivo, por lo que las utilidades por acción básica y diluida son las mismas. 
+ 
+p)  Activos Intangibles 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y su 
+costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa específico. Estos costos son amortizados en el 
+estimado de sus vidas útiles que va de 1 a 5 años. 
+ 
+Los activos intangibles incluidos en el rubro “Otros Activos” del Balance General, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. Estos 
+activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil estimada. 
+ 
+La vida útil y el método de amortización se revisan periódicamente para asegurar que sean 
+consistentes con el patrón previsto de beneficios económicos de las partidas de intangibles de vida 
+limitada. 
+ 
+q) Beneficios laborales  
+Los beneficios laborales se registran como gasto y como pasivo en el momento de su devengamiento. 
+Los beneficios laborales incluyen las remuneraciones de carácter mensual que se entrega a los 
+trabajadores tales como: las vacaciones, gratificaciones, compensación por tiempo de servicios y la 
+participación de los trabajadores en la utilidad del ejercicio. 
+ 
+La provisión para compensación por tiempo de servicios – CTS, se registra con cargo a resultados del 
+ejercicio a medida que se devenga la obligación, que es calculada de acuerdo a lo establecido por el 
+Texto Único Ordenado del D.L. Nº 650, Reglamento, y disposiciones modificatorias y complementarias 
+vigentes. 
+ 
+En aplicación de los Arts. 2° y 22° del Decreto Supremo N° 001-97 – TR, a partir del 01 de noviembre 
+de 2004, se establece el régimen general de depósitos semestrales de la CTS. De acuerdo al referido 
+régimen, deben efectuarse dos (2) depósitos al año. El primero por el periodo comprendido entre el 01 
+de noviembre y el 30 de abril, y el segundo por el periodo comprendido entre el 01 de mayo y el 31 de 
+octubre. 
+ 
+El empleador debe realizar el depósito semestral de la CTS dentro de los primeros quince (15) días 
+naturales de los meses de mayo y noviembre de cada año. Si el último día es inhábil, el depósito 
+puede efectuarse el primer día hábil siguiente. 
+ 
+Los pagos efectuados con carácter cancelatorio son depositados principalmente en la CMAC-
+HUANCAYO, por ser una institución financiera elegida por los colaboradores. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2025_Individual_Anual_01_Informe N 00024-2026-G-CMACHYO.pdf | PAGINA: 47 | vecina =====
+- 35 - 
+ 
+(h) Al 31 de diciembre de 2025 la Caja realizó la venta de cartera de crØditos vencidos y judiciales a: 
+SERVICIOS EXTERNOS S.A.C.; ASESORES Y RECUPERADORES S.A.C; FONDO DE CAJAS 
+MUNICIPALES DE AHORRO Y CRÉDITO; cuyos valores nominales al momento de la venta 
+ascendieron a S/149,801 miles (S/63,657 miles al 31 de diciembre de 2024), los cuales se 
+encontraban cien (100) por ciento provisionados. 
+ 
+7 CUENTAS POR COBRAR  
+ 
+A continuación, se presenta la composición del rubro: 
+ 
+  2025  2024 
+  S/000   S/000  
+     
+Comisiones por cobrar (a)   7,357  10,416 
+Cuentas por cobrar a terceros (b)   6,896  5,703 
+Garantías por alquileres (c)  5,240  5,438 
+Activos por instrumentos financieros (d)   1,020  2,148 
+Pagos efectuados por cuenta de terceros   1,319  1,280 
+Cuentas por cobrar por obras por impuestos   524  1,005 
+Cuentas por cobrar a Essalud por subsidios por incapacidad 
+temporal  
+ 
+921  875 
+Otras cuentas por cobrar   651  785 
+  23,928  27,650 
+Provisiones para incobrabilidad de cuentas por cobrar   (856)  (353) 
+  23,072  27,297 
+ 
+(a) El detalle de comisiones por cobrar estÆ compuesto de los cobros pendientes por comisiones de 
+cobranza de seguro de desgravamen con la empresa Mapfre S.A., comisión de recaudación de 
+primas con la empresa Chubb Perœ S.A. y comisiones por servicio de cobranza de instituciones 
+educativas, empresas de seguros y empresas pœblicas y privadas como: Kashio Perœ S.A.C 
+(comisión por recargas), La Positiva, Rímac Seguros y Reaseguros (venta de SOAT), 
+Electrocentro. Las cuentas por cobrar serÆn regularizadas en el periodo 2026. 
+ 
+(b) Las cuentas por cobrar a terceros estÆn compuestas por embargos indebidos, subsidios y otras 
+cuentas por cobrar a terceros, al cierre del 2025 el monto asciende a S/6,896 miles. 
+ 
+(c) Las garantías de locales alquilados se otorgan a los arrendadores al inicio del contrato de alquiler 
+el cual se encuentran hasta el vencimiento del contrato, en el 2025 las garantías de alquiler 
+ascienden a S/5,240 miles, cabe precisar que se realizó la provisión de garantías de alquiler de 
+periodos pasados por el importe de S/231 miles.  
+ 
+(d) De acuerdo con la Resolución SBS No.5790-2014 a partir del 3 de setiembre de 2014 las 
+operaciones de reporte son registradas en el rubro de cuentas por cobrar, al 31 de diciembre de 
+2025, se mantienen operaciones de reporte con las empresas Credibolsa Sociedad Agente de 
+Bolsa S.A. por un monto de S/999 miles, la cual generó un interØs devengado, por el total de las 
+operaciones de reporte, de S/21 miles  (al 31 de diciembre de 2024, se mantenía operaciones de 
+reporte con las empresas Credibolsa Sociedad Agente de Bolsa S.A. por S/2,068 miles, y Kallpa 
+SAB por S/45 miles, las cuales generaron un interØs devengado de S/35 miles). 
+ 
+El capital y los intereses de las operaciones de reporte se contabilizan en el rubro de cuentas por 
+cobrar, por el derecho de recibir efectivo al vencimiento del contrato, considerando el monto inicial 
+mÆs los rendimientos generados; adicionalmente, se registra el monto del capital en cuentas de 
+orden. Los rendimientos son reconocidos en el rubro de otros ingresos y gastos, neto del estado 
+de resultados integrales. 
+ 
+  
+Docusign Envelope ID: DA9DE909-3B6D-4C33-8149-D57F62681CAA
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2025_Individual_Anual_01_Informe N 00024-2026-G-CMACHYO.pdf | PAGINA: 48 | puntaje 6 =====
+- 36 - 
+ 
+8 BIENES REALIZABLES, ADJUDICADOS Y RECIBIDOS EN PAGO  
+ 
+A continuación, se presenta la composición del rubro: 
+   2025  2024 
+  S/000  S/000      
+Inmuebles recibidos en pago y adjudicados  6,194  6,636 
+Otros bienes recibidos en pago y adjudicados  2,606  1,688 
+(-) Provisión para inmuebles recibidos en pago y     
+adjudicados  (6,023)  (6,036) 
+(-) Provisión para otros bienes recibidos en pago y 
+adjudicados 
+  
+(2,033) 
+  
+(1,423) 
+  744  865 
+ 
+Este rubro incluye los bienes adjudicados, los cuales vienen siendo provisionados de acuerdo con la 
+Resolución SBS No.1535-2005 (Nota 2 (g)). Al 31 de diciembre de 2025, los inmuebles adjudicados, 
+incluyen 2 que se encuentran en proceso judicial por desalojo y 14 disponibles para la venta (3 se 
+encuentran en proceso judicial y 18 disponibles para la venta al 31 de diciembre de 2024). La principal 
+variación entre 2025 y 2024 fue por la venta de 4 inmuebles adjudicados provenientes de dación en 
+pago con opción de compra por el importe de S/539 miles ejecutado en los meses de enero, julio, 
+setiembre y noviembre de 2025. 
+ 
+9 PARTICIPACIÓN EN ASOCIADA  
+ 
+Al 31 de diciembre del 2025 y de 2024, este rubro comprende: 
+   2025  2024 
+  S/000  S/ 000      
+Participación patrimonial en el FOCMAC  4,586  4,554 
+  4,586  4,554 
+ 
+Representa la participación patrimonial en el Fondo de Cajas Municipales de Ahorro y CrØdito -  
+FOCMAC que, al 31 de diciembre de 2025 asciende a S/4,586 miles, equivalente a 9.53 por ciento del 
+accionariado (al 31 de diciembre de 2024 se tuvo una participación patrimonial de S/4,554 miles 
+equivalente a 9.53 por ciento del accionariado). 
+Docusign Envelope ID: DA9DE909-3B6D-4C33-8149-D57F62681CAA
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2025_Individual_Anual_01_Informe N 00024-2026-G-CMACHYO.pdf | PAGINA: 49 | vecina =====
+- 37 - 
+ 
+10 INMUEBLES, MOBILIARIO Y EQUIPO, NETO  
+ 
+A continuación, se presenta la composición del rubro: 
+ 
+  
+Saldos 
+Iniciales  Adiciones  Deducciones (b)  
+Saldos 
+Finales 
+  S/000  S/000  S/000  S/000 
+         
+Aæo 2025         
+Terrenos  9,377  1,943  -  11,320 
+Edificios  13,285  -  -  13,285 
+Instalaciones  4,182  446  -  4,628 
+Mobiliario  4,233  301  (32)  4,501 
+Equipos de computación  44,916  9,293  (222)  53,988 
+Vehículos  7,938  314  (859)  7,393 
+Otros bienes y equipos de oficina  26,586  5,197  (73)  31,710 
+Instalaciones en bienes alquilados  90,454  4,728  (487)  94,695 
+Obras en ejecución  214  6,867  (1,852)  5,229 
+Costo  201,185  29,089  (3,525)  226,749 
+         
+Edificios  8,650  573  -  9,223 
+Instalaciones  1,931  400  -  2,331 
+Mobiliario  3,187  199  (30)  3,356 
+Equipos de computación  30,529  4,864  -  35,393 
+Vehículos  5,453  508  (859)  5,101 
+Otros bienes y equipos de oficina  11,559  2,441  (73)  13,927 
+Instalaciones en bienes alquilados  49,204  8,142  (488)  56,859 
+Depreciación acumulada (a)  110,513  17,127  (1,450)  126,190 
+Total saldo al 31 de diciembre 
+2025  90,672  11,962   (2075)  100,559 
+         
+Aæo 2024         
+Terrenos  9,377  -  -  9,377 
+Edificios  13,285  -  -  13,285 
+Instalaciones  3,433  762  (13)  4,182 
+Mobiliario  4,157  103  (28)  4,232 
+Equipos de computación  41,197  7,311  (3,591)  44,917 
+Vehículos  6,207  1,864  (133)  7,938 
+Otros bienes y equipos de oficina  23,987  2,994  (394)  26,587 
+Instalaciones en bienes alquilados  84,135  6,794  (475)  90,454 
+Obras en ejecución  157  1,636  (1,580)  213 
+Costo  185,935  21,464  (6,214)  201,185 
+         
+Edificios  8,045  606  -  8,651 
+Instalaciones  1,585  359  (13)  1,931 
+Mobiliario  3,024  191  (28)  3,187 
+Equipos de computación  29,355  4,757  (3,583)  30,529 
+Vehículos  5,251  335  (133)  5,453 
+Otros bienes y equipos de oficina  9,767  2,145  (353)  11,559 
+Instalaciones en bienes alquilados  41,908  7,770  (475)  49,203 
+Depreciación acumulada (a)  98,935  16,163  (4,585)  110,513 
+Total saldo al 31 de diciembre 
+2024  87,000  5,301  (1,629)  90,672 
+ 
+(a) Durante el 2025, el gasto por depreciación de los activos fijos mantenidos por la Caja registrado 
+en el rubro “Depreciaciones y amortizaciones” del estado de resultados integrales asciende a 
+S/17,127 miles (S/16,163 miles durante el 2024), este incremento se debe a la adquisición de 
+nuevos activos fijos para cubrir las necesidades de las nuevas agencias abiertas en el 2025.  
+ 
+(b) Las bajas incluyen ventas y bajas por vida œtil cumplida, esto incluye bajas de mejoras en 
+propiedades alquiladas. 
+ 
+(c) La Gerencia de la Caja considera que no hay situaciones que indiquen que existe un posible 
+deterioro en el valor de sus inmuebles, mobiliario y equipo.  
+Docusign Envelope ID: DA9DE909-3B6D-4C33-8149-D57F62681CAA
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2012_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 19 | vecina =====
+ 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, 
+se constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor 
+neto de realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la 
+provisión inicial requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la 
+adjudicación, una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de 
+los bienes menos la provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo 
+de un (1) año, se debe completar la provisión hasta alcanzar el equivalente al 100% del costo 
+en libros, al vencimiento del referido plazo. Tratándose de bienes que cuenten con la prórroga 
+prevista en el Artículo 215º de la Ley General del Sistema Financiero, se debe completar la 
+provisión hasta alcanzar el equivalente al 100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, en el plazo de tres y medio (3.5) años, se deben constituir 
+provisiones, al vencimiento de cada mes, sobre el valor neto en libros obtenido al décimo octavo 
+(18º) o décimo segundo (12º) mes, teniendo en consideración la existencia de la prórroga, hasta 
+completar un monto equivalente al 100%, del costo en libros de los bienes no vendidos. 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+ 
+ 
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2012_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 20 | puntaje 10 =====
+ 
+ 
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados 20 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados 5% 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos – 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La CMAC-HUANCAYO revisa el valor de sus inmuebles, mobiliario y 
+equipo, e intangibles para verificar que no existe ningún deterioro permanente en su valor. 
+Cuando el valor del activo en libros excede su valor recuperable se reconoce una pérdida por 
+deterioro en el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y 
+equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en 
+uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2012_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 21 | vecina =====
+ 
+ 
+O. Provisiones  
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  tiene una obligación presente 
+(legal o implícita) como resultado de un evento pasado, es probable que se requieran recursos 
+para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera 
+fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación 
+que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en el tiempo 
+es importante, el monto de la provisión es el valor presente de los gastos que se espera incurrir 
+para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción básica 
+y diluida son las mismas. 
+ 
+ 
+ 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa especifico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2023_Individual_Anual_Dictamen de los Estados Financieros.pdf | PAGINA: 36 | vecina =====
+- 34 - 
+(g) A continuación se presenta la cartera de créditos al 31 de diciembre de 2023 y de 2022, 
+clasificada por vencimiento sobre la base del plazo remanente a la fecha de pago: 
+ 
+ 2023  2022 
+ S/000  S/000 
+    
+Cartera vigente y refinanciada     
+Por vencer     
+Hasta 1 mes  25,183  24,112 
+De 1-3 meses  105,099  88,840 
+De 3 meses a 1 año  1,521,245  1,407,358 
+De 1-3 años  4,119,177  3,695,002 
+De 3-5 años  1,422,452  1,252,284 
+Más de 5 años  460,464  493,372 
+ 7,653,620  6,960,968 
+Vencidos y en cobranzas judicial  306,144  248,994 
+ 7,959,764  7,209,962 
+ 
+(h) Al 31 de diciembre de 2023 la Caja realizó la venta de cartera de créditos vencidos y judiciales 
+cuyos valores nominales al momento de la venta ascendieron a  S/176,723 miles (S/197,942 miles 
+al 31 de diciembre de 2022), los cuales se encontraban cien (100) por ciento provisionados. 
+ 
+7 CUENTAS POR COBRAR  
+ 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2023  2022 
+ S/000  S/000 
+    
+Garantías por alquileres 
+Cuentas por cobrar a terceros (a) 
+5,260 
+3,603  5,147 4,456 
+Comisiones por cobrar (b) 4,833  4,151 
+Activos por instrumentos financieros (c) 1,149  986 
+Pagos efectuados por cuenta de terceros 865  785 
+Cuentas por cobrar a Essalud por subsidios por    
+incapacidad temporal 1,405  751 
+Cuentas por cobrar por obras por impuestos 856  680 
+Otras cuentas por cobrar 667  495 
+ 18,638  17,451 
+Provisiones para incobrabilidad de cuentas por cobrar (214)  (333) 
+ 18,424  17,118 
+ 
+(a) Las cuentas por cobrar a terceros están compuestas por procesos judiciales, embargos indebidos 
+y otras cuentas por cobrar a terceros, las cuales a la fecha de cierre y en opinión de la Gerencia 
+no tienen indicios de deterioro. 
+ 
+(b) El detalle de comisiones por cobrar está compuesto de los cobros pendientes por comisiones de 
+cobranza de seguro de desgravamen con la empresa Mapfre S.A., comisión de recaudación de 
+primas con la empresa Chubb Perú S.A. y comisiones por servicio de cobranza de instituciones 
+educativas, empresas de seguros y empresas públicas y privadas como: Disashop Perú SAC 
+(comisión por recargas), La Positiva, Rimac Seguros y Reaseguros (venta de SOAT), 
+Electrocentro.  Las cuentas por cobrar a Mapfre han quedado parcialmente pendientes, las cuales 
+se regularizan en el primer trimestre 2024, las demás cuentas por cobrar serán regularizadas en 
+enero de 2024. 
+  
+
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2023_Individual_Anual_Dictamen de los Estados Financieros.pdf | PAGINA: 37 | puntaje 6 =====
+- 35 - 
+(c) De acuerdo con la Resolución SBS No.5790-2014 a partir del 3 de setiembre de 2014 las 
+operaciones de reporte son registradas en el rubro de cuentas por cobrar, al 31 de diciembre de 
+2023, se mantienen operaciones de reporte con las empresas Credibolsa Sociedad Agente de 
+Bolsa S.A. por un monto de S/642 miles, y Kallpa SAB por un monto de S/493 miles, las cuales 
+generaron un interés devengado, por el total de las operaciones de reporte, de S/14 miles.  (Al 31 
+de diciembre de 2022, se mantiene operaciones de reporte con las empresas Credibolsa 
+Sociedad Agente de Bolsa S.A. por S/598 miles, y Kallpa SAB por S/379 miles, las cuales 
+generaron un interés devengado de S/9 miles). 
+ 
+El capital y los intereses de las operaciones de reporte se contabilizan en el rubro de cuentas por 
+cobrar, por el derecho de recibir efectivo al vencimiento del contrato, considerando el monto inicial 
+más los rendimientos generados; adicionalmente, se registra el monto del capital en cuentas de 
+orden.  Los rendimientos son reconocidos en el rubro de otros ingresos y gastos, neto del estado 
+de resultados integrales. 
+ 
+8 BIENES REALIZABLES, ADJUDICADOS Y RECIBIDOS EN PAGO  
+ 
+A continuación, se presenta la composición del rubro: 
+   2023  2022 
+  S/000  S/ 000      
+Inmuebles recibidos en pago y adjudicados  6,977  11,085 
+Otros bienes recibidos en pago y adjudicados  1,194  1,186 
+( - ) Provisión para inmuebles recibidos en pago y     
+       adjudicados  (5,740)  (6,447) 
+( - ) Provisión para otros bienes recibidos en pago y adjudicados (809)  (661) 
+  1,622  5,163 
+ 
+Este rubro contiene a los bienes adjudicados, los cuales vienen siendo provisionados de acuerdo a la 
+Resolución SBS No.1535-2005 (Nota 2 (g)). por los inmuebles adjudicados, de los cuales 5 se 
+encuentran en proceso judicial por desalojo y 20 disponibles para la venta (3 se encuentran en 
+proceso judicial por desalojo, 1 con opción de compra y 27 disponibles para la venta al 31 de 
+diciembre de 2022).  La principal variación entre 2023 y 2022 fue por la venta de un inmueble 
+adjudicado proveniente de dación en pago con opción de compra por el importe de S/ 3,999 miles 
+ejecutado en el mes de noviembre de 2023. 
+ 
+9 PARTICIPACIÓN EN ASOCIADA  
+ 
+Al 31 de diciembre, este rubro comprende: 
+   2023  2022 
+  S/000  S/ 000      
+Participación patrimonial en el FOCMAC  4,363  4,208 
+  4,363  4,208 
+ 
+Representa la participación patrimonial en el Fondo de Cajas Municipales de Ahorro y Crédito - 
+FOCMAC que, al 31 de diciembre de 2023 asciende a S/4,363 miles, equivalente a 9.52 por ciento del 
+accionariado. (Al 31 de diciembre de 2022 se tuvo una participación patrimonial de S/4,208 miles 
+equivalente a 9.51 por ciento del accionariado). 
+
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2023_Individual_Anual_Dictamen de los Estados Financieros.pdf | PAGINA: 38 | vecina =====
+- 36 - 
+10 INMUEBLES, MOBILIARIO Y EQUIPO, NETO   
+ 
+A continuación, se presenta la composición del rubro: 
+ 
+  
+Saldos 
+Iniciales  Adiciones  
+Deducciones 
+(b)  
+Saldos 
+Finales 
+  S/000  S/000  S/000  S/000 
+         
+Año 2023         
+Terrenos  9,377  -  -  9,377 
+Edificios  13,285  -  -  13,285 
+Instalaciones  3,353  229  (149)  3,433 
+Mobiliario  4,189  196  (227)  4,158 
+Equipos de computación  36,268  4,935  (6)  41,197 
+Vehículos  6,706  -  (499)  6,207 
+Otros bienes y equipos de oficina  21,069  3,054  (136)  23,987 
+Instalaciones en bienes alquilados  73,129  12,160  (1,154)  84,135 
+Obras en ejecución  1,042  1,762  (2,646)  158 
+Costo  168,418  22,336  (4,817)  185,937 
+ 
+Edificios  7,400  645  -  8,045 
+Instalaciones  1,423  311  (149)  1,585 
+Mobiliario  3,071  180  (225)  3,026 
+Equipos de computación  24,979  4,382  (6)  29,355 
+Vehículos  5,469  281  (499)  5,251 
+Otros bienes y equipos de oficina  7,972  1,931  (136)  9,767 
+Instalaciones en bienes alquilados  35,889  7,158  (1,139)  41,908 
+Depreciación acumulada (a)  86,203  14,888  (2,154)  98,937 
+Total Saldo al 31 de diciembre 2023  82,215  7,448  (2,663)  87,000 
+         
+         
+Año 2022         
+Terrenos  9,377  -  -  9,377 
+Edificios  13,285  -  -  13,285 
+Instalaciones  2,869  489  (5)  3,353 
+Mobiliario  3,767  427  (5)  4,189 
+Equipos de computación  29,020  7,704  (456)  36,268 
+Vehículos  6,621  1,045  (960)  6,706 
+Otros bienes y equipos de oficina  16,654  4,799  (384)  21,069 
+Instalaciones en bienes alquilados  56,819  17,446  (1,136)  73,129 
+Obras en ejecución  128  7,817  (6,903)  1,042 
+Costo  138,540  39,727  (9,849)  168,418 
+ 
+Edificios  6,740  660  -  7,400 
+Instalaciones  1,147  280  (4)  1,423 
+Mobiliario  2,932  144  (5)  3,071 
+Equipos de computación  21,498  3,928  (447)  24,979 
+Vehículos  6,092  338  (961)  5,469 
+Otros bienes y equipos de oficina  6,809  1,436  (273)  7,972 
+Instalaciones en bienes alquilados  30,951  6,074  (1,136)  35,889 
+Depreciación acumulada (a)  76,169  12,860  (2,826)  86,203 
+Total Saldo al 31 de diciembre 2022  62,371  26,867  (7,023)  82,215 
+ 
+(a) Durante el 2023, el gasto por depreciación de los activos fijos mantenidos por la Caja registrado 
+en el rubro “Depreciaciones y amortizaciones” del estado de resultados integrales asciende a 
+S/14,888 miles (S/12,860 miles durante el 2022), este incremento se debe a la adquisición de 
+nuevos activos fijos para cubrir las necesidades de las nuevas agencias aperturadas en el 2023.  
+ 
+(b) Las bajas incluyen venta y vida útil cumplida, esto incluye bajas de mejoras en propiedades 
+alquiladas. 
+  
+
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2011_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 19 | vecina =====
+ 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, 
+se constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor 
+neto de realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la 
+provisión inicial requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la 
+adjudicación, una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de 
+los bienes menos la provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo 
+de un (1) año, se debe completar la provisión hasta alcanzar el equivalente al 100% del costo 
+en libros, al vencimiento del referido plazo. Tratándose de bienes que cuenten con la prórroga 
+prevista en el Artículo 215º de la Ley General del Sistema Financiero, se debe completar la 
+provisión hasta alcanzar el equivalente al 100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, en el plazo de tres y medio (3.5) años, se deben constituir 
+provisiones, al vencimiento de cada mes, sobre el valor neto en libros obtenido al décimo octavo 
+(18º) o décimo segundo (12º) mes, teniendo en consideración la existencia de la prórroga, hasta 
+completar un monto equivalente al 100%, del costo en libros de los bienes no vendidos. 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+ 
+ 
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2011_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 20 | puntaje 10 =====
+ 
+ 
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados 20 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados 5% 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos – 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La CMAC-HUANCAYO revisa el valor de sus inmuebles, mobiliario y 
+equipo, e intangibles para verificar que no existe ningún deterioro permanente en su valor. 
+Cuando el valor del activo en libros excede su valor recuperable se reconoce una pérdida por 
+deterioro en el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y 
+equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en 
+uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2011_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 21 | vecina =====
+ 
+ 
+O. Provisiones  
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  tiene una obligación presente 
+(legal o implícita) como resultado de un evento pasado, es probable que se requieran recursos 
+para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera 
+fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación 
+que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en el tiempo 
+es importante, el monto de la provisión es el valor presente de los gastos que se espera incurrir 
+para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción básica 
+y diluida son las mismas. 
+ 
+ 
+ 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa especifico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2011_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 23 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO S.A. mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+ 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados  Según el Contrato 
+ 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2011_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 24 | puntaje 9 =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados Según el Contrato 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos: 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La Caja revisa el valor de sus inmuebles, mobiliario y equipo, e 
+intangibles para verificar que no existe ningún deterioro permanente en su valor. Cuando el 
+valor del activo en libros excede su valor recuperable se reconoce una pérdida por deterioro en 
+el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y equipo e 
+intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en uso. El 
+precio de venta neto es el monto que se puede obtener en la venta de un activo en un mercado 
+libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados del uso 
+continuo de un activo y de su disposición al final de su vida útil. 
+ 
+O. Provisiones: 
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  S.A. tiene una obligación 
+presente (legal o implícita) como resultado de un evento pasado, es probable que se requieran 
+recursos para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una 
+manera fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor 
+estimación que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en 
+el tiempo es importante, el monto de la provisión es el valor presente de los gastos que se 
+espera incurrir para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2011_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 25 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+S.A. no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción 
+básica y diluida son las mismas. 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa específico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+ 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+ 
+La vida útil y el método de amortización se revisan periódicamente para asegurar que sean 
+consistentes con el patrón previsto de beneficios económicos de las partidas de intangibles de 
+vida limitada. 
+ 
+S. Beneficios laborales: 
+ 
+Los beneficios laborales se registran como gasto y como pasivo en el momento de su 
+devengamiento. Los beneficios laborales incluyen las remuneraciones de carácter mensual que 
+se entrega a los trabajadores tales como: las vacaciones, gratificaciones, compensación por 
+tiempo de servicios y la participación de los trabajadores en la utilidad del ejercicio. 
+ 
+La provisión para compensación por tiempo de servicios – CTS, se registra con cargo a 
+resultados del ejercicio a medida que se devenga la obligación, que es calculada de acuerdo a 
+lo establecido por el Texto Único Ordenado del D.L. Nº 650, Reglamento, y disposiciones 
+modificatorias y complementarias vigentes. 
+ 
+En aplicación de los Arts. 2° y 22° del Decreto Supremo N° 001-97 – TR, a partir del 01 de 
+Noviembre de 2004, se establece el régimen general de depósitos semestrales de la CTS. De 
+acuerdo al referido régimen, deben efectuarse dos (2) depósitos al año. El primero por el 
+periodo comprendido entre el 01 de Noviembre y el 30 de Abril, y el segundo por el periodo 
+comprendido entre el 01 de Mayo y el 31 de Octubre. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2018_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 19 | vecina =====
+ 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, 
+se constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor 
+neto de realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la 
+provisión inicial requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la 
+adjudicación, una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de 
+los bienes menos la provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo 
+de un (1) año, se debe completar la provisión hasta alcanzar el equivalente al 100% del costo 
+en libros, al vencimiento del referido plazo. Tratándose de bienes que cuenten con la prórroga 
+prevista en el Artículo 215º de la Ley General del Sistema Financiero, se debe completar la 
+provisión hasta alcanzar el equivalente al 100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, en el plazo de tres y medio (3.5) años, se deben constituir 
+provisiones, al vencimiento de cada mes, sobre el valor neto en libros obtenido al décimo octavo 
+(18º) o décimo segundo (12º) mes, teniendo en consideración la existencia de la prórroga, hasta 
+completar un monto equivalente al 100%, del costo en libros de los bienes no vendidos. 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+ 
+ 
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2018_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 20 | puntaje 10 =====
+ 
+ 
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados 20 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados 5% 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos – 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La CMAC-HUANCAYO revisa el valor de sus inmuebles, mobiliario y 
+equipo, e intangibles para verificar que no existe ningún deterioro permanente en su valor. 
+Cuando el valor del activo en libros excede su valor recuperable se reconoce una pérdida por 
+deterioro en el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y 
+equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en 
+uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2018_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 21 | vecina =====
+ 
+ 
+O. Provisiones  
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  tiene una obligación presente 
+(legal o implícita) como resultado de un evento pasado, es probable que se requieran recursos 
+para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera 
+fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación 
+que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en el tiempo 
+es importante, el monto de la provisión es el valor presente de los gastos que se espera incurrir 
+para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción básica 
+y diluida son las mismas. 
+ 
+ 
+ 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa especifico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 23 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO S.A. mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+ 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados  Según el Contrato 
+ 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 24 | puntaje 9 =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados Según el Contrato 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos: 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La Caja revisa el valor de sus inmuebles, mobiliario y equipo, e 
+intangibles para verificar que no existe ningún deterioro permanente en su valor. Cuando el 
+valor del activo en libros excede su valor recuperable se reconoce una pérdida por deterioro en 
+el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y equipo e 
+intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en uso. El 
+precio de venta neto es el monto que se puede obtener en la venta de un activo en un mercado 
+libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados del uso 
+continuo de un activo y de su disposición al final de su vida útil. 
+ 
+O. Provisiones: 
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  S.A. tiene una obligación 
+presente (legal o implícita) como resultado de un evento pasado, es probable que se requieran 
+recursos para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una 
+manera fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor 
+estimación que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en 
+el tiempo es importante, el monto de la provisión es el valor presente de los gastos que se 
+espera incurrir para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 25 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+S.A. no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción 
+básica y diluida son las mismas. 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa específico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+ 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+ 
+La vida útil y el método de amortización se revisan periódicamente para asegurar que sean 
+consistentes con el patrón previsto de beneficios económicos de las partidas de intangibles de 
+vida limitada. 
+ 
+S. Beneficios laborales: 
+ 
+Los beneficios laborales se registran como gasto y como pasivo en el momento de su 
+devengamiento. Los beneficios laborales incluyen las remuneraciones de carácter mensual que 
+se entrega a los trabajadores tales como: las vacaciones, gratificaciones, compensación por 
+tiempo de servicios y la participación de los trabajadores en la utilidad del ejercicio. 
+ 
+La provisión para compensación por tiempo de servicios – CTS, se registra con cargo a 
+resultados del ejercicio a medida que se devenga la obligación, que es calculada de acuerdo a 
+lo establecido por el Texto Único Ordenado del D.L. Nº 650, Reglamento, y disposiciones 
+modificatorias y complementarias vigentes. 
+ 
+En aplicación de los Arts. 2° y 22° del Decreto Supremo N° 001-97 – TR, a partir del 01 de 
+Noviembre de 2004, se establece el régimen general de depósitos semestrales de la CTS. De 
+acuerdo al referido régimen, deben efectuarse dos (2) depósitos al año. El primero por el 
+periodo comprendido entre el 01 de Noviembre y el 30 de Abril, y el segundo por el periodo 
+comprendido entre el 01 de Mayo y el 31 de Octubre. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 19 | vecina =====
+ 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, 
+se constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor 
+neto de realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la 
+provisión inicial requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la 
+adjudicación, una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de 
+los bienes menos la provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo 
+de un (1) año, se debe completar la provisión hasta alcanzar el equivalente al 100% del costo 
+en libros, al vencimiento del referido plazo. Tratándose de bienes que cuenten con la prórroga 
+prevista en el Artículo 215º de la Ley General del Sistema Financiero, se debe completar la 
+provisión hasta alcanzar el equivalente al 100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, en el plazo de tres y medio (3.5) años, se deben constituir 
+provisiones, al vencimiento de cada mes, sobre el valor neto en libros obtenido al décimo octavo 
+(18º) o décimo segundo (12º) mes, teniendo en consideración la existencia de la prórroga, hasta 
+completar un monto equivalente al 100%, del costo en libros de los bienes no vendidos. 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+ 
+ 
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 20 | puntaje 10 =====
+ 
+ 
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados 20 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados 5% 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos – 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La CMAC-HUANCAYO revisa el valor de sus inmuebles, mobiliario y 
+equipo, e intangibles para verificar que no existe ningún deterioro permanente en su valor. 
+Cuando el valor del activo en libros excede su valor recuperable se reconoce una pérdida por 
+deterioro en el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y 
+equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en 
+uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 21 | vecina =====
+ 
+ 
+O. Provisiones  
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  tiene una obligación presente 
+(legal o implícita) como resultado de un evento pasado, es probable que se requieran recursos 
+para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera 
+fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación 
+que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en el tiempo 
+es importante, el monto de la provisión es el valor presente de los gastos que se espera incurrir 
+para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción básica 
+y diluida son las mismas. 
+ 
+ 
+ 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa especifico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 19 | vecina =====
+ 
+ 
+De acuerdo a la Resolución SBS N° 1535-2005, inmediatamente al registro del bien adjudicado, 
+se constituye una provisión equivalente al 20% del valor de la adjudicación. En caso que el valor 
+neto de realización refleje que el bien se ha desvalorizado en un porcentaje mayor al 20%, la 
+provisión inicial requerida corresponderá al monto efectivamente desvalorizado. 
+ 
+En el caso de bienes muebles, se constituye mensualmente a partir del primer mes de la 
+adjudicación, una provisión mensual equivalente a un dieciochoavo (1/18) del costo en libros de 
+los bienes menos la provisión inicial. Cuando los bienes no se hayan vendido dentro del plazo 
+de un (1) año, se debe completar la provisión hasta alcanzar el equivalente al 100% del costo 
+en libros, al vencimiento del referido plazo. Tratándose de bienes que cuenten con la prórroga 
+prevista en el Artículo 215º de la Ley General del Sistema Financiero, se debe completar la 
+provisión hasta alcanzar el equivalente al 100%, al vencimiento de la prórroga. 
+ 
+En el caso de bienes inmuebles, en el plazo de tres y medio (3.5) años, se deben constituir 
+provisiones, al vencimiento de cada mes, sobre el valor neto en libros obtenido al décimo octavo 
+(18º) o décimo segundo (12º) mes, teniendo en consideración la existencia de la prórroga, hasta 
+completar un monto equivalente al 100%, del costo en libros de los bienes no vendidos. 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+ 
+ 
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 20 | puntaje 10 =====
+ 
+ 
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados 20 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados 5% 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos – 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La CMAC-HUANCAYO revisa el valor de sus inmuebles, mobiliario y 
+equipo, e intangibles para verificar que no existe ningún deterioro permanente en su valor. 
+Cuando el valor del activo en libros excede su valor recuperable se reconoce una pérdida por 
+deterioro en el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y 
+equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en 
+uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_3_DICTAMEN - Notas a los EEFF.pdf | PAGINA: 21 | vecina =====
+ 
+ 
+O. Provisiones  
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  tiene una obligación presente 
+(legal o implícita) como resultado de un evento pasado, es probable que se requieran recursos 
+para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una manera 
+fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación 
+que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en el tiempo 
+es importante, el monto de la provisión es el valor presente de los gastos que se espera incurrir 
+para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción básica 
+y diluida son las mismas. 
+ 
+ 
+ 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa especifico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_11_DICTAMEN ANUAL.pdf | PAGINA: 23 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO S.A. mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+ 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados  Según el Contrato 
+ 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_11_DICTAMEN ANUAL.pdf | PAGINA: 24 | puntaje 9 =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados Según el Contrato 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos: 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La Caja revisa el valor de sus inmuebles, mobiliario y equipo, e 
+intangibles para verificar que no existe ningún deterioro permanente en su valor. Cuando el 
+valor del activo en libros excede su valor recuperable se reconoce una pérdida por deterioro en 
+el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y equipo e 
+intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en uso. El 
+precio de venta neto es el monto que se puede obtener en la venta de un activo en un mercado 
+libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados del uso 
+continuo de un activo y de su disposición al final de su vida útil. 
+ 
+O. Provisiones: 
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  S.A. tiene una obligación 
+presente (legal o implícita) como resultado de un evento pasado, es probable que se requieran 
+recursos para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una 
+manera fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor 
+estimación que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en 
+el tiempo es importante, el monto de la provisión es el valor presente de los gastos que se 
+espera incurrir para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_11_DICTAMEN ANUAL.pdf | PAGINA: 25 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+S.A. no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción 
+básica y diluida son las mismas. 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa específico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+ 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+ 
+La vida útil y el método de amortización se revisan periódicamente para asegurar que sean 
+consistentes con el patrón previsto de beneficios económicos de las partidas de intangibles de 
+vida limitada. 
+ 
+S. Beneficios laborales: 
+ 
+Los beneficios laborales se registran como gasto y como pasivo en el momento de su 
+devengamiento. Los beneficios laborales incluyen las remuneraciones de carácter mensual que 
+se entrega a los trabajadores tales como: las vacaciones, gratificaciones, compensación por 
+tiempo de servicios y la participación de los trabajadores en la utilidad del ejercicio. 
+ 
+La provisión para compensación por tiempo de servicios – CTS, se registra con cargo a 
+resultados del ejercicio a medida que se devenga la obligación, que es calculada de acuerdo a 
+lo establecido por el Texto Único Ordenado del D.L. Nº 650, Reglamento, y disposiciones 
+modificatorias y complementarias vigentes. 
+ 
+En aplicación de los Arts. 2° y 22° del Decreto Supremo N° 001-97 – TR, a partir del 01 de 
+Noviembre de 2004, se establece el régimen general de depósitos semestrales de la CTS. De 
+acuerdo al referido régimen, deben efectuarse dos (2) depósitos al año. El primero por el 
+periodo comprendido entre el 01 de Noviembre y el 30 de Abril, y el segundo por el periodo 
+comprendido entre el 01 de Mayo y el 31 de Octubre. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_11_DICTAMEN ANUAL.pdf | PAGINA: 23 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO S.A. mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+ 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados  Según el Contrato 
+ 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_11_DICTAMEN ANUAL.pdf | PAGINA: 24 | puntaje 9 =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados Según el Contrato 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos: 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La Caja revisa el valor de sus inmuebles, mobiliario y equipo, e 
+intangibles para verificar que no existe ningún deterioro permanente en su valor. Cuando el 
+valor del activo en libros excede su valor recuperable se reconoce una pérdida por deterioro en 
+el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y equipo e 
+intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en uso. El 
+precio de venta neto es el monto que se puede obtener en la venta de un activo en un mercado 
+libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados del uso 
+continuo de un activo y de su disposición al final de su vida útil. 
+ 
+O. Provisiones: 
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  S.A. tiene una obligación 
+presente (legal o implícita) como resultado de un evento pasado, es probable que se requieran 
+recursos para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una 
+manera fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor 
+estimación que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en 
+el tiempo es importante, el monto de la provisión es el valor presente de los gastos que se 
+espera incurrir para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2013_Individual_Anual_11_DICTAMEN ANUAL.pdf | PAGINA: 25 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+S.A. no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción 
+básica y diluida son las mismas. 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa específico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+ 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+ 
+La vida útil y el método de amortización se revisan periódicamente para asegurar que sean 
+consistentes con el patrón previsto de beneficios económicos de las partidas de intangibles de 
+vida limitada. 
+ 
+S. Beneficios laborales: 
+ 
+Los beneficios laborales se registran como gasto y como pasivo en el momento de su 
+devengamiento. Los beneficios laborales incluyen las remuneraciones de carácter mensual que 
+se entrega a los trabajadores tales como: las vacaciones, gratificaciones, compensación por 
+tiempo de servicios y la participación de los trabajadores en la utilidad del ejercicio. 
+ 
+La provisión para compensación por tiempo de servicios – CTS, se registra con cargo a 
+resultados del ejercicio a medida que se devenga la obligación, que es calculada de acuerdo a 
+lo establecido por el Texto Único Ordenado del D.L. Nº 650, Reglamento, y disposiciones 
+modificatorias y complementarias vigentes. 
+ 
+En aplicación de los Arts. 2° y 22° del Decreto Supremo N° 001-97 – TR, a partir del 01 de 
+Noviembre de 2004, se establece el régimen general de depósitos semestrales de la CTS. De 
+acuerdo al referido régimen, deben efectuarse dos (2) depósitos al año. El primero por el 
+periodo comprendido entre el 01 de Noviembre y el 30 de Abril, y el segundo por el periodo 
+comprendido entre el 01 de Mayo y el 31 de Octubre. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 23 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+La actualización de las valuaciones de los bienes inmuebles implicará necesariamente la 
+constitución de provisiones por desvalorización. La antigüedad de las valuaciones no podrá ser 
+mayor a un año. 
+ 
+L. Participaciones 
+ 
+La CMAC HUANCAYO S.A. mantiene inversiones financieras permanentes, las cuales están 
+representadas por los aportes al Fondo de Cajas Municipales de Ahorro y Crédito – FOCMAC y 
+se registran al costo de inversión. Por Decreto Supremo Nº 157-90-EF del 28 de Mayo de 1990, 
+se dispone que las Cajas perciban un porcentaje de las utilidades generadas por las 
+operaciones de aporte al FOCMAC de acuerdo a su participación en el capital pagado.  
+ 
+M. Inmueble, Mobiliario y Equipos 
+ 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable. Los costos de mantenimiento y reparación se cargan a resultados y toda renovación y 
+mejora significativa se capitaliza siempre que: a) sea probable que la entidad obtenga los 
+beneficios económicos futuros derivados de la misma; y, b) su costo pueda ser valorizado con 
+fiabilidad. El costo y la correspondiente depreciación acumulada de los activos vendidos o 
+retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se incluye 
+en los resultados del ejercicio.  
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos 
+bienes no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+Vida útil estimada: 
+ 
+Detalle Años 
+Edificios y otras construcciones 20 
+Instalaciones 10 
+Muebles y enseres 10 
+Equipos de Computación 4 
+Equipos y unidades de transporte 5 
+Instalaciones en Bienes Alquilados  Según el Contrato 
+ 
+ 
+Las tasas anuales de depreciación utilizadas son las siguientes:  
+ 
+Detalle % 
+Edificios y otras construcciones 5% 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 24 | puntaje 9 =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+Instalaciones 10% 
+Muebles y enseres 10% 
+Equipos de Computación 25% 
+Equipos y unidades de transporte 20% 
+Instalaciones en Bienes Alquilados Según el Contrato 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para 
+asegurar que el método y el periodo de la depreciación sean consistentes con el beneficio 
+económico futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+N. Deterioro del valor de los activos: 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, La Caja revisa el valor de sus inmuebles, mobiliario y equipo, e 
+intangibles para verificar que no existe ningún deterioro permanente en su valor. Cuando el 
+valor del activo en libros excede su valor recuperable se reconoce una pérdida por deterioro en 
+el estado de ganancias y pérdidas para los rubros de inmuebles, mobiliario y equipo e 
+intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en uso. El 
+precio de venta neto es el monto que se puede obtener en la venta de un activo en un mercado 
+libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados del uso 
+continuo de un activo y de su disposición al final de su vida útil. 
+ 
+O. Provisiones: 
+ 
+Se reconoce una provisión sólo cuando la CMAC-HUANCAYO  S.A. tiene una obligación 
+presente (legal o implícita) como resultado de un evento pasado, es probable que se requieran 
+recursos para cancelar dicha obligación y, al mismo tiempo, es posible estimar su monto de una 
+manera fiable. Las provisiones se revisan cada período y se ajustan para reflejar la mejor 
+estimación que se tenga a la fecha del balance general. Cuando el efecto del valor del dinero en 
+el tiempo es importante, el monto de la provisión es el valor presente de los gastos que se 
+espera incurrir para cancelarla. 
+ 
+P. Contingencias  
+ 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en 
+notas a los estados financieros, a menos que la posibilidad de que se desembolse un flujo 
+económico sea remota. Un activo contingente no se reconoce en los estados financieros, pero 
+se revela cuando su grado de contingencia es probable. 
+ 
+Q. Utilidad por acción: 
+ 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio 
+ponderado del número de acciones comunes en circulación durante el periodo. Las acciones 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_10_INFORME SOCIEDAD DE AUDITORIA.pdf | PAGINA: 25 | vecina =====
+ 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+           SOCIEDAD DE AUDITORIA 
+ 
+que provienen de la capitalización de utilidades constituyen una división de acciones y; por lo 
+tanto, para el cálculo del promedio ponderado de acciones se considera que esas acciones 
+siempre estuvieron en circulación. A la fecha de los estados financieros, la CMAC-HUANCAYO 
+S.A. no tiene instrumentos financieros con efecto dilutivo, por lo que las utilidades por acción 
+básica y diluida son las mismas. 
+ 
+ 
+R.  Activos Intangibles 
+ 
+Los intangibles se registran inicialmente al costo. Un activo se reconoce como intangible si es 
+probable que los beneficios económicos futuros atribuibles que generen, fluyan a la Institución y 
+su costo sea susceptible de medición. 
+Las licencias de programas de cómputo adquiridas se capitalizan sobre la base de los costos 
+incurridos para adquirirlos y poner en uso el programa específico. Estos costos son amortizados 
+en el estimado de sus vidas útiles que va de 1 a 5 años. 
+ 
+Los activos intangibles incluidos en el Estado de Situación Financiera, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. 
+Estos activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil 
+estimada. 
+ 
+La vida útil y el método de amortización se revisan periódicamente para asegurar que sean 
+consistentes con el patrón previsto de beneficios económicos de las partidas de intangibles de 
+vida limitada. 
+ 
+S. Beneficios laborales: 
+ 
+Los beneficios laborales se registran como gasto y como pasivo en el momento de su 
+devengamiento. Los beneficios laborales incluyen las remuneraciones de carácter mensual que 
+se entrega a los trabajadores tales como: las vacaciones, gratificaciones, compensación por 
+tiempo de servicios y la participación de los trabajadores en la utilidad del ejercicio. 
+ 
+La provisión para compensación por tiempo de servicios – CTS, se registra con cargo a 
+resultados del ejercicio a medida que se devenga la obligación, que es calculada de acuerdo a 
+lo establecido por el Texto Único Ordenado del D.L. Nº 650, Reglamento, y disposiciones 
+modificatorias y complementarias vigentes. 
+ 
+En aplicación de los Arts. 2° y 22° del Decreto Supremo N° 001-97 – TR, a partir del 01 de 
+Noviembre de 2004, se establece el régimen general de depósitos semestrales de la CTS. De 
+acuerdo al referido régimen, deben efectuarse dos (2) depósitos al año. El primero por el 
+periodo comprendido entre el 01 de Noviembre y el 30 de Abril, y el segundo por el periodo 
+comprendido entre el 01 de Mayo y el 31 de Octubre. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_21_DICTAMEN EEFF 2019.pdf | PAGINA: 21 | vecina =====
+21 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+ 
+ 
+Los activos intangibles incluidos en el rubro “Otros Activos” del Balance General, corresponden 
+principalmente a las adquisiciones y desarrollo de software utilizado en las operaciones propias. Estos 
+activos se amortizan siguiendo el método de línea recta sobre la base de su vida útil estimada. 
+ 
+La vida útil y el método de amortización se revisan periódicamente para asegurar que sean consistentes 
+con el patrón previsto de beneficios económicos de las partidas de intangibles de vida limitada. 
+ 
+j) Impuesto a la renta  
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para fines 
+tributarios, la cual es determinada utilizando criterios que difieren de los principios contables que utiliza la 
+CMAC Huancayo S.A. 
+ 
+Asimismo, la CMAC Huancayo S.A. ha registrado el impuesto a la renta diferido; considerando los 
+lineamientos de la NIC 12 – Impuestos a la Ganancias. El Impuesto a la renta diferido refleja los efectos 
+de las diferencias temporales entre los saldos de activos y pasivos para fines contables y los determinados 
+para fines tributarios. Los activos y pasivos diferidos se miden utilizando las tasas de impuesto que se 
+espera aplicar a la renta imponible en los años en que estas diferencias se recuperen o eliminen. La 
+medición de los activos y pasivos diferidos refleja las consecuencias tributarias derivadas de la forma en 
+que se espera, a la fecha del estado de situación financiera, recuperar o liquidar el valor de los activos y 
+pasivos. 
+ 
+El activo y pasivo diferido se reconocen sin tomar en cuenta el momento en que se estime que las 
+diferencias temporales se anularán.  Los activos diferidos son reconocidos cuando es probable que 
+existan beneficios tributarios futuros suficientes para que el activo diferido se pueda aplicar. A la fecha del 
+estado de situación financiera, la Gerencia evalúa los activos diferidos no reconocidos y el saldo de los 
+reconocidos; registrando un activo diferido previamente no reconocido en la medida en que sea probable 
+que los beneficios futuros tributarios permitan su recuperabilidad o reduciendo un activo diferido en la 
+medida en que no sea probable que se disponga de beneficios tributarios futuros suficientes para permitir 
+que se utilice parte o todo el activo diferido reconocido contablemente. 
+ 
+Conforme lo establece la NIC 12, la CMAC Huancayo S.A determina su impuesto a la renta diferido sobre 
+la base de la tasa de impuesto aplicable a sus utilidades no distribuidas, reconociendo cualquier impuesto 
+adicional por la distribución de dividendos en la fecha que se reconoce el pasivo. 
+ 
+k) Beneficios laborales – 
+Los beneficios laborales se registran como gasto y como pasivo en el momento de su devengamiento. 
+Los beneficios laborales incluyen las remuneraciones de carácter mensual que se entrega a los 
+trabajadores tales como: las vacaciones, gratificaciones, compensación por tiempo de servicios y la 
+participación de los trabajadores en la utilidad del ejercicio. 
+ 
+La provisión para compensación por tiempo de servicios – CTS, se registra con cargo a resultados del 
+ejercicio a medida que se devenga la obligación, que es calculada de acuerdo a lo establecido por el 
+Texto Único Ordenado del D.L. Nº 650, Reglamento, y disposiciones modificatorias y complementarias 
+vigentes. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_21_DICTAMEN EEFF 2019.pdf | PAGINA: 22 | puntaje 8 =====
+22 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+ 
+ 
+En aplicación de los Arts. 2° y 22° del Decreto Supremo N° 001-97 – TR, a partir del 01 de noviembre de 
+2004, se establece el régimen general de depósitos semestrales de la CTS. De acuerdo al referido 
+régimen, deben efectuarse dos (2) depósitos al año. El primero por el periodo comprendido entre el 01 de 
+noviembre y el 30 de abril, y el segundo por el periodo comprendido entre el 01 de mayo y el 31 de 
+octubre. 
+ 
+El empleador debe realizar el depósito semestral de la CTS dentro de los primeros quince (15) días 
+naturales de los meses de mayo y noviembre de cada año. Si el último día es inhábil, el depósito puede 
+efectuarse el primer día hábil siguiente. 
+Los pagos efectuados con carácter cancelatorio son depositados principalmente en la CMAC-
+HUANCAYO, por ser una institución financiera elegida por los colaboradores. 
+ 
+l)   Deterioro de activos de larga duración  
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de los inmuebles, 
+mobiliario y equipo e intangibles pueda no ser recuperable, La Caja revisa el valor de dichos activos a 
+fin de verificar que no existe ningún deterioro permanente en su valor. Cuando el valor del activo en 
+libros excede su valor recuperable, se reconoce una pérdida por desvalorización en el estado de 
+resultados. El valor recuperable es el mayor entre el precio de venta neto y su valor en uso. El precio de 
+venta neto es el monto que se puede obtener en la venta de un activo en un mercado libre, mientras que 
+el valor en uso es el valor presente de los flujos futuros estimados del uso continuo de un activo y de su 
+disposición al final de su período de depreciación. 
+ 
+m)  Inversiones financieras permanentes 
+La CMAC Huancayo mantiene inversiones financieras permanentes de disponibilidad restringida. Estas 
+son contabilizadas siguiendo el método de la participación patrimonial. Según este método, la Caja 
+originalmente registra su inversión al costo, posteriormente la inversión se ajusta para reflejar la 
+participación en los resultados de la empresa participada con efecto en resultados del ejercicio. El cobro 
+de dividendo se registra reduciendo el valor en libros de la inversión. Estos ajustes representan la 
+variación de la inversión en relación a los cambios habidos en el patrimonio neto de la empresa 
+participada. 
+ 
+n)  Provisiones  
+Se reconoce una provisión sólo cuando la CMAC- Huancayo tiene una obligación presente (legal o 
+implícita) como resultado de un evento pasado, es probable que se requieran recursos para cancelar 
+dicha obligación y, al mismo tiempo, es posible estimar confiablemente el monto de la obligación. Las 
+provisiones se revisan cada período y se ajustan para reflejar la mejor estimación que se tenga a la fecha 
+del estado de situación financiera. Cuando el efecto del valor del dinero en el tiempo es importante, el 
+monto de la provisión es el valor presente de los desembolsos que se espera incurrir para cancelarla. 
+ 
+o)  Contingencias  
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en notas a los 
+estados financieros, a menos que la posibilidad de que se desembolse un flujo económico sea remota. 
+Un activo contingente no se reconoce en los estados financieros, pero se revela cuando su grado de 
+contingencia es probable. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_21_DICTAMEN EEFF 2019.pdf | PAGINA: 23 | vecina =====
+23 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+ 
+ 
+p)  Operaciones de reporte  
+A través de la Resolución SBS N°5790-2014, la cual entró en vigencia a partir de 3 de setiembre de 
+2014, la SBS aprobó el “Reglamento de las operaciones de reporte aplicables a las empresas del sistema 
+financiero”. Dicha Resolución permite el desarrollo de las operaciones de venta con compromiso de 
+recompra, operaciones de venta y compra simultáneas de valores y operaciones de transferencia 
+temporal de valores; asimismo, establece el tratamiento contable de dichas operaciones. 
+ 
+Las operaciones de reporte de moneda que efectúe el Banco Central de Reserva del Perú (BCRP) se 
+consideran de acuerdo a lo establecido en el circular N° 002-2015 BCRP. 
+ 
+Al 31 de diciembre de 2019 y de 2018, La CMAC Huancayo S.A. mantiene operaciones de reporte de 
+moneda y de valores según la definición del BCRP. En consecuencia, los fondos en moneda extranjera 
+y los valores entregados como garantía se presentan en el rubro “Disponible – Fondos sujetos a 
+restricción” e “Inversiones disponibles para la venta”, respectivamente y; el pasivo correspondiente, se 
+presenta en el rubro “Cuentas por pagar por pactos de recompra” del estado de situación financiera, 
+reflejando la sustancia económica de la operación como un préstamo recibido por el Banco. 
+ 
+q)  Efectivo y equivalentes de efectivo  
+El efectivo incluye el saldo que se mantiene en moneda nacional y moneda extranjera relacionados a 
+Caja General, a los Fondos Fijos, los saldos de Bancos en Cuentas Corrientes y en Cuentas de Ahorro 
+y otras disponibilidades. 
+ 
+r)  Reestructuración de estados financieros  
+La Caja presenta estados financieros reestructurados debido a los siguientes ajustes: 
+ 
+(i) Durante el año 2019, la Caja revisó los cálculos de los impuestos a la renta corrientes de los 
+periodos 2013 al 2017 y ha detectado errores de periodos anteriores, que representaron mayores 
+pagos de impuesto a la renta. La Caja ha procedido a corregir las declaraciones de impuestos de 
+los periodos mencionados con el objetivo de recuperar y/o compensar el mayor pago de impuesto 
+con futuras obligaciones corrientes de impuesto a la renta.  El importe pagado en exceso asciende 
+a S/6,587,252 que se ha reconocido como un activo por impuesto a la renta corriente con abono 
+en los resultados acumulados al 31 de diciembre de 2017, 2018 y 2019. 
+(ii) Se ha reclasificado el saldo de la inversión en la empresa Pagos Digitales Peruanos S.A.; 
+anteriormente se presentaba formando parte del rubro “participaciones en asociadas”; ahora se 
+presenta formando parte del rubro “Inversiones disponibles para la venta”. El saldo de esta 
+inversión al 31 de diciembre de 2019 y 2018, es de S/930,000 y 612,097 respectivamente. 
+ 
+s)  Nuevos pronunciamientos  
+s.1)  NIIF emitidas y/o vigentes en el Perú al 31 de diciembre de 2019: 
+Durante el año 2019, entraron en vigencia la aplicación de las siguientes normas contables: 
+- NIIF 16 – Arrendamientos, efectiva para periodos anuales que comiencen en o a partir del 1 de 
+enero de 2019. 
+- CINIIF 23 - Incertidumbre frente a los tratamientos del impuesto a las ganancias, efectiva para 
+periodos anuales los ejercicios que comiencen en o a partir del 1 de enero de 2019. 
+- Modificaciones a la NIIF 9 “Instrumentos Financieros”, efectiva para periodos anuales 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_21_DICTAMEN EEFF 2019.pdf | PAGINA: 50 | vecina =====
+50 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+ 
+ 
+Provisiones Genéricas para créditos contingentes -65,976 -142,739 76,763 
+Provisiones Riesgo País para créditos indirectos 0 0 0 
+Reversión de provisiones específicas 104,469 491,615 -387,146 
+Reversión de provisiones genéricas 113,668 104,330 9,338 
+TOTAL 17,313 184,527 -167,214 
+ 
+41.- Provisiones para incobrabilidad de cuentas por cobrar 
+ 
+Al 31 de diciembre de 2019, este rubro se encuentra comprendido por: 
+ 
+  31.12.2019 S/ 31.12.2018 S/ VARIACIÓN 
+Provisiones para incobrabilidad de cuentas por cobrar -141,067 -149,569 8,502 
+Reversión de provisión de cuentas por cobrar  291,421 13,333 278,088 
+TOTAL 150,354 -136,236 286,590 
+42.- Provisiones para bienes realizables, recibidos en pago, recuperados y adjudicados y otros 
+ 
+  Al 31 de diciembre de 2019, este rubro se encuentra comprendido por: 
+ 
+  
+31.12.2019 
+S/ 
+31.12.2018 
+S/ VARIACIÓN 
+Provisión para bienes realizables recuperados  0 -15,286 15,286 
+Provisión para joyas adjudicadas -9,097 -17,368 8,271 
+Provisión para terrenos recibidos en pago -1,243,869 -841,121 -402,748 
+Provisión para edificios y construcciones recibidos en pago -799,839 -738,954 -60,885 
+Provisión para edificios y construcciones adjudicados -674,109 -648,162 -25,947 
+Provisión para unidades de transporte recibidos en pago -9,114 -5,859 -3,255 
+Reversión de provisión de unidades de transporte recibidos en 
+pago  15,286 0 15,286 
+Reversión de provisión para edificios y construcciones recibidos 
+en pago 30,803 0 30,803 
+TOTAL -2,689,939 -2,266,750 -423,189 
+ 
+43.- Provisiones por litigios y demandas 
+ 
+Al 31 de diciembre de 2019, este rubro se encuentra comprendido por: 
+ 
+  31.12.2019 31.12.2018 VARIACIÓN 
+S/ S/ 
+Pérdida en procesos judiciales civiles 859 36,350 (35,492) 
+Pérdida en procesos laborales 523,022 232,894 290,128 
+Pérdida en procesos administrativos 51,080 123,486 (72,407) 
+TOTAL 574,960 392,730 182,230 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_21_DICTAMEN EEFF 2019.pdf | PAGINA: 51 | puntaje 25 =====
+51 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+ 
+ 
+44.- Otros Ingresos 
+ 
+Al 31 de diciembre de 2019, este rubro se encuentra comprendido por: 
+ 
+  31.12.2019 31.12.2018 VARIACIÓN 
+S/ S/ 
+Utilidad en venta de inmuebles, mobiliario y 
+equipo 146,831 0 146,831 
+Utilidad en venta de bienes adjudicados y 
+recuperados  48,236 9,447 38,789 
+Varios 4,281,229 1,245,806 3,035,423 
+Ingresos Cobranzas Judiciales  799,957 915,239 (115,282) 
+Indemnizaciones Compañías de Seguros 90,172 84,056 6,116 
+Penalidades 148,455 493,585 (345,129) 
+Feria Empresarial  47,119 72,653 (25,534) 
+Programa Línea Ecológica 0 206,980 (206,980) 
+Recuperación de provisiones de Litigios y 
+Demandas 296,656 383,253 (86,598) 
+Ingresos por cuentas por cobrar diversas 268,583 392,166 (123,583) 
+ 0 0 0 
+Ingresos por arrendamiento 4,815 0 4,815 
+Sobrantes y redondeos 120,090 90,930 29,159 
+Descuentos Telefónicos  162 513 (351) 
+Venta de Bases 1,830 0 1,830 
+Ingresos Cobranzas Pre Judiciales  40 0 40 
+Venta de Chatarra 97 728 (630) 
+Venta de Bienes Fuera de Uso 5,486 1,406 4,080 
+Recuperaciones asociadas a riesgo operacional  0 836 (836) 
+TOTAL 6,259,759 3,897,599 2,362,160 
+ 
+ 
+45.- OTROS GASTOS 
+ 
+Al 31 de diciembre de 2019, este rubro se encuentra comprendido por: 
+ 
+  31.12.2019 31.12.2018 VARIACIÓN 
+S/ S/ 
+Pérdida en Venta de Inmueble, Maquinaria  81,660 0 81,660 
+Pérdida en Bienes Adjudicados y Recuperados 66,231 24,856 41,375 
+Sanciones Administrativas y Fiscales 25,710 436,150 (410,440) 
+Pérdidas no cubiertas por Seguros 1,602 426 1,176 
+IGV por Retiro de Bienes 183,192 192,834 (9,642) 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO S.A.-Individual.zip/2015_Individual_Anual_21_DICTAMEN EEFF 2019.pdf | PAGINA: 52 | vecina =====
+52 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+ 
+ 
+Indemnización Extraordinaria al Personal 0 0 0 
+Redondeos 17,424 12,398 5,025 
+Pérdidas en procesos laborales  8,926 0 8,926 
+Redondeos - Circular 002-2011-BCRP 192,873 71,373 121,501 
+Tributos 0 0 0 
+Gastos varios 338,835 133,072 205,763 
+Pérdidas Asociadas a Riesgo operacional 7,201 7,853 (651) 
+TOTAL 923,655 878,962 44,693 
+ 
+ 
+ 
+ 
+ 
+ 
+46.- IMPUESTO A LA RENTA 
+ 
+Al 31 de diciembre de 2019, se produjo un incremento del 1.13% en comparación con el periodo 2018. 
+ 
+  31.12.2019 31.12.2018 VARIACIÓN 
+S/ S/ 
+Impuesto a la Renta - corriente (49,103,835) (46,060,342) (3,043,493) 
+Impuesto a la Renta - diferido 6,418,880 3,853,180 2,565,700 
+TOTAL (42,684,955) (42,207,162) (477,793) 
+ 
+ 
+47.- REVELACIÓN SOBRE INSTRUMENTOS Y RIESGOS FINANCIEROS  
+ 
+i. Gestión de riesgos 
+Las actividades de la CMAC- Huancayo se relaciona principalmente a la intermediación financiera, La 
+CMAC- Huancayo recibe depósitos de sus clientes a tasas fijas, a diversos plazos, con la intención de 
+obtener una rentabilidad, invirtiendo estos fondos en activos de alta calidad (rentables y seguros). Así 
+mismo está expuesta a una variedad de riesgos financieros en el curso normal de sus operaciones. Por 
+ello, la Gerencia sobre la base de su conocimiento técnico y su experiencia establece políticas para el 
+control de riesgos crediticio, de liquidez, de mercado (tasas de interés y tipo de cambio). 
+ 
+(a.1) Riesgo de crédito 
+ 
+La CMAC-HUANCAYO toma posiciones afectas a riesgo crediticio, que es el riesgo en donde el 
+cliente no puede cumplir con sus compromisos, o pagos a su vencimiento. La CMAC- Huancayo 
+registra provisiones para aquellas pérdidas en que ha incurrido a la fecha del estado de situación 
+financiera. En caso ocurran cambios significativos en la economía o en un segmento de la industria 
+en particular que represente una concentración en la cartera de la CMAC- Huancayo, se podría 
+originar que las pérdidas sean diferentes de las registradas a la fecha del estado de situación 
+financiera, por lo que la Gerencia monitorea continuamente su exposición al riesgo de crédito. 

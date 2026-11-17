@@ -1,0 +1,2879 @@
+EMPRESA: BANCO GNB PERU S.A.
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_11_Banco GNB - EEFF Auditados 2024.pdf | PAGINA: 55 | vecina =====
+ 
+- 53 - 
+Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las normas legales 
+vigentes, no es posible determinar a la fecha si de las revisiones que se realicen resultarán o no 
+pasivos para el Banco, por lo que cualquier mayor impuesto o recargo que pudiera resultar de 
+eventuales revisiones fiscales sería aplicado a los resultados del ejercicio en que éste se 
+determine.  Sin embargo, en opinión de la Gerencia del Banco y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2024 y de 2023. 
+ 
+En julio 2018 se publicó la Ley No.30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera.  En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) El Decreto Legislativo No.1369, vigente a partir del 1 de enero de 2019, dispuso que la 
+obligación de efectuar las retenciones del Impuesto a la Renta a sujetos no domiciliados se 
+originará únicamente cuando ocurra el pago o acreditación de la retribución; asimismo, se 
+incluyó como requisito para la deducción del gasto que dicho pago o acreditación de 
+retribución ocurra hasta la fecha de presentación de la declaración jurada anual del Impuesto 
+a la Renta. 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+No.1372).  Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo con lo establecido en el Artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país.  La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten con una 
+sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural o 
+jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado en 
+el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación será cumplida mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa, que deberá contener la información del beneficiario final y ser 
+presentada, de acuerdo con las normas reglamentarias y en los plazos que se establezcan 
+mediante Resolución de Superintendencia de la SUNAT.  Nótese que en caso se haya 
+producido alguna modificación a la declaración jurada informativa presentada por el Banco 
+vinculada a la identificación de los beneficiarios finales de la misma, ésta deberá cumplir con 
+informar dicha actualización a la Administración Tributaria. 
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma anti elusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo No.1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+esto es, cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por 
+la Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que tengan 
+Directorio, corresponde a este órgano societario definir la estrategia tributaria de la entidad 
+debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones económicas a 
+realizarse en el marco de la planificación fiscal, siendo esta facultad indelegable. 
+ 
+(iv) Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recalificación de los supuestos de elusión tributaria, se producirá en los procedimientos de 
+fiscalización definitiva en los que se revisen actos, hechos o situaciones producidos desde el 
+19 de julio de 2012.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_11_Banco GNB - EEFF Auditados 2024.pdf | PAGINA: 56 | puntaje 10 =====
+ 
+- 54 - 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a partir 
+del 1 de enero de 2019 (Decreto Legislativo No.1425), indicando que el devengo ocurrirá 
+cuando se hayan producido los hechos sustanciales para la generación del ingreso o gasto, 
+siempre que no se encuentre sujeto a una condición suspensiva o a un hecho futuro. 
+ 
+Mediante Decreto Legislativo No.30341, ley que fomenta la liquidez e integración del mercado de 
+valores, se exonera del impuesto a la renta hasta el 31 de diciembre de 2022 (plazo prorrogado a 
+través del Decreto de Urgencia No.005-2019 a las rentas originadas por la enajenación de: i) 
+Valores representativos de deuda, ii) Certificados de participación en fondos mutuos de inversión 
+en valores, iii) Certificados de participación en Fondo de Inversión en Renta de Bienes Inmuebles 
+(FIRBI) y certificados de participación en Fideicomiso de Titulización para Inversión en Renta de 
+Bienes Raíces (FIBRA); y, iv) Facturas negociables. 
+ 
+Para que resulte de aplicación la exoneración en el caso de rentas originadas por la enajenación 
+de acciones, acciones de inversión, ADR y GDR, y bonos convertibles en acciones, se debe 
+cumplir con lo siguiente: 
+ 
+- La enajenación debe realizarse a través de un mecanismo centralizado de negociación 
+situado en el país y supervisado por la SMV. 
+- No transferir en un periodo de 12 meses, la propiedad de 10 por ciento o más del total de 
+acciones emitidas por la empresa.  En el caso de ADR y GDR se toma en cuenta las acciones 
+subyacentes. Se consideran las transferencias personales y las de las partes vinculadas. 
+- Tener presencia bursátil. 
+ 
+Para los demás valores comprendidos se exige que la enajenación se realice a través del 
+mecanismo centralizado de negociación supervisado por la SMV y adicionalmente que cumpla 
+con tener presencia bursátil.  En el caso de facturas negociables solamente se requiere que la 
+enajenación se realice a través del mecanismo centralizado de negociación supervisado por la 
+SMV. 
+ 
+Finalmente, se incorpora como causal de pérdida de la exoneración que el emisor desliste los 
+valores del Registro de Valores de la Bolsa, total o parcialmente, en un acto o progresivamente, 
+dentro de los 12 meses siguientes de efectuada la enajenación.  Mediante el Reglamento se 
+establecerán las excepciones. 
+ 
+Al respecto, la referida exoneración sólo se encontró vigente hasta el 31 de diciembre de 2022; si 
+bien a través de la Primera Disposición Complementaria Final de la Ley No.31662 se prorrogó 
+hasta el 31 de diciembre de 2023 la exoneración del Impuesto a la Renta a que se refería la Ley 
+No.30341, ésta se circunscribió únicamente a personas naturales, sucesiones indivisas o 
+sociedad conyugal que optó por tributar como tal. 
+ 
+g) Mediante el Decreto Legislativo No.1549, publicado el 23 de abril de 2023, se han prorrogado 
+hasta el 31 de diciembre de 2026 las exoneraciones previstas en el artículo 19 de la Ley del 
+Impuesto a la Renta. 
+ 
+h) Mediante Resolución de Superintendencia No.000044-2021-SUNAT publicada con fecha de 30 de 
+marzo de 2021, la Administración Tributaria señala que la a partir del 1 de abril 2021 la tasa de 
+interés moratorio es noventa centésimos por ciento (0.90%) mensual, la cual se aplicará a las 
+deudas tributarias en moneda nacional, correspondientes a tributos administrados y/o recaudados 
+por la SUNAT. 
+ 
+i) Mediante la publicación de la Resolución de Superintendencia No.165-2021/SUNAT, la 
+administración tributaria puso a disposición de los contribuyentes una plataforma en la que 
+deberán otorgar la conformidad o disconformidad a las facturas y recibos por honorarios 
+electrónicos que recibimos de nuestros proveedores. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_11_Banco GNB - EEFF Auditados 2024.pdf | PAGINA: 57 | vecina =====
+ 
+- 55 - 
+j) Mediante la publicación del Decreto Legislativo No.1523 publicado el 18 de febrero del 2022, se 
+ha modificado el código tributario, a fin de optimizar la regulación de, entre otras, las facultades de 
+fiscalización de la Superintendencia Nacional de Aduanas y de Administración Tributaria y de las 
+actuaciones que se realizan entre esta y los administrados, para adecuarlas a la transformación 
+digital, así como realizar las adaptaciones que se requieran, en aspectos tales como las formas de 
+notificación de las infracciones y sanciones sin afectar los derechos constitucionalmente 
+protegidos de los contribuyentes. 
+ 
+k) Mediante la publicación del Decreto Legislativo No.1529, se ha modificado la Ley para la Lucha 
+contra la Evasión y para la Formalización de la Economía y ha dispuesto lo siguiente: 
+ 
+- A partir del 1 de abril de 2022 se deberá utilizar Medios de Pago en los pagos a partir de dos 
+mil soles (S/2,000 o US$500). 
+- El uso de Medios de Pago establecido en esta Ley se tiene por cumplido solo si el pago se 
+efectúa directamente al acreedor, proveedor del bien y/o prestador del servicio, o cuando 
+dicho pago se realice a un tercero designado por aquél, siempre que tal designación se 
+comunique a la SUNAT con anterioridad al pago, en la forma y condiciones que esta señale 
+mediante resolución de superintendencia. 
+- En ningún caso se considera cumplida la obligación de utilizar Medios de Pago a que se 
+refiere la Ley, cuando los pagos se canalicen a través de empresas bancarias o financieras 
+que sean residentes de países o territorios no cooperantes o de baja o nula imposición o 
+establecimientos permanentes situados o establecidos en tales países o territorios 
+ 
+l) Mediante el Decreto Supremo No.233-2022-EF se modificó el Artículo 60-A del Reglamento de 
+Impuesto a la Renta, para incluir el concepto de Sujeto Sin Capacidad Operativa (SSCO), siendo 
+que la SUNAT podrá verificar a aquellas empresas que no cuenten con personal, activos o la 
+capacidad para poder desarrollar sus funciones y podrá declararlos como SSCO, teniendo como 
+efecto que todos los comprobantes de pago que haya emitido no podrán sustentar gasto o costo 
+para fines fiscales, ni crédito fiscal del IGV. 
+ 
+m) Mediante Decreto de Urgencia No.016-2022 se modifican las siguientes resoluciones: 
+ 
+- Resoluciones de Superintendencia 00150-2021/SUNAT que amplía la vigencia de la única 
+disposición complementaria transitoria relacionada al plazo de envío de la factura electrónica 
+y de la nota electrónica vinculada a esta por el periodo comprendido desde el 17 hasta el 31 
+de diciembre de 2022 (antes hasta el 31 de diciembre del 2021). 
+- Resoluciones de Superintendencia 00189-2021/SUNAT referente a la actualización del 
+cronograma de obligaciones tributarias correspondientes a los períodos tributarios de julio a 
+diciembre 2022 publicados en la página de SUNAT. 
+ 
+n) Mediante la Resolución de Superintendencia No.00293-2024/SUNAT posterga el uso del Sistema 
+Integrado de Registros Electrónicos (SIRE), del periodo enero 2025 a junio de 2025. 
+ 
+o) De acuerdo con lo establecido por la Ley del Impuesto a la Renta y sus modificatorias, las 
+entidades establecidas en el Perú tienen la facultad de optar entre uno de los dos métodos 
+siguientes para el arrastre de sus pérdidas tributarias: 
+ 
+(i) Método A: La pérdida tributaria podrá ser utilizada hasta cuatro años después de haberse 
+generado. 
+(ii) Método B: La pérdida tributaria se podrá compensar con utilidades futuras año a año hasta su 
+extinción final, aplicando dicha pérdida hasta el 50 por ciento de su utilidad gravable. 
+ 
+La opción de elegir el método de compensación de pérdidas tributarias se ejerce con oportunidad 
+de la presentación de la declaración jurada anual del Impuesto a la Renta que corresponde al año 
+fiscal en el que se genera la pérdida.  Una vez ejercida la opción no es posible modificar el 
+método hasta agotar íntegramente la pérdida. 
+ 
+La Gerencia del Banco ha optado utilizar el método B descrito anteriormente.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 29 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+17 
+Al 31 de diciembre de 2022 y de 2021, el Banco mantiene inversiones clasificadas en la 
+categoría de inversiones disponibles para la venta e inversiones a vencimiento. 
+ 
+Clasificación -   
+ 
+(i) Inversiones disponibles para la venta - 
+Son aquellas designadas como tales debido a que se mantienen por un tiempo indefinido y   
+pueden ser vendidas debido a necesidades de liquidez o cambios en la tasa de interés,   
+tipos de cambio o en el precio de capital; o no califican para ser registradas como a valor   
+razonable con efecto en resultados o mantenidas hasta su vencimiento.   
+ 
+En esta categoría se incluyen todos los instrumentos de inversión que no se encuentren   
+clasificados como inversiones a valor razonable con cambios en resultados, inversiones a 
+vencimiento inversiones en subsidiarias, asociadas y participaciones en negocios   
+conjuntos; es decir, es una categoría residual. 
+ 
+(ii) Inversiones a vencimiento - 
+Los instrumentos financieros que son clasificados dentro de esta categoría deben 
+cumplir con los siguientes requisitos: 
+ 
+- Haber sido adquiridos o reclasificados con la intención de mantenerlos hasta su 
+fecha de vencimiento, salvo los casos en los que la venta, asignación o 
+reclasificación sean permitidas por la SBS. 
+-  Deberán contar con clasificaciones de riesgo de acuerdo a lo requerido por la SBS. 
+ 
+Asimismo, una entidad financiera podrá clasificar inversiones en esta categoría, sólo si 
+tiene la capacidad financiera para mantener el instrumento de inversión hasta su 
+vencimiento. Dicha capacidad deberá evaluarse al cierre de cada ejercicio anual. 
+ 
+ Fecha de registro de transacciones - 
+Las transacciones se registran utilizando la fecha de negociación; esto es, la fecha en la 
+que se asumen las obligaciones recíprocas que deben consumarse dentro del plazo 
+establecido por las regulaciones y usos del mercado en el que se efectúe la transacción. 
+ 
+ Reconocimiento inicial y valuación –   
+(i) Inversiones a valor razonable con cambios en resultados - El registro contable 
+inicial se efectúa al valor razonable, registrando los costos de transacción 
+relacionados como gastos.  Su valorización corresponde al valor razonable y la 
+ganancia o pérdida originada por la variación entre el registro contable inicial y su 
+valor razonable se reconoce directamente en el estado de resultados. 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 30 | puntaje 7 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+18 
+(ii)  Inversiones disponibles para la venta – El registro contable inicial se efectúa al valor 
+razonable, incluyendo los costos de transacción que sean directamente atribuibles 
+a su adquisición.  Su valorización corresponde al valor razonable y la ganancia o 
+pérdida originada por la variación entre el registro contable inicial y su valor 
+razonable se reconoce directamente en el patrimonio, a menos que exista un 
+deterioro permanente en su valor.  Cuando el instrumento es vendido o realizado, 
+la ganancia o pérdida, previamente reconocida como parte del patrimonio, se 
+transfiere a los resultados del ejercicio. 
+ 
+En el caso de los instrumentos representativos de deuda, previamente a la 
+valorización a valor razonable, se actualiza contablemente el costo amortizado 
+aplicando la metodología de la tasa de interés efectiva, y a partir del costo 
+amortizado obtenido se reconocen las ganancias o pérdidas por la variación en el 
+valor razonable. 
+ 
+(iii) Inversiones a vencimiento - El registro contable inicial se efectúa al valor 
+razonable, incluyendo los costos de transacción que sean directamente atribuibles 
+a su adquisición.  Su valorización corresponde al costo amortizado, utilizando el 
+método de la tasa de interés efectiva. 
+ 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, 
+la cual incorpora tanto los intereses que van a ser cobrados como la amortización 
+de la prima o descuento que exista en su adquisición. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su 
+valor en libros se reconoce en el estado de resultados.  
+ 
+Evaluación de deterioro - 
+La Resolución SBS N°2610-2018 modifica algunos artículos establecidos en la Resolución SBS 
+N°7033-2012 “Reglamento de Clasificación y Valorización de las Inversiones de las Empresas del 
+Sistema Financiero”, en la cual el cambio principal radica en la nueva metodología para la 
+identificación de deterioro denominada “Metodología Estándar para la Identificación del 
+Deterioro de Valor de Inversiones Disponibles para la Venta e Inversiones a Vencimiento”. Dicha 
+metodología contempla lo siguiente:   
+ 
+I. Instrumentos de deuda   
+Las empresas deben evaluar, para toda la cartera de instrumentos representativos de 
+deuda sujeta a deterioro, la ocurrencia de las siguientes situaciones:   
+ 
+1. Debilitamiento en la situación o ratios financieros del emisor y de su grupo 
+económico.   
+2. Rebaja en cualquiera de las clasificaciones crediticias del instrumento o del emisor, 
+en al menos dos (02) “notches”, desde el momento que se adquirió el instrumento; 
+donde un “notch” corresponde a la diferencia mínima entre dos calificaciones de 
+riesgo dentro de una misma escala de calificación de deterioro.    
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 31 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+19 
+3. Interrupción de transacciones o de un mercado activo para el activo financiero, 
+debido a dificultades financieras del emisor.   
+4. Los datos observables indican que, desde su reconocimiento inicial de un grupo de 
+activos financieros con características similares al instrumento evaluado, existe 
+una disminución medible en sus flujos futuros estimados de efectivo, aunque no 
+pueda todavía identificársela con activos financieros individuales del grupo.   
+5. Disminución del valor por cambios normativos (impositivos, regulatorios u otros 
+gubernamentales).   
+6. Disminución significativa del valor razonable por debajo de su costo amortizado. Se 
+considerará como una disminución significativa si el valor razonable a la fecha de 
+cierre ha disminuido por lo menos 40% por debajo de su costo amortizado a dicha 
+fecha.   
+7. Disminución prolongada en el valor razonable. Se considerará como una 
+disminución prolongada si el valor razonable a la fecha de cierre ha disminuido por 
+lo menos 20% en comparación con el costo amortizado de doce (12) meses atrás y, 
+el valor razonable a la fecha de cierre de cada mes durante el período de doce (12) 
+meses previos, se ha mantenido siempre por debajo del costo amortizado 
+correspondiente a la fecha de cierre de cada mes.   
+ 
+En caso se cumplan por los menos dos (02) de las situaciones anteriormente descritas, se 
+considerará que existe deterioro y; por consiguiente, la empresa debe determinar el 
+importe de cualquier pérdida por deterioro de valor de acuerdo con lo establecido en el  
+artículo 10 del Reglamento. 
+ 
+En caso no se hayan dado por lo menos dos (02) de las situaciones anteriormente   
+descritas, bastará con que se presente algunas de las siguientes situaciones específicas 
+para considerar que existe deterioro:   
+ 
+1.  Incumplimiento de las cláusulas contractuales, tales como la interrupción en el 
+pago de intereses o capital.   
+2. Renegociación de las condiciones contractuales del instrumento por factores 
+legales o problemas financieros vinculados al emisor. 
+3. Evidencia de que el emisor está en proceso de reestructuración forzosa o quiebra.   
+4. Cuando se reduzca la clasificación de riesgo de un instrumento que estaba 
+clasificado como grado de inversión, hacia una clasificación que resulte por debajo 
+del grado de inversión.    
+ 
+II. Instrumento de capital   
+Las empresas deben evaluar, para los instrumentos representativos de capital sujetos a 
+deterioro, la ocurrencia de las siguientes situaciones:   
+ 
+1. Cuando se reduzca la clasificación de riesgo de un instrumento de deuda del emisor 
+que estaba clasificado como grado de inversión, hacia una clasificación que resulte 
+por debajo del grado de inversión. 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 34 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+22 
+Las obras en curso y los bienes por recibir son registrados al costo de adquisición. Estos bienes 
+no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue:   
+ 
+ Años  
+  
+Edificios 20 
+Instalaciones, mobiliario y equipo 10 
+Equipos de cómputo 4 
+Unidades de transporte 5 
+ 
+La depreciación de las mejoras en locales alquilados se realiza en el plazo de los respectivos 
+contratos de alquiler. 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para asegurar 
+que el método y el período de la depreciación sean consistentes con el beneficio económico 
+futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo.   
+ 
+Los costos de mantenimiento y reparación se cargan a resultados; toda renovación y mejora se 
+capitaliza únicamente cuando los desembolsos mejoran la condición del activo. El costo y la 
+correspondiente depreciación acumulada de los activos vendidos o retirados son eliminados de 
+las cuentas respectivas y la utilidad o pérdida generada se incluye en los resultados del ejercicio.   
+ 
+Los Bancos están prohibidos de dar en garantía los bienes de su activo fijo, salvo los adquiridos 
+en operaciones de arrendamiento financiero.   
+ 
+(j) Bienes realizables, recibidos en pago y adjudicados - 
+Los bienes realizables incluyen bienes comprados con el propósito específico de otorgarse en 
+arrendamiento financiero, siendo registrados inicialmente a su costo de adquisición; aquellos 
+bienes realizables que no fueran otorgados en arrendamiento financiero incluyendo los bienes 
+recuperados, son registrados al costo o valor de mercado el menor. 
+ 
+Los bienes recuperados, recibidos en pago y adjudicados (provenientes de la resolución de un 
+contrato de arrendamiento financiero) se registran inicialmente al valor de adjudicación judicial, 
+extrajudicial, valor de mercado o valor insoluto de la deuda, el menor; reconociéndose a su vez 
+una provisión equivalente al 20 por ciento del valor de adjudicación o recuperación del bien; 
+pudiendo mantenerse para este fin la provisión que se tenía constituida por el crédito 
+relacionado.   
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 35 | puntaje 17 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+23 
+Posteriormente, se constituirán provisiones adicionales siguiendo los siguientes criterios:   
+ 
+-  Bienes muebles - Se constituye una provisión mensual uniforme a partir del primer mes de 
+la dación, adjudicación o recuperación, por un período de doce meses hasta alcanzar el 
+cien por ciento del valor neto de adjudicación o recuperación.   
+ 
+-  Bienes inmuebles – Se constituye provisiones mensuales uniformes sobre el valor neto en 
+libros obtenido al décimo segundo mes; siempre que no se haya obtenido la prórroga de 
+seis meses contemplada en la Resolución SBS N°1535-2005, en cuyo caso, se constituyen 
+provisiones mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo 
+mes.  En ambos casos, las provisiones se constituyen hasta alcanzar el cien por ciento del 
+valor neto en libros en un plazo de tres años y medio, contados a partir de la fecha en la 
+cual se empezaron a constituir las provisiones mensuales.   
+ 
+La actualización anual de las valuaciones de estos bienes determinadas por un perito 
+independiente implica, de ser necesario, sólo la constitución de provisiones por desvalorización.    
+ 
+(k) Activos intangibles - 
+Los intangibles comprenden principalmente la inversión efectuada en la adquisición de licencias y 
+desarrollo de software de cómputos utilizados en las operaciones del Banco, que se muestran en 
+el rubro “otros activos” y se amortizan por el método de línea recta en el plazo de 5 años (nota 
+10). De acuerdo con la Resolución SBS N°1967-2010, los activos intangibles de vida limitada se 
+amortizan en un plazo máximo de cinco años. 
+ 
+Los costos relacionados con el desarrollo o mantenimiento de software de cómputo se reconocen 
+en resultados cuando se incurren. Sin embargo, los costos que están directamente asociados con 
+software de cómputo único e identificable, que son controlados por el Banco y que brindarán 
+beneficios económicos futuros mayores que su costo en más de un año, son considerados como 
+activos intangibles. Los costos directos vinculados al desarrollo de programas de computación 
+incluyen costos de personal del equipo que los desarrolla. 
+ 
+(l) Deterioro del valor de activos de larga duración-   
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, la Gerencia del Banco revisa el valor de sus inmuebles, mobiliario y 
+equipo e intangibles para verificar que no existe ningún deterioro permanente en su valor.   
+ 
+Cuando el valor en libros del activo excede su valor recuperable, se reconoce una pérdida por 
+deterioro en el estado separado de resultados integrales para los rubros de inmuebles, mobiliario 
+y equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor 
+en uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. Los importes 
+recuperables se estiman para cada activo o, si no es posible, para la unidad generadora de 
+efectivo.   
+ 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 36 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+24 
+En opinión de la Gerencia, no existe evidencia de deterioro en el valor de dichos activos al 31 de 
+diciembre de 2022 y de 2021.   
+ 
+(m) Valores, títulos, adeudos y obligaciones en circulación -   
+El pasivo por adeudos y la emisión de valores, títulos y obligaciones en circulación incluidos en el 
+rubro de “Adeudos y obligaciones financieras” del estado separado de situación financiera, es 
+contabilizado a su valor nominal, reconociéndose los intereses devengados en los resultados del 
+ejercicio. Cuando sea aplicable, los descuentos otorgados o los ingresos generados en su 
+colocación son diferidos y se presentan netos de su valor de emisión, y se amortizan durante el 
+plazo de vigencia de los valores, títulos y obligaciones en circulación relacionados utilizando el 
+método de la tasa de interés efectiva.   
+ 
+(n) Impuesto a la renta -   
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para 
+fines tributarios, la cual es determinada utilizando criterios que difieren de los principios 
+contables que utiliza el Banco.    
+ 
+Asimismo, el Banco ha registrado el impuesto a la renta diferido considerando los lineamientos 
+de la NIC 12 – Impuestos a las Ganancias. El impuesto a la renta diferido refleja los efectos de las 
+diferencias temporales entre los saldos de activos y pasivos para fines contables y los 
+determinados para fines tributarios; y se reconoce utilizando el método del pasivo sobre dichas 
+diferencias temporales.   
+ 
+Los pasivos por impuesto diferido se reconocen para aquellas diferencias temporales gravables 
+(imponibles); mientras que los activos por impuesto diferido se reconocen para todas las 
+diferencias temporales deducibles en la medida en que sea probable que existan beneficios 
+futuros suficientes para que el activo diferido se pueda aplicar.   
+ 
+Los activos y pasivos por impuesto diferido se miden utilizando las tasas de impuestos que se 
+espera se apliquen a la renta imponible en los años en que el activo se realice o el pasivo se 
+cancele, en base a las tasas de impuestos que fueron aprobadas a la fecha del estado de situación 
+financiera.   
+ 
+La medición de los activos y pasivos diferidos reflejan las consecuencias tributarias derivadas de 
+la forma en que se espera recuperar o liquidar el valor de los activos y pasivos a la fecha del 
+estado de situación financiera. 
+ 
+El importe en libros de los activos y pasivos por impuestos diferidos puede cambiar, incluso 
+cuando no haya cambiado el importe de las diferencias temporales, debido a un cambio en la tasa 
+del impuesto a la renta. El efecto del cambio en el impuesto diferido, correspondiente al cambio 
+de tasa, se reconocerá en el estado de resultados del período, excepto en las partidas 
+previamente reconocidas fuera del estado de resultados (sea en otros resultados integrales o 
+directamente en el patrimonio neto).   
+ 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 68 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+56 
+(g) En julio 2018 se publicó la Ley No. 30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera. En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) Se modificó a partir del 1 de enero de 2019 el Decreto Legislativo No. 1369 dispuso que 
+la obligación de efectuar retenciones a no domiciliados se originará únicamente cuando 
+ocurra el pago o acreditación de la retribución; asimismo, se incluyó como requisito para 
+la deducción del gasto que dicho pago o acreditación de retribución ocurra hasta la 
+fecha de presentación de la declaración jurada anual del Impuesto a la Renta. 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+N°1372). Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo con lo establecido en el artículo 7 de la Ley de Impuesto a la Renta, y a los 
+entes jurídicos constituidos en el país. La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten 
+con una sucursal, agencia u otro establecimiento permanente en el país; b) la persona 
+natural o jurídica que gestione el patrimonio autónomo o los fondos de inversión del 
+exterior, o la persona natural o jurídica que tiene calidad de protector o administrador, 
+esté domiciliado en el país; c) cualquiera de las partes de un consorcio esté domiciliada 
+en el país. Esta obligación será cumplida mediante la presentación a la Autoridad 
+Tributaria de una Declaración Jurada informativa, que deberá contener la información 
+del beneficiario final y ser presentada, de acuerdo con las normas reglamentarias y en 
+los plazos que se establezcan mediante Resolución de Superintendencia de la SUNAT. 
+Nótese que en caso se haya producido alguna modificación a la declaración jurada 
+informativa presentada por la Compañía vinculada a la identificación de los beneficiarios 
+finales de la misma, ésta deberá cumplir con informar dicha actualización a la 
+Administración Tributaria. 
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma antielusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo N°1422 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad 
+solidaria, cuando el deudor tributario sea sujeto de la aplicación de las medidas 
+dispuestas por la Norma XVI en caso se detecten supuestos de elusión de normas 
+tributarias; en tal caso, la responsabilidad solidaria se atribuirá a los representantes 
+legales siempre que hubieren colaborado con el diseño o la aprobación o la ejecución de 
+actos o situaciones o relaciones económicas previstas como elusivas en la Norma XVI. 
+Tratándose de sociedades que tengan Directorio, corresponde a este órgano societario 
+definir la estrategia tributaria de la entidad debiendo decidir sobre la aprobación o no de 
+actos, situaciones o relaciones económicas a realizarse en el marco de la planificación 
+fiscal, siendo esta facultad indelegable. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 69 | puntaje 10 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+57 
+(iv) Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recalificación de los supuestos de elusión tributaria, se producirá en los procedimientos 
+de fiscalización definitiva en los que se revisen actos, hechos o situaciones producidos 
+desde el 19 de julio de 2012 
+ 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a 
+partir del 1 de enero de 2019 (Decreto Legislativo N° 1425), indicando que el devengo 
+ocurrirá cuando se hayan producido los hechos sustanciales para la generación del 
+ingres o gasto, siempre que no se encuentre sujeto a una condición suspensiva o a un 
+hecho futuro. 
+ 
+(h) Mediante Decreto Legislativo N° 30341, ley que fomenta la liquidez e integración del mercado de 
+valores, se exonera del impuesto a la renta hasta el 31 de diciembre de 2022 (plazo prorrogado a 
+través del Decreto de Urgencia N° 005-2019 a las rentas originadas por la enajenación de: i) 
+Valores representativos de deuda, ii) Certificados de participación en fondos mutuos de inversión 
+en valores, iii) Certificados de participación en Fondo de Inversión en Renta de Bienes Inmuebles 
+(FIRBI) y certificados de participación en Fideicomiso de Titulización para Inversión en Renta de 
+Bienes Raíces (FIBRA); y, iv) Facturas negociables. 
+ 
+ Para que resulte de aplicación la exoneración en el caso de rentas originadas por la enajenación 
+de acciones, acciones de inversión, ADR y GDR, y bonos convertibles en acciones, se debe 
+cumplir con lo siguiente: 
+-  La enajenación debe realizarse a través de un mecanismo centralizado de negociación situado en el 
+país y supervisado por la SMV. 
+-  No transferir en un periodo de 12 meses, la propiedad de 10 por ciento o más del total de acciones 
+emitidas por la empresa. En el caso de ADR y GDR se toma en cuenta las acciones subyacentes. Se 
+consideran las transferencias personales y las de las partes vinculadas. 
+-  Tener presencia bursátil. 
+ 
+Para los demás valores comprendidos se exige que la enajenación se realice a través del 
+mecanismo centralizado de negociación supervisado por la SMV y adicionalmente que cumpla 
+con tener presencia bursátil. En el caso de facturas negociables solamente se requiere que la 
+enajenación se realice a través del mecanismo centralizado de negociación supervisado por la 
+SMV. 
+ 
+Finalmente, se incorpora como causal de pérdida de la exoneración que el emisor desliste los 
+valores del Registro de Valores de la Bolsa, total o parcialmente, en un acto o progresivamente, 
+dentro de los 12 meses siguientes de efectuada la enajenación. Mediante el Reglamento se 
+establecerán las excepciones. 
+ 
+Al respecto, la referida exoneración solo se encontró vigente hasta el 31 de diciembre de 2022; 
+si bien a través de la Primera Disposición Complementaria Final de la Ley No. 31662 se prorrogó 
+hasta el 31 de diciembre de 2023 la exoneración del Impuesto a la Renta a que se refería la Ley 
+No. 30341, esta se circunscribió únicamente a personas naturales, sucesiones indivisas o 
+sociedad conyugal que optó por tributar como tal.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_9_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 70 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+58 
+(i) Mediante la ley N° 31106, publicada el 31 de diciembre de 2020, se han prorrogado hasta el 31 
+de diciembre de 2023 las exoneraciones previstas en el artículo 19 de la Ley del Impuesto a la 
+Renta. 
+ 
+(j) Mediante Resolución de Superintendencia N° 000044-2021-SUNAT publicada con fecha de 30 de 
+marzo de 2021, la Administración Tributaria señala que la a partir del 1 de abril 2021 la tasa de 
+interés moratorio es noventa centésimos por ciento (0.90%) mensual, la cual se aplicará a las 
+deudas tributarias en moneda nacional, correspondientes a tributos administrados y/o 
+recaudados por la SUNAT. 
+ 
+(k) Mediante la publicación de la Resolución de Superintendencia N° 165-2021/SUNAT, la 
+administración tributaria puso a disposición de los contribuyentes una plataforma en la que 
+deberán otorgar la conformidad o disconformidad a las factures y recibos por honorarios 
+electrónicos que recibimos de nuestros proveedores. 
+ 
+(l) Mediante la publicación del Decreto Legislativo N° 1523 publicado el 18 de Febrero del 2022, se 
+ha modificado el código tributario, a fin de optimizar la regulación de, entre otras, las facultades 
+de fiscalización de la Superintendencia Nacional de Aduanas y de Administración Tributaria y de 
+las actuaciones que se realizan entre esta y los administrados, para adecuarlas a la 
+transformación digital, así como realizar las adaptaciones que se requieran, en aspectos tales 
+como las formas de notificación de las infracciones y sanciones sin afectar los derechos 
+constitucionalmente protegidos de los contribuyentes. 
+ 
+(m) Mediante la publicación del Decreto Legislativo N° 1529, se ha modificado la Ley para la Lucha 
+contra la Evasión y para la Formalización de la Economía y ha dispuesto lo siguiente: 
+ 
+- A partir del 1 de abril de 2022 se deberá utilizar Medios de Pago en los pagos a partir de 
+dos mil soles (S/ 2,000 o quinientos dólares americanos (USD 500). 
+- El uso de Medios de Pago establecido en esta Ley se tiene por cumplido solo si el pago se 
+efectúa directamente al acreedor, proveedor del bien y/o prestador del servicio, o cuando 
+dicho pago se realice a un tercero designado por aquel, siempre que tal designación se 
+comunique a la SUNAT con anterioridad al pago, en la forma y condiciones que esta señale 
+mediante resolución de superintendencia. 
+- En ningún caso se considera cumplida la obligación de utilizar Medios de Pago a que se 
+refiere la Ley, cuando los pagos se canalicen a través de empresas bancarias o financieras 
+que sean residentes de países o territorios no cooperantes o de baja o nula imposición o 
+establecimientos permanentes situados o establecidos en tales países o territorios 
+ 
+(n) Mediante el Decreto Supremo No. 233-2022-EF se modificó el Artículo 60-A del Reglamento de 
+Impuesto a la Renta, para incluir el concepto de Sujeto Sin Capacidad Operativa (SSCO), siendo 
+que la SUNAT podrá verificar a aquellas empresas que no cuenten con personal, activos o la 
+capacidad para poder desarrollar sus funciones y podrá declararlos como SSCO, teniendo como 
+efecto que todos los comprobantes de pago  que haya emitido no podrán sustentar gasto o costo 
+para fines fiscales, ni crédito fiscal del IGV. 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2020_Individual_Anual_EEFF Auditados2020.pdf | PAGINA: 14 | vecina =====
+- 12 - 
+ A valor      
+ razonable con      
+ cambios en  Al costo    
+ resultados  amorizado  Total  
+ S/000  S/000  S/000  
+ 
+2020 
+Pasivos financieros 
+Obligaciones con el público             -   4,400,749  4,400,749 
+Depósitos de empresas del sistema 
+financiero y organismos internacionales             -   176,516  176,516 
+Adeudos y obligaciones financieras             -   409,859  409,859 
+Derivados de Negociación  2,051             -   2,051 
+Cuentas por pagar             -   193,860  193,860 
+Provisiones y otros pasivos             -   43,213  43,213 
+  2,051  5,224,197  5,226,248 
+2019 
+Pasivos financieros 
+Obligaciones con el público             -   3,824,660  3,824,660 
+Depósitos de empresas del sistema  
+financiero y organismos internacionales             -   383,947  383,947 
+Adeudos y obligaciones financieras             -   516,068  516,068 
+Derivados de Negociación  756             -   756 
+Cuentas por pagar             -   102,308  102,308 
+Provisiones y otros pasivos             -   34,547  34,547 
+  756  4,861,530  4,862,286 
+ 
+b) Instrumentos financieros derivados - 
+ 
+La SBS otorga las autorizaciones por tipo de contrato de instrumento financiero derivado y por activo 
+subyacente, pudiendo comprender más de un tipo de contrato y de subyacente.  Los esquemas de 
+autorización, lineamientos de valorización y tratamiento contable de los instrumentos financieros 
+derivados que las entidades financieras deben seguir, se encuentran establecidos en la Resolución 
+SBS N°1737-2006 “Reglamento para la Negociación y Contabilización de Productos Financieros 
+Derivados en las Empresas del Sistema Financiero” y modificatorias, el cual incluye criterios contables 
+para operaciones de negociación, cobertura y derivados implícitos. 
+ 
+Reconocimiento y medición - 
+ 
+Los instrumentos financieros derivados para negociación son inicialmente reconocidos en el estado de 
+situación financiera a su valor razonable; posteriormente todo cambio en el valor razonable de dicho 
+derivado genera un activo o pasivo en el estado de situación financiera, según corresponda, y afecta 
+los resultados del ejercicio. 
+ 
+En adición a su registro dentro del estado de situación financiera, las operaciones con instrumentos 
+financieros derivados son registrados como riesgos y compromisos contingentes a su valor de 
+referencia en la moneda comprometida. 
+ 
+Al 31 de diciembre de 2020 y 2019 y por los años terminados en esas fechas, el Banco no tiene 
+instrumentos financieros derivados clasificados como de cobertura, ni implícitos. 
+ 
+c) Inversiones - 
+ 
+El Banco aplica los criterios de registro y valorización de las inversiones en valores establecidos en la 
+Resolución SBS N°7033-2012 “Reglamento de Clasificación y Valorización de las Inversiones de las 
+Empresas del Sistema Financiero” y modificatorias:  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2020_Individual_Anual_EEFF Auditados2020.pdf | PAGINA: 15 | puntaje 8 =====
+- 13 - 
+i) Inversiones disponibles para la venta - 
+ 
+Las inversiones disponibles para la venta son todos los valores no clasificados como inversiones a 
+valor razonable con cambios en resultados e inversiones en subsidiarias y asociadas.  Asimismo, 
+se incluirán todos los valores que por norma expresa de la SBS se señale. 
+ 
+El registro inicial se realiza en la fecha de negociación al valor razonable incluyendo los costos 
+que sean directamente atribuibles a la adquisición de dichos valores. Posteriormente estas 
+inversiones se actualizan al valor razonable, reconociendo las ganancias o pérdidas que se 
+generan en el patrimonio neto como “Resultados no realizados” hasta que este valor sea vendido 
+o realizado, momento en el cual está ganancia o pérdida será transferida al estado de resultados. 
+ 
+Si una inversión disponible para la venta ha sufrido deterioro del valor, la pérdida acumulada 
+(medida como la diferencia entre el costo de adquisición, neto de cualquier repago y amortización, 
+y su valor razonable vigente, menos cualquier deterioro que anteriormente ha sido reconocido en 
+el estado de otros resultados integrales) será retirada del patrimonio neto y reconocida en el 
+estado de resultados del período.  En los casos de acciones no cotizadas, el deterioro del valor 
+corresponde a la diferencia entre el valor en libros y el valor presente de los flujos de efectivo 
+netos estimados, descontados utilizando la tasa vigente para valores similares. 
+ 
+Las ganancias o pérdidas por diferencias de cambio relacionadas con instrumentos 
+representativos de capital se reconocen en la cuenta de “Resultados no realizados” del patrimonio 
+neto, mientras que aquellas relacionadas con instrumentos representativos de deuda se 
+reconocen en el resultado del período. 
+ 
+Los ingresos por intereses de las inversiones disponibles para la venta son reconocidos mediante 
+el método de la tasa de interés efectiva, calculado sobre la vida esperada del título.  Los premios y 
+descuentos derivados de la fecha de compra son incluidos en el cálculo de la tasa de interés 
+efectiva.  Los dividendos son reconocidos en el estado de resultados cuando se establezca el 
+derecho a recibir el pago. 
+ 
+ii) Inversiones a vencimiento -  
+ 
+El registro contable inicial se efectua a valor razonable, incluyendo los costos de transacción que 
+sean directamente atribuibles a la adquisición de dichas inversiones.  La valorización de estas 
+inversiones será al costo amortizado utilizando el método de la tasa de interés efectiva. 
+ 
+Las transacciones se registran utilizando la fecha de negociación, esto es la fecha en la que se 
+asume obligaciones recíprocas que deben consumarse dentro del plazo establecido por las 
+regulaciones y usos de mercado en el que se efectúe la transacción. 
+ 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, la cual 
+incorpora tanto los intereses que van a ser cobrados como la amortización de la prima descuento 
+que exista en su adquisición. 
+ 
+Las ganancias o pérdidas por diferencias de cambio relacionadas al costo amortizado de 
+instrumentos representativos de deuda afectan el resultado del ejercicio y las relacionadas con la 
+diferencia entre el costo amortizado y el valor razonable se registran como parte de la ganancia o 
+pérdida no realizada en el patrimonio. 
+ 
+En el caso de los instrumentos representativos de capital, estos se consideran partidas no 
+monetarias y, en consecuencia, se mantienen a su costo histórico en la moneda local, por lo que 
+las diferencias de cambio son parte de su valorización y se reconocen en los resultados no 
+realizados en el patrimonio. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su valor en libros 
+se reconoce en el estado de resultados.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2020_Individual_Anual_EEFF Auditados2020.pdf | PAGINA: 16 | vecina =====
+- 14 - 
+d) Créditos y provisión para créditos - 
+ 
+Los créditos directos se registran cuando se realiza el desembolso de los fondos a favor de los 
+clientes. Los créditos indirectos (contingentes) se registran cuando se emiten los documentos que 
+soportan dichas facilidades de crédito y podrían llegar a ser créditos directos en caso se realice un 
+pago a terceras partes.  Asimismo, se considera como refinanciación o reestructuración, a cualquier 
+crédito directo el cual se producen variaciones de plazo sobre el contrato originado debido a 
+dificultades en capacidad de pago por parte del deudor. 
+ 
+Las operaciones de arrendamiento financiero se contabilizan bajo el método financiero, registrándose 
+como créditos el capital de las cuotas de arrendamiento pendientes de cobro. Los correspondientes 
+ingresos financieros se registran sobre la base del devengado de acuerdo con los términos del 
+contrato de arrendamiento financiero.  Los costos directos iniciales se reconocen inmediatamente 
+como gasto. 
+ 
+Las áreas de Análisis de Riesgo y Seguimiento de Banca Comercial, de la Vicepresidencia de Riesgo 
+son las responsables de efectuar en forma permanente la evaluación y clasificación de la cartera de 
+créditos, asignando a cada deudor la categoría de riesgo crediticio que le corresponda de acuerdo con 
+los lineamientos establecidos por la SBS en la Resolución SBS N°11356-2008 y sus modificatorias. 
+ 
+Clasificación de créditos - 
+ 
+El Banco clasifica a los deudores de su cartera de créditos como: No Minorista (Créditos corporativos, 
+Créditos a grandes empresas, Créditos a medianas empresas) y como Minorista (Créditos a pequeñas 
+empresas, Créditos MES, Créditos de consumo revolvente, Créditos de consumo no revolvente y 
+Créditos hipotecarios). Estas clasificaciones toman en consideración la naturaleza del cliente 
+(corporativos, gobierno o personas naturales), el propósito del crédito, el tamaño de los negocios 
+medidos por los ingresos, el endeudamiento, entre otros indicadores. 
+ 
+Categorías de clasificación por riesgo crediticio - 
+ 
+Las categorías de clasificación por riesgo crediticio establecidas por la SBS son las siguientes: 
+Normal, Con Problemas Potenciales, Deficiente, Dudoso y Pérdida, las cuales son asignadas de 
+acuerdo con los lineamientos establecidos en la Resolución SBS N°11356-2008 y sus modificatorias. 
+ 
+Para la Cartera No Minorista, el Banco tiene en cuenta principalmente, la capacidad de pago del 
+deudor, su flujo de caja, el grado de cumplimiento de sus obligaciones, las clasificaciones asignadas 
+por las demás empresas del sistema financiero, la situación financiera y la calidad de la dirección de la 
+empresa.  Para la Cartera Minorista, la clasificación se determina en función del grado de 
+cumplimiento de pago de sus créditos reflejados en los días de atraso, y en su clasificación en las 
+otras empresas del sistema financiero. 
+ 
+Provisiones por incobrabilidad - 
+ 
+Con base en las regulaciones vigentes emitidas por la SBS, el Banco determina provisiones genérica 
+y específica para la cartera de créditos.  La provisión genérica es aquella que se constituye de manera 
+preventiva para los deudores clasificados en categoría Normal, la cual es calculada sobre sus créditos 
+directos, la exposición equivalente al riesgo crediticio de los créditos indirectos, y adicionalmente se 
+considera un componente procíclico cuando este sea activado por la SBS.  La provisión específica es 
+aquella que se constituye con relación a créditos directos y a la exposición equivalente a riesgo 
+crediticio de los créditos indirectos de deudores identificados con un riesgo superior al Normal. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_12_EEFF Auditados 2025.pdf | PAGINA: 58 | vecina =====
+ 
+- 56 - 
+Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las normas legales 
+vigentes, no es posible determinar a la fecha si de las revisiones que se realicen resultarán o no 
+pasivos para el Banco, por lo que cualquier mayor impuesto o recargo que pudiera resultar de 
+eventuales revisiones fiscales sería aplicado a los resultados del año en que éste se determine.  
+Sin embargo, en opinión de la Gerencia del Banco y de sus asesores legales, cualquier eventual 
+liquidación adicional de impuestos no sería significativa para los estados financieros al 31 de 
+diciembre de 2025 y de 2024. 
+ 
+En julio de 2018 se publicó la Ley No.30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera.  En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) El Decreto Legislativo No.1369, vigente a partir del 1 de enero de 2019, dispuso que la 
+obligación de efectuar las retenciones del Impuesto a la Renta a sujetos no domiciliados se 
+originará únicamente cuando ocurra el pago o acreditación de la retribución; asimismo, se 
+incluyó como requisito para la deducción del gasto que dicho pago o acreditación de 
+retribución ocurra hasta la fecha de presentación de la declaración jurada anual del Impuesto 
+a la Renta. 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+No.1372).  Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo con lo establecido en el Artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país.  La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten con una 
+sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural o 
+jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado en 
+el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación será cumplida mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa, que deberá contener la información del beneficiario final y ser 
+presentada, de acuerdo con las normas reglamentarias y en los plazos que se establezcan 
+mediante Resolución de Superintendencia de la SUNAT.  Nótese que en caso se haya 
+producido alguna modificación a la declaración jurada informativa presentada por el Banco 
+vinculada a la identificación de los beneficiarios finales de la misma, ésta deberá cumplir con 
+informar dicha actualización a la Administración Tributaria. 
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma anti elusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo No.1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+esto es, cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por 
+la Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que tengan 
+Directorio, corresponde a este órgano societario definir la estrategia tributaria de la entidad 
+debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones económicas a 
+realizarse en el marco de la planificación fiscal, siendo esta facultad indelegable. 
+ 
+(iv) Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recalificación de los supuestos de elusión tributaria, se producirá en los procedimientos de 
+fiscalización definitiva en los que se revisen actos, hechos o situaciones producidos desde el 
+19 de julio de 2012.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_12_EEFF Auditados 2025.pdf | PAGINA: 59 | puntaje 10 =====
+ 
+- 57 - 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a partir 
+del 1 de enero de 2019 (Decreto Legislativo No.1425), indicando que el devengo ocurrirá 
+cuando se hayan producido los hechos sustanciales para la generación del ingreso o gasto, 
+siempre que no se encuentre sujeto a una condición suspensiva o a un hecho futuro. 
+ 
+Mediante Decreto Legislativo No.30341, ley que fomenta la liquidez e integración del mercado de 
+valores, se exonera del impuesto a la renta hasta el 31 de diciembre de 2022 (plazo prorrogado a 
+través del Decreto de Urgencia No.005-2019 a las rentas originadas por la enajenación de: i) 
+Valores representativos de deuda, ii) Certificados de participación en fondos mutuos de inversión 
+en valores, iii) Certificados de participación en Fondo de Inversión en Renta de Bienes Inmuebles 
+(FIRBI) y certificados de participación en Fideicomiso de Titulización para Inversión en Renta de 
+Bienes Raíces (FIBRA); y, iv) Facturas negociables. 
+ 
+Para que resulte de aplicación la exoneración en el caso de rentas originadas por la enajenación 
+de acciones, acciones de inversión, ADR y GDR, y bonos convertibles en acciones, se debe 
+cumplir con lo siguiente: 
+ 
+- La enajenación debe realizarse a través de un mecanismo centralizado de negociación 
+situado en el país y supervisado por la SMV. 
+- No transferir en un periodo de 12 meses, la propiedad de 10 por ciento o más del total de 
+acciones emitidas por la empresa.  En el caso de ADR y GDR se toma en cuenta las acciones 
+subyacentes. Se consideran las transferencias personales y las de las partes vinculadas. 
+- Tener presencia bursátil. 
+ 
+Para los demás valores comprendidos se exige que la enajenación se realice a través del 
+mecanismo centralizado de negociación supervisado por la SMV y adicionalmente que cumpla 
+con tener presencia bursátil.  En el caso de facturas negociables solamente se requiere que la 
+enajenación se realice a través del mecanismo centralizado de negociación supervisado por la 
+SMV. 
+ 
+Finalmente, se incorpora como causal de pérdida de la exoneración que el emisor desliste los 
+valores del Registro de Valores de la Bolsa, total o parcialmente, en un acto o progresivamente, 
+dentro de los 12 meses siguientes de efectuada la enajenación.  Mediante el Reglamento se 
+establecerán las excepciones. 
+ 
+Al respecto, la referida exoneración sólo se encontró vigente hasta el 31 de diciembre de 2022; si 
+bien a través de la Primera Disposición Complementaria Final de la Ley No.31662 se prorrogó 
+hasta el 31 de diciembre de 2023 la exoneración del Impuesto a la Renta a que se refería la Ley 
+No.30341, ésta se circunscribió únicamente a personas naturales, sucesiones indivisas o 
+sociedad conyugal que optó por tributar como tal. 
+ 
+g) Mediante el Decreto Legislativo No.1549, publicado el 23 de abril de 2023, se han prorrogado 
+hasta el 31 de diciembre de 2026 las exoneraciones previstas en el artículo 19 de la Ley del 
+Impuesto a la Renta. 
+ 
+h) Mediante Resolución de Superintendencia No.000044-2021-SUNAT publicada con fecha de 30 de 
+marzo de 2021, la Administración Tributaria señala que a a partir del 1 de abril de 2021 la tasa de 
+interés moratorio es noventa centésimos por ciento (0.90%) mensual, la cual se aplicará a las 
+deudas tributarias en moneda nacional, correspondientes a tributos administrados y/o recaudados 
+por la SUNAT. 
+ 
+i) Mediante la publicación de la Resolución de Superintendencia No.165-2021/SUNAT, la 
+administración tributaria puso a disposición de los contribuyentes una plataforma en la que 
+deberán otorgar la conformidad o disconformidad a las facturas y recibos por honorarios 
+electrónicos que recibimos de nuestros proveedores. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_12_EEFF Auditados 2025.pdf | PAGINA: 60 | vecina =====
+ 
+- 58 - 
+j) Mediante la publicación del Decreto Legislativo No.1523 publicado el 18 de febrero del 2022, se 
+ha modificado el código tributario, a fin de optimizar la regulación de, entre otras, las facultades de 
+fiscalización de la Superintendencia Nacional de Aduanas y de Administración Tributaria y de las 
+actuaciones que se realizan entre esta y los administrados, para adecuarlas a la transformación 
+digital, así como realizar las adaptaciones que se requieran, en aspectos tales como las formas de 
+notificación de las infracciones y sanciones sin afectar los derechos constitucionalmente 
+protegidos de los contribuyentes. 
+ 
+k) Mediante la publicación del Decreto Legislativo No.1529, se ha modificado la Ley para la Lucha 
+contra la Evasión y para la Formalización de la Economía y ha dispuesto lo siguiente: 
+ 
+- A partir del 1 de abril de 2022 se deberá utilizar Medios de Pago en los pagos a partir de dos 
+mil soles (S/2,000 o US$500). 
+- El uso de Medios de Pago establecido en esta Ley se tiene por cumplido solo si el pago se 
+efectúa directamente al acreedor, proveedor del bien y/o prestador del servicio, o cuando 
+dicho pago se realice a un tercero designado por aquél, siempre que tal designación se 
+comunique a la SUNAT con anterioridad al pago, en la forma y condiciones que esta señale 
+mediante resolución de superintendencia. 
+- En ningún caso se considera cumplida la obligación de utilizar Medios de Pago a que se 
+refiere la Ley, cuando los pagos se canalicen a través de empresas bancarias o financieras 
+que sean residentes de países o territorios no cooperantes o de baja o nula imposición o 
+establecimientos permanentes situados o establecidos en tales países o territorios 
+ 
+l) Mediante el Decreto Supremo No.233-2022-EF se modificó el Artículo 60-A del Reglamento de 
+Impuesto a la Renta, para incluir el concepto de Sujeto Sin Capacidad Operativa (SSCO), siendo 
+que la SUNAT podrá verificar a aquellas empresas que no cuenten con personal, activos o la 
+capacidad para poder desarrollar sus funciones y podrá declararlos como SSCO, teniendo como 
+efecto que todos los comprobantes de pago que haya emitido no podrán sustentar gasto o costo 
+para fines fiscales, ni crédito fiscal del IGV. 
+ 
+m) Mediante la Resolución de Superintendencia No.00392-2025/SUNAT posterga el uso del Sistema 
+Integrado de Registros Electrónicos (SIRE), del periodo enero de 2026 a junio de 2026. 
+ 
+n) De acuerdo con lo establecido por la Ley del Impuesto a la Renta y sus modificatorias, las 
+entidades establecidas en el Perú tienen la facultad de optar entre uno de los dos métodos 
+siguientes para el arrastre de sus pérdidas tributarias: 
+ 
+(i) Método A: La pérdida tributaria podrá ser utilizada hasta cuatro años después de haberse 
+generado. 
+(ii) Método B: La pérdida tributaria se podrá compensar con utilidades futuras año a año hasta su 
+extinción final, aplicando dicha pérdida hasta el 50 por ciento de su utilidad gravable. 
+ 
+La opción de elegir el método de compensación de pérdidas tributarias se ejerce con oportunidad 
+de la presentación de la declaración jurada anual del Impuesto a la Renta que corresponde al año 
+fiscal en el que se genera la pérdida.  Una vez ejercida la opción no es posible modificar el 
+método hasta agotar íntegramente la pérdida. 
+ 
+La Gerencia del Banco ha optado utilizar el método B descrito anteriormente.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 29 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+17 
+Al 31 de diciembre de 2022 y de 2021, el Banco mantiene inversiones clasificadas en la 
+categoría de inversiones disponibles para la venta e inversiones a vencimiento. 
+ 
+Clasificación -   
+ 
+(i) Inversiones disponibles para la venta - 
+Son aquellas designadas como tales debido a que se mantienen por un tiempo indefinido y   
+pueden ser vendidas debido a necesidades de liquidez o cambios en la tasa de interés,   
+tipos de cambio o en el precio de capital; o no califican para ser registradas como a valor   
+razonable con efecto en resultados o mantenidas hasta su vencimiento.   
+ 
+En esta categoría se incluyen todos los instrumentos de inversión que no se encuentren   
+clasificados como inversiones a valor razonable con cambios en resultados, inversiones a 
+vencimiento inversiones en subsidiarias, asociadas y participaciones en negocios   
+conjuntos; es decir, es una categoría residual. 
+ 
+(ii) Inversiones a vencimiento - 
+Los instrumentos financieros que son clasificados dentro de esta categoría deben 
+cumplir con los siguientes requisitos: 
+ 
+- Haber sido adquiridos o reclasificados con la intención de mantenerlos hasta su 
+fecha de vencimiento, salvo los casos en los que la venta, asignación o 
+reclasificación sean permitidas por la SBS. 
+-  Deberán contar con clasificaciones de riesgo de acuerdo a lo requerido por la SBS. 
+ 
+Asimismo, una entidad financiera podrá clasificar inversiones en esta categoría, sólo si 
+tiene la capacidad financiera para mantener el instrumento de inversión hasta su 
+vencimiento. Dicha capacidad deberá evaluarse al cierre de cada ejercicio anual. 
+ 
+ Fecha de registro de transacciones - 
+Las transacciones se registran utilizando la fecha de negociación; esto es, la fecha en la 
+que se asumen las obligaciones recíprocas que deben consumarse dentro del plazo 
+establecido por las regulaciones y usos del mercado en el que se efectúe la transacción. 
+ 
+ Reconocimiento inicial y valuación –   
+(i) Inversiones a valor razonable con cambios en resultados - El registro contable 
+inicial se efectúa al valor razonable, registrando los costos de transacción 
+relacionados como gastos.  Su valorización corresponde al valor razonable y la 
+ganancia o pérdida originada por la variación entre el registro contable inicial y su 
+valor razonable se reconoce directamente en el estado de resultados. 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 30 | puntaje 7 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+18 
+(ii)  Inversiones disponibles para la venta – El registro contable inicial se efectúa al valor 
+razonable, incluyendo los costos de transacción que sean directamente atribuibles 
+a su adquisición.  Su valorización corresponde al valor razonable y la ganancia o 
+pérdida originada por la variación entre el registro contable inicial y su valor 
+razonable se reconoce directamente en el patrimonio, a menos que exista un 
+deterioro permanente en su valor.  Cuando el instrumento es vendido o realizado, 
+la ganancia o pérdida, previamente reconocida como parte del patrimonio, se 
+transfiere a los resultados del ejercicio. 
+ 
+En el caso de los instrumentos representativos de deuda, previamente a la 
+valorización a valor razonable, se actualiza contablemente el costo amortizado 
+aplicando la metodología de la tasa de interés efectiva, y a partir del costo 
+amortizado obtenido se reconocen las ganancias o pérdidas por la variación en el 
+valor razonable. 
+ 
+(iii) Inversiones a vencimiento - El registro contable inicial se efectúa al valor 
+razonable, incluyendo los costos de transacción que sean directamente atribuibles 
+a su adquisición.  Su valorización corresponde al costo amortizado, utilizando el 
+método de la tasa de interés efectiva. 
+ 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, 
+la cual incorpora tanto los intereses que van a ser cobrados como la amortización 
+de la prima o descuento que exista en su adquisición. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su 
+valor en libros se reconoce en el estado de resultados.  
+ 
+Evaluación de deterioro - 
+La Resolución SBS N°2610-2018 modifica algunos artículos establecidos en la Resolución SBS 
+N°7033-2012 “Reglamento de Clasificación y Valorización de las Inversiones de las Empresas del 
+Sistema Financiero”, en la cual el cambio principal radica en la nueva metodología para la 
+identificación de deterioro denominada “Metodología Estándar para la Identificación del 
+Deterioro de Valor de Inversiones Disponibles para la Venta e Inversiones a Vencimiento”. Dicha 
+metodología contempla lo siguiente:   
+ 
+I. Instrumentos de deuda   
+Las empresas deben evaluar, para toda la cartera de instrumentos representativos de 
+deuda sujeta a deterioro, la ocurrencia de las siguientes situaciones:   
+ 
+1. Debilitamiento en la situación o ratios financieros del emisor y de su grupo 
+económico.   
+2. Rebaja en cualquiera de las clasificaciones crediticias del instrumento o del emisor, 
+en al menos dos (02) “notches”, desde el momento que se adquirió el instrumento; 
+donde un “notch” corresponde a la diferencia mínima entre dos calificaciones de 
+riesgo dentro de una misma escala de calificación de deterioro.    
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 31 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+19 
+3. Interrupción de transacciones o de un mercado activo para el activo financiero, 
+debido a dificultades financieras del emisor.   
+4. Los datos observables indican que, desde su reconocimiento inicial de un grupo de 
+activos financieros con características similares al instrumento evaluado, existe 
+una disminución medible en sus flujos futuros estimados de efectivo, aunque no 
+pueda todavía identificársela con activos financieros individuales del grupo.   
+5. Disminución del valor por cambios normativos (impositivos, regulatorios u otros 
+gubernamentales).   
+6. Disminución significativa del valor razonable por debajo de su costo amortizado. Se 
+considerará como una disminución significativa si el valor razonable a la fecha de 
+cierre ha disminuido por lo menos 40% por debajo de su costo amortizado a dicha 
+fecha.   
+7. Disminución prolongada en el valor razonable. Se considerará como una 
+disminución prolongada si el valor razonable a la fecha de cierre ha disminuido por 
+lo menos 20% en comparación con el costo amortizado de doce (12) meses atrás y, 
+el valor razonable a la fecha de cierre de cada mes durante el período de doce (12) 
+meses previos, se ha mantenido siempre por debajo del costo amortizado 
+correspondiente a la fecha de cierre de cada mes.   
+ 
+En caso se cumplan por los menos dos (02) de las situaciones anteriormente descritas, se 
+considerará que existe deterioro y; por consiguiente, la empresa debe determinar el 
+importe de cualquier pérdida por deterioro de valor de acuerdo con lo establecido en el  
+artículo 10 del Reglamento. 
+ 
+En caso no se hayan dado por lo menos dos (02) de las situaciones anteriormente   
+descritas, bastará con que se presente algunas de las siguientes situaciones específicas 
+para considerar que existe deterioro:   
+ 
+1.  Incumplimiento de las cláusulas contractuales, tales como la interrupción en el 
+pago de intereses o capital.   
+2. Renegociación de las condiciones contractuales del instrumento por factores 
+legales o problemas financieros vinculados al emisor. 
+3. Evidencia de que el emisor está en proceso de reestructuración forzosa o quiebra.   
+4. Cuando se reduzca la clasificación de riesgo de un instrumento que estaba 
+clasificado como grado de inversión, hacia una clasificación que resulte por debajo 
+del grado de inversión.    
+ 
+II. Instrumento de capital   
+Las empresas deben evaluar, para los instrumentos representativos de capital sujetos a 
+deterioro, la ocurrencia de las siguientes situaciones:   
+ 
+1. Cuando se reduzca la clasificación de riesgo de un instrumento de deuda del emisor 
+que estaba clasificado como grado de inversión, hacia una clasificación que resulte 
+por debajo del grado de inversión. 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 34 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+22 
+Las obras en curso y los bienes por recibir son registrados al costo de adquisición. Estos bienes 
+no se deprecian hasta que se encuentren operativos.  
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue:   
+ 
+ Años  
+  
+Edificios 20 
+Instalaciones, mobiliario y equipo 10 
+Equipos de cómputo 4 
+Unidades de transporte 5 
+ 
+La depreciación de las mejoras en locales alquilados se realiza en el plazo de los respectivos 
+contratos de alquiler. 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para asegurar 
+que el método y el período de la depreciación sean consistentes con el beneficio económico 
+futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo.   
+ 
+Los costos de mantenimiento y reparación se cargan a resultados; toda renovación y mejora se 
+capitaliza únicamente cuando los desembolsos mejoran la condición del activo. El costo y la 
+correspondiente depreciación acumulada de los activos vendidos o retirados son eliminados de 
+las cuentas respectivas y la utilidad o pérdida generada se incluye en los resultados del ejercicio.   
+ 
+Los Bancos están prohibidos de dar en garantía los bienes de su activo fijo, salvo los adquiridos 
+en operaciones de arrendamiento financiero.   
+ 
+(j) Bienes realizables, recibidos en pago y adjudicados - 
+Los bienes realizables incluyen bienes comprados con el propósito específico de otorgarse en 
+arrendamiento financiero, siendo registrados inicialmente a su costo de adquisición; aquellos 
+bienes realizables que no fueran otorgados en arrendamiento financiero incluyendo los bienes 
+recuperados, son registrados al costo o valor de mercado el menor. 
+ 
+Los bienes recuperados, recibidos en pago y adjudicados (provenientes de la resolución de un 
+contrato de arrendamiento financiero) se registran inicialmente al valor de adjudicación judicial, 
+extrajudicial, valor de mercado o valor insoluto de la deuda, el menor; reconociéndose a su vez 
+una provisión equivalente al 20 por ciento del valor de adjudicación o recuperación del bien; 
+pudiendo mantenerse para este fin la provisión que se tenía constituida por el crédito 
+relacionado.   
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 35 | puntaje 17 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+23 
+Posteriormente, se constituirán provisiones adicionales siguiendo los siguientes criterios:   
+ 
+-  Bienes muebles - Se constituye una provisión mensual uniforme a partir del primer mes de 
+la dación, adjudicación o recuperación, por un período de doce meses hasta alcanzar el 
+cien por ciento del valor neto de adjudicación o recuperación.   
+ 
+-  Bienes inmuebles – Se constituye provisiones mensuales uniformes sobre el valor neto en 
+libros obtenido al décimo segundo mes; siempre que no se haya obtenido la prórroga de 
+seis meses contemplada en la Resolución SBS N°1535-2005, en cuyo caso, se constituyen 
+provisiones mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo 
+mes.  En ambos casos, las provisiones se constituyen hasta alcanzar el cien por ciento del 
+valor neto en libros en un plazo de tres años y medio, contados a partir de la fecha en la 
+cual se empezaron a constituir las provisiones mensuales.   
+ 
+La actualización anual de las valuaciones de estos bienes determinadas por un perito 
+independiente implica, de ser necesario, sólo la constitución de provisiones por desvalorización.    
+ 
+(k) Activos intangibles - 
+Los intangibles comprenden principalmente la inversión efectuada en la adquisición de licencias y 
+desarrollo de software de cómputos utilizados en las operaciones del Banco, que se muestran en 
+el rubro “otros activos” y se amortizan por el método de línea recta en el plazo de 5 años (nota 
+10). De acuerdo con la Resolución SBS N°1967-2010, los activos intangibles de vida limitada se 
+amortizan en un plazo máximo de cinco años. 
+ 
+Los costos relacionados con el desarrollo o mantenimiento de software de cómputo se reconocen 
+en resultados cuando se incurren. Sin embargo, los costos que están directamente asociados con 
+software de cómputo único e identificable, que son controlados por el Banco y que brindarán 
+beneficios económicos futuros mayores que su costo en más de un año, son considerados como 
+activos intangibles. Los costos directos vinculados al desarrollo de programas de computación 
+incluyen costos de personal del equipo que los desarrolla. 
+ 
+(l) Deterioro del valor de activos de larga duración-   
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, la Gerencia del Banco revisa el valor de sus inmuebles, mobiliario y 
+equipo e intangibles para verificar que no existe ningún deterioro permanente en su valor.   
+ 
+Cuando el valor en libros del activo excede su valor recuperable, se reconoce una pérdida por 
+deterioro en el estado separado de resultados integrales para los rubros de inmuebles, mobiliario 
+y equipo e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor 
+en uso. El precio de venta neto es el monto que se puede obtener en la venta de un activo en un 
+mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados 
+del uso continuo de un activo y de su disposición al final de su vida útil. Los importes 
+recuperables se estiman para cada activo o, si no es posible, para la unidad generadora de 
+efectivo.   
+ 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 36 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+24 
+En opinión de la Gerencia, no existe evidencia de deterioro en el valor de dichos activos al 31 de 
+diciembre de 2022 y de 2021.   
+ 
+(m) Valores, títulos, adeudos y obligaciones en circulación -   
+El pasivo por adeudos y la emisión de valores, títulos y obligaciones en circulación incluidos en el 
+rubro de “Adeudos y obligaciones financieras” del estado separado de situación financiera, es 
+contabilizado a su valor nominal, reconociéndose los intereses devengados en los resultados del 
+ejercicio. Cuando sea aplicable, los descuentos otorgados o los ingresos generados en su 
+colocación son diferidos y se presentan netos de su valor de emisión, y se amortizan durante el 
+plazo de vigencia de los valores, títulos y obligaciones en circulación relacionados utilizando el 
+método de la tasa de interés efectiva.   
+ 
+(n) Impuesto a la renta -   
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para 
+fines tributarios, la cual es determinada utilizando criterios que difieren de los principios 
+contables que utiliza el Banco.    
+ 
+Asimismo, el Banco ha registrado el impuesto a la renta diferido considerando los lineamientos 
+de la NIC 12 – Impuestos a las Ganancias. El impuesto a la renta diferido refleja los efectos de las 
+diferencias temporales entre los saldos de activos y pasivos para fines contables y los 
+determinados para fines tributarios; y se reconoce utilizando el método del pasivo sobre dichas 
+diferencias temporales.   
+ 
+Los pasivos por impuesto diferido se reconocen para aquellas diferencias temporales gravables 
+(imponibles); mientras que los activos por impuesto diferido se reconocen para todas las 
+diferencias temporales deducibles en la medida en que sea probable que existan beneficios 
+futuros suficientes para que el activo diferido se pueda aplicar.   
+ 
+Los activos y pasivos por impuesto diferido se miden utilizando las tasas de impuestos que se 
+espera se apliquen a la renta imponible en los años en que el activo se realice o el pasivo se 
+cancele, en base a las tasas de impuestos que fueron aprobadas a la fecha del estado de situación 
+financiera.   
+ 
+La medición de los activos y pasivos diferidos reflejan las consecuencias tributarias derivadas de 
+la forma en que se espera recuperar o liquidar el valor de los activos y pasivos a la fecha del 
+estado de situación financiera. 
+ 
+El importe en libros de los activos y pasivos por impuestos diferidos puede cambiar, incluso 
+cuando no haya cambiado el importe de las diferencias temporales, debido a un cambio en la tasa 
+del impuesto a la renta. El efecto del cambio en el impuesto diferido, correspondiente al cambio 
+de tasa, se reconocerá en el estado de resultados del período, excepto en las partidas 
+previamente reconocidas fuera del estado de resultados (sea en otros resultados integrales o 
+directamente en el patrimonio neto).   
+ 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 68 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+56 
+(g) En julio 2018 se publicó la Ley No. 30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera. En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) Se modificó a partir del 1 de enero de 2019 el Decreto Legislativo No. 1369 dispuso que 
+la obligación de efectuar retenciones a no domiciliados se originará únicamente cuando 
+ocurra el pago o acreditación de la retribución; asimismo, se incluyó como requisito para 
+la deducción del gasto que dicho pago o acreditación de retribución ocurra hasta la 
+fecha de presentación de la declaración jurada anual del Impuesto a la Renta. 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+N°1372). Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo con lo establecido en el artículo 7 de la Ley de Impuesto a la Renta, y a los 
+entes jurídicos constituidos en el país. La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten 
+con una sucursal, agencia u otro establecimiento permanente en el país; b) la persona 
+natural o jurídica que gestione el patrimonio autónomo o los fondos de inversión del 
+exterior, o la persona natural o jurídica que tiene calidad de protector o administrador, 
+esté domiciliado en el país; c) cualquiera de las partes de un consorcio esté domiciliada 
+en el país. Esta obligación será cumplida mediante la presentación a la Autoridad 
+Tributaria de una Declaración Jurada informativa, que deberá contener la información 
+del beneficiario final y ser presentada, de acuerdo con las normas reglamentarias y en 
+los plazos que se establezcan mediante Resolución de Superintendencia de la SUNAT. 
+Nótese que en caso se haya producido alguna modificación a la declaración jurada 
+informativa presentada por la Compañía vinculada a la identificación de los beneficiarios 
+finales de la misma, ésta deberá cumplir con informar dicha actualización a la 
+Administración Tributaria. 
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma antielusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo N°1422 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad 
+solidaria, cuando el deudor tributario sea sujeto de la aplicación de las medidas 
+dispuestas por la Norma XVI en caso se detecten supuestos de elusión de normas 
+tributarias; en tal caso, la responsabilidad solidaria se atribuirá a los representantes 
+legales siempre que hubieren colaborado con el diseño o la aprobación o la ejecución de 
+actos o situaciones o relaciones económicas previstas como elusivas en la Norma XVI. 
+Tratándose de sociedades que tengan Directorio, corresponde a este órgano societario 
+definir la estrategia tributaria de la entidad debiendo decidir sobre la aprobación o no de 
+actos, situaciones o relaciones económicas a realizarse en el marco de la planificación 
+fiscal, siendo esta facultad indelegable. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 69 | puntaje 10 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+57 
+(iv) Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recalificación de los supuestos de elusión tributaria, se producirá en los procedimientos 
+de fiscalización definitiva en los que se revisen actos, hechos o situaciones producidos 
+desde el 19 de julio de 2012 
+ 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a 
+partir del 1 de enero de 2019 (Decreto Legislativo N° 1425), indicando que el devengo 
+ocurrirá cuando se hayan producido los hechos sustanciales para la generación del 
+ingres o gasto, siempre que no se encuentre sujeto a una condición suspensiva o a un 
+hecho futuro. 
+ 
+(h) Mediante Decreto Legislativo N° 30341, ley que fomenta la liquidez e integración del mercado de 
+valores, se exonera del impuesto a la renta hasta el 31 de diciembre de 2022 (plazo prorrogado a 
+través del Decreto de Urgencia N° 005-2019 a las rentas originadas por la enajenación de: i) 
+Valores representativos de deuda, ii) Certificados de participación en fondos mutuos de inversión 
+en valores, iii) Certificados de participación en Fondo de Inversión en Renta de Bienes Inmuebles 
+(FIRBI) y certificados de participación en Fideicomiso de Titulización para Inversión en Renta de 
+Bienes Raíces (FIBRA); y, iv) Facturas negociables. 
+ 
+ Para que resulte de aplicación la exoneración en el caso de rentas originadas por la enajenación 
+de acciones, acciones de inversión, ADR y GDR, y bonos convertibles en acciones, se debe 
+cumplir con lo siguiente: 
+-  La enajenación debe realizarse a través de un mecanismo centralizado de negociación situado en el 
+país y supervisado por la SMV. 
+-  No transferir en un periodo de 12 meses, la propiedad de 10 por ciento o más del total de acciones 
+emitidas por la empresa. En el caso de ADR y GDR se toma en cuenta las acciones subyacentes. Se 
+consideran las transferencias personales y las de las partes vinculadas. 
+-  Tener presencia bursátil. 
+ 
+Para los demás valores comprendidos se exige que la enajenación se realice a través del 
+mecanismo centralizado de negociación supervisado por la SMV y adicionalmente que cumpla 
+con tener presencia bursátil. En el caso de facturas negociables solamente se requiere que la 
+enajenación se realice a través del mecanismo centralizado de negociación supervisado por la 
+SMV. 
+ 
+Finalmente, se incorpora como causal de pérdida de la exoneración que el emisor desliste los 
+valores del Registro de Valores de la Bolsa, total o parcialmente, en un acto o progresivamente, 
+dentro de los 12 meses siguientes de efectuada la enajenación. Mediante el Reglamento se 
+establecerán las excepciones. 
+ 
+Al respecto, la referida exoneración solo se encontró vigente hasta el 31 de diciembre de 2022; 
+si bien a través de la Primera Disposición Complementaria Final de la Ley No. 31662 se prorrogó 
+hasta el 31 de diciembre de 2023 la exoneración del Impuesto a la Renta a que se refería la Ley 
+No. 30341, esta se circunscribió únicamente a personas naturales, sucesiones indivisas o 
+sociedad conyugal que optó por tributar como tal.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2022_Individual_Anual_EEFF Banco GNB Peru 31-12-22-21.pdf | PAGINA: 70 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+58 
+(i) Mediante la ley N° 31106, publicada el 31 de diciembre de 2020, se han prorrogado hasta el 31 
+de diciembre de 2023 las exoneraciones previstas en el artículo 19 de la Ley del Impuesto a la 
+Renta. 
+ 
+(j) Mediante Resolución de Superintendencia N° 000044-2021-SUNAT publicada con fecha de 30 de 
+marzo de 2021, la Administración Tributaria señala que la a partir del 1 de abril 2021 la tasa de 
+interés moratorio es noventa centésimos por ciento (0.90%) mensual, la cual se aplicará a las 
+deudas tributarias en moneda nacional, correspondientes a tributos administrados y/o 
+recaudados por la SUNAT. 
+ 
+(k) Mediante la publicación de la Resolución de Superintendencia N° 165-2021/SUNAT, la 
+administración tributaria puso a disposición de los contribuyentes una plataforma en la que 
+deberán otorgar la conformidad o disconformidad a las factures y recibos por honorarios 
+electrónicos que recibimos de nuestros proveedores. 
+ 
+(l) Mediante la publicación del Decreto Legislativo N° 1523 publicado el 18 de Febrero del 2022, se 
+ha modificado el código tributario, a fin de optimizar la regulación de, entre otras, las facultades 
+de fiscalización de la Superintendencia Nacional de Aduanas y de Administración Tributaria y de 
+las actuaciones que se realizan entre esta y los administrados, para adecuarlas a la 
+transformación digital, así como realizar las adaptaciones que se requieran, en aspectos tales 
+como las formas de notificación de las infracciones y sanciones sin afectar los derechos 
+constitucionalmente protegidos de los contribuyentes. 
+ 
+(m) Mediante la publicación del Decreto Legislativo N° 1529, se ha modificado la Ley para la Lucha 
+contra la Evasión y para la Formalización de la Economía y ha dispuesto lo siguiente: 
+ 
+- A partir del 1 de abril de 2022 se deberá utilizar Medios de Pago en los pagos a partir de 
+dos mil soles (S/ 2,000 o quinientos dólares americanos (USD 500). 
+- El uso de Medios de Pago establecido en esta Ley se tiene por cumplido solo si el pago se 
+efectúa directamente al acreedor, proveedor del bien y/o prestador del servicio, o cuando 
+dicho pago se realice a un tercero designado por aquel, siempre que tal designación se 
+comunique a la SUNAT con anterioridad al pago, en la forma y condiciones que esta señale 
+mediante resolución de superintendencia. 
+- En ningún caso se considera cumplida la obligación de utilizar Medios de Pago a que se 
+refiere la Ley, cuando los pagos se canalicen a través de empresas bancarias o financieras 
+que sean residentes de países o territorios no cooperantes o de baja o nula imposición o 
+establecimientos permanentes situados o establecidos en tales países o territorios 
+ 
+(n) Mediante el Decreto Supremo No. 233-2022-EF se modificó el Artículo 60-A del Reglamento de 
+Impuesto a la Renta, para incluir el concepto de Sujeto Sin Capacidad Operativa (SSCO), siendo 
+que la SUNAT podrá verificar a aquellas empresas que no cuenten con personal, activos o la 
+capacidad para poder desarrollar sus funciones y podrá declararlos como SSCO, teniendo como 
+efecto que todos los comprobantes de pago  que haya emitido no podrán sustentar gasto o costo 
+para fines fiscales, ni crédito fiscal del IGV. 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2023_Individual_Anual_Banco GNB Informe EEFF y notas 2023.pdf | PAGINA: 55 | vecina =====
+ 
+- 53 - 
+g) En julio 2018 se publicó la Ley No.30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera.  En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) Se modificó a partir del 1 de enero de 2019 el Decreto Legislativo No.1369 dispuso que la 
+obligación de efectuar retenciones a no domiciliados se originará únicamente cuando ocurra el 
+pago o acreditación de la retribución; asimismo, se incluyó como requisito para la deducción 
+del gasto que dicho pago o acreditación de retribución ocurra hasta la fecha de presentación 
+de la declaración jurada anual del Impuesto a la Renta. 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+No.1372).  Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo con lo establecido en el artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país.  La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten con una 
+sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural o 
+jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado en 
+el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación será cumplida mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa, que deberá contener la información del beneficiario final y ser 
+presentada, de acuerdo con las normas reglamentarias y en los plazos que se establezcan 
+mediante Resolución de Superintendencia de la SUNAT.  Nótese que en caso se haya 
+producido alguna modificación a la declaración jurada informativa presentada por el Banco 
+vinculada a la identificación de los beneficiarios finales de la misma, ésta deberá cumplir con 
+informar dicha actualización a la Administración Tributaria. 
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma anti elusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo No.1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por la 
+Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI.  Tratándose de sociedades que tengan 
+Directorio, corresponde a este órgano societario definir la estrategia tributaria de la entidad 
+debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones económicas a 
+realizarse en el marco de la planificación fiscal, siendo esta facultad indelegable. 
+ 
+(iv) Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recalificación de los supuestos de elusión tributaria, se producirá en los procedimientos de 
+fiscalización definitiva en los que se revisen actos, hechos o situaciones producidos desde el 
+19 de julio de 2012. 
+ 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a partir 
+del 1 de enero de 2019 (Decreto Legislativo No.1425), indicando que el devengo ocurrirá 
+cuando se hayan producido los hechos sustanciales para la generación del ingreso o gasto, 
+siempre que no se encuentre sujeto a una condición suspensiva o a un hecho futuro. 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2023_Individual_Anual_Banco GNB Informe EEFF y notas 2023.pdf | PAGINA: 56 | puntaje 10 =====
+ 
+- 54 - 
+h) Mediante Decreto Legislativo No.30341, ley que fomenta la liquidez e integración del mercado de 
+valores, se exonera del impuesto a la renta hasta el 31 de diciembre de 2022 (plazo prorrogado a 
+través del Decreto de Urgencia No.005-2019 a las rentas originadas por la enajenación de: i) 
+Valores representativos de deuda, ii) Certificados de participación en fondos mutuos de inversión 
+en valores, iii) Certificados de participación en Fondo de Inversión en Renta de Bienes Inmuebles 
+(FIRBI) y certificados de participación en Fideicomiso de Titulización para Inversión en Renta de 
+Bienes Raíces (FIBRA); y, iv) Facturas negociables. 
+ 
+Para que resulte de aplicación la exoneración en el caso de rentas originadas por la enajenación 
+de acciones, acciones de inversión, ADR y GDR, y bonos convertibles en acciones, se debe 
+cumplir con lo siguiente: 
+ 
+- La enajenación debe realizarse a través de un mecanismo centralizado de negociación situado 
+en el país y supervisado por la SMV. 
+- No transferir en un periodo de 12 meses, la propiedad de 10 por ciento o más del total de 
+acciones emitidas por la empresa.  En el caso de ADR y GDR se toma en cuenta las acciones 
+subyacentes. Se consideran las transferencias personales y las de las partes vinculadas. 
+- Tener presencia bursátil. 
+ 
+Para los demás valores comprendidos se exige que la enajenación se realice a través del 
+mecanismo centralizado de negociación supervisado por la SMV y adicionalmente que cumpla 
+con tener presencia bursátil.  En el caso de facturas negociables solamente se requiere que la 
+enajenación se realice a través del mecanismo centralizado de negociación supervisado por la 
+SMV. 
+ 
+Finalmente, se incorpora como causal de pérdida de la exoneración que el emisor desliste los 
+valores del Registro de Valores de la Bolsa, total o parcialmente, en un acto o progresivamente, 
+dentro de los 12 meses siguientes de efectuada la enajenación.  Mediante el Reglamento se 
+establecerán las excepciones. 
+ 
+Al respecto, la referida exoneración sólo se encontró vigente hasta el 31 de diciembre de 2022; si 
+bien a través de la Primera Disposición Complementaria Final de la Ley No. 31662 se prorrogó 
+hasta el 31 de diciembre de 2023 la exoneración del Impuesto a la Renta a que se refería la Ley 
+No. 30341, ésta se circunscribió únicamente a personas naturales, sucesiones indivisas o 
+sociedad conyugal que optó por tributar como tal. 
+ 
+i) Mediante la ley No.31106, publicada el 31 de diciembre de 2020, se han prorrogado hasta el 31 
+de diciembre de 2023 las exoneraciones previstas en el artículo 19 de la Ley del Impuesto a la 
+Renta. 
+ 
+j) Mediante Resolución de Superintendencia No.000044-2021-SUNAT publicada con fecha de 30 de 
+marzo de 2021, la Administración Tributaria señala que la a partir del 1 de abril 2021 la tasa de 
+interés moratorio es noventa centésimos por ciento (0.90%) mensual, la cual se aplicará a las 
+deudas tributarias en moneda nacional, correspondientes a tributos administrados y/o recaudados 
+por la SUNAT. 
+ 
+k) Mediante la publicación de la Resolución de Superintendencia No.165-2021/SUNAT, la 
+administración tributaria puso a disposición de los contribuyentes una plataforma en la que 
+deberán otorgar la conformidad o disconformidad a las facturas y recibos por honorarios 
+electrónicos que recibimos de nuestros proveedores. 
+ 
+l) Mediante la publicación del Decreto Legislativo No.1523 publicado el 18 de febrero del 2022, se 
+ha modificado el código tributario, a fin de optimizar la regulación de, entre otras, las facultades de 
+fiscalización de la Superintendencia Nacional de Aduanas y de Administración Tributaria y de las 
+actuaciones que se realizan entre esta y los administrados, para adecuarlas a la transformación 
+digital, así como realizar las adaptaciones que se requieran, en aspectos tales como las formas de 
+notificación de las infracciones y sanciones sin afectar los derechos constitucionalmente 
+protegidos de los contribuyentes.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2023_Individual_Anual_Banco GNB Informe EEFF y notas 2023.pdf | PAGINA: 57 | vecina =====
+ 
+- 55 - 
+m) Mediante la publicación del Decreto Legislativo No.1529, se ha modificado la Ley para la Lucha 
+contra la Evasión y para la Formalización de la Economía y ha dispuesto lo siguiente: 
+ 
+- A partir del 1 de abril de 2022 se deberá utilizar Medios de Pago en los pagos a partir de dos 
+mil soles (S/ 2,000 o US$500). 
+- El uso de Medios de Pago establecido en esta Ley se tiene por cumplido solo si el pago se 
+efectúa directamente al acreedor, proveedor del bien y/o prestador del servicio, o cuando 
+dicho pago se realice a un tercero designado por aquél, siempre que tal designación se 
+comunique a la SUNAT con anterioridad al pago, en la forma y condiciones que esta señale 
+mediante resolución de superintendencia. 
+- En ningún caso se considera cumplida la obligación de utilizar Medios de Pago a que se 
+refiere la Ley, cuando los pagos se canalicen a través de empresas bancarias o financieras 
+que sean residentes de países o territorios no cooperantes o de baja o nula imposición o 
+establecimientos permanentes situados o establecidos en tales países o territorios 
+ 
+n) Mediante el Decreto Supremo No. 233-2022-EF se modificó el Artículo 60-A del Reglamento de 
+Impuesto a la Renta, para incluir el concepto de Sujeto Sin Capacidad Operativa (SSCO), siendo 
+que la SUNAT podrá verificar a aquellas empresas que no cuenten con personal, activos o la 
+capacidad para poder desarrollar sus funciones y podrá declararlos como SSCO, teniendo como 
+efecto que todos los comprobantes de pago que haya emitido no podrán sustentar gasto o costo 
+para fines fiscales, ni crédito fiscal del IGV. 
+ 
+o) Mediante Decreto de Urgencia No.016-2022 se modifican las siguientes resoluciones: 
+ 
+- Resoluciones de Superintendencia 00150-2021/SUNAT que amplía la vigencia de la única 
+disposición complementaria transitoria relacionada al plazo de envío de la factura electrónica 
+y de la nota electrónica vinculada a esta por el periodo comprendido desde el 17 hasta el 31 
+de diciembre de 2022 (antes hasta el 31 de diciembre del 2021). 
+- Resoluciones de Superintendencia 00189-2021/SUNAT referente a la actualización del 
+cronograma de obligaciones tributarias correspondientes a los períodos tributarios de julio a 
+diciembre 2022 publicados en la página de SUNAT. 
+ 
+p) Mediante la Resolución de Superintendencia No.204-2023/SUNAT posterga el uso del Sistema 
+Integrado de Registros Electrónicos (SIRE), del periodo enero 2024 a abril de 2024. 
+ 
+q) De acuerdo con lo establecido por la Ley del Impuesto a la Renta y sus modificatorias, las 
+entidades establecidas en el Perú tienen la facultad de optar entre uno de los dos métodos 
+siguientes para el arrastre de sus pérdidas tributarias: 
+ 
+(i) Método A: La pérdida tributaria podrá ser utilizada hasta cuatro años después de haberse 
+generado. 
+(ii) Método B: La pérdida tributaria se podrá compensar con utilidades futuras año a año hasta su 
+extinción final, aplicando dicha pérdida hasta el 50 por ciento de su utilidad gravable. 
+ 
+La opción de elegir el método de compensación de pérdidas tributarias se ejerce con oportunidad 
+de la presentación de la declaración jurada anual del Impuesto a la Renta que corresponde al año 
+fiscal en el que se genera la pérdida.  Una vez ejercida la opción no es posible modificar el 
+método hasta agotar íntegramente la pérdida. 
+ 
+Al 31 de diciembre de 2023, el Banco determinó una pérdida tributaria arrastrable ascendente 
+aproximadamente a S/76,959 miles (S/35,915 miles al 31 de diciembre de 2022).  La Gerencia del 
+Banco ha optado utilizar el método B descrito anteriormente. 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_8_EEFF Auditados 2021.pdf | PAGINA: 22 | vecina =====
+ 
+- 20 - 
+Adicionalmente, la SBS podrá activar o desactivar la aplicación del componente procíclico en 
+situaciones excepcionales no contempladas en los puntos anteriores como eventos de caso fortuito o 
+fuerza mayor; o situaciones prudenciales, debidamente fundamentadas, tales como la necesidad de 
+preservar las condiciones de estabilidad del sistema financiero, o cuando por circunstancias 
+extraordinarias se origine una excesiva volatilidad sobre las variables que determinan la activación y 
+desactivación de la regla procíclica; entre otras. 
+ 
+El cálculo de los promedios móviles será realizado utilizando la información mensual de la variación 
+porcentual anualizada del PBI publicada por el BCRP. 
+ 
+La SBS ha establecido que durante el periodo en que esta regla es desactivada, las entidades 
+financieras no pueden, en ningún caso, generar utilidades por la reversión de provisiones procíclicas; 
+las cuales sólo pueden ser reasignadas para constituir provisiones específicas obligatorias. 
+ 
+Las provisiones para los créditos directos se presentan deduciendo el saldo del correspondiente activo 
+(nota 7), y las provisiones para créditos indirectos se presentan en el pasivo en la cuenta provisiones y 
+otros pasivos (nota 12). 
+ 
+e) Bienes realizables, recibidos en pago y adjudicados - 
+ 
+Los bienes realizables incluyen bienes comprados con el propósito específico de otorgarse en 
+arrendamiento financiero, siendo registrados inicialmente a su costo de adquisición; aquellos bienes 
+realizables que no fueran otorgados en arrendamiento financiero incluyendo los bienes recuperados, 
+son registrados al costo o valor de mercado el menor. 
+ 
+Los bienes recuperados, recibidos en pago y bienes adjudicados están regulados por la Resolución 
+SBS No.1535-2005 e incluyen principalmente inmuebles y maquinaria y equipo obtenidos en pago de 
+créditos de difícil recuperación y son registrados inicialmente al valor de adjudicación judicial, 
+extrajudicial, recupero, valor estimado de mercado o valor insoluto de la deuda, el que resulte menor. 
+ 
+De acuerdo con la norma vigente, el tratamiento para constituir provisiones para estos tipos de bienes 
+es como sigue: 
+ 
+- Los bienes recuperados, recibidos en pago y adjudicados se registran inicialmente al costo en 
+libros reconociéndose a su vez una provisión equivalente al 20% del costo. En caso el valor neto 
+de realización reflejado en el informe de valuación demuestre que el bien se ha desvalorizado en 
+un porcentaje mayor al 20%, la provisión inicial requerida se constituirá por el monto 
+efectivamente desvalorizado. 
+ 
+- Para la provisión de bienes muebles se constituye mensualmente, a partir del primer mes de la 
+adjudicación o recuperación de los bienes, una provisión mensual a razón de un dieciochoavo 
+(1/18) del costo en libros de los bienes menos la provisión inicial señalada anteriormente. 
+Tratándose de bienes que no hayan sido vendidos o entregados en arrendamiento dentro del 
+plazo de un año y que no cuenten con la prórroga establecida en la Ley General, se deberá 
+completar la provisión hasta alcanzar el 100% del valor de adjudicación o recuperación de dichos 
+bienes menos la provisión por desvalorización, al vencimiento del referido año. 
+ 
+- Los bienes inmuebles que no hayan sido vendidos o entregados en arrendamiento financiero 
+transcurridos un año desde su recuperación o adjudicación deben ser provisionados, 
+constituyendo una provisión mensual uniforme en un plazo de tres y medio años hasta constituir la 
+provisión al 100% sobre el valor neto en libros obtenido el décimo octavo o décimo segundo mes, 
+dependiendo si se cuenta o no con la prórroga aprobada por la SBS, respectivamente. 
+ 
+Se reconoce deterioro cuando estos bienes sufren un descenso en su valor razonable (cuando el valor 
+neto de realización es menor que el valor neto en libros) por lo que el valor en libros será reducido y la 
+pérdida deberá ser reconocida en el estado de resultados.  En caso el valor neto de realización sea 
+mayor al valor neto en libros, no se podrá reconocer contablemente el mayor valor.  La antigüedad de 
+los informes de valuación de los bienes inmuebles no puede ser mayor a un año.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_8_EEFF Auditados 2021.pdf | PAGINA: 23 | puntaje 7 =====
+ 
+- 21 - 
+f) Inmuebles, mobiliario y equipo - 
+ 
+La cuenta inmuebles, mobiliario y equipo se registra al costo histórico de adquisición, menos su 
+depreciación acumulada.  Los desembolsos posteriores a la adquisición de los elementos 
+componentes de los inmuebles, mobiliario y equipo sólo se reconocen como activo cuando es 
+probable que beneficios económicos futuros asociados con el activo se generen para el Banco, y el 
+costo de estos activos pueda ser medido razonablemente. 
+ 
+Los desembolsos por mantenimiento y reparaciones se afectan a los resultados del período en que se 
+incurren. Los trabajos en curso y bienes por recibir se registran al costo de adquisición.  Estos bienes 
+no se deprecian hasta que los activos relevantes se terminen y/o reciban y estén operativos. 
+ 
+La depreciación de los activos es calculada por el método de línea recta considerando las siguientes 
+vidas útiles estimadas: 
+ 
+Activo  Años  
+ 
+Inmuebles   20 
+Mobiliarios y enseres   10 
+Equipo de cómputo   4 
+Unidades de transporte   5 
+ 
+Las instalaciones comprenden los bienes adquiridos y las mejoras realizadas en propiedades 
+recibidas en alquiler por el Banco, que se destinarán al desarrollo de sus actividades.  La depreciación 
+de estos activos será realizada en el período de duración del contrato original de alquiler. 
+ 
+El costo y la depreciación acumulada de los bienes retirados o vendidos se eliminan de las cuentas 
+respectivas y la utilidad o pérdida resultante se afecta a los resultados del período en que se produce. 
+ 
+g)  Deterioro de activos no financieros -  
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el valor de 
+un activo pueda no ser recuperable, el Banco revisa el valor de los activos de larga duración para 
+verificar que no existe ningún deterioro.  Cuando el valor en libros del activo de larga duración excede 
+su valor recuperable se reconoce una pérdida por deterioro en el estado de resultados, para los 
+activos mantenidos al costo. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso.  El valor de venta es 
+el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; mientras 
+que el valor de uso, es el valor presente de la estimación de los flujos de efectivo futuros que se prevé 
+resultará del uso continuo de un activo, así como de su disposición al final de su vida útil.  Los 
+importes recuperables se estiman para cada activo. 
+ 
+h) Impuesto a las ganancias - 
+ 
+El impuesto a las ganancias corriente es determinado sobre la base de la renta imponible y registrado 
+de acuerdo con la legislación tributaria aplicable al Banco (nota 21). Los activos y pasivos por 
+impuestos corrientes sólo se compensan si se cumplen ciertos criterios. 
+ 
+El impuesto a la renta diferido se determina por el método del balance sobre la base de las diferencias 
+temporales que surgen entre la base tributaria de los activos y pasivos y sus respectivos saldos en los 
+estados financieros, aplicando la legislación y la tasa del impuesto vigente a la fecha en que se estime 
+que el impuesto a la renta diferido activo se realice o el impuesto a la renta diferido pasivo se cancele 
+(nota 8). 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_8_EEFF Auditados 2021.pdf | PAGINA: 24 | vecina =====
+ 
+- 22 - 
+Los impuestos a la renta diferidos activo y pasivo se reconocen sin tener en cuenta el momento en 
+que se estima que las diferencias temporales se anulan.  El impuesto a la renta diferido activo sólo se 
+reconoce en la medida que sea probable que se disponga de beneficios tributarios futuros, para que el 
+impuesto a la renta diferido activo pueda utilizarse. 
+ 
+i) Activos intangibles - 
+ 
+Los intangibles comprenden principalmente la inversión efectuada en la adquisición de licencias y 
+desarrollo de software de cómputos utilizados en las operaciones del Banco, que se muestran en el 
+rubro “otros activos” y se amortizan por el método de línea recta en el plazo de 5 años (nota 9). De 
+acuerdo con la Resolución SBS N°1967-2010, los activos intangibles de vida limitada se amortizan en 
+un plazo máximo de cinco años. 
+ 
+Los costos relacionados con el desarrollo o mantenimiento de software de cómputo se reconocen en 
+resultados cuando se incurren. Sin embargo, los costos que están directamente asociados con 
+software de cómputo único e identificable, que son controlados por el Banco y que brindarán 
+beneficios económicos futuros mayores que su costo en más de un año, son considerados como 
+activos intangibles.  Los costos directos vinculados al desarrollo de programas de computación 
+incluyen costos de personal del equipo que los desarrolla. 
+ 
+j) Beneficios de los trabajadores - 
+ 
+Beneficios a corto plazo - 
+ 
+Los beneficios laborales de corto plazo se reconocen en base al criterio del devengado, y el gasto es 
+registrado al momento de la prestación del servicio. Una provisión por beneficios laborales de corto 
+plazo es reconocida cuando el Banco tiene una obligación real o implica de pagar dicho monto por 
+servicios brindados por el empleado en el pasado y es posible estimar su importe confiablemente. 
+ 
+k) Provisiones y contingencias - 
+ 
+k.i) Provisiones - 
+ 
+Las provisiones se reconocen cuando el Banco tiene una obligación presente legal o asumida 
+como resultado de hechos pasados, es probable que se requiera de la salida de recursos para 
+pagar la obligación y es posible estimar su monto confiablemente.  Las provisiones son revisadas 
+y ajustadas en cada período para reflejar la mejor estimación a la fecha del estado de situación 
+financiera.  Las provisiones cuyo efecto del valor del dinero en el tiempo es significativo, son 
+determinados descontando los flujos de caja esperados a una tasa antes del impuesto que refleje 
+la evaluación actual que el mercado esté haciendo del valor del dinero en el tiempo y aquellos 
+riesgos específicos a la obligación. 
+ 
+La provisión para compensación por tiempo de servicios del personal (CTS) se calcula, de 
+acuerdo con la legislación vigente, por el íntegro de los derechos indemnizatorios de los 
+trabajadores y debe ser pagada mediante depósitos en las entidades financieras autorizadas, 
+elegidas por ellos.  El cálculo se hace por el monto que correspondería pagarse a la fecha del 
+estado de situación financiera y se incluye en la cuenta provisión para beneficios sociales; se 
+presenta en el estado de situación financiera en otros pasivos. 
+ 
+Cuando se estima que una provisión es reembolsable, por ejemplo en los casos cubiertos por 
+contratos de seguro, el reembolso se reconoce por separado como activo cuando dicho 
+reembolso es virtualmente cierto. 
+ 
+k.ii) Contingencias - 
+ 
+Los pasivos contingentes no se reconocen en los estados financieros.  Estos se revelan en notas 
+a los estados financieros, a menos que la posibilidad de la salida de recursos sea remota.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados 2025.pdf | PAGINA: 58 | vecina =====
+ 
+- 56 - 
+Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las normas legales 
+vigentes, no es posible determinar a la fecha si de las revisiones que se realicen resultarán o no 
+pasivos para el Banco, por lo que cualquier mayor impuesto o recargo que pudiera resultar de 
+eventuales revisiones fiscales sería aplicado a los resultados del año en que éste se determine.  
+Sin embargo, en opinión de la Gerencia del Banco y de sus asesores legales, cualquier eventual 
+liquidación adicional de impuestos no sería significativa para los estados financieros al 31 de 
+diciembre de 2025 y de 2024. 
+ 
+En julio de 2018 se publicó la Ley No.30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera.  En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) El Decreto Legislativo No.1369, vigente a partir del 1 de enero de 2019, dispuso que la 
+obligación de efectuar las retenciones del Impuesto a la Renta a sujetos no domiciliados se 
+originará únicamente cuando ocurra el pago o acreditación de la retribución; asimismo, se 
+incluyó como requisito para la deducción del gasto que dicho pago o acreditación de 
+retribución ocurra hasta la fecha de presentación de la declaración jurada anual del Impuesto 
+a la Renta. 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+No.1372).  Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo con lo establecido en el Artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país.  La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten con una 
+sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural o 
+jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado en 
+el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación será cumplida mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa, que deberá contener la información del beneficiario final y ser 
+presentada, de acuerdo con las normas reglamentarias y en los plazos que se establezcan 
+mediante Resolución de Superintendencia de la SUNAT.  Nótese que en caso se haya 
+producido alguna modificación a la declaración jurada informativa presentada por el Banco 
+vinculada a la identificación de los beneficiarios finales de la misma, ésta deberá cumplir con 
+informar dicha actualización a la Administración Tributaria. 
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma anti elusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo No.1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+esto es, cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por 
+la Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que tengan 
+Directorio, corresponde a este órgano societario definir la estrategia tributaria de la entidad 
+debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones económicas a 
+realizarse en el marco de la planificación fiscal, siendo esta facultad indelegable. 
+ 
+(iv) Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recalificación de los supuestos de elusión tributaria, se producirá en los procedimientos de 
+fiscalización definitiva en los que se revisen actos, hechos o situaciones producidos desde el 
+19 de julio de 2012.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados 2025.pdf | PAGINA: 59 | puntaje 10 =====
+ 
+- 57 - 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a partir 
+del 1 de enero de 2019 (Decreto Legislativo No.1425), indicando que el devengo ocurrirá 
+cuando se hayan producido los hechos sustanciales para la generación del ingreso o gasto, 
+siempre que no se encuentre sujeto a una condición suspensiva o a un hecho futuro. 
+ 
+Mediante Decreto Legislativo No.30341, ley que fomenta la liquidez e integración del mercado de 
+valores, se exonera del impuesto a la renta hasta el 31 de diciembre de 2022 (plazo prorrogado a 
+través del Decreto de Urgencia No.005-2019 a las rentas originadas por la enajenación de: i) 
+Valores representativos de deuda, ii) Certificados de participación en fondos mutuos de inversión 
+en valores, iii) Certificados de participación en Fondo de Inversión en Renta de Bienes Inmuebles 
+(FIRBI) y certificados de participación en Fideicomiso de Titulización para Inversión en Renta de 
+Bienes Raíces (FIBRA); y, iv) Facturas negociables. 
+ 
+Para que resulte de aplicación la exoneración en el caso de rentas originadas por la enajenación 
+de acciones, acciones de inversión, ADR y GDR, y bonos convertibles en acciones, se debe 
+cumplir con lo siguiente: 
+ 
+- La enajenación debe realizarse a través de un mecanismo centralizado de negociación 
+situado en el país y supervisado por la SMV. 
+- No transferir en un periodo de 12 meses, la propiedad de 10 por ciento o más del total de 
+acciones emitidas por la empresa.  En el caso de ADR y GDR se toma en cuenta las acciones 
+subyacentes. Se consideran las transferencias personales y las de las partes vinculadas. 
+- Tener presencia bursátil. 
+ 
+Para los demás valores comprendidos se exige que la enajenación se realice a través del 
+mecanismo centralizado de negociación supervisado por la SMV y adicionalmente que cumpla 
+con tener presencia bursátil.  En el caso de facturas negociables solamente se requiere que la 
+enajenación se realice a través del mecanismo centralizado de negociación supervisado por la 
+SMV. 
+ 
+Finalmente, se incorpora como causal de pérdida de la exoneración que el emisor desliste los 
+valores del Registro de Valores de la Bolsa, total o parcialmente, en un acto o progresivamente, 
+dentro de los 12 meses siguientes de efectuada la enajenación.  Mediante el Reglamento se 
+establecerán las excepciones. 
+ 
+Al respecto, la referida exoneración sólo se encontró vigente hasta el 31 de diciembre de 2022; si 
+bien a través de la Primera Disposición Complementaria Final de la Ley No.31662 se prorrogó 
+hasta el 31 de diciembre de 2023 la exoneración del Impuesto a la Renta a que se refería la Ley 
+No.30341, ésta se circunscribió únicamente a personas naturales, sucesiones indivisas o 
+sociedad conyugal que optó por tributar como tal. 
+ 
+g) Mediante el Decreto Legislativo No.1549, publicado el 23 de abril de 2023, se han prorrogado 
+hasta el 31 de diciembre de 2026 las exoneraciones previstas en el artículo 19 de la Ley del 
+Impuesto a la Renta. 
+ 
+h) Mediante Resolución de Superintendencia No.000044-2021-SUNAT publicada con fecha de 30 de 
+marzo de 2021, la Administración Tributaria señala que a a partir del 1 de abril de 2021 la tasa de 
+interés moratorio es noventa centésimos por ciento (0.90%) mensual, la cual se aplicará a las 
+deudas tributarias en moneda nacional, correspondientes a tributos administrados y/o recaudados 
+por la SUNAT. 
+ 
+i) Mediante la publicación de la Resolución de Superintendencia No.165-2021/SUNAT, la 
+administración tributaria puso a disposición de los contribuyentes una plataforma en la que 
+deberán otorgar la conformidad o disconformidad a las facturas y recibos por honorarios 
+electrónicos que recibimos de nuestros proveedores. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados 2025.pdf | PAGINA: 60 | vecina =====
+ 
+- 58 - 
+j) Mediante la publicación del Decreto Legislativo No.1523 publicado el 18 de febrero del 2022, se 
+ha modificado el código tributario, a fin de optimizar la regulación de, entre otras, las facultades de 
+fiscalización de la Superintendencia Nacional de Aduanas y de Administración Tributaria y de las 
+actuaciones que se realizan entre esta y los administrados, para adecuarlas a la transformación 
+digital, así como realizar las adaptaciones que se requieran, en aspectos tales como las formas de 
+notificación de las infracciones y sanciones sin afectar los derechos constitucionalmente 
+protegidos de los contribuyentes. 
+ 
+k) Mediante la publicación del Decreto Legislativo No.1529, se ha modificado la Ley para la Lucha 
+contra la Evasión y para la Formalización de la Economía y ha dispuesto lo siguiente: 
+ 
+- A partir del 1 de abril de 2022 se deberá utilizar Medios de Pago en los pagos a partir de dos 
+mil soles (S/2,000 o US$500). 
+- El uso de Medios de Pago establecido en esta Ley se tiene por cumplido solo si el pago se 
+efectúa directamente al acreedor, proveedor del bien y/o prestador del servicio, o cuando 
+dicho pago se realice a un tercero designado por aquél, siempre que tal designación se 
+comunique a la SUNAT con anterioridad al pago, en la forma y condiciones que esta señale 
+mediante resolución de superintendencia. 
+- En ningún caso se considera cumplida la obligación de utilizar Medios de Pago a que se 
+refiere la Ley, cuando los pagos se canalicen a través de empresas bancarias o financieras 
+que sean residentes de países o territorios no cooperantes o de baja o nula imposición o 
+establecimientos permanentes situados o establecidos en tales países o territorios 
+ 
+l) Mediante el Decreto Supremo No.233-2022-EF se modificó el Artículo 60-A del Reglamento de 
+Impuesto a la Renta, para incluir el concepto de Sujeto Sin Capacidad Operativa (SSCO), siendo 
+que la SUNAT podrá verificar a aquellas empresas que no cuenten con personal, activos o la 
+capacidad para poder desarrollar sus funciones y podrá declararlos como SSCO, teniendo como 
+efecto que todos los comprobantes de pago que haya emitido no podrán sustentar gasto o costo 
+para fines fiscales, ni crédito fiscal del IGV. 
+ 
+m) Mediante la Resolución de Superintendencia No.00392-2025/SUNAT posterga el uso del Sistema 
+Integrado de Registros Electrónicos (SIRE), del periodo enero de 2026 a junio de 2026. 
+ 
+n) De acuerdo con lo establecido por la Ley del Impuesto a la Renta y sus modificatorias, las 
+entidades establecidas en el Perú tienen la facultad de optar entre uno de los dos métodos 
+siguientes para el arrastre de sus pérdidas tributarias: 
+ 
+(i) Método A: La pérdida tributaria podrá ser utilizada hasta cuatro años después de haberse 
+generado. 
+(ii) Método B: La pérdida tributaria se podrá compensar con utilidades futuras año a año hasta su 
+extinción final, aplicando dicha pérdida hasta el 50 por ciento de su utilidad gravable. 
+ 
+La opción de elegir el método de compensación de pérdidas tributarias se ejerce con oportunidad 
+de la presentación de la declaración jurada anual del Impuesto a la Renta que corresponde al año 
+fiscal en el que se genera la pérdida.  Una vez ejercida la opción no es posible modificar el 
+método hasta agotar íntegramente la pérdida. 
+ 
+La Gerencia del Banco ha optado utilizar el método B descrito anteriormente.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2011_Individual_Anual_1_EEFF HSBC 2011[1].pdf | PAGINA: 18 | vecina =====
+. 14 . 
+ 
+HSBC BANK PERÚ S.A.  
+ 
+Notas a los Estados Financieros 
+ 
+ 
+ 
+ 
+La SBS ha establecido que durante el periodo en que ésta regla es desactivada, las 
+entidades financieras no pueden, en ningún caso, generar utilidades por la reversión 
+de provisiones procíclicas; las cuales só lo pueden ser reasignadas para constituir 
+provisiones específicas obligatorias.  
+ 
+Las provisiones para los créditos directos  se presentan deduciendo el saldo del 
+correspondiente activo (nota 7), y las pr ovisiones para créditos indirectos se 
+presentan en el pasivo en la cuenta provisiones y otros pasivos. Los niveles de 
+provisión mantenidos por el Banco son a cr iterio de la Gerencia, suficientes para 
+cubrir pérdidas potenciales en la cartera de créditos a la fecha del balance general. 
+ 
+(f) Bienes Realizables y Recuperados 
+Comprende los bienes adquiridos para su ve nta bajo la modalidad de arrendamiento 
+financiero. Dichos bienes se registran  a su costo de adquisición, que incluye el 
+precio neto facturado por el proveedor, lo s fletes, seguros y todos los desembolsos 
+necesarios hasta ingresar al almacén o pr opiedad del Banco. En el momento que 
+surta efecto el contrato de arrendamiento  financiero, esta cuenta se abonará con 
+cargo a la cuenta de crédito respectiva; procediéndose a efectuar la contabilización 
+del arrendamiento financiero. Los bienes d estinados al arrendamiento financiero que 
+no fueran colocados deberán ser registrados al  valor de costo o valor de mercado, el 
+menor. El valor de mercado a considerar será el valor neto de realización.  
+ 
+De acuerdo con la norma vigente, el tratam iento para constituir provisiones para los 
+bienes recuperados, es como sigue: 
+ 
+(i) Se reconoce una provisión equivalente al  20% del costo, al momento de su 
+registro inicial.  En caso el valor neto de realización reflejado en el informe de 
+valuación demuestre que el bien se ha d esvalorizado en un porcentaje mayor al 
+20%, la provisión inicial requerida se c onstituirá por el monto efectivamente 
+desvalorizado. 
+ 
+(ii) Para la provisión de bienes diferentes a inmuebles se constituye 
+mensualmente, a partir del primer me s de la adjudicación o recuperación de 
+los bienes, una provisión mensual a razón de un dieciochoavo (1/18) del costo 
+en libros de los bienes menos la provisión inicial señalada anteriormente. 
+Tratándose de bienes que no hayan sido vendidos o entregados en 
+arrendamiento dentro del plazo de un a ño y que no cuenten con la prórroga 
+establecida en la Ley General de Ba ncos, se deberá completar la provisión 
+hasta alcanzar el 100% del valor de adjudicación o recuperación de dichos 
+bienes menos la provisión por desvalorización, al vencimiento del referido 
+año. 
+ 
+(iii) Los bienes inmuebles que no hayan sido vendidos o entregados en 
+arrendamiento financiero transcurri dos un año desde su recuperación o 
+adjudicación deben ser provisionados, constituyendo una provisión mensual 
+uniforme en un plazo de tres y medio años hasta constituir la provisión al 
+100% sobre el valor neto en libros obtenido el décimo octavo o décimo 
+segundo mes, dependiendo si se cuenta o no con la prórroga aprobada por la 
+SBS, respectivamente. 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2011_Individual_Anual_1_EEFF HSBC 2011[1].pdf | PAGINA: 19 | puntaje 13 =====
+. 15 . 
+ 
+HSBC BANK PERÚ S.A.  
+ 
+Notas a los Estados Financieros 
+ 
+ 
+ 
+ 
+Estos bienes han sufrido un d escenso en su valor razonable (cuando el valor neto de 
+realización es menor que el valor neto en libros) por lo que el valor en libros será 
+reducido y la pérdida deberá ser reconocida en el estado de ganancias y pérdidas. En 
+caso el valor neto de realización sea mayor al valor neto en libros, no se podrá 
+reconocer contablemente el mayor valor.  
+ 
+La antigüedad de los informes de valuación de los bienes inmuebles no puede ser 
+mayor a un año. 
+ 
+(g) Instalaciones, Mobiliario y Equipo 
+Los inmuebles, mobiliario y equipo se regi stran al costo de adquisición menos su 
+depreciación acumulada. Los desembolsos posteriores a la adquisición de los 
+elementos componentes de los inmuebles, mobiliario y equipo sólo se reconocen 
+como activo cuando es probable que beneficios económicos futuros asociados con el 
+activo se generen para el Banco y el co sto de estos activos pueda ser medido 
+razonablemente.   
+ 
+Los gastos de mantenimiento y reparaciones se afectan a los resultados del ejercicio 
+en que se incurren.  
+ 
+Los trabajos en curso y bienes por recibir se registran al costo de adquisición. Estos 
+bienes no se deprecian hasta que los activos relevantes se terminen y/o reciban y 
+estén operativos.  
+ 
+La depreciación de los activos ha sido  calculada por el método de línea recta 
+considerando las siguientes vidas útiles estimadas: 
+         Años  
+ 
+Instalaciones 5 y 10 
+Mobiliario, enseres  y equipo de cómputo 4 y 10 
+Unidades de transporte 5 
+ 
+Los valores residuales y la vida útil de los activos se revisan y ajustan, de ser 
+necesario, a la fecha de cada balance general.  
+ 
+(h) Desvalorización de Activos 
+Cuando existen acontecimientos o camb ios económicos circ unstanciales que 
+indiquen que el valor de un activo pueda no ser  recuperable, el Banco revisa el valor 
+de los activos de larga duración para ve rificar que no existe ningún deterioro. 
+Cuando el valor en libros del activo de larga duración excede su valor recuperable, 
+se reconoce una pérdida por desvalorización en el estado de ganancias y pérdidas, 
+para los activos mantenidos al costo. 
+ 
+El valor recuperable es el mayor entre el precio de venta neto y su valor en uso. El 
+valor de venta es el importe que se espera obt ener de la venta de un activo efectuada 
+en un mercado libre; mientras que el valor en uso es el valor presente de la 
+estimación de los flujos de efectivo futuros que se prevé resultará del uso continuo 
+de un activo, así como de su disposición al final de su vida útil. Los importes 
+recuperables se estiman para cada acti vo o, si no es posible, para la unidad 
+generadora de efectivo. 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2011_Individual_Anual_1_EEFF HSBC 2011[1].pdf | PAGINA: 20 | vecina =====
+. 16 . 
+ 
+HSBC BANK PERÚ S.A.  
+ 
+Notas a los Estados Financieros 
+ 
+ 
+ 
+ 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna si se 
+produce un cambio en los estimados que se utilizaron en la última oportunidad en 
+que se reconoció dicha pérdida. 
+ 
+(i) Impuesto a la Renta 
+El impuesto a la renta corriente es determin ado sobre la base de la renta imponible y 
+registrado de acuerdo con la legislación tributaria aplicable al Banco (nota 18). 
+ 
+El impuesto a la renta diferido se determin a por el método del pasivo sobre la base 
+de las diferencias temporales que surgen entre la base tributaria de los activos y 
+pasivos y sus respectivos saldos en los estados financieros, aplicando la legislación y 
+la tasa del impuesto vigente y que se esper a sea aplicable cuando el impuesto a la 
+renta diferido activo se realice o el impuest o a la renta diferido pasivo se pague     
+(nota 19). 
+ 
+El activo y pasivo diferidos se reconocen sin tener en cuenta el momento en que se 
+estima que las diferencias temporales se anulan. Impuestos diferidos activos sólo se 
+reconocen en la medida que sea probable que  se disponga de beneficios tributarios 
+futuros, para que el activo diferido pueda utilizarse. 
+ 
+(j) Participación a los Trabajadores  
+Hasta el 31 de diciembre de 2010, la par ticipación de los trabajadores comprendió la 
+participación de los trabajadores corriente y diferida. Esta se de terminó usando los 
+mismos criterios para determinar el impuesto a la renta corriente y diferido, 
+respectivamente, y se registró de acuerdo con la legislación aplicable a esa fecha por 
+el Banco.  
+ 
+Mediante Oficio SBS N° 4049-2011 de fecha 21 de enero de 2011, la SBS estableció 
+un cambio en el tratamiento de la partic ipación a los trabajadores señalando que ésta 
+debe registrarse de acuerdo a la Norm a Internacional de Contabilidad N° 19 
+“Beneficios a los Empleados”. En consecuencia, esta participación se deberá tratar 
+como un gasto de personal y un pasivo relacionado con beneficios para los 
+empleados y dejará de gene rar activos o pasivos diferidos como resultado de las 
+diferencias temporales entre la base financiera y tributaria. 
+ 
+A partir del 1 de enero de 2011, la participación de los trabajadores es reconocida 
+como un gasto de personal y un pasivo corr espondiente a la prestación de servicios 
+del trabajador, por lo tanto, a partir de  esa fecha no se reconocen las diferencias 
+temporales entre las bases financiera y tributaria.  El saldo acumulado al 31 de 
+diciembre de 2010 de miles S/. 7,880 por la participación a los trabajadores diferida 
+se reversó contra resultados acumulados. 
+ 
+(k) Activos Intangibles 
+Los intangibles están relacionados principalm ente con la inversión efectuada en la 
+adquisición de licencias y desarrollo de software de cómputo utilizados en las 
+operaciones del Banco, que se muestran en el rubro “otros activos” y se amortizan 
+por el método de línea recta en el plazo de 5 años. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_7_EEFF Auditados2020.pdf | PAGINA: 14 | vecina =====
+- 12 - 
+ A valor      
+ razonable con      
+ cambios en  Al costo    
+ resultados  amorizado  Total  
+ S/000  S/000  S/000  
+ 
+2020 
+Pasivos financieros 
+Obligaciones con el público             -   4,400,749  4,400,749 
+Depósitos de empresas del sistema 
+financiero y organismos internacionales             -   176,516  176,516 
+Adeudos y obligaciones financieras             -   409,859  409,859 
+Derivados de Negociación  2,051             -   2,051 
+Cuentas por pagar             -   193,860  193,860 
+Provisiones y otros pasivos             -   43,213  43,213 
+  2,051  5,224,197  5,226,248 
+2019 
+Pasivos financieros 
+Obligaciones con el público             -   3,824,660  3,824,660 
+Depósitos de empresas del sistema  
+financiero y organismos internacionales             -   383,947  383,947 
+Adeudos y obligaciones financieras             -   516,068  516,068 
+Derivados de Negociación  756             -   756 
+Cuentas por pagar             -   102,308  102,308 
+Provisiones y otros pasivos             -   34,547  34,547 
+  756  4,861,530  4,862,286 
+ 
+b) Instrumentos financieros derivados - 
+ 
+La SBS otorga las autorizaciones por tipo de contrato de instrumento financiero derivado y por activo 
+subyacente, pudiendo comprender más de un tipo de contrato y de subyacente.  Los esquemas de 
+autorización, lineamientos de valorización y tratamiento contable de los instrumentos financieros 
+derivados que las entidades financieras deben seguir, se encuentran establecidos en la Resolución 
+SBS N°1737-2006 “Reglamento para la Negociación y Contabilización de Productos Financieros 
+Derivados en las Empresas del Sistema Financiero” y modificatorias, el cual incluye criterios contables 
+para operaciones de negociación, cobertura y derivados implícitos. 
+ 
+Reconocimiento y medición - 
+ 
+Los instrumentos financieros derivados para negociación son inicialmente reconocidos en el estado de 
+situación financiera a su valor razonable; posteriormente todo cambio en el valor razonable de dicho 
+derivado genera un activo o pasivo en el estado de situación financiera, según corresponda, y afecta 
+los resultados del ejercicio. 
+ 
+En adición a su registro dentro del estado de situación financiera, las operaciones con instrumentos 
+financieros derivados son registrados como riesgos y compromisos contingentes a su valor de 
+referencia en la moneda comprometida. 
+ 
+Al 31 de diciembre de 2020 y 2019 y por los años terminados en esas fechas, el Banco no tiene 
+instrumentos financieros derivados clasificados como de cobertura, ni implícitos. 
+ 
+c) Inversiones - 
+ 
+El Banco aplica los criterios de registro y valorización de las inversiones en valores establecidos en la 
+Resolución SBS N°7033-2012 “Reglamento de Clasificación y Valorización de las Inversiones de las 
+Empresas del Sistema Financiero” y modificatorias:  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_7_EEFF Auditados2020.pdf | PAGINA: 15 | puntaje 8 =====
+- 13 - 
+i) Inversiones disponibles para la venta - 
+ 
+Las inversiones disponibles para la venta son todos los valores no clasificados como inversiones a 
+valor razonable con cambios en resultados e inversiones en subsidiarias y asociadas.  Asimismo, 
+se incluirán todos los valores que por norma expresa de la SBS se señale. 
+ 
+El registro inicial se realiza en la fecha de negociación al valor razonable incluyendo los costos 
+que sean directamente atribuibles a la adquisición de dichos valores. Posteriormente estas 
+inversiones se actualizan al valor razonable, reconociendo las ganancias o pérdidas que se 
+generan en el patrimonio neto como “Resultados no realizados” hasta que este valor sea vendido 
+o realizado, momento en el cual está ganancia o pérdida será transferida al estado de resultados. 
+ 
+Si una inversión disponible para la venta ha sufrido deterioro del valor, la pérdida acumulada 
+(medida como la diferencia entre el costo de adquisición, neto de cualquier repago y amortización, 
+y su valor razonable vigente, menos cualquier deterioro que anteriormente ha sido reconocido en 
+el estado de otros resultados integrales) será retirada del patrimonio neto y reconocida en el 
+estado de resultados del período.  En los casos de acciones no cotizadas, el deterioro del valor 
+corresponde a la diferencia entre el valor en libros y el valor presente de los flujos de efectivo 
+netos estimados, descontados utilizando la tasa vigente para valores similares. 
+ 
+Las ganancias o pérdidas por diferencias de cambio relacionadas con instrumentos 
+representativos de capital se reconocen en la cuenta de “Resultados no realizados” del patrimonio 
+neto, mientras que aquellas relacionadas con instrumentos representativos de deuda se 
+reconocen en el resultado del período. 
+ 
+Los ingresos por intereses de las inversiones disponibles para la venta son reconocidos mediante 
+el método de la tasa de interés efectiva, calculado sobre la vida esperada del título.  Los premios y 
+descuentos derivados de la fecha de compra son incluidos en el cálculo de la tasa de interés 
+efectiva.  Los dividendos son reconocidos en el estado de resultados cuando se establezca el 
+derecho a recibir el pago. 
+ 
+ii) Inversiones a vencimiento -  
+ 
+El registro contable inicial se efectua a valor razonable, incluyendo los costos de transacción que 
+sean directamente atribuibles a la adquisición de dichas inversiones.  La valorización de estas 
+inversiones será al costo amortizado utilizando el método de la tasa de interés efectiva. 
+ 
+Las transacciones se registran utilizando la fecha de negociación, esto es la fecha en la que se 
+asume obligaciones recíprocas que deben consumarse dentro del plazo establecido por las 
+regulaciones y usos de mercado en el que se efectúe la transacción. 
+ 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, la cual 
+incorpora tanto los intereses que van a ser cobrados como la amortización de la prima descuento 
+que exista en su adquisición. 
+ 
+Las ganancias o pérdidas por diferencias de cambio relacionadas al costo amortizado de 
+instrumentos representativos de deuda afectan el resultado del ejercicio y las relacionadas con la 
+diferencia entre el costo amortizado y el valor razonable se registran como parte de la ganancia o 
+pérdida no realizada en el patrimonio. 
+ 
+En el caso de los instrumentos representativos de capital, estos se consideran partidas no 
+monetarias y, en consecuencia, se mantienen a su costo histórico en la moneda local, por lo que 
+las diferencias de cambio son parte de su valorización y se reconocen en los resultados no 
+realizados en el patrimonio. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su valor en libros 
+se reconoce en el estado de resultados.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_7_EEFF Auditados2020.pdf | PAGINA: 16 | vecina =====
+- 14 - 
+d) Créditos y provisión para créditos - 
+ 
+Los créditos directos se registran cuando se realiza el desembolso de los fondos a favor de los 
+clientes. Los créditos indirectos (contingentes) se registran cuando se emiten los documentos que 
+soportan dichas facilidades de crédito y podrían llegar a ser créditos directos en caso se realice un 
+pago a terceras partes.  Asimismo, se considera como refinanciación o reestructuración, a cualquier 
+crédito directo el cual se producen variaciones de plazo sobre el contrato originado debido a 
+dificultades en capacidad de pago por parte del deudor. 
+ 
+Las operaciones de arrendamiento financiero se contabilizan bajo el método financiero, registrándose 
+como créditos el capital de las cuotas de arrendamiento pendientes de cobro. Los correspondientes 
+ingresos financieros se registran sobre la base del devengado de acuerdo con los términos del 
+contrato de arrendamiento financiero.  Los costos directos iniciales se reconocen inmediatamente 
+como gasto. 
+ 
+Las áreas de Análisis de Riesgo y Seguimiento de Banca Comercial, de la Vicepresidencia de Riesgo 
+son las responsables de efectuar en forma permanente la evaluación y clasificación de la cartera de 
+créditos, asignando a cada deudor la categoría de riesgo crediticio que le corresponda de acuerdo con 
+los lineamientos establecidos por la SBS en la Resolución SBS N°11356-2008 y sus modificatorias. 
+ 
+Clasificación de créditos - 
+ 
+El Banco clasifica a los deudores de su cartera de créditos como: No Minorista (Créditos corporativos, 
+Créditos a grandes empresas, Créditos a medianas empresas) y como Minorista (Créditos a pequeñas 
+empresas, Créditos MES, Créditos de consumo revolvente, Créditos de consumo no revolvente y 
+Créditos hipotecarios). Estas clasificaciones toman en consideración la naturaleza del cliente 
+(corporativos, gobierno o personas naturales), el propósito del crédito, el tamaño de los negocios 
+medidos por los ingresos, el endeudamiento, entre otros indicadores. 
+ 
+Categorías de clasificación por riesgo crediticio - 
+ 
+Las categorías de clasificación por riesgo crediticio establecidas por la SBS son las siguientes: 
+Normal, Con Problemas Potenciales, Deficiente, Dudoso y Pérdida, las cuales son asignadas de 
+acuerdo con los lineamientos establecidos en la Resolución SBS N°11356-2008 y sus modificatorias. 
+ 
+Para la Cartera No Minorista, el Banco tiene en cuenta principalmente, la capacidad de pago del 
+deudor, su flujo de caja, el grado de cumplimiento de sus obligaciones, las clasificaciones asignadas 
+por las demás empresas del sistema financiero, la situación financiera y la calidad de la dirección de la 
+empresa.  Para la Cartera Minorista, la clasificación se determina en función del grado de 
+cumplimiento de pago de sus créditos reflejados en los días de atraso, y en su clasificación en las 
+otras empresas del sistema financiero. 
+ 
+Provisiones por incobrabilidad - 
+ 
+Con base en las regulaciones vigentes emitidas por la SBS, el Banco determina provisiones genérica 
+y específica para la cartera de créditos.  La provisión genérica es aquella que se constituye de manera 
+preventiva para los deudores clasificados en categoría Normal, la cual es calculada sobre sus créditos 
+directos, la exposición equivalente al riesgo crediticio de los créditos indirectos, y adicionalmente se 
+considera un componente procíclico cuando este sea activado por la SBS.  La provisión específica es 
+aquella que se constituye con relación a créditos directos y a la exposición equivalente a riesgo 
+crediticio de los créditos indirectos de deudores identificados con un riesgo superior al Normal. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_10_Banco GNB Informe EEFF y notas 2023.pdf | PAGINA: 55 | vecina =====
+ 
+- 53 - 
+g) En julio 2018 se publicó la Ley No.30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera.  En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) Se modificó a partir del 1 de enero de 2019 el Decreto Legislativo No.1369 dispuso que la 
+obligación de efectuar retenciones a no domiciliados se originará únicamente cuando ocurra el 
+pago o acreditación de la retribución; asimismo, se incluyó como requisito para la deducción 
+del gasto que dicho pago o acreditación de retribución ocurra hasta la fecha de presentación 
+de la declaración jurada anual del Impuesto a la Renta. 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+No.1372).  Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo con lo establecido en el artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país.  La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten con una 
+sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural o 
+jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado en 
+el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación será cumplida mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa, que deberá contener la información del beneficiario final y ser 
+presentada, de acuerdo con las normas reglamentarias y en los plazos que se establezcan 
+mediante Resolución de Superintendencia de la SUNAT.  Nótese que en caso se haya 
+producido alguna modificación a la declaración jurada informativa presentada por el Banco 
+vinculada a la identificación de los beneficiarios finales de la misma, ésta deberá cumplir con 
+informar dicha actualización a la Administración Tributaria. 
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma anti elusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo No.1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por la 
+Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI.  Tratándose de sociedades que tengan 
+Directorio, corresponde a este órgano societario definir la estrategia tributaria de la entidad 
+debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones económicas a 
+realizarse en el marco de la planificación fiscal, siendo esta facultad indelegable. 
+ 
+(iv) Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recalificación de los supuestos de elusión tributaria, se producirá en los procedimientos de 
+fiscalización definitiva en los que se revisen actos, hechos o situaciones producidos desde el 
+19 de julio de 2012. 
+ 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a partir 
+del 1 de enero de 2019 (Decreto Legislativo No.1425), indicando que el devengo ocurrirá 
+cuando se hayan producido los hechos sustanciales para la generación del ingreso o gasto, 
+siempre que no se encuentre sujeto a una condición suspensiva o a un hecho futuro. 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_10_Banco GNB Informe EEFF y notas 2023.pdf | PAGINA: 56 | puntaje 10 =====
+ 
+- 54 - 
+h) Mediante Decreto Legislativo No.30341, ley que fomenta la liquidez e integración del mercado de 
+valores, se exonera del impuesto a la renta hasta el 31 de diciembre de 2022 (plazo prorrogado a 
+través del Decreto de Urgencia No.005-2019 a las rentas originadas por la enajenación de: i) 
+Valores representativos de deuda, ii) Certificados de participación en fondos mutuos de inversión 
+en valores, iii) Certificados de participación en Fondo de Inversión en Renta de Bienes Inmuebles 
+(FIRBI) y certificados de participación en Fideicomiso de Titulización para Inversión en Renta de 
+Bienes Raíces (FIBRA); y, iv) Facturas negociables. 
+ 
+Para que resulte de aplicación la exoneración en el caso de rentas originadas por la enajenación 
+de acciones, acciones de inversión, ADR y GDR, y bonos convertibles en acciones, se debe 
+cumplir con lo siguiente: 
+ 
+- La enajenación debe realizarse a través de un mecanismo centralizado de negociación situado 
+en el país y supervisado por la SMV. 
+- No transferir en un periodo de 12 meses, la propiedad de 10 por ciento o más del total de 
+acciones emitidas por la empresa.  En el caso de ADR y GDR se toma en cuenta las acciones 
+subyacentes. Se consideran las transferencias personales y las de las partes vinculadas. 
+- Tener presencia bursátil. 
+ 
+Para los demás valores comprendidos se exige que la enajenación se realice a través del 
+mecanismo centralizado de negociación supervisado por la SMV y adicionalmente que cumpla 
+con tener presencia bursátil.  En el caso de facturas negociables solamente se requiere que la 
+enajenación se realice a través del mecanismo centralizado de negociación supervisado por la 
+SMV. 
+ 
+Finalmente, se incorpora como causal de pérdida de la exoneración que el emisor desliste los 
+valores del Registro de Valores de la Bolsa, total o parcialmente, en un acto o progresivamente, 
+dentro de los 12 meses siguientes de efectuada la enajenación.  Mediante el Reglamento se 
+establecerán las excepciones. 
+ 
+Al respecto, la referida exoneración sólo se encontró vigente hasta el 31 de diciembre de 2022; si 
+bien a través de la Primera Disposición Complementaria Final de la Ley No. 31662 se prorrogó 
+hasta el 31 de diciembre de 2023 la exoneración del Impuesto a la Renta a que se refería la Ley 
+No. 30341, ésta se circunscribió únicamente a personas naturales, sucesiones indivisas o 
+sociedad conyugal que optó por tributar como tal. 
+ 
+i) Mediante la ley No.31106, publicada el 31 de diciembre de 2020, se han prorrogado hasta el 31 
+de diciembre de 2023 las exoneraciones previstas en el artículo 19 de la Ley del Impuesto a la 
+Renta. 
+ 
+j) Mediante Resolución de Superintendencia No.000044-2021-SUNAT publicada con fecha de 30 de 
+marzo de 2021, la Administración Tributaria señala que la a partir del 1 de abril 2021 la tasa de 
+interés moratorio es noventa centésimos por ciento (0.90%) mensual, la cual se aplicará a las 
+deudas tributarias en moneda nacional, correspondientes a tributos administrados y/o recaudados 
+por la SUNAT. 
+ 
+k) Mediante la publicación de la Resolución de Superintendencia No.165-2021/SUNAT, la 
+administración tributaria puso a disposición de los contribuyentes una plataforma en la que 
+deberán otorgar la conformidad o disconformidad a las facturas y recibos por honorarios 
+electrónicos que recibimos de nuestros proveedores. 
+ 
+l) Mediante la publicación del Decreto Legislativo No.1523 publicado el 18 de febrero del 2022, se 
+ha modificado el código tributario, a fin de optimizar la regulación de, entre otras, las facultades de 
+fiscalización de la Superintendencia Nacional de Aduanas y de Administración Tributaria y de las 
+actuaciones que se realizan entre esta y los administrados, para adecuarlas a la transformación 
+digital, así como realizar las adaptaciones que se requieran, en aspectos tales como las formas de 
+notificación de las infracciones y sanciones sin afectar los derechos constitucionalmente 
+protegidos de los contribuyentes.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2016_Individual_Anual_10_Banco GNB Informe EEFF y notas 2023.pdf | PAGINA: 57 | vecina =====
+ 
+- 55 - 
+m) Mediante la publicación del Decreto Legislativo No.1529, se ha modificado la Ley para la Lucha 
+contra la Evasión y para la Formalización de la Economía y ha dispuesto lo siguiente: 
+ 
+- A partir del 1 de abril de 2022 se deberá utilizar Medios de Pago en los pagos a partir de dos 
+mil soles (S/ 2,000 o US$500). 
+- El uso de Medios de Pago establecido en esta Ley se tiene por cumplido solo si el pago se 
+efectúa directamente al acreedor, proveedor del bien y/o prestador del servicio, o cuando 
+dicho pago se realice a un tercero designado por aquél, siempre que tal designación se 
+comunique a la SUNAT con anterioridad al pago, en la forma y condiciones que esta señale 
+mediante resolución de superintendencia. 
+- En ningún caso se considera cumplida la obligación de utilizar Medios de Pago a que se 
+refiere la Ley, cuando los pagos se canalicen a través de empresas bancarias o financieras 
+que sean residentes de países o territorios no cooperantes o de baja o nula imposición o 
+establecimientos permanentes situados o establecidos en tales países o territorios 
+ 
+n) Mediante el Decreto Supremo No. 233-2022-EF se modificó el Artículo 60-A del Reglamento de 
+Impuesto a la Renta, para incluir el concepto de Sujeto Sin Capacidad Operativa (SSCO), siendo 
+que la SUNAT podrá verificar a aquellas empresas que no cuenten con personal, activos o la 
+capacidad para poder desarrollar sus funciones y podrá declararlos como SSCO, teniendo como 
+efecto que todos los comprobantes de pago que haya emitido no podrán sustentar gasto o costo 
+para fines fiscales, ni crédito fiscal del IGV. 
+ 
+o) Mediante Decreto de Urgencia No.016-2022 se modifican las siguientes resoluciones: 
+ 
+- Resoluciones de Superintendencia 00150-2021/SUNAT que amplía la vigencia de la única 
+disposición complementaria transitoria relacionada al plazo de envío de la factura electrónica 
+y de la nota electrónica vinculada a esta por el periodo comprendido desde el 17 hasta el 31 
+de diciembre de 2022 (antes hasta el 31 de diciembre del 2021). 
+- Resoluciones de Superintendencia 00189-2021/SUNAT referente a la actualización del 
+cronograma de obligaciones tributarias correspondientes a los períodos tributarios de julio a 
+diciembre 2022 publicados en la página de SUNAT. 
+ 
+p) Mediante la Resolución de Superintendencia No.204-2023/SUNAT posterga el uso del Sistema 
+Integrado de Registros Electrónicos (SIRE), del periodo enero 2024 a abril de 2024. 
+ 
+q) De acuerdo con lo establecido por la Ley del Impuesto a la Renta y sus modificatorias, las 
+entidades establecidas en el Perú tienen la facultad de optar entre uno de los dos métodos 
+siguientes para el arrastre de sus pérdidas tributarias: 
+ 
+(i) Método A: La pérdida tributaria podrá ser utilizada hasta cuatro años después de haberse 
+generado. 
+(ii) Método B: La pérdida tributaria se podrá compensar con utilidades futuras año a año hasta su 
+extinción final, aplicando dicha pérdida hasta el 50 por ciento de su utilidad gravable. 
+ 
+La opción de elegir el método de compensación de pérdidas tributarias se ejerce con oportunidad 
+de la presentación de la declaración jurada anual del Impuesto a la Renta que corresponde al año 
+fiscal en el que se genera la pérdida.  Una vez ejercida la opción no es posible modificar el 
+método hasta agotar íntegramente la pérdida. 
+ 
+Al 31 de diciembre de 2023, el Banco determinó una pérdida tributaria arrastrable ascendente 
+aproximadamente a S/76,959 miles (S/35,915 miles al 31 de diciembre de 2022).  La Gerencia del 
+Banco ha optado utilizar el método B descrito anteriormente. 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditados 2021.pdf | PAGINA: 22 | vecina =====
+ 
+- 20 - 
+Adicionalmente, la SBS podrá activar o desactivar la aplicación del componente procíclico en 
+situaciones excepcionales no contempladas en los puntos anteriores como eventos de caso fortuito o 
+fuerza mayor; o situaciones prudenciales, debidamente fundamentadas, tales como la necesidad de 
+preservar las condiciones de estabilidad del sistema financiero, o cuando por circunstancias 
+extraordinarias se origine una excesiva volatilidad sobre las variables que determinan la activación y 
+desactivación de la regla procíclica; entre otras. 
+ 
+El cálculo de los promedios móviles será realizado utilizando la información mensual de la variación 
+porcentual anualizada del PBI publicada por el BCRP. 
+ 
+La SBS ha establecido que durante el periodo en que esta regla es desactivada, las entidades 
+financieras no pueden, en ningún caso, generar utilidades por la reversión de provisiones procíclicas; 
+las cuales sólo pueden ser reasignadas para constituir provisiones específicas obligatorias. 
+ 
+Las provisiones para los créditos directos se presentan deduciendo el saldo del correspondiente activo 
+(nota 7), y las provisiones para créditos indirectos se presentan en el pasivo en la cuenta provisiones y 
+otros pasivos (nota 12). 
+ 
+e) Bienes realizables, recibidos en pago y adjudicados - 
+ 
+Los bienes realizables incluyen bienes comprados con el propósito específico de otorgarse en 
+arrendamiento financiero, siendo registrados inicialmente a su costo de adquisición; aquellos bienes 
+realizables que no fueran otorgados en arrendamiento financiero incluyendo los bienes recuperados, 
+son registrados al costo o valor de mercado el menor. 
+ 
+Los bienes recuperados, recibidos en pago y bienes adjudicados están regulados por la Resolución 
+SBS No.1535-2005 e incluyen principalmente inmuebles y maquinaria y equipo obtenidos en pago de 
+créditos de difícil recuperación y son registrados inicialmente al valor de adjudicación judicial, 
+extrajudicial, recupero, valor estimado de mercado o valor insoluto de la deuda, el que resulte menor. 
+ 
+De acuerdo con la norma vigente, el tratamiento para constituir provisiones para estos tipos de bienes 
+es como sigue: 
+ 
+- Los bienes recuperados, recibidos en pago y adjudicados se registran inicialmente al costo en 
+libros reconociéndose a su vez una provisión equivalente al 20% del costo. En caso el valor neto 
+de realización reflejado en el informe de valuación demuestre que el bien se ha desvalorizado en 
+un porcentaje mayor al 20%, la provisión inicial requerida se constituirá por el monto 
+efectivamente desvalorizado. 
+ 
+- Para la provisión de bienes muebles se constituye mensualmente, a partir del primer mes de la 
+adjudicación o recuperación de los bienes, una provisión mensual a razón de un dieciochoavo 
+(1/18) del costo en libros de los bienes menos la provisión inicial señalada anteriormente. 
+Tratándose de bienes que no hayan sido vendidos o entregados en arrendamiento dentro del 
+plazo de un año y que no cuenten con la prórroga establecida en la Ley General, se deberá 
+completar la provisión hasta alcanzar el 100% del valor de adjudicación o recuperación de dichos 
+bienes menos la provisión por desvalorización, al vencimiento del referido año. 
+ 
+- Los bienes inmuebles que no hayan sido vendidos o entregados en arrendamiento financiero 
+transcurridos un año desde su recuperación o adjudicación deben ser provisionados, 
+constituyendo una provisión mensual uniforme en un plazo de tres y medio años hasta constituir la 
+provisión al 100% sobre el valor neto en libros obtenido el décimo octavo o décimo segundo mes, 
+dependiendo si se cuenta o no con la prórroga aprobada por la SBS, respectivamente. 
+ 
+Se reconoce deterioro cuando estos bienes sufren un descenso en su valor razonable (cuando el valor 
+neto de realización es menor que el valor neto en libros) por lo que el valor en libros será reducido y la 
+pérdida deberá ser reconocida en el estado de resultados.  En caso el valor neto de realización sea 
+mayor al valor neto en libros, no se podrá reconocer contablemente el mayor valor.  La antigüedad de 
+los informes de valuación de los bienes inmuebles no puede ser mayor a un año.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditados 2021.pdf | PAGINA: 23 | puntaje 7 =====
+ 
+- 21 - 
+f) Inmuebles, mobiliario y equipo - 
+ 
+La cuenta inmuebles, mobiliario y equipo se registra al costo histórico de adquisición, menos su 
+depreciación acumulada.  Los desembolsos posteriores a la adquisición de los elementos 
+componentes de los inmuebles, mobiliario y equipo sólo se reconocen como activo cuando es 
+probable que beneficios económicos futuros asociados con el activo se generen para el Banco, y el 
+costo de estos activos pueda ser medido razonablemente. 
+ 
+Los desembolsos por mantenimiento y reparaciones se afectan a los resultados del período en que se 
+incurren. Los trabajos en curso y bienes por recibir se registran al costo de adquisición.  Estos bienes 
+no se deprecian hasta que los activos relevantes se terminen y/o reciban y estén operativos. 
+ 
+La depreciación de los activos es calculada por el método de línea recta considerando las siguientes 
+vidas útiles estimadas: 
+ 
+Activo  Años  
+ 
+Inmuebles   20 
+Mobiliarios y enseres   10 
+Equipo de cómputo   4 
+Unidades de transporte   5 
+ 
+Las instalaciones comprenden los bienes adquiridos y las mejoras realizadas en propiedades 
+recibidas en alquiler por el Banco, que se destinarán al desarrollo de sus actividades.  La depreciación 
+de estos activos será realizada en el período de duración del contrato original de alquiler. 
+ 
+El costo y la depreciación acumulada de los bienes retirados o vendidos se eliminan de las cuentas 
+respectivas y la utilidad o pérdida resultante se afecta a los resultados del período en que se produce. 
+ 
+g)  Deterioro de activos no financieros -  
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el valor de 
+un activo pueda no ser recuperable, el Banco revisa el valor de los activos de larga duración para 
+verificar que no existe ningún deterioro.  Cuando el valor en libros del activo de larga duración excede 
+su valor recuperable se reconoce una pérdida por deterioro en el estado de resultados, para los 
+activos mantenidos al costo. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso.  El valor de venta es 
+el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; mientras 
+que el valor de uso, es el valor presente de la estimación de los flujos de efectivo futuros que se prevé 
+resultará del uso continuo de un activo, así como de su disposición al final de su vida útil.  Los 
+importes recuperables se estiman para cada activo. 
+ 
+h) Impuesto a las ganancias - 
+ 
+El impuesto a las ganancias corriente es determinado sobre la base de la renta imponible y registrado 
+de acuerdo con la legislación tributaria aplicable al Banco (nota 21). Los activos y pasivos por 
+impuestos corrientes sólo se compensan si se cumplen ciertos criterios. 
+ 
+El impuesto a la renta diferido se determina por el método del balance sobre la base de las diferencias 
+temporales que surgen entre la base tributaria de los activos y pasivos y sus respectivos saldos en los 
+estados financieros, aplicando la legislación y la tasa del impuesto vigente a la fecha en que se estime 
+que el impuesto a la renta diferido activo se realice o el impuesto a la renta diferido pasivo se cancele 
+(nota 8). 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2021_Individual_Anual_EEFF Auditados 2021.pdf | PAGINA: 24 | vecina =====
+ 
+- 22 - 
+Los impuestos a la renta diferidos activo y pasivo se reconocen sin tener en cuenta el momento en 
+que se estima que las diferencias temporales se anulan.  El impuesto a la renta diferido activo sólo se 
+reconoce en la medida que sea probable que se disponga de beneficios tributarios futuros, para que el 
+impuesto a la renta diferido activo pueda utilizarse. 
+ 
+i) Activos intangibles - 
+ 
+Los intangibles comprenden principalmente la inversión efectuada en la adquisición de licencias y 
+desarrollo de software de cómputos utilizados en las operaciones del Banco, que se muestran en el 
+rubro “otros activos” y se amortizan por el método de línea recta en el plazo de 5 años (nota 9). De 
+acuerdo con la Resolución SBS N°1967-2010, los activos intangibles de vida limitada se amortizan en 
+un plazo máximo de cinco años. 
+ 
+Los costos relacionados con el desarrollo o mantenimiento de software de cómputo se reconocen en 
+resultados cuando se incurren. Sin embargo, los costos que están directamente asociados con 
+software de cómputo único e identificable, que son controlados por el Banco y que brindarán 
+beneficios económicos futuros mayores que su costo en más de un año, son considerados como 
+activos intangibles.  Los costos directos vinculados al desarrollo de programas de computación 
+incluyen costos de personal del equipo que los desarrolla. 
+ 
+j) Beneficios de los trabajadores - 
+ 
+Beneficios a corto plazo - 
+ 
+Los beneficios laborales de corto plazo se reconocen en base al criterio del devengado, y el gasto es 
+registrado al momento de la prestación del servicio. Una provisión por beneficios laborales de corto 
+plazo es reconocida cuando el Banco tiene una obligación real o implica de pagar dicho monto por 
+servicios brindados por el empleado en el pasado y es posible estimar su importe confiablemente. 
+ 
+k) Provisiones y contingencias - 
+ 
+k.i) Provisiones - 
+ 
+Las provisiones se reconocen cuando el Banco tiene una obligación presente legal o asumida 
+como resultado de hechos pasados, es probable que se requiera de la salida de recursos para 
+pagar la obligación y es posible estimar su monto confiablemente.  Las provisiones son revisadas 
+y ajustadas en cada período para reflejar la mejor estimación a la fecha del estado de situación 
+financiera.  Las provisiones cuyo efecto del valor del dinero en el tiempo es significativo, son 
+determinados descontando los flujos de caja esperados a una tasa antes del impuesto que refleje 
+la evaluación actual que el mercado esté haciendo del valor del dinero en el tiempo y aquellos 
+riesgos específicos a la obligación. 
+ 
+La provisión para compensación por tiempo de servicios del personal (CTS) se calcula, de 
+acuerdo con la legislación vigente, por el íntegro de los derechos indemnizatorios de los 
+trabajadores y debe ser pagada mediante depósitos en las entidades financieras autorizadas, 
+elegidas por ellos.  El cálculo se hace por el monto que correspondería pagarse a la fecha del 
+estado de situación financiera y se incluye en la cuenta provisión para beneficios sociales; se 
+presenta en el estado de situación financiera en otros pasivos. 
+ 
+Cuando se estima que una provisión es reembolsable, por ejemplo en los casos cubiertos por 
+contratos de seguro, el reembolso se reconoce por separado como activo cuando dicho 
+reembolso es virtualmente cierto. 
+ 
+k.ii) Contingencias - 
+ 
+Los pasivos contingentes no se reconocen en los estados financieros.  Estos se revelan en notas 
+a los estados financieros, a menos que la posibilidad de la salida de recursos sea remota.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2024_Individual_Anual_Banco GNB - EEFF Auditados 2024.pdf | PAGINA: 55 | vecina =====
+ 
+- 53 - 
+Debido a las posibles interpretaciones que la Autoridad Tributaria puede dar a las normas legales 
+vigentes, no es posible determinar a la fecha si de las revisiones que se realicen resultarán o no 
+pasivos para el Banco, por lo que cualquier mayor impuesto o recargo que pudiera resultar de 
+eventuales revisiones fiscales sería aplicado a los resultados del ejercicio en que éste se 
+determine.  Sin embargo, en opinión de la Gerencia del Banco y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2024 y de 2023. 
+ 
+En julio 2018 se publicó la Ley No.30823 en la que el Congreso delegó en el Poder Ejecutivo la 
+facultad de legislar en diversos temas, entre ellos, en materia tributaria y financiera.  En este 
+sentido, las principales normas tributarias emitidas son las siguientes: 
+ 
+(i) El Decreto Legislativo No.1369, vigente a partir del 1 de enero de 2019, dispuso que la 
+obligación de efectuar las retenciones del Impuesto a la Renta a sujetos no domiciliados se 
+originará únicamente cuando ocurra el pago o acreditación de la retribución; asimismo, se 
+incluyó como requisito para la deducción del gasto que dicho pago o acreditación de 
+retribución ocurra hasta la fecha de presentación de la declaración jurada anual del Impuesto 
+a la Renta. 
+ 
+(ii) Se establecieron las normas que regulan la obligación de las personas jurídicas y/o entes 
+jurídicos de informar la identificación de sus beneficiarios finales (Decreto Legislativo 
+No.1372).  Estas normas son aplicables a las personas jurídicas domiciliadas en el país, de 
+acuerdo con lo establecido en el Artículo 7 de la Ley de Impuesto a la Renta, y a los entes 
+jurídicos constituidos en el país.  La obligación alcanza a las personas jurídicas no 
+domiciliadas y a los entes jurídicos constituidos en el extranjero, en tanto: a) cuenten con una 
+sucursal, agencia u otro establecimiento permanente en el país; b) la persona natural o 
+jurídica que gestione el patrimonio autónomo o los fondos de inversión del exterior, o la 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado en 
+el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación será cumplida mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa, que deberá contener la información del beneficiario final y ser 
+presentada, de acuerdo con las normas reglamentarias y en los plazos que se establezcan 
+mediante Resolución de Superintendencia de la SUNAT.  Nótese que en caso se haya 
+producido alguna modificación a la declaración jurada informativa presentada por el Banco 
+vinculada a la identificación de los beneficiarios finales de la misma, ésta deberá cumplir con 
+informar dicha actualización a la Administración Tributaria. 
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma anti elusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo No.1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+esto es, cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por 
+la Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que tengan 
+Directorio, corresponde a este órgano societario definir la estrategia tributaria de la entidad 
+debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones económicas a 
+realizarse en el marco de la planificación fiscal, siendo esta facultad indelegable. 
+ 
+(iv) Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recalificación de los supuestos de elusión tributaria, se producirá en los procedimientos de 
+fiscalización definitiva en los que se revisen actos, hechos o situaciones producidos desde el 
+19 de julio de 2012.  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2024_Individual_Anual_Banco GNB - EEFF Auditados 2024.pdf | PAGINA: 56 | puntaje 10 =====
+ 
+- 54 - 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a partir 
+del 1 de enero de 2019 (Decreto Legislativo No.1425), indicando que el devengo ocurrirá 
+cuando se hayan producido los hechos sustanciales para la generación del ingreso o gasto, 
+siempre que no se encuentre sujeto a una condición suspensiva o a un hecho futuro. 
+ 
+Mediante Decreto Legislativo No.30341, ley que fomenta la liquidez e integración del mercado de 
+valores, se exonera del impuesto a la renta hasta el 31 de diciembre de 2022 (plazo prorrogado a 
+través del Decreto de Urgencia No.005-2019 a las rentas originadas por la enajenación de: i) 
+Valores representativos de deuda, ii) Certificados de participación en fondos mutuos de inversión 
+en valores, iii) Certificados de participación en Fondo de Inversión en Renta de Bienes Inmuebles 
+(FIRBI) y certificados de participación en Fideicomiso de Titulización para Inversión en Renta de 
+Bienes Raíces (FIBRA); y, iv) Facturas negociables. 
+ 
+Para que resulte de aplicación la exoneración en el caso de rentas originadas por la enajenación 
+de acciones, acciones de inversión, ADR y GDR, y bonos convertibles en acciones, se debe 
+cumplir con lo siguiente: 
+ 
+- La enajenación debe realizarse a través de un mecanismo centralizado de negociación 
+situado en el país y supervisado por la SMV. 
+- No transferir en un periodo de 12 meses, la propiedad de 10 por ciento o más del total de 
+acciones emitidas por la empresa.  En el caso de ADR y GDR se toma en cuenta las acciones 
+subyacentes. Se consideran las transferencias personales y las de las partes vinculadas. 
+- Tener presencia bursátil. 
+ 
+Para los demás valores comprendidos se exige que la enajenación se realice a través del 
+mecanismo centralizado de negociación supervisado por la SMV y adicionalmente que cumpla 
+con tener presencia bursátil.  En el caso de facturas negociables solamente se requiere que la 
+enajenación se realice a través del mecanismo centralizado de negociación supervisado por la 
+SMV. 
+ 
+Finalmente, se incorpora como causal de pérdida de la exoneración que el emisor desliste los 
+valores del Registro de Valores de la Bolsa, total o parcialmente, en un acto o progresivamente, 
+dentro de los 12 meses siguientes de efectuada la enajenación.  Mediante el Reglamento se 
+establecerán las excepciones. 
+ 
+Al respecto, la referida exoneración sólo se encontró vigente hasta el 31 de diciembre de 2022; si 
+bien a través de la Primera Disposición Complementaria Final de la Ley No.31662 se prorrogó 
+hasta el 31 de diciembre de 2023 la exoneración del Impuesto a la Renta a que se refería la Ley 
+No.30341, ésta se circunscribió únicamente a personas naturales, sucesiones indivisas o 
+sociedad conyugal que optó por tributar como tal. 
+ 
+g) Mediante el Decreto Legislativo No.1549, publicado el 23 de abril de 2023, se han prorrogado 
+hasta el 31 de diciembre de 2026 las exoneraciones previstas en el artículo 19 de la Ley del 
+Impuesto a la Renta. 
+ 
+h) Mediante Resolución de Superintendencia No.000044-2021-SUNAT publicada con fecha de 30 de 
+marzo de 2021, la Administración Tributaria señala que la a partir del 1 de abril 2021 la tasa de 
+interés moratorio es noventa centésimos por ciento (0.90%) mensual, la cual se aplicará a las 
+deudas tributarias en moneda nacional, correspondientes a tributos administrados y/o recaudados 
+por la SUNAT. 
+ 
+i) Mediante la publicación de la Resolución de Superintendencia No.165-2021/SUNAT, la 
+administración tributaria puso a disposición de los contribuyentes una plataforma en la que 
+deberán otorgar la conformidad o disconformidad a las facturas y recibos por honorarios 
+electrónicos que recibimos de nuestros proveedores. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-BANCO GNB PERU S.A.-Individual.zip/2024_Individual_Anual_Banco GNB - EEFF Auditados 2024.pdf | PAGINA: 57 | vecina =====
+ 
+- 55 - 
+j) Mediante la publicación del Decreto Legislativo No.1523 publicado el 18 de febrero del 2022, se 
+ha modificado el código tributario, a fin de optimizar la regulación de, entre otras, las facultades de 
+fiscalización de la Superintendencia Nacional de Aduanas y de Administración Tributaria y de las 
+actuaciones que se realizan entre esta y los administrados, para adecuarlas a la transformación 
+digital, así como realizar las adaptaciones que se requieran, en aspectos tales como las formas de 
+notificación de las infracciones y sanciones sin afectar los derechos constitucionalmente 
+protegidos de los contribuyentes. 
+ 
+k) Mediante la publicación del Decreto Legislativo No.1529, se ha modificado la Ley para la Lucha 
+contra la Evasión y para la Formalización de la Economía y ha dispuesto lo siguiente: 
+ 
+- A partir del 1 de abril de 2022 se deberá utilizar Medios de Pago en los pagos a partir de dos 
+mil soles (S/2,000 o US$500). 
+- El uso de Medios de Pago establecido en esta Ley se tiene por cumplido solo si el pago se 
+efectúa directamente al acreedor, proveedor del bien y/o prestador del servicio, o cuando 
+dicho pago se realice a un tercero designado por aquél, siempre que tal designación se 
+comunique a la SUNAT con anterioridad al pago, en la forma y condiciones que esta señale 
+mediante resolución de superintendencia. 
+- En ningún caso se considera cumplida la obligación de utilizar Medios de Pago a que se 
+refiere la Ley, cuando los pagos se canalicen a través de empresas bancarias o financieras 
+que sean residentes de países o territorios no cooperantes o de baja o nula imposición o 
+establecimientos permanentes situados o establecidos en tales países o territorios 
+ 
+l) Mediante el Decreto Supremo No.233-2022-EF se modificó el Artículo 60-A del Reglamento de 
+Impuesto a la Renta, para incluir el concepto de Sujeto Sin Capacidad Operativa (SSCO), siendo 
+que la SUNAT podrá verificar a aquellas empresas que no cuenten con personal, activos o la 
+capacidad para poder desarrollar sus funciones y podrá declararlos como SSCO, teniendo como 
+efecto que todos los comprobantes de pago que haya emitido no podrán sustentar gasto o costo 
+para fines fiscales, ni crédito fiscal del IGV. 
+ 
+m) Mediante Decreto de Urgencia No.016-2022 se modifican las siguientes resoluciones: 
+ 
+- Resoluciones de Superintendencia 00150-2021/SUNAT que amplía la vigencia de la única 
+disposición complementaria transitoria relacionada al plazo de envío de la factura electrónica 
+y de la nota electrónica vinculada a esta por el periodo comprendido desde el 17 hasta el 31 
+de diciembre de 2022 (antes hasta el 31 de diciembre del 2021). 
+- Resoluciones de Superintendencia 00189-2021/SUNAT referente a la actualización del 
+cronograma de obligaciones tributarias correspondientes a los períodos tributarios de julio a 
+diciembre 2022 publicados en la página de SUNAT. 
+ 
+n) Mediante la Resolución de Superintendencia No.00293-2024/SUNAT posterga el uso del Sistema 
+Integrado de Registros Electrónicos (SIRE), del periodo enero 2025 a junio de 2025. 
+ 
+o) De acuerdo con lo establecido por la Ley del Impuesto a la Renta y sus modificatorias, las 
+entidades establecidas en el Perú tienen la facultad de optar entre uno de los dos métodos 
+siguientes para el arrastre de sus pérdidas tributarias: 
+ 
+(i) Método A: La pérdida tributaria podrá ser utilizada hasta cuatro años después de haberse 
+generado. 
+(ii) Método B: La pérdida tributaria se podrá compensar con utilidades futuras año a año hasta su 
+extinción final, aplicando dicha pérdida hasta el 50 por ciento de su utilidad gravable. 
+ 
+La opción de elegir el método de compensación de pérdidas tributarias se ejerce con oportunidad 
+de la presentación de la declaración jurada anual del Impuesto a la Renta que corresponde al año 
+fiscal en el que se genera la pérdida.  Una vez ejercida la opción no es posible modificar el 
+método hasta agotar íntegramente la pérdida. 
+ 
+La Gerencia del Banco ha optado utilizar el método B descrito anteriormente.  

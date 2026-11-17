@@ -1,0 +1,3055 @@
+EMPRESA: CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2025_Individual_Anual_EEFF CMAC Cusco 2025_VF (1).pdf | PAGINA: 23 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2025 y de 2024 
+ 
+ 
+ 
+17 
+Las obras en curso y los bienes por recibir son registrados al costo de adquisición. Estos bienes no 
+se deprecian hasta que se encuentren operativos. 
+ 
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil estimada, 
+como sigue: 
+ 
+ Años 
+Edificios y otras construcciones Entre 30 – 50 
+Instalaciones Entre 3 – 10 
+Mobiliario y equipo 10 
+Equipos de cómputo Entre 3 - 7 
+Otros bienes y equipos Entre 2 – 25 
+Unidades de transporte  Entre 5 – 7 
+Instalaciones en locales alquilados Entre 2 - 10 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para asegurar 
+que el método y el período de la depreciación sean consistentes con el beneficio económico futuro y 
+las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+Los costos de mantenimiento y reparación se cargan a resultados; toda renovación o mejora se 
+capitaliza únicamente cuando los desembolsos mejoran la condición del activo. El costo y la 
+correspondiente depreciación de los activos vendidos o retirados son eliminados de las cuentas 
+respectivas y la utilidad o pérdida generada se incluye en los resultados del ejercicio. 
+ 
+Las Cajas Municipales de Ahorro y Crédito que operan en el sistema financieros peruano están 
+prohibidos de dar en garantía los bienes de su activo fijo, salvo los adquiridos en operaciones de 
+arrendamiento financiero. 
+ 
+F. Activos intangibles 
+Los activos intangibles, incluidos en el rubro “Otros activos” del estado de situación financiera, son 
+registrados al costo histórico de adquisición, menos la amortización acumulada y el importe 
+acumulado de las pérdidas por deterioro de valor del activo, de ser aplicable. Los activos intangibles 
+de vida limitada comprenden principalmente desarrollos y adquisiciones de licencias de software 
+utilizados en las operaciones propias de la Caja. 
+ 
+La amortización de los intangibles de vida limitada de la Caja es calculada siguiendo el método de 
+línea recta sobre la base de su vida útil estimada (5 años). Cabe señalar que, de acuerdo con la 
+Resolución SBS N° 1967-2010, los activos intangibles de vida limitada se amortizan en un plazo 
+máximo de cinco años. 
+ 
+Al 31 de diciembre de 2025 y de 2024, la Caja no mantiene intangibles de vida útil ilimitada. 
+ 
+G. Arrendamiento operativo 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Caja actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2025_Individual_Anual_EEFF CMAC Cusco 2025_VF (1).pdf | PAGINA: 24 | puntaje 17 =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2025 y de 2024 
+ 
+ 
+ 
+18 
+H. Bienes realizables, recuperados, recibidos en pago y adjudicados y otros 
+Los bienes adjudicados (incluidos en el rubro de “Otros activos” del estado de situación financiera) 
+se registran inicialmente al valor de adjudicación judicial, extrajudicial, valor de mercado o valor 
+insoluto de la deuda, el menor; reconociéndose a su vez una provisión equivalente al 20 por ciento 
+del valor de adjudicación o recuperación del bien, pudiendo mantenerse para este fin la provisión que 
+se tenía constituida por el crédito relacionado. 
+ 
+Posteriormente, se constituirán provisiones adicionales siguiendo los siguientes criterios: 
+ 
+▪ Bienes muebles - Se constituye una provisión mensual uniforme a partir del primer mes de la 
+dación, adjudicación o recuperación, por un período de doce meses hasta alcanzar el cien por 
+ciento del valor neto de adjudicación o recuperación. 
+ 
+▪ Bienes inmuebles – Se constituye provisiones mensuales uniformes sobre el valor neto en 
+libros obtenido al décimo segundo mes; siempre que no se haya obtenido la prórroga de seis 
+meses contemplada en la Resolución SBS N° 1535-2005, en cuyo caso se constituyen 
+provisiones mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo 
+mes. En ambos casos, las provisiones se constituyen hasta alcanzar el cien por ciento del 
+valor neto en libros en un plazo de tres años y medio, contados a partir de la fecha en la cual 
+se empezaron a constituir las provisiones mensuales. 
+ 
+La actualización anual de las valuaciones de estos bienes determinadas por un perito independiente 
+implica, de ser necesario, solo la constitución de provisiones por desvalorización. 
+ 
+I. Deterioro del valor de activos de larga duración  
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, la Gerencia de la Caja revisa el valor de sus inmuebles, mobiliario y equipo 
+e intangibles para verificar que no existe ningún deterioro permanente en su valor. Cuando el valor 
+en libros del activo excede su valor recuperable, se reconoce una pérdida por deterioro en el estado 
+de resultados integrales para los rubros de inmuebles, mobiliario y equipo e intangibles. El valor 
+recuperable es el mayor entre el precio de venta neto y su valor en uso. El precio de venta neto es el 
+monto que se puede obtener en la venta de un activo en un mercado libre, mientras que el valor en 
+uso es el valor presente de los flujos futuros estimados del uso continuo de un activo y de su 
+disposición al final de su vida útil. Los importes recuperables se estiman para cada activo o, si no es 
+posible, para la unidad generadora de efectivo. 
+ 
+En opinión de la Gerencia, no existe evidencia de deterioro en el valor de dichos activos al 31 de 
+diciembre de 2025 y de 2024. 
+ 
+J. Valores, títulos, adeudos y obligaciones en circulación 
+El pasivo por adeudos y la emisión de valores, títulos y obligaciones en circulación incluidos en el 
+rubro de “Adeudos y obligaciones financieras” del estado de situación financiera, es contabilizado a 
+su valor nominal, reconociéndose los intereses devengados en los resultados del ejercicio. Cuando 
+sea aplicable, los descuentos otorgados o los ingresos generados en su colocación son diferidos y 
+se presentan netos de su valor de emisión, y se amortizan durante el plazo de vigencia de los 
+valores, títulos y obligaciones en circulación relacionados utilizando el método de la tasa de interés 
+efectiva. 
+ 
+K. Impuesto a la renta 
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para fines 
+tributarios, la cual es determinada utilizando criterios que difieren de los principios contables que 
+utiliza la Caja. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2025_Individual_Anual_EEFF CMAC Cusco 2025_VF (1).pdf | PAGINA: 25 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2025 y de 2024 
+ 
+ 
+ 
+19 
+Asimismo, la Caja ha registrado el impuesto a la renta diferido considerando los lineamientos de la 
+NIC 12 – Impuestos a las Ganancias. El impuesto a la renta diferido refleja los efectos de las 
+diferencias temporales entre los saldos de activos y pasivos para fines contables y los determinados 
+para fines tributarios; y se reconoce utilizando el método del pasivo sobre dichas diferencias 
+temporales. 
+ 
+Los pasivos por impuesto diferido se reconocen para aquellas diferencias temporales gravables 
+(imponibles); mientras que los activos por impuesto diferido se reconocen para todas las diferencias 
+temporales deducibles en la medida en que sea probable que existan beneficios futuros suficientes 
+para que el activo diferido se pueda aplicar. 
+ 
+Los activos y pasivos por impuesto diferido se miden utilizando las tasas de impuestos que se 
+espera sean de aplicación a la renta imponible en los años en que el activo se realice o el pasivo se 
+cancele, en base a las tasas de impuestos que fueron aprobadas a la fecha del estado de situación 
+financiera. 
+ 
+La medición de los activos y pasivos diferidos reflejan las consecuencias tributarias derivadas de la 
+forma en que se espera recuperar o liquidar el valor de los activos y pasivos a la fecha del estado de 
+situación financiera. 
+ 
+El importe en libros de los activos y pasivos por impuestos diferidos puede cambiar, incluso cuando 
+no haya cambiado el importe de las diferencias temporales, debido a un cambio en la tasa del 
+impuesto a la renta. El efecto del cambio en el impuesto diferido, correspondiente al cambio de tasa, 
+se reconocerá en el estado de resultados integrales del período, excepto en las partidas previamente 
+reconocidas fuera del estado de resultados integrales (sea en otros resultados integrales o 
+directamente en el patrimonio neto). 
+ 
+Los activos y pasivos diferidos por impuesto a la renta son compensados si existe derecho legal de 
+compensarlos y los impuestos diferidos se relacionan con la misma entidad sujeta a impuestos y 
+con la misma autoridad tributaria. 
+ 
+Conforme lo establece la NIC 12, la Caja determina su impuesto a la renta sobre la base de la tasa 
+de impuesto a la renta aplicable a sus utilidades no distribuidas, reconociendo cualquier impuesto 
+adicional por la distribución de dividendos en la fecha que se reconoce el pasivo. 
+ 
+L. Provisiones 
+Se reconoce una provisión sólo cuando la Caja tiene una obligación presente (legal o implícita) como 
+resultado de un evento pasado, es probable que se requieran recursos para cancelar dicha obligación 
+y, al mismo tiempo, es posible estimar confiablemente el monto de la obligación.  
+ 
+Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación que se tenga a 
+la fecha del estado de situación financiera. Cuando el efecto del valor del dinero en el tiempo es 
+importante, el monto de la provisión es el valor presente de los desembolsos que se espera incurrir 
+para cancelarla. 
+ 
+M. Contingencias 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en notas a 
+los estados financieros, a menos que la posibilidad de que se desembolse un flujo económico sea 
+remota. 
+ 
+Un activo contingente no se reconoce en los estados financieros, pero se revela cuando su grado de 
+contingencia es probable. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2025_Individual_Anual_EEFF CMAC Cusco 2025_VF (1).pdf | PAGINA: 50 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2025 y de 2024 
+ 
+ 
+ 
+45 
+C. Para propósito de la determinación del Impuesto a la Renta, los precios de transferencia de 
+las transacciones con empresas relacionadas y con empresas residentes en territorios de baja 
+o nula imposición, deben estar sustentados con documentación e información sobre los 
+métodos de valorización utilizados y los criterios considerados para su determinación.  
+ 
+Con base en el análisis de las operaciones de la Caja, la Gerencia y sus asesores consideran 
+que, como consecuencia de la aplicación de las normas de precios de transferencia, no 
+surgirán contingencias significativas al 31 de diciembre de 2025 y de 2024. 
+ 
+D. La Caja ha realizado una evaluación de las posiciones inciertas sobre tratamientos tributarios 
+de acuerdo con la CINIIF 23 y determinó, con base en su estudio de cumplimiento de 
+impuestos y precios de transferencia, que es probable que sus tratamientos fiscales sean 
+aceptados por las autoridades fiscales. La Interpretación no tuvo impacto en los estados 
+financieros de la Caja al 31 de diciembre de 2025 y de 2024. 
+ 
+E. La Caja actualmente no está sujeta al Impuesto Mínimo Global Adicional, conocido también 
+como Pillar 2, debido a que esta legislación aún no ha sido aprobada para su aplicación en 
+Perú. La Caja evaluará los potenciales efectos de esta legislación en sus estados financieros 
+una vez sea aprobada para su aplicación.  
+ 
+F. Principales normas tributarias emitidas durante el año 2025 
+ 
+Modificación de disposiciones sobre precios de transferencia en la Ley del Impuesto a la 
+Renta 
+El 24 de septiembre de 2024, se publicaron los Decretos Legislativos N° 1662 y N° 1663, que 
+introducen modificaciones en la Ley del Impuesto a la Renta respecto a los Acuerdos 
+Anticipados de Precios (APAs) y los métodos alternativos de valoración en el ámbito de los 
+precios de transferencia. Estas modificaciones entraron en vigor el 1 de enero de 2025. 
+ 
+Mediante el Decreto Legislativo N° 1662, publicado el 24 de septiembre de 2024, se 
+estableció que los APAs entre la SUNAT y los contribuyentes pueden tener efectos 
+retroactivos para ejercicios fiscales anteriores. Para que esto sea válido, los hechos y 
+circunstancias de los ejercicios anteriores deben ser consistentes con los cubiertos por el 
+APA, y la autoridad tributaria no debe haber prescrito el derecho para determinar la obligación 
+tributaria del Impuesto a la Renta por normas de precios de transferencia. 
+ 
+Asimismo, mediante el Decreto Legislativo N° 1663, publicado el 24 de septiembre de 2024, 
+se modificó la Ley del Impuesto a la Renta para regular la aplicación de métodos alternativos 
+de valoración en situaciones donde los métodos tradicionales de precios de transferencia no 
+sean aplicables debido a la naturaleza de las actividades o transacciones, o por la falta de 
+transacciones comparables fiables.  
+ 
+Modificaciones sobre la anotación de comprobantes y ejercicio del crédito fiscal 
+Mediante el Decreto Legislativo N° 1669, publicado el 28 de septiembre de 2024, se modificó 
+la Ley del Impuesto General a las Ventas (IGV) y la Ley N° 29215, enfocándose en la 
+anotación de comprobantes de pago y el ejercicio del crédito fiscal. De manera previa a la 
+emisión de dicha norma, los contribuyentes tenían un plazo de 12 meses para registrar los 
+comprobantes de pago que otorgaban derecho al crédito fiscal. Con la nueva normativa, el 
+plazo fue reducido, estableciendo los siguientes plazos para la anotación de los 
+comprobantes: 
+ 
+▪ Comprobantes electrónicos: deben ser anotados en el Registro de Compras en el 
+mismo mes de su emisión o del pago del impuesto correspondiente. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2025_Individual_Anual_EEFF CMAC Cusco 2025_VF (1).pdf | PAGINA: 51 | puntaje 6 =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2025 y de 2024 
+ 
+ 
+ 
+46 
+▪ Comprobantes físicos: deben ser anotados hasta dos meses siguientes al mes de su 
+emisión o del pago del impuesto. 
+ 
+▪ Operaciones sujetas al Sistema de Pago de Obligaciones Tributarias (SPOT): la 
+anotación debe realizarse hasta tres meses siguientes al mes de emisión del 
+comprobante. 
+ 
+Si los comprobantes no se anotan dentro de estos plazos, se pierde el derecho al crédito 
+fiscal correspondiente. Sin embargo, no se perderá el derecho al crédito fiscal si la anotación 
+se efectúa antes de que la SUNAT requiera al contribuyente la exhibición y/o presentación de 
+su Registro de Compras.  
+ 
+La referida norma condicionó la entrada en vigor de sus disposiciones a la emisión de la 
+resolución de superintendencia por parte de la Administración Tributaria, sin embargo, dado 
+que a la fecha de emisión de estos estados financieros ello no ha ocurrido, se mantienen las 
+anteriores disposiciones, es decir aún se cuenta con un plazo de 12 meses para efectuar el 
+registro de los comprobantes de pago. 
+ 
+Operaciones de reporte y ETFs 
+Mediante la Ley N° 32218, promulgada el 29 de diciembre de 2024, se modificó el Texto 
+Único Ordenado de la Ley del Impuesto a la Renta, incorporando en el literal h) del artículo 18 
+dos nuevos supuestos de intereses y ganancias de capital inafectos al impuesto a la renta. 
+ 
+▪ Operaciones de reporte: A partir del 1 de enero de 2025, fecha de entrada en vigor de 
+esta ley, estarán exentos del impuesto a la renta los intereses y ganancias de capital 
+provenientes de operaciones de reporte en las cuales los valores que el adquirente 
+recibe del enajenante sean letras del Tesoro Público emitidas por la República del Perú, 
+así como bonos y otros títulos de deuda emitidos por la República del Perú bajo el 
+Programa de Creadores de Mercado o su mecanismo sustituto, o en el mercado 
+internacional a partir del año 2003.  
+ 
+▪ Enajenación de ETF: la exoneración se extiende a los intereses y ganancias de capital 
+derivados de la enajenación de unidades de participación de Fondos Bursátiles o 
+Exchange Traded Funds (ETF) que tengan como objetivo replicar la rentabilidad de 
+índices de acceso público, construidos sobre la base de letras del Tesoro Público 
+emitidas por la República del Perú, y bonos y títulos de deuda emitidos por la República 
+del Perú bajo el Programa de Creadores de Mercado o su mecanismo sustituto, o en el 
+mercado internacional a partir del año 2003.  
+ 
+Operaciones en materia de tributación internacional 
+Mediante Decreto Supremo N° 013-2025-RE se ratificó la “Convención Multilateral para 
+Implementar las Medidas Relacionadas con los Tratados Tributarios para Prevenir la Erosión 
+de las Bases Imponible y el Traslado de Beneficios”, el cual entró en vigor el 1 de octubre de 
+2025, que permitirá actualizar los Convenios para Evitar la Doble Imposición que mantiene 
+vigentes Perú – específicamente los celebrados con Brasil, Canadá, Chile, Corea, México, 
+Portugal y Suiza a las modificaciones introducidas por la Organización para la Cooperación y el 
+Desarrollo Económico, en el marco de las Acciones del Plan BEPS (Base Erosion and Profit 
+Shifting), orientadas a combatir el abuso de los Convenios, mejorar los mecanismos de 
+solución de disputas, entre otros.   
+ 
+Mediante Resolución Legislativa N° 32496 el 13 de noviembre de 2025 se aprobó el Convenio 
+para evitar la Doble Imposición entre la República del Perú y el Reino Unido de Gran Bretaña e 
+Irlanda del Norte, en relación con los impuestos sobre la renta y las ganancias de capital. Para 
+la entrada en vigor se encuentra pendiente su promulgación por parte del Poder Ejecutivo y el 
+intercambio de notas diplomáticas entre ambos países, dando aviso del cumplimiento de las 
+formalidades internas.  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2025_Individual_Anual_EEFF CMAC Cusco 2025_VF (1).pdf | PAGINA: 52 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2025 y de 2024 
+ 
+ 
+ 
+47 
+Sujetos sin capacidad operativa (SSCO) 
+Mediante Decreto Legislativo N° 1532, publicado el 19 de marzo de 2022 y vigente a partir del 
+1 de enero de 2023, se reguló el procedimiento de atribución de la condición de Sujeto sin 
+Capacidad Operativa-SSCO, en el marco de la lucha contra la evasión tributaria. 
+ 
+En ese sentido, se definió como SSCO, a aquel sujeto, que, si bien figura como emisor de los 
+comprobantes de pago o de los documentos complementarios, no tiene los recursos 
+económicos, financieros, materiales, humanos y/u otros, o estos no resultan idóneos, para 
+realizar las operaciones por las que se emiten dichos documentos. 
+ 
+Mediante, Decreto Supremo N° 319-2023-EF se aprobó el Reglamento del procedimiento de 
+atribución de la condición de SSCO. 
+ 
+A la fecha de emisión de la presente nota, se han emitido las siguientes resoluciones de 
+superintendencia, nombrando a diversos contribuyentes como SSCO: i) Resolución de 
+Intendencia N° 024--0082937/SUNAT, ii) Resolución de Intendencia  
+N° 064-024-0008314/SUNAT, iii) Resolución de Intendencia N° 084-024-0007652/SUNAT, iv) 
+Resolución de Intendencia N.º 104-024-0007090/SUNAT y v) Resolución de Intendencia  
+N° 192-024-0000189/SUNAT. 
+ 
+Regímenes especiales que establecen beneficios tributarios 
+Mediante Ley N° 32449, vigente desde el 27 de setiembre de 2025, se establece un 
+tratamiento tributario especial para las Zonas Económicas Especiales Privadas (ZEEP), 
+estableciendo beneficios tributarios escalonados por 25 años, que incluyen tasas reducidas 
+del Impuesto a la Renta, así como un régimen aduanero especial que facilita el ingreso y 
+salida de mercancías. Además, fija requisitos de inversión mínima y compromisos de 
+generación de empleo. 
+ 
+Estas zonas, definidas por ley, recibirán beneficios tributarios y aduaneros tales como la 
+aplicación de tasas reducidas del Impuesto a la Renta. Dentro de ellas se permitirá el 
+desarrollo de actividades industriales, de ensamblaje y de servicios que estén debidamente 
+acreditados y que generen valor agregado, es decir, que impliquen transformación de materia 
+prima, conforme a lo que establezca el reglamento de la ley. 
+ 
+G. Cambios significativos al régimen del impuesto a la renta que iniciará del 1 de enero del 2025 
+en adelante y otras consideraciones tributarias relevantes: 
+ 
+Depreciación de Activos 
+Mediante el Decreto Legislativo N° 1488 Régimen Especial de Depreciación y normas 
+modificatorias, se incrementa los porcentajes de depreciación de los activos adquiridos 
+durante los años 2020, 2021 y 2022 con el fin de promover la inversión privada y otorgar 
+mayor liquidez dada la actual coyuntura económica por efectos del COVID-19. 
+ 
+La Ley N° 31107, modificó el Decreto Legislativo N° 1488, en donde se estableció que 
+durante los ejercicios gravables 2021 y 2022, los edificios y construcciones que al 31 de 
+diciembre de 2020 tengan un valor por depreciar se depreciarán a una tasa anual del 20%. 
+Esta disposición se aplicó a aquellos activos fijos utilizados en establecimientos de hospedaje, 
+agencias de viaje y turismo, restaurantes y servicios afines, así como en la realización de 
+espectáculos públicos culturales no deportivos. Además, se especificó que los vehículos de 
+transporte terrestre afectos a estas actividades podrán depreciarse a una tasa anual del 
+33.3% durante los mismos ejercicios gravables.  
+ 
+Asimismo, mediante Ley N° 31652, se aprobó un nuevo Régimen Especial de Depreciación, 
+mediante el cual se incrementaron los porcentajes de depreciación para los contribuyentes 
+que adquieran edificaciones y construcciones durante los años 2023 y 2024 (no aplica para 
+bienes construidos total o parcialmente antes del 01 de enero de 2023).  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 33 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+20 
+Las provisiones para los créditos directos se presentan deduciendo el saldo de los mismos en  
+el activo, mientras que las provisiones para créditos indirectos se presentan en el pasivo, ver 
+notas 5(f) y 11(a), respectivamente.  
+ 
+(h) Inversiones 
+Los criterios para el reconocimiento inicial y valorización de las inversiones están de acuerdo con 
+la Resolución SBS N°7033-2012 “ Reglamento de Clasificación y Valorización de las Inversiones 
+de las Empresas del Sistema Financiero ” y su modificatoria Resolución SBS N°2610-2018; en 
+este sentido, la Caja clasifica sus inversiones en una de las categorías definidas por dicha 
+Resolución: (i) inversiones a valor razonable con cambios en resultados, (ii) inversiones 
+disponibles para la venta, (iii) inversiones a vencimiento, y (iv) inversiones en subsidiarias, 
+asociadas y participaciones en negocios conjuntos.  
+ 
+Al 31 de diciembre de 2022 y de 2021, la Caja mantiene inversiones clasificadas en la categoría 
+de inversiones disponibles para la venta e inversiones a vencimiento. 
+ 
+(i) Inversiones disponibles para la venta - 
+Son aquellas designadas como tales debido a que se mantienen por un tiempo indefinido y 
+pueden ser vendidas debido a necesidades de liquidez o cambios en la tasa de interés, 
+tipos de cambio o en el precio de capital; o no califican para ser registradas como a valor 
+razonable con efecto en resultados o mantenidas hasta su vencimiento.  
+ 
+En esta categoría se incluyen todos los instrumentos de inversión que no se encuentren 
+clasificados como inversiones a valor razonable con cambios en resultados, inversiones a 
+vencimiento o inversiones en subsidiarias, asociadas y participaciones en negocios 
+conjuntos; es decir, es una categoría residual. 
+ 
+(ii) Inversiones a vencimiento –  
+Los instrumentos financieros que son clasificados dentro de esta categoría deben cumplir 
+con los siguientes requisitos: 
+ 
+- Haber sido adquiridos o reclasificados con la intención de mantenerlos hasta su 
+fecha de vencimiento, salvo los casos en los que la venta, asignación o 
+reclasificación sean permitidas por la SBS. 
+- Deberán contar con clasificaciones de riesgo de acuerdo a lo requerido por la SBS. 
+ 
+Asimismo, una entidad financiera podrá clasificar inversiones en esta categoría, sólo si 
+tiene la capacidad financiera para mantener el instrumento de inversión hasta su 
+vencimiento. Dicha capacidad deberá evaluarse al cierre de cada ejercicio anual. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 34 | puntaje 7 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+21 
+Reconocimiento inicial y valuación – 
+(i)  Inversiones disponibles para la venta – El registro contable inicial se efectúa al valor 
+razonable, incluyendo los costos de transacción que sean directamente atribuibles a su 
+adquisición.  Su valorización corresponde al valor razonable y la ganancia o pérdida 
+originada por la variación entre el registro contable inicial y su valor razonable se 
+reconoce directamente en el patrimonio, a menos que exista un deterioro permanente en 
+su valor. Cuando el instrumento es vendido o realizado, la ganancia o pérdida, 
+previamente reconocida como parte del patrimonio, se transfiere a los resultados 
+integrales del ejercicio. 
+ 
+(ii) Inversiones a vencimiento - El registro contable inicial se efectúa al valor razonable, 
+incluyendo los costos de transacción que sean directamente atribuibles a su adquisición.  
+Su valorización corresponde al costo amortizado, utilizando el método de la tasa de 
+interés efectiva. 
+ 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, la cual 
+incorpora tanto los intereses que van a ser cobrados como la amortización de la prima o 
+descuento que exista en su adquisición. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su valor en 
+libros se reconoce en el estado de resultados. 
+ 
+Fecha de registro de transacciones - 
+Las transacciones se registran utilizando la fecha de negociación; esto es, la fecha en la que se 
+asumen las obligaciones recíprocas que deben consumarse dentro del plazo establecido por las 
+regulaciones y usos del mercado en el que se efectúe la transacción. 
+ 
+Evaluación de deterioro – 
+La Resolución SBS N°2610-2018 modifica algunos artículos establecidos en la Resolución SBS 
+N°7033-2012 “Reglamento de Clasificación y Valorización de las Inversiones de las Empresas del 
+Sistema Financiero”, en la cual el cambio principal radica en la nueva metodología para la 
+identificación de deterioro denominada “Metodología Estándar para la Identificación del 
+Deterioro de Valor de Inversiones Disponibles para la Venta e Inversiones a Vencimiento”. Dicha 
+metodología contempla lo siguiente: 
+ 
+I. Instrumentos de deuda 
+Las empresas deben evaluar, para toda la cartera de instrumentos representativos de 
+deuda sujeta a deterioro, la ocurrencia de las siguientes situaciones: 
+ 
+1. Debilitamiento en la situación financiera o ratios financieros del emisor y de su 
+grupo económico. 
+2. Rebaja en cualquiera de las clasificaciones crediticias del instrumento o del emisor, 
+en al menos dos (02) “notches”, desde el momento que se adquirió el instrumento; 
+donde un “notch” corresponde a la diferencia mínima entre dos calificaciones de 
+riesgo dentro de una misma escala de calificación de deterioro. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 35 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+22 
+3. Interrupción de transacciones o de un mercado activo para el activo financiero, 
+debido a dificultades financieras del emisor. 
+4. Los datos observables indican que, desde su reconocimiento inicial de un grupo de 
+activos financieros con características similares al instrumento evaluado, existe 
+una disminución medible en sus flujos futuros estimados de efectivo, aunque no 
+pueda todavía identificársela con activos financieros individuales del grupo. 
+5. Disminución del valor por cambios normativos (impositivos, regulatorios u otros 
+gubernamentales). 
+6. Disminución significativa del valor razonable por debajo de su costo amortizado. Se 
+considerará como una disminución significativa si el valor razonable a la fecha de 
+cierre ha disminuido por lo menos 40% por debajo de su costo amortizado a dicha 
+fecha. 
+7. Disminución prolongada en el valor razonable. Se considerará como una 
+disminución prolongada si el valor razonable a la fecha de cierre ha disminuido por 
+lo menos 20% en comparación con el costo amortizado de doce (12) meses atrás y, 
+el valor razonable a la fecha de cierre de cada mes durante el período de doce (12) 
+meses previos, se ha mantenido siempre por debajo del costo amortizado 
+correspondiente a la fecha de cierre de cada mes. 
+ 
+En caso se cumplan por los menos dos (02) de las situaciones anteriormente descritas, se 
+considerará que existe deterioro y, por consiguiente, la empresa debe determinar el 
+importe de cualquier pérdida por deterioro de valor de acuerdo con lo establecido en el 
+artículo 10 del Reglamento. 
+ 
+En caso no se hayan dado por lo menos dos (02) de las situaciones anteriormente 
+descritas, bastará con que se presente algunas de las siguientes situaciones específicas 
+para considerar que existe deterioro: 
+ 
+1. Incumplimiento de las cláusulas contractuales, tales como la interrupción en el 
+pago de intereses o capital. 
+2. Renegociación de las condiciones contractuales del instrumento por factores 
+legales o problemas financieros vinculados al emisor. 
+3. Evidencia de que el emisor está en proceso de reestructuración forzosa o quiebra. 
+4. Cuando se reduzca la clasificación de riesgo de un instrumento que estaba 
+clasificado como grado de inversión, hacia una clasificación que resulte por debajo 
+del grado de inversión.  
+ 
+II. Instrumento de capital 
+ Al cierre de cada trimestre, para todos los instrumentos representativos de capital,  
+se deberá evaluar las siguientes ocurrencias: 
+ 
+1. Cuando se reduzca la clasificación de riesgo de un instrumento de deuda del emisor 
+que estaba clasificado como grado de inversión, hacia una clasificación que resulte 
+por debajo del grado de inversión. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 39 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+26 
+(k) Bienes realizables, recuperados, recibidos en pago y adjudicados y otros – 
+Los bienes adjudicados (incluidos en el rubro de “Otros activos” del estado de situación 
+financiera) se registran inicialmente al valor de adjudicación judicial, extrajudicial, valor de 
+mercado o valor insoluto de la deuda, el menor; reconociéndose a su vez una provisión 
+equivalente al 20 por ciento del valor de adjudicación o recuperación del bien, pudiendo 
+mantenerse para este fin la provisión que se tenía constituida por el crédito relacionado. 
+ 
+Posteriormente, se constituirán provisiones adicionales siguiendo los siguientes criterios: 
+ 
+- Bienes muebles - Se constituye una provisión mensual uniforme a partir del primer mes de 
+la dación, adjudicación o recuperación, por un período de doce meses hasta alcanzar el 
+cien por ciento del valor neto de adjudicación o recuperación. 
+- Bienes inmuebles – Se constituye provisiones mensuales uniformes sobre el valor neto en 
+libros obtenido al décimo segundo mes; siempre que no se haya obtenido la prórroga de 
+seis meses contemplada en la Resolución SBS N°1535-2005, en cuyo caso se constituyen 
+provisiones mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo 
+mes.  En ambos casos, las provisiones se constituyen hasta alcanzar el cien por ciento del 
+valor neto en libros en un plazo de tres años y medio, contados a partir de la fecha en la 
+cual se empezaron a constituir las provisiones mensuales. 
+ 
+La actualización anual de las valuaciones de estos bienes determinadas por un perito 
+independiente implica, de ser necesario, solo la constitución de provisiones por desvalorización. 
+ 
+(l) Activos intangibles. 
+Los activos intangibles, incluidos en el rubro “Otros activos” del estado de situación financiera, 
+son registrados al costo histórico de adquisición, menos la amortización acumulada y el importe 
+acumulado de las pérdidas por deterioro de valor del activo, de ser aplicable, ver párrafo (m) 
+siguiente. Los activos intangibles de vida limitada comprenden principalmente desarrollos y 
+adquisiciones de licencias de software utilizados en las operaciones propias de la Caja. 
+ 
+La amortización de los intangibles de vida limitada de la Caja es calculada siguiendo el método de 
+línea recta sobre la base de su vida útil estimada (5 años). Cabe señalar que, de acuerdo con la 
+Resolución SBS N°1967-2010, los activos intangibles de vida limitada se amortizan en un plazo 
+máximo de cinco años. 
+ 
+Al 31 de diciembre de 2022 y de 2021, la Caja no mantiene intangibles de vida útil ilimitada. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 40 | puntaje 9 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+27 
+(m) Deterioro del valor de activos de larga duración  
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, la Gerencia de la Caja revisa el valor de sus inmuebles, mobiliario y 
+equipo e intangibles para verificar que no existe ningún deterioro permanente en su valor.  
+Cuando el valor en libros del activo excede su valor recuperable, se reconoce una pérdida por 
+deterioro en el estado de resultados integrales para los rubros de inmuebles, mobiliario y equipo 
+e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en uso.  El 
+precio de venta neto es el monto que se puede obtener en la venta de un activo en un mercado 
+libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados del uso 
+continuo de un activo y de su disposición al final de su vida útil.  Los importes recuperables se 
+estiman para cada activo o, si no es posible, para la unidad generadora de efectivo. 
+ 
+En opinión de la Gerencia, no existe evidencia de deterioro en el valor de dichos activos al 31 de 
+diciembre de 2022 y de 2021. 
+ 
+(n) Valores, títulos, adeudos y obligaciones en circulación  
+El pasivo por adeudos y la emisión de valores, títulos y obligaciones en circulación incluidos en el 
+rubro de “Adeudos y obligaciones financieras” del estado de situación financiera, es 
+contabilizado a su valor nominal, reconociéndose los intereses devengados en los resultados del 
+ejercicio. Cuando sea aplicable, los descuentos otorgados o los ingresos generados en su 
+colocación son diferidos y se presentan netos de su valor de emisión, y se amortizan durante el 
+plazo de vigencia de los valores, títulos y obligaciones en circulación relacionados utilizando el 
+método de la tasa de interés efectiva. 
+ 
+(o) Impuesto a la renta - 
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para 
+fines tributarios, la cual es determinada utilizando criterios que difieren de los principios 
+contables que utiliza la Caja.  
+ 
+Asimismo, la Caja ha registrado el impuesto a la renta diferido considerando los lineamientos de 
+la NIC 12 – Impuestos a las Ganancias. El impuesto a la renta diferido refleja los efectos de las 
+diferencias temporales entre los saldos de activos y pasivos para fines contables y los 
+determinados para fines tributarios; y se reconoce utilizando el método del pasivo sobre dichas 
+diferencias temporales. 
+ 
+Los pasivos por impuesto diferido se reconocen para aquellas diferencias temporales gravables 
+(imponibles); mientras que los activos por impuesto diferido se reconocen para todas las 
+diferencias temporales deducibles en la medida en que sea probable que existan beneficios 
+futuros suficientes para que el activo diferido se pueda aplicar. 
+ 
+Los activos y pasivos por impuesto diferido se miden utilizando las tasas de impuestos que se 
+espera sean de aplicación a la renta imponible en los años en que el activo se realice o el pasivo 
+se cancele, en base a las tasas de impuestos que fueron aprobadas a la fecha del estado de 
+situación financiera. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 41 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+28 
+La medición de los activos y pasivos diferidos reflejan las consecuencias tributarias derivadas de 
+la forma en que se espera recuperar o liquidar el valor de los activos y pasivos a la fecha del 
+estado de situación financiera. 
+ 
+El importe en libros de los activos y pasivos por impuestos diferidos puede cambiar, incluso 
+cuando no haya cambiado el importe de las diferencias temporales, debido a un cambio en la tasa 
+del impuesto a la renta. El efecto del cambio en el impuesto diferido, correspondiente al cambio 
+de tasa, se reconocerá en el estado de resultados del período, excepto en las partidas 
+previamente reconocidas fuera del estado de resultados (sea en otros resultados integrales o 
+directamente en el patrimonio neto). 
+ 
+Los activos y pasivos diferidos por impuesto a la renta son compensados si existe derecho legal 
+de compensarlos y los impuestos diferidos se relacionan con la misma entidad sujeta a impuestos 
+y con la misma autoridad tributaria. 
+ 
+Conforme lo establece la NIC 12, la Caja determina su impuesto a la renta sobre la base de la tasa 
+de impuesto a la renta aplicable a sus utilidades no distribuidas, reconociendo cualquier impuesto 
+adicional por la distribución de dividendos en la fecha que se reconoce el pasivo. 
+ 
+(p) Provisiones - 
+Se reconoce una provisión sólo cuando la Caja tiene una obligación presente (legal o implícita) 
+como resultado de un evento pasado, es probable que se requieran recursos para cancelar dicha 
+obligación y, al mismo tiempo, es posible estimar confiablemente el monto de la obligación.  Las 
+provisiones se revisan cada período y se ajustan para reflejar la mejor estimación que se tenga a 
+la fecha del estado de situación financiera. Cuando el efecto del valor del dinero en el tiempo es 
+importante, el monto de la provisión es el valor presente de los desembolsos que se espera 
+incurrir para cancelarla. 
+ 
+(q) Contingencias - 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en notas a 
+los estados financieros, a menos que la posibilidad de que se desembolse un flujo económico sea 
+remota. 
+ 
+Un activo contingente no se reconoce en los estados financieros, pero se revela cuando su grado 
+de contingencia es probable. 
+ 
+(r) Utilidad por acción - 
+La utilidad por acción común básica y diluida se calcula dividiendo la utilidad neta (resultado neto 
+del ejercicio) entre el promedio ponderado del número de acciones comunes en circulación 
+durante el período. Las acciones que provienen de la capitalización de utilidades constituyen una 
+división de acciones y; por lo tanto, para el cálculo del promedio ponderado del número de 
+acciones se considera que esas acciones siempre estuvieron en circulación.  
+ 
+Al 31 de diciembre de 2022 y de 2021, la Caja no mantiene instrumentos financieros con efecto 
+dilutivo, por lo que las utilidades básica y diluida por acción son las mismas, nota 19. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 52 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+39 
+La composición de los saldos de la provisión para incobrabilidad de créditos directos, neta 
+registrada en el estado de resultados integrales por los años terminados el 31 de diciembre de 
+2022 y de 2021 es como sigue: 
+ 
+ 2022 2021 
+ S/(000) S/(000) 
+   
+Provisiones para incobrabilidad de créditos del ejercicio 248,566 259,720 
+Recupero de provisiones (109,808) (115,402) 
+Recupero de cuentas castigadas, nota 24.1(b) (7,128) (4,994) 
+Otras recuperaciones (290) (174)  ___________ ___________    
+Saldo al 31 de diciembre 131,342 139,150  ___________ ___________ 
+ 
+En opinión de la Gerencia de la Caja, la provisión para créditos de cobranza dudosa registrada al 
+31 de diciembre de 2022 y de 2021, se encuentra constituida de acuerdo con las normas de la 
+SBS vigentes en esas fechas. 
+ 
+(g) Los intereses, comisiones y gastos sobre créditos o cuotas que se encuentren en situación de 
+refinanciados, vencidos, en cobranza judicial, o clasificados en las categorías “Dudoso” o 
+“Pérdida”; se contabilizan como ingresos o rendimientos en suspenso y son reconocidos como 
+ingresos en el estado de resultados integrales cuando son efectivamente cobrados. Los importes 
+acumulados no reconocidos como ingresos por este concepto ascendieron a S/91,616 miles y 
+S/97,683 miles en los años 2022 y 2021, respectivamente. 
+ 
+(h) A continuación se presenta la cartera de créditos directos al 31 de diciembre de 2022 y de 2021, 
+según sus vencimientos contractuales: 
+ 
+ 2022 2021 
+ S/(000) S/(000) 
+   
+Por vencer -   
+Hasta 6 meses 330,711 241,738 
+De 6 meses a 1 año 704,935 526,366 
+De 1 a 2 años 1,338,552 1,076,639 
+De 2 a 5 años 1,931,943 2,098,366 
+Más de 5 años 486,071 470,684 
+   
+Vencidos y en cobranza judicial - 285,181 185,765  ___________ ___________    
+Total 5,077,393 4,599,558  ___________ ___________ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 53 | puntaje 12 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+40 
+6. Inmuebles, mobiliario y equipo, neto:  
+A continuación, se presenta el movimiento de inmuebles, mobiliario y equipo y su depreciación acumulada por el periodo terminado el 31 de diciembre 2022 y de 2021: 
+ 
+ Terrenos 
+Edificios y otras 
+construcciones Instalaciones 
+Mobiliario y  
+equipo 
+Unidades de 
+transporte 
+Equipos de 
+cómputo Obras en curso Total 
+ S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) 
+         
+Costo         
+Saldo al 1 de enero de 2021 24,252 21,778 34,376 19,881 13,188 28,884 751 143,110 
+         
+Adiciones  5,351 660 1,978 1,779 1,832 2,400 4,074 18,074 
+Retiros y/o bajas  - - (14) (268) (324) (959) (2,489) (4,054)  ________ ________ ________ ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre 2021 29,603 22,438 36,340 21,392 14,696 30,325 2,336 157,130  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+        
+Adiciones  - 618 9,762 8,944 - 7,890 12,286 39,500 
+Retiros y/o bajas  - - (1,234) (252) (355) (294) (13,583) (15,718)  ________ ________ ________ ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre 2022 29,603 23,056 44,868 30,084 14,341 37,921 1,039 180,912  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+        
+Depreciación acumulada         
+Saldo al 1 de enero de 2021 - 5,122 17,490 12,468 9,563 24,150 - 68,793 
+         
+Depreciación del ejercicio - 598 3,204 1,849 1,475 2,508 - 9,634 
+Retiros y/o bajas y otros - - (14) (264) (288) (959) - (1,525)  ________ ________ ________ ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre 2021 - 5,720 20,680 14,053 10,750 25,699 - 76,902  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+        
+Depreciación del ejercicio  613 3,248 2,271 1,257 1,969 - 9,358 
+Retiros y/o bajas y otros - - (1,061) (251) (309) (291) - (1,912)  ________ ________ ________ ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre 2022 - 6,333 22,867 16,073 11,698 27,377 - 84,348  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+        
+Valor neto en libros          
+Al 31 de diciembre 2022 29,603 16,723 22,001 14,011 2,643 10,544 1,039 96,564  ________ ________ ________ ________ ________ ________ ________ ________          
+Al 31 de diciembre 2021 29,603 16,718 15,660 7,339 3,946 4,626 2,336 80,228  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+(a) Las entidades financieras establecidas en el Perú están prohibidas de dar en garantía los bienes de sus inmuebles, mobiliario y equipo. Asimismo, la Caja mantiene pólizas de seguros para cubrir los posibles 
+riesgos a que están sujetos los diversos elementos de sus inmuebles, mobiliario y equipo, considerando que dichas pólizas cubren de manera suficiente los riesgos a los que están sometidos dichos activos. 
+ 
+(b) La Gerencia revisa periódicamente el método de depreciación utilizado, con la finalidad de asegurar que sea consistente con el beneficio económico de los activos fijos.  Por otro lado, la Gerencia de la Caja 
+considera que no hay situaciones que indiquen que existe un posible deterioro en el valor de sus inmuebles, mobiliario y equipo. 
+ 
+(c) El 19 de marzo de 2021, se procedió con la venta del inmueble denominado La Pampilla ubicado en la ciudad de Arequipa por un importe de US$ 440,000. Al 31 de diciembre del 2020 en aplicación a la 
+NIIF 5 se encontraba contabilizado como un Activo Mantenido para la Venta por un importe de S/632,949. Ver nota 8
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 54 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+41 
+7. Activo diferido por impuesto a la renta, neto 
+(a) Al 31 de diciembre de 2022 y de 2021, este rubro incluye lo siguiente: 
+ 
+ Al 1 de 
+enero de 
+2021 
+(Cargo) 
+abono 
+a resultados 
+Al 31 de 
+diciembre 
+de 2021 
+(Cargo) 
+abono 
+a resultados 
+Al 31 de 
+diciembre 
+de 2022 
+ S/(000) S/(000) S/(000) S/(000) S/(000) 
+      
+Activo diferido:      
+Provisión genérica para 
+incobrabilidad de créditos 
+directos  
+18,901 5,250 24,151 7,493 31,644 
+Depreciación de inmuebles, 
+mobiliario y equipo 1,239 169 1,408 15 1,423 
+Provisión de vacaciones 2,481 1,144 3,625 1,058 4,683 
+Otros 5,567 1,543 7,110 7,268 7,182  _________ _________ _________ _________ _________ 
+Total activo diferido 28,188 8,106 36,294 8,638 44,932  _________ _________ _________ _________ _________ 
+      
+Pasivo diferido:      
+Depreciación edificios  1,073 131 1,204 132 1,336 
+Amortización intangibles 496 (142) 354 176 530 
+Otros 484 6 490 317 807  _________ _________ _________ _________ _________ 
+Total pasivo diferido 2,053 (5) 2,048 625 2,669  _________ _________ _________ _________ _________       
+Total activo diferido 26,135 8,111 34,246 8,013 42,259  _________ _________ _________ _________ _________ 
+ 
+ (b) La composición de los saldos presentados en el estado de resultados integrales por los años 
+terminados el 31 de diciembre de 2022 y de 2021, son los siguientes: 
+ 
+ 2022 2021 
+ S/(000) S/(000) 
+   
+Corriente – Gasto 28,901 25,627 
+Diferido – Ingreso (8,013) (8,111)  ________ ________ 
+Gasto por impuesto a las ganancias 20,888 17,516  ________ ________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 71 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+58 
+17. Gasto por servicios recibidos de terceros 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2022 2021 
+ S/(000) S/(000) 
+   
+Alquileres 20,830 16,430 
+Publicidad y publicaciones 8,976 6,697 
+Servicios Públicos 6,130 5,790 
+Vigilancia y protección 7,018 5,709 
+Trabajos eventuales 8,357 5,553 
+Suministros diversos 4,903 3,624 
+Limpieza 3,864 3,499 
+Reparación y mantenimiento 4,391 3,201 
+Seguros 2,507 2,779 
+Gastos judiciales 3,142 2,178 
+Honorarios profesionales 1,493 1,529 
+Suscripciones y cotizaciones 1,817 1,362 
+Transporte 727 238 
+Otros gastos menores 2,853 1,886 
+Otros servicios 10,494 8,048  ____________ ____________    
+Total 87,502 68,523  ____________ _____________ 
+ 
+18. Impuestos y Contribuciones 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2022 2021 
+ S/(000) S/(000) 
+   
+Aportes SBS 2,755 2,494 
+Tributos a Gobiernos Locales 483 441 
+Aportes FEPCMAC 385 385 
+Impuesto General a las Ventas 623 384 
+Otros Tributos 494 358  ____________ ____________    
+Total 4,740 4,062  ___________ ____________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 72 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+59 
+19. Otros Ingresos y Gastos 
+A continuación, se presenta la composición del rubro: 
+ 
+ 2022 2021 
+ S/ (000) S/ (000) 
+   
+Otros ingresos   
+Ingresos por seguros 1,934 1,026 
+Reversión de provisiones 1,280 385 
+Indemnización de seguros 372 539 
+Ingresos por penalidades 359 1,743 
+Ingreso por recargas virtuales 58 42 
+Venta de bienes mantenidos para la venta - 999 
+Venta de bienes fuera de uso - 83 
+Otros Ingresos  1,057 585  ____________ ____________ 
+ 5,060 5,402  ____________ ____________ 
+Otros gastos    
+Perdidas por seguros multirriesgo y desgravamen  3,220 2,836 
+Sanciones administrativas 570 1,053 
+Perdidas por daños materiales 290 - 
+Perdidas no cubiertas por seguros 48 39 
+Otros gastos 362  -  ____________ ____________ 
+ 4,490 3,928  ____________ ____________ 
+ 
+20. Utilidad básica y diluida por acción 
+La utilidad básica y diluida por acción común resulta como sigue: 
+ 
+ 
+Cantidad de 
+acciones en 
+circulación 
+Cantidad de 
+acciones  
+base para  
+el cálculo 
+Días de 
+vigencia  
+en el año 
+Promedio 
+ponderado  
+de acciones 
+comunes 
+ (en miles de 
+unidades) 
+(en miles de 
+unidades) 
+ 
+(en miles) 
+Ejercicio 2021     
+Saldo al 1 de enero de 2021 357,376 357,376 365 357,376 
+Capitalización de resultados acumulados 
+efectuada en el año 2021, nota 12(a) 82,588 82,588 365 82,588  __________ __________  __________ 
+Saldo al 31 de diciembre de 2021 439,964 439,964 365 439,964  __________ __________  __________ 
+Utilidad neta del año 2021 (en miles  
+de soles) 
+   
+37,388 
+Utilidad por acción básica y  
+diluida (en soles) 
+   
+0.08     __________ 
+     
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2022_Individual_Anual_Inf Financiera auditada.pdf | PAGINA: 73 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+60 
+ 
+Cantidad de 
+acciones en 
+circulación 
+Cantidad de 
+acciones  
+base para  
+el cálculo 
+Días de 
+vigencia  
+en el año 
+Promedio 
+ponderado  
+de acciones 
+comunes 
+ (en miles de 
+unidades) 
+(en miles de 
+unidades) 
+ 
+(en miles) 
+Ejercicio 2022     
+Saldo al 1 de enero de 2022 439,964 439,964 365 439,964 
+Capitalización de resultados acumulados 
+efectuada en el año 2020, nota 12(a) 16,825 16,825 365 16,825  __________ __________  __________      
+Saldo al 31 de diciembre de 2020 456,789 456,789 365 456,789  __________ __________  __________ 
+Utilidad neta del año 2020 (en miles  
+de soles) 
+   
+51,397 
+Utilidad por acción básica y  
+diluida (en soles) 
+   
+0.11      
+ 
+21. Transacciones con partes relacionadas 
+(a) Préstamos al personal 
+Al 31 de diciembre de 2022 y 2021, los créditos a empleados, directores y funcionarios de la 
+Caja ascienden a S/52,432 miles y S/42,802 miles, respectivamente. Dicho personal mantiene 
+operaciones de créditos directos permitidas de acuerdo con la Ley General, la misma que regula y 
+establece ciertos límites a las transacciones con directores, funcionarios y empleados, incluyendo 
+familiares. 
+ 
+(b) Retribuciones al directorio y personal clave 
+En 2022 y 2021, las remuneraciones del personal clave y las dietas al Directorio totalizaron 
+S/1,599 miles y S/1,483 miles, respectivamente. 
+ 
+22. Contingencias y compromisos 
+Al 31 de diciembre de 2022, la Caja mantiene pasivos contingentes por S/5,581 miles (S/6,533 miles al 
+31 de diciembre de 2021), que no han sido registrados en sus estados financieros por estar catalogados 
+como remotos; al respecto, y en opinión de la Gerencia y de los asesores legales, se estima que no 
+surgirán pasivos de importancia como resultado de estas contingencias. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2023_Individual_Anual_Estados Financieros 2023 Auditados (EY).pdf | PAGINA: 25 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+13 
+(g) Inversiones 
+Los criterios para el reconocimiento inicial y valorización de las inversiones están de acuerdo con 
+la Resolución SBS N°7033-2012 “ Reglamento de Clasificación y Valorización de las Inversiones 
+de las Empresas del Sistema Financiero ” y su modificatoria Resolución SBS N°2610-2018; en 
+este sentido, la Caja clasifica sus inversiones en una de las categorías definidas por dicha 
+Resolución: (i) inversiones a valor razonable con cambios en resultados, (ii) inversiones 
+disponibles para la venta, (iii) inversiones a vencimiento, y (iv) inversiones en subsidiarias, 
+asociadas y participaciones en negocios conjuntos.  
+ 
+Al 31 de diciembre de 2023 y de 2022, la Caja mantiene inversiones clasificadas en la categoría 
+de inversiones disponibles para la venta e inversiones a vencimiento. 
+ 
+(i) Inversiones disponibles para la venta - 
+Son aquellas designadas como tales debido a que se mantienen por un tiempo indefinido y 
+pueden ser vendidas debido a necesidades de liquidez o cambios en la tasa de interés, 
+tipos de cambio o en el precio de capital; o no califican para ser registradas como a valor 
+razonable con efecto en resultados o mantenidas hasta su vencimiento.  
+ 
+En esta categoría se incluyen todos los instrumentos de inversión que no se encuentren 
+clasificados como inversiones a valor razonable con cambios en resultados, inversiones a 
+vencimiento o inversiones en subsidiarias, asociadas y participaciones en negocios 
+conjuntos; es decir, es una categoría residual. 
+ 
+(ii) Inversiones a vencimiento –  
+Los instrumentos financieros que son clasificados dentro de esta categoría deben cumplir 
+con los siguientes requisitos: 
+ 
+- Haber sido adquiridos o reclasificados con la intención de mantenerlos hasta su 
+fecha de vencimiento, salvo los casos en los que la venta, asignación o 
+reclasificación sean permitidas por la SBS. 
+- Deberán contar con clasificaciones de riesgo de acuerdo a lo requerido por la SBS. 
+ 
+Asimismo, una entidad financiera podrá clasificar inversiones en esta categoría, sólo si 
+tiene la capacidad financiera para mantener el instrumento de inversión hasta su 
+vencimiento. Dicha capacidad deberá evaluarse al cierre de cada ejercicio anual. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2023_Individual_Anual_Estados Financieros 2023 Auditados (EY).pdf | PAGINA: 26 | puntaje 7 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+14 
+Reconocimiento inicial y valuación – 
+(i)  Inversiones disponibles para la venta – El registro contable inicial se efectúa al valor 
+razonable, incluyendo los costos de transacción que sean directamente atribuibles a su 
+adquisición. Su valorización corresponde al valor razonable y la ganancia o pérdida 
+originada por la variación entre el registro contable inicial y su valor razonable se 
+reconoce directamente en el patrimonio, a menos que exista un deterioro permanente en 
+su valor. Cuando el instrumento es vendido o realizado, la ganancia o pérdida, 
+previamente reconocida como parte del patrimonio, se transfiere a los resultados 
+integrales del ejercicio. 
+ 
+(ii) Inversiones a vencimiento - El registro contable inicial se efectúa al valor razonable, 
+incluyendo los costos de transacción que sean directamente atribuibles a su adquisición. 
+Su valorización corresponde al costo amortizado, utilizando el método de la tasa de 
+interés efectiva. 
+ 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, la cual 
+incorpora tanto los intereses que van a ser cobrados como la amortización de la prima o 
+descuento que exista en su adquisición. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su valor en 
+libros se reconoce en el estado de resultados. 
+ 
+Fecha de registro de transacciones - 
+Las transacciones se registran utilizando la fecha de negociación; esto es, la fecha en la que se 
+asumen las obligaciones recíprocas que deben consumarse dentro del plazo establecido por las 
+regulaciones y usos del mercado en el que se efectúe la transacción. 
+ 
+Evaluación de deterioro – 
+La Resolución SBS N°2610-2018 modifica algunos artículos establecidos en la Resolución SBS 
+N°7033-2012 “Reglamento de Clasificación y Valorización de las Inversiones de las Empresas del 
+Sistema Financiero”, en la cual el cambio principal radica en la nueva metodología para la 
+identificación de deterioro denominada “Metodología Estándar para la Identificación del 
+Deterioro de Valor de Inversiones Disponibles para la Venta e Inversiones a Vencimiento”. Dicha 
+metodología contempla lo siguiente: 
+ 
+I. Instrumentos de deuda 
+Las empresas deben evaluar, para toda la cartera de instrumentos representativos de 
+deuda sujeta a deterioro, la ocurrencia de las siguientes situaciones: 
+ 
+1. Debilitamiento en la situación financiera o ratios financieros del emisor y de su 
+grupo económico. 
+2. Rebaja en cualquiera de las clasificaciones crediticias del instrumento o del emisor, 
+en al menos dos (02) “notches”, desde el momento que se adquirió el instrumento; 
+donde un “notch” corresponde a la diferencia mínima entre dos calificaciones de 
+riesgo dentro de una misma escala de calificación de deterioro. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2023_Individual_Anual_Estados Financieros 2023 Auditados (EY).pdf | PAGINA: 27 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+15 
+3. Interrupción de transacciones o de un mercado activo para el activo financiero, 
+debido a dificultades financieras del emisor. 
+4. Los datos observables indican que, desde su reconocimiento inicial de un grupo de 
+activos financieros con características similares al instrumento evaluado, existe 
+una disminución medible en sus flujos futuros estimados de efectivo, aunque no 
+pueda todavía identificársela con activos financieros individuales del grupo. 
+5. Disminución del valor por cambios normativos (impositivos, regulatorios u otros 
+gubernamentales). 
+6. Disminución significativa del valor razonable por debajo de su costo amortizado. Se 
+considerará como una disminución significativa si el valor razonable a la fecha de 
+cierre ha disminuido por lo menos 40% por debajo de su costo amortizado a dicha 
+fecha. 
+7. Disminución prolongada en el valor razonable. Se considerará como una 
+disminución prolongada si el valor razonable a la fecha de cierre ha disminuido por 
+lo menos 20% en comparación con el costo amortizado de doce (12) meses atrás y, 
+el valor razonable a la fecha de cierre de cada mes durante el período de doce (12) 
+meses previos, se ha mantenido siempre por debajo del costo amortizado 
+correspondiente a la fecha de cierre de cada mes. 
+ 
+En caso se cumplan por los menos dos (02) de las situaciones anteriormente descritas, se 
+considerará que existe deterioro y, por consiguiente, la empresa debe determinar el 
+importe de cualquier pérdida por deterioro de valor de acuerdo con lo establecido en el 
+artículo 10 del Reglamento. 
+ 
+En caso no se hayan dado por lo menos dos (02) de las situaciones anteriormente 
+descritas, bastará con que se presente algunas de las siguientes situaciones específicas 
+para considerar que existe deterioro: 
+ 
+1. Incumplimiento de las cláusulas contractuales, tales como la interrupción en el 
+pago de intereses o capital. 
+2. Renegociación de las condiciones contractuales del instrumento por factores 
+legales o problemas financieros vinculados al emisor. 
+3. Evidencia de que el emisor está en proceso de reestructuración forzosa o quiebra. 
+4. Cuando se reduzca la clasificación de riesgo de un instrumento que estaba 
+clasificado como grado de inversión, hacia una clasificación que resulte por debajo 
+del grado de inversión.  
+ 
+II. Instrumento de capital 
+ Al cierre de cada trimestre, para todos los instrumentos representativos de capital,  
+se deberá evaluar las siguientes ocurrencias: 
+ 
+1. Cuando se reduzca la clasificación de riesgo de un instrumento de deuda del emisor 
+que estaba clasificado como grado de inversión, hacia una clasificación que resulte 
+por debajo del grado de inversión. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2023_Individual_Anual_Estados Financieros 2023 Auditados (EY).pdf | PAGINA: 31 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+19 
+(i) Arrendamiento operativo - 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Caja actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+(j) Bienes realizables, recuperados, recibidos en pago y adjudicados y otros – 
+Los bienes adjudicados (incluidos en el rubro de “Otros activos” del estado de situación 
+financiera) se registran inicialmente al valor de adjudicación judicial, extrajudicial, valor de 
+mercado o valor insoluto de la deuda, el menor; reconociéndose a su vez una provisión 
+equivalente al 20 por ciento del valor de adjudicación o recuperación del bien, pudiendo 
+mantenerse para este fin la provisión que se tenía constituida por el crédito relacionado. 
+ 
+Posteriormente, se constituirán provisiones adicionales siguiendo los siguientes criterios: 
+ 
+- Bienes muebles - Se constituye una provisión mensual uniforme a partir del primer mes de 
+la dación, adjudicación o recuperación, por un período de doce meses hasta alcanzar el 
+cien por ciento del valor neto de adjudicación o recuperación. 
+- Bienes inmuebles – Se constituye provisiones mensuales uniformes sobre el valor neto en 
+libros obtenido al décimo segundo mes; siempre que no se haya obtenido la prórroga de 
+seis meses contemplada en la Resolución SBS N°1535-2005, en cuyo caso se constituyen 
+provisiones mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo 
+mes. En ambos casos, las provisiones se constituyen hasta alcanzar el cien por ciento del 
+valor neto en libros en un plazo de tres años y medio, contados a partir de la fecha en la 
+cual se empezaron a constituir las provisiones mensuales. 
+ 
+La actualización anual de las valuaciones de estos bienes determinadas por un perito 
+independiente implica, de ser necesario, solo la constitución de provisiones por desvalorización. 
+ 
+(k) Activos intangibles. 
+Los activos intangibles, incluidos en el rubro “Otros activos” del estado de situación financiera, 
+son registrados al costo histórico de adquisición, menos la amortización acumulada y el importe 
+acumulado de las pérdidas por deterioro de valor del activo, de ser aplicable, ver párrafo (m) 
+siguiente. Los activos intangibles de vida limitada comprenden principalmente desarrollos y 
+adquisiciones de licencias de software utilizados en las operaciones propias de la Caja. 
+ 
+La amortización de los intangibles de vida limitada de la Caja es calculada siguiendo el método de 
+línea recta sobre la base de su vida útil estimada (5 años). Cabe señalar que, de acuerdo con la 
+Resolución SBS N°1967-2010, los activos intangibles de vida limitada se amortizan en un plazo 
+máximo de cinco años. 
+ 
+Al 31 de diciembre de 2023 y de 2022, la Caja no mantiene intangibles de vida útil ilimitada. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2023_Individual_Anual_Estados Financieros 2023 Auditados (EY).pdf | PAGINA: 32 | puntaje 9 =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+20 
+(l) Deterioro del valor de activos de larga duración Cuando existen acontecimientos o cambios 
+económicos que indiquen que el valor de un activo puede no ser recuperable, la Gerencia de la 
+Caja revisa el valor de sus inmuebles, mobiliario y equipo e intangibles para verificar que no 
+existe ningún deterioro permanente en su valor. Cuando el valor en libros del activo excede su 
+valor recuperable, se reconoce una pérdida por deterioro en el estado de resultados integrales 
+para los rubros de inmuebles, mobiliario y equipo e intangibles. El valor recuperable es el mayor 
+entre el precio de venta neto y su valor en uso. El precio de venta neto es el monto que se puede 
+obtener en la venta de un activo en un mercado libre, mientras que el valor en uso es el valor 
+presente de los flujos futuros estimados del uso continuo de un activo y de su disposición al final 
+de su vida útil. Los importes recuperables se estiman para cada activo o, si no es posible, para la 
+unidad generadora de efectivo. 
+ 
+En opinión de la Gerencia, no existe evidencia de deterioro en el valor de dichos activos al 31 de 
+diciembre de 2023 y de 2022. 
+ 
+(m) Valores, títulos, adeudos y obligaciones en circulación  
+El pasivo por adeudos y la emisión de valores, títulos y obligaciones en circulación incluidos en el 
+rubro de “Adeudos y obligaciones financieras” del estado de situación financiera, es 
+contabilizado a su valor nominal, reconociéndose los intereses devengados en los resultados del 
+ejercicio. Cuando sea aplicable, los descuentos otorgados o los ingresos generados en su 
+colocación son diferidos y se presentan netos de su valor de emisión, y se amortizan durante el 
+plazo de vigencia de los valores, títulos y obligaciones en circulación relacionados utilizando el 
+método de la tasa de interés efectiva. 
+ 
+(n) Impuesto a la renta - 
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para 
+fines tributarios, la cual es determinada utilizando criterios que difieren de los principios 
+contables que utiliza la Caja.  
+ 
+Asimismo, la Caja ha registrado el impuesto a la renta diferido considerando los lineamientos de 
+la NIC 12 – Impuestos a las Ganancias. El impuesto a la renta diferido refleja los efectos de las 
+diferencias temporales entre los saldos de activos y pasivos para fines contables y los 
+determinados para fines tributarios; y se reconoce utilizando el método del pasivo sobre dichas 
+diferencias temporales. 
+ 
+Los pasivos por impuesto diferido se reconocen para aquellas diferencias temporales gravables 
+(imponibles); mientras que los activos por impuesto diferido se reconocen para todas las 
+diferencias temporales deducibles en la medida en que sea probable que existan beneficios 
+futuros suficientes para que el activo diferido se pueda aplicar. 
+Los activos y pasivos por impuesto diferido se miden utilizando las tasas de impuestos que se 
+espera sean de aplicación a la renta imponible en los años en que el activo se realice o el pasivo 
+se cancele, en base a las tasas de impuestos que fueron aprobadas a la fecha del estado de 
+situación financiera. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2023_Individual_Anual_Estados Financieros 2023 Auditados (EY).pdf | PAGINA: 33 | vecina =====
+Notas a los estados financieros (continuación) 
+ 
+ 
+ 
+21 
+La medición de los activos y pasivos diferidos reflejan las consecuencias tributarias derivadas de 
+la forma en que se espera recuperar o liquidar el valor de los activos y pasivos a la fecha del 
+estado de situación financiera. 
+ 
+El importe en libros de los activos y pasivos por impuestos diferidos puede cambiar, incluso 
+cuando no haya cambiado el importe de las diferencias temporales, debido a un cambio en la tasa 
+del impuesto a la renta. El efecto del cambio en el impuesto diferido, correspondiente al cambio 
+de tasa, se reconocerá en el estado de resultados del período, excepto en las partidas 
+previamente reconocidas fuera del estado de resultados (sea en otros resultados integrales o 
+directamente en el patrimonio neto). 
+ 
+Los activos y pasivos diferidos por impuesto a la renta son compensados si existe derecho legal 
+de compensarlos y los impuestos diferidos se relacionan con la misma entidad sujeta a impuestos 
+y con la misma autoridad tributaria. 
+ 
+Conforme lo establece la NIC 12, la Caja determina su impuesto a la renta sobre la base de la tasa 
+de impuesto a la renta aplicable a sus utilidades no distribuidas, reconociendo cualquier impuesto 
+adicional por la distribución de dividendos en la fecha que se reconoce el pasivo. 
+ 
+(o) Provisiones - 
+Se reconoce una provisión sólo cuando la Caja tiene una obligación presente (legal o implícita) 
+como resultado de un evento pasado, es probable que se requieran recursos para cancelar dicha 
+obligación y, al mismo tiempo, es posible estimar confiablemente el monto de la obligación. Las 
+provisiones se revisan cada período y se ajustan para reflejar la mejor estimación que se tenga a 
+la fecha del estado de situación financiera. Cuando el efecto del valor del dinero en el tiempo es 
+importante, el monto de la provisión es el valor presente de los desembolsos que se espera 
+incurrir para cancelarla. 
+ 
+(p) Contingencias - 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en notas a 
+los estados financieros, a menos que la posibilidad de que se desembolse un flujo económico sea 
+remota. 
+ 
+Un activo contingente no se reconoce en los estados financieros, pero se revela cuando su grado 
+de contingencia es probable. 
+ 
+(q) Utilidad por acción - 
+La utilidad por acción común básica y diluida se calcula dividiendo la utilidad neta (resultado neto 
+del ejercicio) entre el promedio ponderado del número de acciones comunes en circulación 
+durante el período. Las acciones que provienen de la capitalización de utilidades constituyen una 
+división de acciones y; por lo tanto, para el cálculo del promedio ponderado del número de 
+acciones se considera que esas acciones siempre estuvieron en circulación.  
+ 
+Al 31 de diciembre de 2023 y de 2022, la Caja no mantiene instrumentos financieros con efecto 
+dilutivo, por lo que las utilidades básica y diluida por acción son las mismas, nota 20. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 16 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+9 
+Deterioro de activos financieros 
+CMAC Cusco evalúa al final de cada período la existencia objetiva que conllevan a concluir el 
+deterioro de un activo o un grupo de activos financieros. 
+ 
+Un activo financiero o un grupo de activos financieros se consideran afectados si, y solo si, existe 
+evidencia objetiva de deterioro como resultado de uno o más eventos que han ocurrido después del 
+reconocimiento inicial del activo (“evento de pérdida”) y si dicho evento de pérdida tiene un impacto 
+en el flujo de efectivo futuros estimados del activo financiero o del grupo de activos financieros, que 
+se pueda estimar de manera fiable. La evidencia de deterioro puede incluir indicios de dificultades 
+financieras significativas de los prestatarios o grupo de prestatarios, incumplimiento o retrasos en 
+los pagos de intereses o principal, probabilidad de reestructuración o quiebra de la empresa u otro 
+proceso de reorganización legal financiera en la que se demuestre que existirá una reducción en los 
+flujos futuros estimados, como cambios en circunstancias o condiciones económicas que tienen 
+correlación en incumplimientos de pago. 
+ 
+ii. Compensación de instrumentos financieros 
+Los activos y pasivos financieros se compensan y el monto neto se presenta en el estado de 
+situación financiera, cuando se tiene el derecho legal de compensarlos y la Gerencia tiene la 
+intención de cancelarlos sobre una base neta o de realizar el activo y cancelar el pasivo 
+simultáneamente. 
+ 
+Los activos y pasivos financieros presentados en el estado de situación financiera corresponden a 
+los fondos disponibles, las inversiones disponibles para la venta, la cartera de créditos, las cuentas 
+por cobrar, otros activos y los pasivos en el estado de situación financiera, excepto cuando se 
+indique de otra forma en la nota correspondiente del activo o pasivo. Asimismo, se consideran 
+instrumentos financieros los créditos indirectos. Las políticas contables sobre el reconocimiento y la 
+valuación de estas partidas se describen en las respectivas políticas contables descritas en esta 
+nota. 
+ 
+B. Inversiones 
+Los criterios para el reconocimiento inicial y valorización de las inversiones están de acuerdo con la 
+Resolución SBS N° 7033-2012 “ Reglamento de Clasificación y Valorización de las Inversiones de las 
+Empresas del Sistema Financiero ” y su modificatoria Resolución SBS N° 2610-2018; en este 
+sentido, CMAC Cusco clasifica sus inversiones en una de las categorías definidas por dicha 
+Resolución: (i) inversiones a valor razonable con cambios en resultados, (ii) inversiones disponibles 
+para la venta, (iii) inversiones a vencimiento, y (iv) inversiones en subsidiarias, asociadas y 
+participaciones en negocios conjuntos. 
+ 
+Al 31 de diciembre de 2024 y de 2023, CMAC Cusco mantiene inversiones clasificadas en la 
+categoría de inversiones disponibles para la venta e inversiones a vencimiento. 
+ 
+i. Inversiones disponibles para la venta 
+Son aquellas designadas como tales debido a que se mantienen por un tiempo indefinido y pueden 
+ser vendidas debido a necesidades de liquidez o cambios en la tasa de interés, tipos de cambio o en 
+el precio de capital; o no califican para ser registradas como a valor razonable con efecto en 
+resultados o mantenidas hasta su vencimiento. 
+ 
+En esta categoría se incluyen todos los instrumentos de inversión que no se encuentren clasificados 
+como inversiones a valor razonable con cambios en resultados, inversiones a vencimiento o 
+inversiones en subsidiarias, asociadas y participaciones en negocios conjuntos; es decir, es una 
+categoría residual. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 17 | puntaje 7 =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+10 
+ii. Inversiones a vencimiento 
+Los instrumentos financieros que son clasificados dentro de esta categoría deben cumplir con los 
+siguientes requisitos: 
+ 
+▪ Haber sido adquiridos o reclasificados con la intención de mantenerlos hasta su fecha de 
+vencimiento, salvo los casos en los que la venta, asignación o reclasificación sean permitidas 
+por la SBS. 
+ 
+▪ Deberán contar con clasificaciones de riesgo de acuerdo a lo requerido por la SBS. 
+ 
+Asimismo, una entidad financiera podrá clasificar inversiones en esta categoría, sólo si tiene la 
+capacidad financiera para mantener el instrumento de inversión hasta su vencimiento. Dicha 
+capacidad deberá evaluarse al cierre de cada ejercicio anual. 
+ 
+Reconocimiento inicial y valuación 
+ 
+i. Inversiones disponibles para la venta  
+El registro contable inicial se efectúa al valor razonable, incluyendo los costos de transacción que 
+sean directamente atribuibles a su adquisición. Su valorización corresponde al valor razonable y la 
+ganancia o pérdida originada por la variación entre el registro contable inicial y su valor razonable se 
+reconoce directamente en el patrimonio, a menos que exista un deterioro permanente en su valor. 
+Cuando el instrumento es vendido o realizado, la ganancia o pérdida, previamente reconocida como 
+parte del patrimonio, se transfiere a los resultados integrales del ejercicio. 
+ 
+ii. Inversiones a vencimiento 
+El registro contable inicial se efectúa al valor razonable, incluyendo los costos de transacción que 
+sean directamente atribuibles a su adquisición. Su valorización corresponde al costo amortizado, 
+utilizando el método de la tasa de interés efectiva. 
+ 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, la cual incorpora 
+tanto los intereses que van a ser cobrados como la amortización de la prima o descuento que exista 
+en su adquisición. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su valor en libros se 
+reconoce en el estado de resultados integrales. 
+ 
+Fecha de registro de transacciones 
+Las transacciones se registran utilizando la fecha de negociación; esto es, la fecha en la que se 
+asumen las obligaciones recíprocas que deben consumarse dentro del plazo establecido por las 
+regulaciones y usos del mercado en el que se efectúe la transacción. 
+ 
+Evaluación de deterioro 
+La Resolución SBS N° 2610-2018 modifica algunos artículos establecidos en la Resolución SBS  
+N° 7033-2012 “Reglamento de Clasificación y Valorización de las Inversiones de las Empresas del 
+Sistema Financiero”, en la cual el cambio principal radica en la nueva metodología para la 
+identificación de deterioro denominada “Metodología Estándar para la Identificación del Deterioro de 
+Valor de Inversiones Disponibles para la Venta e Inversiones a Vencimiento”. Dicha metodología 
+contempla lo siguiente: 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 18 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+11 
+i. Instrumentos de deuda 
+Las empresas deben evaluar, para toda la cartera de instrumentos representativos de deuda sujeta a 
+deterioro, la ocurrencia de las siguientes situaciones: 
+ 
+▪ Debilitamiento en la situación financiera o ratios financieros del emisor y de su grupo 
+económico. 
+ 
+▪ Rebaja en cualquiera de las clasificaciones crediticias del instrumento o del emisor, en al 
+menos dos (02) “notches”, desde el momento que se adquirió el instrumento; donde un 
+“notch” corresponde a la diferencia mínima entre dos calificaciones de riesgo dentro de una 
+misma escala de calificación de deterioro. 
+ 
+▪ Interrupción de transacciones o de un mercado activo para el activo financiero, debido a 
+dificultades financieras del emisor. 
+ 
+▪ Los datos observables indican que, desde su reconocimiento inicial de un grupo de activos 
+financieros con características similares al instrumento evaluado, existe una disminución 
+medible en sus flujos futuros estimados de efectivo, aunque no pueda todavía identificársela 
+con activos financieros individuales del grupo. 
+ 
+▪ Disminución del valor por cambios normativos (impositivos, regulatorios u otros 
+gubernamentales). 
+ 
+▪ Disminución significativa del valor razonable por debajo de su costo amortizado. Se 
+considerará como una disminución significativa si el valor razonable a la fecha de cierre ha 
+disminuido por lo menos 40% por debajo de su costo amortizado a dicha fecha. 
+ 
+▪ Disminución prolongada en el valor razonable. Se considerará como una disminución 
+prolongada si el valor razonable a la fecha de cierre ha disminuido por lo menos 20% en 
+comparación con el costo amortizado de doce (12) meses atrás y, el valor razonable a la fecha 
+de cierre de cada mes durante el período de doce (12) meses previos, se ha mantenido 
+siempre por debajo del costo amortizado correspondiente a la fecha de cierre de cada mes. 
+ 
+En caso se cumplan por los menos dos (02) de las situaciones anteriormente descritas, se 
+considerará que existe deterioro y, por consiguiente, la empresa debe determinar el importe de 
+cualquier pérdida por deterioro de valor de acuerdo con lo establecido en el artículo 10 del 
+Reglamento. 
+ 
+En caso no se hayan dado por lo menos dos (02) de las situaciones anteriormente descritas, bastará 
+con que se presente algunas de las siguientes situaciones específicas para considerar que existe 
+deterioro: 
+ 
+▪ Incumplimiento de las cláusulas contractuales, tales como la interrupción en el pago de 
+intereses o capital. 
+ 
+▪ Renegociación de las condiciones contractuales del instrumento por factores legales o 
+problemas financieros vinculados al emisor. 
+ 
+▪ Evidencia de que el emisor está en proceso de reestructuración forzosa o quiebra. 
+ 
+▪ Cuando se reduzca la clasificación de riesgo de un instrumento que estaba clasificado como 
+grado de inversión, hacia una clasificación que resulte por debajo del grado de inversión. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 27 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+20 
+Los costos de mantenimiento y reparación se cargan a resultados; toda renovación o mejora se 
+capitaliza únicamente cuando los desembolsos mejoran la condición del activo. El costo y la 
+correspondiente depreciación de los activos vendidos o retirados son eliminados de las cuentas 
+respectivas y la utilidad o pérdida generada se incluye en los resultados del ejercicio. 
+ 
+Las Cajas Municipales de Ahorro y Crédito que operan en el sistema financieros peruano están 
+prohibidos de dar en garantía los bienes de su activo fijo, salvo los adquiridos en operaciones de 
+arrendamiento financiero. 
+ 
+F. Activos intangibles 
+Los activos intangibles, incluidos en el rubro “Otros activos” del estado de situación financiera, son 
+registrados al costo histórico de adquisición, menos la amortización acumulada y el importe 
+acumulado de las pérdidas por deterioro de valor del activo, de ser aplicable. Los activos intangibles 
+de vida limitada comprenden principalmente desarrollos y adquisiciones de licencias de software 
+utilizados en las operaciones propias de CMAC Cusco. 
+ 
+La amortización de los intangibles de vida limitada de CMAC Cusco es calculada siguiendo el 
+método de línea recta sobre la base de su vida útil estimada (5 años). Cabe señalar que, de acuerdo 
+con la Resolución SBS N° 1967-2010, los activos intangibles de vida limitada se amortizan en un 
+plazo máximo de cinco años. 
+ 
+Al 31 de diciembre de 2024 y de 2023, CMAC Cusco no mantiene intangibles de vida útil ilimitada. 
+ 
+G. Arrendamiento operativo 
+Los pagos derivados de contratos de arrendamientos operativos en donde CMAC Cusco actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+H. Bienes realizables, recuperados, recibidos en pago y adjudicados y otros 
+Los bienes adjudicados (incluidos en el rubro de “Otros activos” del estado de situación financiera) 
+se registran inicialmente al valor de adjudicación judicial, extrajudicial, valor de mercado o valor 
+insoluto de la deuda, el menor; reconociéndose a su vez una provisión equivalente al 20 por ciento 
+del valor de adjudicación o recuperación del bien, pudiendo mantenerse para este fin la provisión que 
+se tenía constituida por el crédito relacionado. 
+ 
+Posteriormente, se constituirán provisiones adicionales siguiendo los siguientes criterios: 
+ 
+▪ Bienes muebles - Se constituye una provisión mensual uniforme a partir del primer mes de la 
+dación, adjudicación o recuperación, por un período de doce meses hasta alcanzar el cien por 
+ciento del valor neto de adjudicación o recuperación. 
+ 
+▪ Bienes inmuebles – Se constituye provisiones mensuales uniformes sobre el valor neto en 
+libros obtenido al décimo segundo mes; siempre que no se haya obtenido la prórroga de seis 
+meses contemplada en la Resolución SBS N° 1535-2005, en cuyo caso se constituyen 
+provisiones mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo 
+mes. En ambos casos, las provisiones se constituyen hasta alcanzar el cien por ciento del 
+valor neto en libros en un plazo de tres años y medio, contados a partir de la fecha en la cual 
+se empezaron a constituir las provisiones mensuales. 
+ 
+La actualización anual de las valuaciones de estos bienes determinadas por un perito independiente 
+implica, de ser necesario, solo la constitución de provisiones por desvalorización. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 28 | puntaje 9 =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+21 
+I. Deterioro del valor de activos de larga duración  
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, la Gerencia de CMAC Cusco revisa el valor de sus inmuebles, mobiliario y 
+equipo e intangibles para verificar que no existe ningún deterioro permanente en su valor. Cuando el 
+valor en libros del activo excede su valor recuperable, se reconoce una pérdida por deterioro en el 
+estado de resultados integrales para los rubros de inmuebles, mobiliario y equipo e intangibles. El 
+valor recuperable es el mayor entre el precio de venta neto y su valor en uso. El precio de venta neto 
+es el monto que se puede obtener en la venta de un activo en un mercado libre, mientras que el 
+valor en uso es el valor presente de los flujos futuros estimados del uso continuo de un activo y de 
+su disposición al final de su vida útil. Los importes recuperables se estiman para cada activo o, si no 
+es posible, para la unidad generadora de efectivo. 
+ 
+En opinión de la Gerencia, no existe evidencia de deterioro en el valor de dichos activos al  
+31 de diciembre de 2024 y de 2023. 
+ 
+J. Valores, títulos, adeudos y obligaciones en circulación 
+El pasivo por adeudos y la emisión de valores, títulos y obligaciones en circulación incluidos en el 
+rubro de “Adeudos y obligaciones financieras” del estado de situación financiera, es contabilizado a 
+su valor nominal, reconociéndose los intereses devengados en los resultados del ejercicio. Cuando 
+sea aplicable, los descuentos otorgados o los ingresos generados en su colocación son diferidos y 
+se presentan netos de su valor de emisión, y se amortizan durante el plazo de vigencia de los 
+valores, títulos y obligaciones en circulación relacionados utilizando el método de la tasa de interés 
+efectiva. 
+ 
+K. Impuesto a la renta 
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para fines 
+tributarios, la cual es determinada utilizando criterios que difieren de los principios contables que 
+utiliza CMAC Cusco. 
+ 
+Asimismo, CMAC Cusco ha registrado el impuesto a la renta diferido considerando los lineamientos 
+de la NIC 12 – Impuestos a las Ganancias. El impuesto a la renta diferido refleja los efectos de las 
+diferencias temporales entre los saldos de activos y pasivos para fines contables y los determinados 
+para fines tributarios; y se reconoce utilizando el método del pasivo sobre dichas diferencias 
+temporales. 
+ 
+Los pasivos por impuesto diferido se reconocen para aquellas diferencias temporales gravables 
+(imponibles); mientras que los activos por impuesto diferido se reconocen para todas las diferencias 
+temporales deducibles en la medida en que sea probable que existan beneficios futuros suficientes 
+para que el activo diferido se pueda aplicar. 
+ 
+Los activos y pasivos por impuesto diferido se miden utilizando las tasas de impuestos que se 
+espera sean de aplicación a la renta imponible en los años en que el activo se realice o el pasivo se 
+cancele, en base a las tasas de impuestos que fueron aprobadas a la fecha del estado de situación 
+financiera. 
+ 
+La medición de los activos y pasivos diferidos reflejan las consecuencias tributarias derivadas de la 
+forma en que se espera recuperar o liquidar el valor de los activos y pasivos a la fecha del estado de 
+situación financiera. 
+ 
+El importe en libros de los activos y pasivos por impuestos diferidos puede cambiar, incluso cuando 
+no haya cambiado el importe de las diferencias temporales, debido a un cambio en la tasa del 
+impuesto a la renta. El efecto del cambio en el impuesto diferido, correspondiente al cambio de tasa, 
+se reconocerá en el estado de resultados integrales del período, excepto en las partidas previamente 
+reconocidas fuera del estado de resultados integrales (sea en otros resultados integrales o 
+directamente en el patrimonio neto). 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 29 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+22 
+Los activos y pasivos diferidos por impuesto a la renta son compensados si existe derecho legal de 
+compensarlos y los impuestos diferidos se relacionan con la misma entidad sujeta a impuestos y 
+con la misma autoridad tributaria. 
+ 
+Conforme lo establece la NIC 12, CMAC Cusco determina su impuesto a la renta sobre la base de la 
+tasa de impuesto a la renta aplicable a sus utilidades no distribuidas, reconociendo cualquier 
+impuesto adicional por la distribución de dividendos en la fecha que se reconoce el pasivo. 
+ 
+L. Provisiones 
+Se reconoce una provisión sólo cuando CMAC Cusco tiene una obligación presente (legal o implícita) 
+como resultado de un evento pasado, es probable que se requieran recursos para cancelar dicha 
+obligación y, al mismo tiempo, es posible estimar confiablemente el monto de la obligación.  
+ 
+Las provisiones se revisan cada período y se ajustan para reflejar la mejor estimación que se tenga a 
+la fecha del estado de situación financiera. Cuando el efecto del valor del dinero en el tiempo es 
+importante, el monto de la provisión es el valor presente de los desembolsos que se espera incurrir 
+para cancelarla. 
+ 
+M. Contingencias 
+Los pasivos contingentes no se reconocen en los estados financieros. Estos se revelan en notas a 
+los estados financieros, a menos que la posibilidad de que se desembolse un flujo económico sea 
+remota. 
+ 
+Un activo contingente no se reconoce en los estados financieros, pero se revela cuando su grado de 
+contingencia es probable. 
+ 
+N. Beneficios a los empleados 
+ 
+Gratificaciones 
+CMAC Cusco reconoce el gasto por gratificaciones y su correspondiente pasivo sobre las bases de 
+las disposiciones legales vigentes en Perú; las gratificaciones corresponden a dos remuneraciones 
+anuales que se pagan en julio y en diciembre de cada año. 
+ 
+Compensación por tiempo de servicios 
+La compensación por tiempo de servicios del personal de CMAC Cusco corresponde a sus derechos 
+indemnizatorios calculados de acuerdo con la legislación vigente la que se tiene que depositar en las 
+cuentas bancarias designadas por los trabajadores en los meses de mayo y noviembre de cada año. 
+La compensación por tiempo de servicios del personal es equivalente a una remuneración vigente a 
+la fecha de su depósito. CMAC Cusco no tiene obligaciones de pago adicionales una vez que efectúa 
+los depósitos anuales de los fondos a los que el trabajador tiene derecho. 
+ 
+Vacaciones 
+Las vacaciones anuales del personal se reconocen sobre la base del devengado. La provisión por la 
+obligación estimada por vacaciones anuales del personal resultante de servicios prestados por los 
+empleados se reconoce en la fecha del estado de situación financiera. 
+ 
+Participación en las utilidades 
+CMAC Cusco reconoce un pasivo y un gasto por participación de los trabajadores en las utilidades 
+equivalente a 5% de la renta imponible determinada de acuerdo con las normas tributarias vigentes. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 54 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+47 
+ Con base en el análisis de las operaciones de CMAC Cusco, la Gerencia y sus asesores 
+consideran que, como consecuencia de la aplicación de las normas de precios de 
+transferencia, no surgirán contingencias significativas al 31 de diciembre de 2024 y de 2023. 
+ 
+D. CMAC Cusco ha realizado una evaluación de las posiciones inciertas sobre tratamientos 
+tributarios de acuerdo con la CINIIF 23 y determinó, con base en su estudio de cumplimiento 
+de impuestos y precios de transferencia, que es probable que sus tratamientos fiscales sean 
+aceptados por las autoridades fiscales. La Interpretación no tuvo impacto en los estados 
+financieros de CMAC Cusco al 31 de diciembre de 2024 y de 2023. 
+ 
+ CMAC Cusco considera que sus provisiones de pasivos fiscales son adecuadas para todos los 
+años fiscales abiertos con base a evaluación de diversos factores, incluidas las 
+interpretaciones de la ley fiscal y experiencia previa. 
+ 
+E. CMAC Cusco actualmente no está sujeta al Impuesto Mínimo Global Adicional, conocido 
+también como Pillar 2, debido a que esta legislación aún no ha sido aprobada para su 
+aplicación en Perú. La Financiera evaluará los potenciales efectos de esta legislación en sus 
+estados financieros una vez sea aprobada para su aplicación.  
+ 
+F. Principales normas tributarias emitidas durante el año 2024 
+ 
+ Modificación de disposiciones sobre precios de transferencia en la Ley del Impuesto a la 
+Renta 
+ El 24 de setiembre de 2024, se publicaron los Decretos Legislativos N° 1662 y N° 1663, que 
+introducen modificaciones en la Ley del Impuesto a la Renta respecto a los Acuerdos 
+Anticipados de Precios (APAs) y los métodos alternativos de valoración en el ámbito de los 
+precios de transferencia. Estas modificaciones entraron en vigor el 1 de enero de 2025. 
+ 
+ Mediante el Decreto Legislativo N° 1662, publicado el 24 de setiembre de 2024, se estableció 
+que los APAs entre la SUNAT y los contribuyentes pueden tener efectos retroactivos para 
+ejercicios fiscales anteriores. Para que esto sea válido, los hechos y circunstancias de los 
+ejercicios anteriores deben ser consistentes con los cubiertos por el APA, y la autoridad 
+tributaria no debe haber prescrito el derecho para determinar la obligación tributaria del 
+Impuesto a la Renta por normas de precios de transferencia. 
+ 
+ Asimismo, mediante el Decreto Legislativo N° 1663, publicado el 24 de setiembre de 2024, 
+se modificó la Ley del Impuesto a la Renta para regular la aplicación de métodos alternativos 
+de valoración en situaciones donde los métodos tradicionales de precios de transferencia no 
+sean aplicables debido a la naturaleza de las actividades o transacciones, o por la falta de 
+transacciones comparables fiables.  
+ 
+ Modificaciones sobre la anotación de comprobantes y ejercicio del crédito fiscal 
+ Mediante el Decreto Legislativo N° 1669, publicado el 28 de setiembre de 2024, se modificó 
+la Ley del Impuesto General a las Ventas (IGV) y la Ley N° 29215, enfocándose en la 
+anotación de comprobantes de pago y el ejercicio del crédito fiscal. Anteriormente, los 
+contribuyentes tenían un plazo de 12 meses para registrar los comprobantes de pago que 
+otorgaban derecho al crédito fiscal. Con la nueva normativa, este plazo se ha reducido, 
+estableciendo los siguientes plazos para la anotación de los comprobantes: 
+ 
+▪ Comprobantes electrónicos: deben ser anotados en el Registro de Compras en el 
+mismo mes de su emisión o del pago del impuesto correspondiente. 
+ 
+▪ Comprobantes físicos: deben ser anotados hasta dos meses siguientes al mes de su 
+emisión o del pago del impuesto. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 55 | puntaje 6 =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+48 
+▪ Operaciones sujetas al Sistema de Pago de Obligaciones Tributarias (SPOT): la 
+anotación debe realizarse hasta tres meses siguientes al mes de emisión del 
+comprobante. 
+ 
+ Si los comprobantes no se anotan dentro de estos plazos, se pierde el derecho al crédito 
+fiscal correspondiente. Sin embargo, no se perderá el derecho al crédito fiscal si la anotación 
+se efectúa antes de que la SUNAT requiera al contribuyente la exhibición y/o presentación de 
+su Registro de Compras.  
+ 
+ Operaciones de reporte y ETFs 
+ Mediante la Ley N° 32218, promulgada el 29 de diciembre de 2024, se modificó el Texto 
+Único Ordenado de la Ley del Impuesto a la Renta, incorporando en el literal h) del artículo 18 
+dos nuevos supuestos de intereses y ganancias de capital inafectos al impuesto a la renta. 
+ 
+▪ Operaciones de reporte: A partir del 1 de enero de 2025, fecha de entrada en vigor de 
+esta ley, estarán exentos del impuesto a la renta los intereses y ganancias de capital 
+provenientes de operaciones de reporte en las cuales los valores que el adquirente 
+recibe del enajenante sean letras del Tesoro Público emitidas por la República del Perú, 
+así como bonos y otros títulos de deuda emitidos por la República del Perú bajo el 
+Programa de Creadores de Mercado o su mecanismo sustituto, o en el mercado 
+internacional a partir del año 2003.  
+ 
+▪ Enajenación de ETF: la exoneración se extiende a los intereses y ganancias de capital 
+derivados de la enajenación de unidades de participación de Fondos Bursátiles o 
+Exchange Traded Funds (ETF) que tengan como objetivo replicar la rentabilidad de 
+índices de acceso público, construidos sobre la base de letras del Tesoro Público 
+emitidas por la República del Perú, y bonos y títulos de deuda emitidos por la República 
+del Perú bajo el Programa de Creadores de Mercado o su mecanismo sustituto, o en el 
+mercado internacional a partir del año 2003.  
+ 
+G. Cambios significativos al régimen del impuesto a la renta que iniciará del 1 de enero de 2025 
+en adelante y otras consideraciones tributarias relevantes: 
+ 
+ Depreciación de Activos 
+ Mediante el Decreto Legislativo N° 1488 Régimen Especial de Depreciación y normas 
+modificatorias, se incrementa los porcentajes de depreciación de los activos adquiridos 
+durante los años 2020, 2021 y 2022 con el fin de promover la inversión privada y otorgar 
+mayor liquidez dada la actual coyuntura económica por efectos del COVID-19. 
+ 
+ La Ley N° 31107, modificó el Decreto Legislativo N° 1488, en donde se estableció que 
+durante los ejercicios gravables 2021 y 2022, los edificios y construcciones que al 31 de 
+diciembre de 2020 tengan un valor por depreciar se depreciarán a una tasa anual del 20%. 
+Esta disposición se aplicó a aquellos activos fijos utilizados en establecimientos de hospedaje, 
+agencias de viaje y turismo, restaurantes y servicios afines, así como en la realización de 
+espectáculos públicos culturales no deportivos. Además, se especificó que los vehículos de 
+transporte terrestre afectos a estas actividades podrán depreciarse a una tasa anual del 
+33.3% durante los mismos ejercicios gravables.  
+ 
+ Asimismo, mediante Ley N° 31652, se aprobó un nuevo Régimen Especial de Depreciación, 
+mediante el cual se incrementaron los porcentajes de depreciación para los contribuyentes 
+que adquieran edificaciones y construcciones durante los años 2023 y 2024 (no aplica para 
+bienes construidos total o parcialmente antes del 1 de enero de 2023). 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2024_Individual_Anual_EEFF CMAC Cusco 2024 (1).pdf | PAGINA: 56 | vecina =====
+Caja Municipal de Ahorro y Crédito Cusco S.A. 
+Notas a los Estados Financieros 
+31 de diciembre de 2024 y de 2023 
+ 
+ 
+ 
+49 
+ Sujetos sin capacidad operativa (SSCO) 
+ Mediante Decreto Legislativo N° 1532, publicado el 19 de marzo de 2022 y vigente a partir del 
+1 de enero de 2023, se reguló el procedimiento de atribución de la condición de Sujeto sin 
+Capacidad Operativa-SSCO, en el marco de la lucha contra la evasión tributaria. 
+ 
+ En ese sentido, se definió como SSCO, a aquel sujeto, que, si bien figura como emisor de los 
+comprobantes de pago o de los documentos complementarios, no tiene los recursos 
+económicos, financieros, materiales, humanos y/u otros, o estos no resultan idóneos, para 
+realizar las operaciones por las que se emiten dichos documentos. 
+ 
+ Mediante, Decreto Supremo N° 319-2023-EF se aprobó el Reglamento del procedimiento de 
+atribución de la condición de SSCO. 
+ 
+ Perfil de cumplimiento 
+ La SUNAT ha implementado el Perfil de Cumplimiento Tributario (PCT), un sistema de 
+calificación dirigido a los contribuyentes que generan rentas de tercera categoría. Este perfil 
+tiene como objetivo promover el cumplimiento voluntario de las obligaciones tributarias y 
+permitir tratamientos diferenciados según el nivel de cumplimiento asignado.  
+ 
+ La implementación del PCT se está llevando a cabo de manera gradual. En julio de 2024, se 
+inició una etapa de prueba que comprende cuatro calificaciones trimestrales de carácter 
+informativo, sin efectos legales para los contribuyentes. Durante esta fase, no es necesario 
+que los contribuyentes presenten descargos relacionados con su calificación.  
+ 
+ La calificación asignada por la SUNAT surtirá efectos legales a partir de julio de 2025. Esto 
+implica que los contribuyentes con una calificación baja podrían enfrentar medidas como la 
+imposición de medidas cautelares previas, la extensión del plazo para que surta efecto una 
+declaración jurada rectificatoria que determine un menor tributo, y posibles riesgos 
+reputacionales tanto internos como externos.  
+  
+Otros cambios relevantes  
+ Hasta el 31 de diciembre de 2025, se extienden las exoneraciones contenidas en los 
+Apéndices I y II de la Ley del IGV. En consecuencia, no estarán gravadas con IGV, entre otros, 
+la venta de alimentos de primera necesidad y servicios básicos como el transporte público. 
+Enlace a la norma en comentario: Ley N° 31651. 
+ 
+Según el análisis preliminar de las modificaciones normativas mencionadas en los puntos F y G, se 
+considera que estos cambios no afectarán significativamente la operación ni la posición tributaria de 
+CMAC Cusco. 
+ 
+15. Riesgos y Compromisos Contingentes 
+A continuación, se presenta la composición del rubro: 
+ 
+En miles de soles 2024 2023 
+Créditos indirectos (a)   
+Cartas fianzas otorgadas 11,900 6,766 
+Líneas de crédito no utilizadas (b) 579,715 479,472 
+ 591,615 486,238 
+ 
+(a) En el curso normal de sus operaciones, CMAC Cusco realiza operaciones contingentes 
+(créditos indirectos). Estas operaciones lo exponen a riesgos crediticios adicionales a los 
+montos reconocidos en el estado de situación financiera. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 14 | vecina =====
+14 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+2.  Por los intereses devengados (contabilizados en la cuenta 1408) de los créditos reprogramados, 
+en situación contable de vigente, correspondientes a la cartera de créditos de consumo, 
+microempresa y pequeña empresa, por los que el cliente no haya efectuado el pago de al menos 
+una cuota completa que incluya capital en los últimos seis meses al cierre de la información 
+contable, se les aplicará un requerimiento de provisiones correspondiente a la categoría de riesgo 
+Deficiente 
+ 
+e. Moneda funcional y transacciones en moneda extranjera - 
+Los estados financieros se presentan en soles, que es la moneda funcional y de presentación de la 
+empresa. Se considera moneda extranjera a cualquier moneda diferente de la moneda funcional. Los 
+activos y pasivos en moneda extranjera se registran al tipo de cambio de la fecha en que se realizan las 
+transacciones. Los activos y pasivos monetarios denominados en moneda extranjera son convertidos a 
+la moneda peruana al cierre de cada mes utilizando el tipo de cambio fijado por la SBS. 
+Las ganancias o pérdidas que resultan de reexpresar los activos y pasivos monetarios en moneda 
+extranjera a las tasas de cambio vigentes a la fecha del Estado de Situación Financiera se registran en 
+los resultados del ejercicio. 
+ 
+f. Inversiones en instrumentos financieros 
+De acuerdo con el manual de contabilidad de la SBS, CMAC Cusco debe clasificar a todas sus 
+inversiones en instrumentos financieros en las siguientes categorías: 
+ 
+i. Inversiones a valor razonable con cambios en resultados –  
+El registro contable inicial se efectúa al valor razonable registrando los costos de transacción 
+relacionados con estas inversiones como gastos. La valorización de estas inversiones será al valor 
+razonable y la ganancia o pérdida originada por la variación entre el registro contable inicial y su valor 
+razonable se reconocerá directamente en el estado de ganancias y pérdidas. 
+ 
+ii. Inversiones disponibles para la venta –  
+El registro contable inicial se efectúa al valor razonable incluyendo los costos de transacción que sean 
+directamente atribuibles a la adquisición de dichas inversiones. La valorización de las inversiones 
+disponibles para la venta será al valor razonable y la ganancia o pérdida originada por la variación entre 
+el registro contable inicial y su valor razonable se reconocerá directamente en el patrimonio, a menos 
+que exista un deterioro permanente en su valor. Cuando el instrumento sea vendido o realizado, la 
+ganancia o pérdida, previamente reconocida como parte del patrimonio, será incluida en los resultados 
+del ejercicio. 
+En el caso de los instrumentos representativos de deuda, previamente a la valorización a valor razonable, 
+se deberá actualizar contablemente el costo amortizado aplicando la metodología de la tasa de interés 
+efectiva, y a partir del costo amortizado obtenido se deben reconocer las ganancias y pérdidas por la 
+variación en el valor razonable. 
+ 
+iii. Inversiones mantenidas hasta el vencimiento –  
+El registro contable inicial se efectúa al valor razonable incluyendo los costos de transacción que sean 
+directamente atribuibles a la adquisición de dichas inversiones. La valorización de estas inversiones será 
+al costo amortizado utilizando el método de la tasa de interés efectiva. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 15 | puntaje 9 =====
+15 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+Las transacciones con instrumentos financieros se registran utilizando la fecha de negociación, esto es 
+la fecha en la que asumen obligaciones recíprocas que deben consumarse dentro del plazo establecido 
+por las regulaciones y usos de mercado en el que se efectúe la operación. 
+ 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, la cual incorpora 
+tanto los intereses que van a ser cobrados como la amortización de la prima o descuento que exista en 
+su adquisición. 
+ 
+CMAC Cusco evalúa, en cada fecha de balance, si existe evidencia de que un instrumento clasificado 
+como inversión disponible para la venta registra un deterioro de valor; el cual debe ser reconocido en los 
+resultados del ejercicio, aunque el instrumento no haya sido vendido o retirado. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su valor en libros se 
+reconoce en el estado de resultados. 
+ 
+g. Inmuebles, mobiliario y equipo y depreciación - 
+Los inmuebles, mobiliario y equipo son registrados inicialmente al costo histórico de adquisición. 
+Posteriormente es medido al costo, menos la depreciación acumulada y el importe acumulado de las 
+pérdidas por deterioro del activo de ser aplicable.  Los desembolsos por mantenimiento y reparación se 
+cargan a resultados y toda renovación y mejora significativa se capitaliza siempre que: i) sea probable 
+que la entidad obtenga los beneficios económicos futuros derivados de la misma; y, ii) su costo pueda 
+ser valorizado con fiabilidad. El costo y la correspondiente depreciación acumulada de los activos 
+vendidos o retirados son eliminados de las cuentas respectivas y el costo neto dado de baja se incluye 
+en los resultados del ejercicio. 
+ 
+Los trabajos en curso y las unidades por recibir son registrados al costo de adquisición. Estos bienes 
+no se deprecian hasta que se encuentren en condiciones de ser utilizados de la manera prevista por la 
+Gerencia. 
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil estimada, 
+como sigue: 
+ Años 
+Edificios y otras construcciones  30 a 50 años 
+Instalaciones  Entre 3 a 10 años 
+Muebles y enseres  10 años 
+Equipos de cómputo  Entre 4 - 5 años 
+Otros bienes y equipos Entre 2 a 25 años 
+Equipos y unidades de transporte  5 años 
+Instalaciones en locales alquilados Entre 2 a 10 años 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para asegurar que 
+el método y el periodo de la depreciación sean consistentes con el beneficio económico futuro y las 
+expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 16 | vecina =====
+16 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+h. Bienes realizables, recibidos en pago y adjudicados: 
+Los bienes realizables incluyen bienes comprados con el propósito específico de otorgarse en 
+arrendamiento financiero, siendo registrados inicialmente a su costo de adquisición; aquellos bienes 
+realizables que no fueran otorgados en arrendamiento financiero son registrados al costo o valor de 
+mercado, el menor. 
+ 
+Los bienes recibidos en pago, adjudicados y recuperados se registran inicialmente al valor de 
+adjudicación judicial, extrajudicial, valor de mercado o valor insoluto de la deuda, el menor; 
+reconociéndose a su vez una provisión equivalente al 20 por ciento del valor de adjudicación o 
+recuperación del bien, pudiendo mantenerse para este fin la provisión que se tenía constituida por el 
+crédito relacionado. 
+Posteriormente se constituyen provisiones adicionales siguiendo los siguientes criterios: 
+ 
+Bienes muebles 
+Se constituye una provisión mensual uniforme, a partir del primer mes de la dación, adjudicación o 
+recuperación, por un periodo de doce meses, hasta alcanzar el cien por ciento del valor neto de 
+adjudicación o recuperación. 
+ 
+Bienes inmuebles 
+Se constituyen provisiones mensuales uniformes sobre el valor neto en libros obtenido al décimo 
+segundo mes; siempre que no se haya obtenido la prórroga de seis meses contemplada en la Resolución 
+SBS N°1535-2005, en cuyo caso se constituyen provisiones mensuales uniformes sobre el valor neto 
+en libros obtenido al décimo octavo mes.  
+La actualización anual de las valuaciones de estos bienes, determinada por un perito independiente, 
+implica, de ser necesario, la constitución de provisiones por desvalorización. 
+ 
+i. Intangibles de vida limitada 
+Estos activos son registrados al costo de adquisición, menos la amortización acumulada y el importe 
+acumulado de las pérdidas por deterioro del activo, de ser aplicable. Estos activos comprenden 
+principalmente a desarrollos y adquisiciones de licencias de software utilizados en las operaciones 
+propias de CMAC Cusco de acuerdo con el Manual de Contabilidad vigente, los activos intangibles de 
+vida limitada se amortizan en un plazo máximo de cinco años. 
+ 
+j. Impuesto a la renta  
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para fines 
+tributarios, para lo cual se utiliza criterios que difieren de los principios contables que utiliza CMAC Cusco. 
+En consecuencia, el registro del impuesto a la renta diferido refleja el efecto de las diferencias temporales 
+entre los saldos de activos y pasivos para fines contables y los determinados para fines tributarios. Los 
+activos y pasivos diferidos se miden utilizando las tasas de impuesto que se espera aplicar a la renta 
+imponible en los años en que estas diferencias se recuperen o vuelvan exigibles. La medición de los 
+activos y pasivos diferidos reflejan las consecuencias tributarias derivadas de la forma en que se espera, 
+a la fecha del Estado de Situación Financiera, recuperar o liquidar el valor de los activos y pasivos. 
+Los activos diferidos son reconocidos cuando es probable que existan beneficios tributarios futuros 
+suficientes para que el activo diferido se pueda aplicar. A la fecha del Estado de Situación Financiera, la 
+Gerencia evalúa los activos diferidos no reconocidos y el saldo de los reconocidos; registrando un activo 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 17 | puntaje 8 =====
+17 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+diferido previamente no reconocido en la medida en que sea probable que los beneficios futuros 
+tributarios permitan su recuperabilidad o reduciendo un activo diferido en la medida en que no sea 
+probable que se disponga de beneficios tributarios futuros suficientes para permitir que se utilice parte o 
+todo el activo diferido reconocido contablemente. 
+ 
+k. Deterioro del valor de los activos 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo puede o 
+no ser recuperable, CMAC Cusco revisa el valor de sus inmuebles, mobiliario y equipo, e intangibles 
+para verificar que no existe ningún deterioro permanente en su valor. Cuando el valor del activo en libros 
+excede su valor recuperable se reconoce una pérdida por deterioro en el estado de resultados para los 
+rubros de inmuebles, mobiliario y equipo e intangibles. El valor recuperable es el mayor entre el precio 
+de venta neto y su valor en uso. El precio de venta neto es el monto que se puede obtener en la venta 
+de un activo en un mercado libre, mientras que el valor en uso es el valor presente de los flujos futuros 
+estimados del uso continuo de un activo y de su disposición al final de su vida útil.  
+ 
+l. Provisiones 
+Se reconoce una provisión sólo cuando CMAC Cusco tiene una obligación presente (legal o implícita) 
+como resultado de un evento pasado, es probable que se requieran recursos para cancelar dicha 
+obligación y, al mismo tiempo, es posible estimar su monto de una manera fiable. Las provisiones se 
+revisan cada periodo y se ajustan para reflejar la mejor estimación que se tenga a la fecha de los estados 
+financieros. Cuando el efecto del valor del dinero en el tiempo es importante, el monto de la provisión es 
+el valor presente de los gastos que se espera incurrir para cancelarla. 
+ 
+m. Pasivos y activos contingentes 
+Los pasivos contingentes son obligaciones posibles que no se reconocen en los estados financieros. 
+Estos se revelan en notas a los estados financieros, a menos que la posibilidad de que se desembolse 
+un flujo económico sea remota. Un activo contingente no se reconoce en los estados financieros, no 
+obstante, cuando la realización del ingreso sea prácticamente cierta, el activo correspondiente no es de 
+carácter contingente, y por tanto es apropiado proceder a reconocerlo. pero se revela cuando su grado 
+de contingencia es probable. 
+ 
+n. Utilidad por acción 
+La utilidad por acción básica y diluida se calcula dividiendo la utilidad neta entre el promedio ponderado 
+del número de acciones comunes en circulación durante el periodo. Las acciones que provienen de la 
+capitalización de utilidades constituyen una división de acciones y; por lo tanto, para el cálculo del 
+promedio ponderado de acciones se considera que esas acciones siempre estuvieron en circulación. Al 
+31 de diciembre de 2020, CMAC Cusco no tiene instrumentos financieros con efecto dilutivo, por lo que 
+las utilidades por acción básica y diluida son las mismas. 
+ 
+3.- Transacciones en moneda extranjera: 
+De acuerdo con las disposiciones legales vigentes, las operaciones en moneda extranjera se efectúan 
+a través del Sistema Financiero Nacional a las tasas de cambio fijadas por el mercado libre. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 18 | vecina =====
+18 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+El tipo de cambio para la contabilización del activo y pasivo en moneda extranjera fijado por la 
+Superintendencia de Banca y Seguros y AFPs al 31 de diciembre de 2020 fue de S/ 3.621 por cada 
+dólar.  
+ 
+A continuación, se presenta el detalle de los activos y pasivos de CMAC Cusco en moneda extranjera, 
+expresados en dólares estadounidenses: 
+ 
+Activo 
+Dic-20  Dic-19 
+US/. 000  US/. 000 
+Disponible 36,192  40,111 
+Colocaciones 13,748  13,474 
+Cuentas por cobrar 4,031  7,653 
+Otros activos 6  15 
+TOTAL 53,977  61,254 
+    
+Pasivo 31/12/2020  31/12/2019 US$ 000  US$ 000 
+Obligaciones con el público 51,237  59,945 
+Depósitos en Empresas del Sistema Financiero 260  0 
+Cuentas por pagar 1,890  3,139 
+Otros pasivos 262  75 
+TOTAL 53,649  63,159 
+      
+POSICIÓN ACTIVA (PASIVA) NETA 328  -1,905 
+ 
+4.- Disponible: 
+ 
+El disponible de CMAC Cusco se compone de la siguiente manera: 
+Rubros dic-20 dic-19 Variación   Variación 
+ S/ S/ S/ %      
+Caja 113,072,590 97,686,862 15,385,728 15.75% 
+Banco Central de Reserva del Perú 168,740,190 114,297,697 54,442,493 47.63% 
+Bancos y otras empresas del Sistema 
+Financiero 279,191,215 438,936,953 -159,745,738 -36.39% 
+Canje 579733 325192 254,541 78.27% 
+Otras disponibilidades  1,223,233 493260 729,973 147.99% 
+         
+Total fondos Disponibles  562,806,961 651,739,964 -88,933,003 -13.65% 
+    
+Los fondos disponibles incluyen S/108’207,309  US$ 16’764,358, al 31 de diciembre 2020, que forman 
+parte del encaje legal que CMAC Cusco debe mantener por sus obligaciones con el público. Estos 
+fondos están depositados en las bóvedas de la CMAC CUSCO y en el Banco Central de Reserva del 
+Perú (BCRP) y se mantienen dentro de los límites fijados por las disposiciones vigentes 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 24 | vecina =====
+24 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+9.- Participaciones 
+ 
+Al 31 de diciembre 2020, se compone de la siguiente manera:  
+ 
+Rubros Dic-20  Dic-19  Variación    Variación 
+       % 
+Aportes al FOCMAC 1,595,223  1,549,297  45,926  2.96%             
+TOTAL  1,595,223  1,549,297  45,926  2.96% 
+ 
+La CMAC Cusco S.A. mantiene una participación patrimonial del 3.81 % en el Fondo de Cajas 
+Municipales de Ahorro y Crédito (FOCMAC), que asciende a S/ 1’595,223 al 31 de diciembre del 2020. 
+La inversión en FOCMAC se registra al costo, ésta inversión no corresponde a una empresa subsidiaria 
+ni asociada. El FOCMAC es una institución de segundo piso, especializada en apoyar financieramente 
+en el desarrollo de las Cajas Municipales de Ahorro y Crédito e Instituciones Micro financieras. 
+ 
+10.- Inmuebles, mobiliario y equipo, neto: 
+ 
+A continuación, se presenta el movimiento de inmuebles, mobiliario y equipo y su depreciación 
+acumulada por el periodo terminado el 31 de diciembre 2020: 
+ 
+Costo  Saldo al 01 de enero  Adiciones  Retiros  Saldo al cierre         
+Terrenos 17,799,443 
+ 
+7,086,045 
+ 
+         
+(632,949)  24,252,539 
+Edificios 20,955,513  822,250    21,777,763 
+Instalaciones 8,545,667  596,796    9,142,463 
+Mobiliario 7,052,290 
+ 
+1,100,203 
+ 
+           
+(67,517)  8,084,976 
+Equipos de Computación 27,585,129 
+ 
+1,446,784 
+ 
+         
+(147,610)  28,884,303 
+Otros bienes y equipos de Oficina 10,986,446 
+ 
+1,286,078 
+ 
+         
+(476,560)  11,795,964 
+Vehículos 13,582,859 
+ 
+ 
+ 
+         
+(395,303)  13,187,556 
+Obras en ejecución 1,590,360 
+ 
+3,479,081 
+ 
+      
+(4,317,996)  751,445 
+Instalaciones en propiedades 
+alquiladas 22,394,711  2,941,820           (102,721)  25,233,810             
+Total Costo 130,492,418 
+ 
+18,759,057 
+ 
+     
+(6,140,656)  143,110,819             
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 25 | puntaje 8 =====
+25 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+Depreciación acumulada Saldo al 01 de enero  Adiciones  Retiros  Saldo al cierre         
+Edificios  4,543,336  579,060                    -     5,122,396 
+Instalaciones 3,327,925  547,219                    -     3,875,144 
+Mobiliario 3,339,953 
+ 
+638,128 
+ 
+           
+(67,517)  3,910,564 
+Equipos de Computación 21,429,617 
+ 
+2,866,648 
+ 
+         
+(147,610)  24,148,655 
+Otros bienes y equipos de Oficina 7,909,173 
+ 
+1,124,969 
+ 
+         
+(476,560)  8,557,582 
+Unidades de transporte 8,159,302 
+ 
+1,799,254 
+ 
+         
+(395,303)  9,563,253 
+Instalaciones en propiedades 
+Alquiladas 11,084,528  2,634,024           (102,721)  13,615,831             
+Total depreciación 59,793,834 
+ 
+10,189,302 
+ 
+      
+(1,189,711)  68,793,425 
+            
+Valor Neto en libros 70,698,584      74,317,394 
+          
+ 
+La CMAC Cusco mantiene seguros sobre sus principales activos de acuerdo con las políticas 
+establecidas por la Gerencia. 
+ 
+a) En febrero 2020 la entidad realizo la compra de 01 inmueble de 771 m2 situado en Av. Los Incas N° 
+1721 ciudad de Cusco por soles S/ 5,462,406. 
+b) En agosto se realizó un incremento de capital por aporte de la Municipalidad Provincial del Cusco de 
+la Tiendas 9, 10 y 11 de la fracción A, el cual se encuentra aprobado por la SBS por un área de 
+141.73 m2 ubicados en la Agencia Afligidos valorizado en S/ 2,445,888. 
+c) La Gerencia Central tomo la decisión de venta del inmueble denominado La Pampilla ubicado en la 
+ciudad de Arequipa, es por ello que en aplicación a la NIIF 5 se encuentra contabilizado actualmente 
+como un Activo Mantenido para la Venta por un importe de S/632,949 
+d) Se ha realizado adquisición de:  
+a. Mobiliario por S/1,100,203 para las Agencias Vía Evitamiento, Ayacucho, San Borja, 
+Chanchamayo, Cayma, Carabayllo, Cerro Colorado, Paucartambo, Jauja, Oropesa, Tarma, 
+Jesus Maria, Yanacancha y Edificio nuevo en Av. Los incas. 
+b. Equipos de cómputo S/1,446,784 siendo los principales 35 servidores, 09 cajeros automáticos 
+y 50 computadoras de escritorio. 
+c. Otros bienes S/ 1,286,078 por compra de proyector, contador electrónico de billetes, cajas 
+fuertes, UPS, aire acondicionado.  
+d. Instalaciones en propiedades alquiladas por S/ 2,941,821 para agencias San Borja, 
+Chanchamayo, Vía Evitamiento, Cayma, Cerro Colorado, Carabayllo, Ayacucho, 
+Paucartambo, Oropesa, Tarma, Jesus Maria y Edificio nuevo en Av. Los incas. 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 26 | vecina =====
+26 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+e) La CMAC Cusco revisa periódicamente el valor residual de los activos, la vida útil y el método de 
+depreciación utilizado; con la finalidad de asegurar que sean consistentes con el beneficio económico 
+y las expectativas de vida.  
+ 
+11.- Intangibles, neto: 
+A continuación, se presenta el movimiento del activo intangible y su amortización acumulada al 31 de 
+diciembre 2020: 
+ 
+COSTO Saldo al 01 de enero  Adiciones  Retiros  Saldo al cierre 
+Software 4,243,352  805,181  -8,131  5,040,402 
+Otros Activos Intangibles 306,689  52,828  -15,622  343,895 
+Activos Intangibles en ejecución 0  24,780    24,780              4,550,041  882,789  -23,753  5,409,077         
+AMORTIZACIÓN ACUMULADA Saldo al 01 de enero  Adiciones  Retiros  Saldo al cierre 
+Amortización de Software 2,627,059  802,137  -8,131  3,421,065 
+Amortización y deterioro de Otros Activos 
+Intangibles 169,439  51,412  -15,622  205,229              2,796,498  853,549  -23,753  3,626,294 
+          
+VALOR NETO 1,753,543      1,782,783 
+          
+ 
+12.- Impuesto diferido. 
+ 
+A continuación, se presenta el movimiento del impuesto diferido: 
+ 
+ Dic-20  Dic-19  Variación    Variación 
+Rubros       % 
+Activo por Impuesto a la Renta Diferido 28,187,450  24,272,549  3,914,901  16.13% 
+            
+TOTAL 28,187,450  24,272,549  3,914,901  16.13% 
+ 
+ 
+La CMAC CUSCO está sujeta al régimen tributario peruano. La tasa del impuesto a la renta es 
+del 29.50% (vigente a partir del 01 de enero de 2017 según se establece en el Decreto Legislativo N° 
+1261) sobre la utilidad gravable.  
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 27 | puntaje 7 =====
+27 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+13.- Activos no corrientes disponibles para la venta 
+ 
+Rubros Dic-20  Dic-19 
+    
+Inmuebles  632,949   
+      
+TOTAL 632,949                    -    
+ 
+La Gerencia Central tomo la decisión de venta del inmueble denominado La Pampilla ubicado en la 
+ciudad de Arequipa, es por ello que en aplicación a la NIIF 5 se encuentra contabilizado actualmente 
+como un Activo mantenido para la Venta. 
+ 
+14.- Impuestos corrientes. 
+ 
+Se muestra la composición de este rubro al 31 de diciembre 2020. 
+ 
+Rubros Dic-20  Dic-19  Variación    Variación 
+       % 
+Impuesto a la Renta 18,139,118  1,942,440  16,196,678  833.83% 
+Impuesto General a las Ventas -1,063,432  -563,587  -499,846  88.69%             
+TOTAL 17,075,686  1,378,853  15,696,832  1,138.40% 
+ 
+Esta variación se debe que para este año se tiene saldo a favor de impuesto a la renta e ITAN por 
+compensar. 
+ 
+15.- Otros activos  
+Al 31 de diciembre 2020, este rubro incluye lo siguiente: 
+ 
+Rubros Dic-20  Dic-19  Variación    Variación 
+       % 
+Seguros pagados por anticipado 1,920,352  2,689,869  -769,518  -28.61% 
+Alquileres pagados por anticipado 438,878  399,492  39,386  9.86% 
+Suscripciones 1,047  6,133  -5,086  -82.93% 
+Comisiones por servicios pagados por Anticipado 326,457  180,833  145,624  80.53% 
+Entregas a rendir cuenta 1,520  36,158  -34,638  -95.80% 
+Útiles de oficina 1,162,209  1,405,428  -243,219  -17.31% 
+Otros 8,539,676  8,852,503  -312,827  -3.53% 
+Operaciones en trámite 1,841,647  3,173,446  -1,331,799  -41.97% 
+            
+TOTAL 14,231,784  16,743,862  -2,512,077  -15.00% 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2020_Individual_Anual_DICTAMEN SAE 2020.pdf | PAGINA: 28 | vecina =====
+28 
+JIMÉNEZ & ASOCIADOS SOCIEDAD CIVIL 
+               SOCIEDAD DE AUDITORÍA 
+ 
+Informe Dictamen de los Estados Financieros 
+Periodo Económico 2020 
+CAJA MUNICIPAL DE AHORRO Y CRÉDITO CUSCO S.A. 
+En la partida otros activos el rubro operaciones en trámite disminuyo principalmente en el saldo 
+pendiente de las operaciones Globokas, adicionalmente se tiene otra disminución importante en los 
+seguros pagados por anticipado debido al devengo de los que vencían el mes de diciembre 2020. 
+ 
+16.- Obligaciones con el público 
+Al 31 de diciembre 2020, este rubro incluye lo siguiente: 
+ 
+Captaciones a corto plazo Dic-20  Dic-19  Variación    Variación 
+       % 
+Obligaciones a la vista 349,706  179,079  170,627  95.28% 
+Obligaciones por cuentas de ahorro 1,022,319,597  795,407,351  226,912,246  28.53% 
+Obligaciones por cuentas a plazo 776,492,878  712,413,380  64,079,498  8.99% 
+Otras Obligaciones 118,683,210  129,482,931  -10,799,721  -8.34% 
+            
+Total 1,917,845,391  1,637,482,741  280,362,650  17.12%         
+Captaciones a largo plazo Dic-20  Dic-19  Variación    Variación 
+       % 
+Obligaciones por cuentas a plazo 1,415,229,781  1,461,451,989  -46,222,208  -3.16%             
+Total 1,415,229,781  1,461,451,989  -46,222,208  -3.16%             
+Total captaciones 3,333,075,172  3,098,934,730  234,140,442  7.56% 
+ 
+ 
+Las obligaciones con el público representan obligaciones contraídas por operaciones normales 
+derivadas de la captación de recursos del público en diversas modalidades. La tasa de interés que 
+devengan los depósitos de ahorros y a plazo en sus diferentes modalidades, es fijada por la empresa, 
+tomando en cuenta la tasa promedio del mercado financiero, el monto, el plazo y la moneda del depósito. 
+ 
+Al 31 de diciembre 2020, la tasa anual de interés para depósitos en moneda nacional fluctúa entre 0.00% 
+como la tasa mínima la cual aplica para cuentas de ahorro Recaudadora a Nivel Nacional y como tasa 
+máxima 6.50% para cuentas CTS con cuenta sueldo a Nivel Nacional; para moneda extranjera fluctúa 
+entre 0.00% como tasa mínima para cuentas de ahorro Recaudadora a Nivel Nacional y 0.30% como 
+tasa máxima para cuentas Ahorro Infantil a Nivel Nacional. 
+ 
+Al 31 de diciembre 2020, el promedio trimestral sujeto a cobertura del Fondo de Seguro de Depósito 
+ascendió a S/2,389,848,171 y en US$ 34,827,473. 
+ 
+17.- Depósitos de empresas del sistema financiero. 
+ Al 31 de diciembre 2020, este rubro incluye lo siguiente: 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 29 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+20 
+Al 31 de diciembre de 2021 y de 2020, la Caja mantiene inversiones clasificadas en la categoría 
+de inversiones disponibles para la venta e inversiones a vencimiento. 
+ 
+(i) Inversiones disponibles para la venta - 
+Son aquellas designadas como tales debido a que se mantienen por un tiempo indefinido y 
+pueden ser vendidas debido a necesidades de liquidez o cambios en la tasa de interés, 
+tipos de cambio o en el precio de capital; o no califican para ser registradas como a valor 
+razonable con efecto en resultados o mantenidas hasta su vencimiento.  
+ 
+En esta categoría se incluyen todos los instrumentos de inversión que no se encuentren 
+clasificados como inversiones a valor razonable con cambios en resultados, inversiones a 
+vencimiento o inversiones en subsidiarias, asociadas y participaciones en negocios 
+conjuntos; es decir, es una categoría residual. 
+ 
+(ii) Inversiones a vencimiento –  
+Los instrumentos financieros que son clasificados dentro de esta categoría deben cumplir 
+con los siguientes requisitos: 
+ 
+- Haber sido adquiridos o reclasificados con la intención de mantenerlos hasta su 
+fecha de vencimiento, salvo los casos en los que la venta, asignación o 
+reclasificación sean permitidas por la SBS. 
+ 
+- Deberán contar con clasificaciones de riesgo de acuerdo a lo requerido por la SBS. 
+ 
+Asimismo, una entidad financiera podrá clasificar inversiones en esta categoría, sólo si 
+tiene la capacidad financiera para mantener el instrumento de inversión hasta su 
+vencimiento. Dicha capacidad deberá evaluarse al cierre de cada ejercicio anual. 
+ 
+Reconocimiento inicial y valuación – 
+(i)  Inversiones disponibles para la venta – El registro contable inicial se efectúa al valor 
+razonable, incluyendo los costos de transacción que sean directamente atribuibles a su 
+adquisición.  Su valorización corresponde al valor razonable y la ganancia o pérdida 
+originada por la variación entre el registro contable inicial y su valor razonable se 
+reconoce directamente en el patrimonio, a menos que exista un deterioro permanente en 
+su valor. Cuando el instrumento es vendido o realizado, la ganancia o pérdida, 
+previamente reconocida como parte del patrimonio, se transfiere a los resultados 
+integrales del ejercicio. 
+ 
+(ii) Inversiones a vencimiento - El registro contable inicial se efectúa al valor razonable, 
+incluyendo los costos de transacción que sean directamente atribuibles a su adquisición.  
+Su valorización corresponde al costo amortizado, utilizando el método de la tasa de 
+interés efectiva. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 30 | puntaje 6 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+21 
+Los intereses se reconocen utilizando la metodología de la tasa de interés efectiva, la cual 
+incorpora tanto los intereses que van a ser cobrados como la amortización de la prima o 
+descuento que exista en su adquisición. 
+ 
+La diferencia entre los ingresos recibidos por la enajenación de las inversiones y su valor en 
+libros se reconoce en el estado de resultados. 
+ 
+Fecha de registro de transacciones - 
+Las transacciones se registran utilizando la fecha de negociación; esto es, la fecha en la que se 
+asumen las obligaciones recíprocas que deben consumarse dentro del plazo establecido por las 
+regulaciones y usos del mercado en el que se efectúe la transacción. 
+ 
+Evaluación de deterioro – 
+La Resolución SBS N°2610-2018 modifica algunos artículos establecidos en la Resolución SBS 
+N°7033-2012 “Reglamento de Clasificación y Valorización de las Inversiones de las Empresas del 
+Sistema Financiero”, en la cual el cambio principal radica en la nueva metodología para la 
+identificación de deterioro denominada “Metodología Estándar para la Identificación del 
+Deterioro de Valor de Inversiones Disponibles para la Venta e Inversiones a Vencimiento”. Dicha 
+metodología contempla lo siguiente: 
+ 
+I. Instrumentos de deuda 
+Las empresas deben evaluar, para toda la cartera de instrumentos representativos de 
+deuda sujeta a deterioro, la ocurrencia de las siguientes situaciones: 
+ 
+1. Debilitamiento en la situación financiera o ratios financieros del emisor y de su 
+grupo económico. 
+2. Rebaja en cualquiera de las clasificaciones crediticias del instrumento o del emisor, 
+en al menos dos (02) “notches”, desde el momento que se adquirió el instrumento; 
+donde un “notch” corresponde a la diferencia mínima entre dos calificaciones de 
+riesgo dentro de una misma escala de calificación de deterioro. 
+3. Interrupción de transacciones o de un mercado activo para el activo financiero, 
+debido a dificultades financieras del emisor. 
+4. Los datos observables indican que, desde su reconocimiento inicial de un grupo de 
+activos financieros con características similares al instrumento evaluado, existe 
+una disminución medible en sus flujos futuros estimados de efectivo, aunque no 
+pueda todavía identificársela con activos financieros individuales del grupo. 
+5. Disminución del valor por cambios normativos (impositivos, regulatorios u otros 
+gubernamentales). 
+6. Disminución significativa del valor razonable por debajo de su costo amortizado. Se 
+considerará como una disminución significativa si el valor razonable a la fecha de 
+cierre ha disminuido por lo menos 40% por debajo de su costo amortizado a dicha 
+fecha. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 31 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+22 
+7. Disminución prolongada en el valor razonable. Se considerará como una 
+disminución prolongada si el valor razonable a la fecha de cierre ha disminuido por 
+lo menos 20% en comparación con el costo amortizado de doce (12) meses atrás y, 
+el valor razonable a la fecha de cierre de cada mes durante el período de doce (12) 
+meses previos, se ha mantenido siempre por debajo del costo amortizado 
+correspondiente a la fecha de cierre de cada mes. 
+ 
+En caso se cumplan por los menos dos (02) de las situaciones anteriormente descritas, se 
+considerará que existe deterioro y, por consiguiente, la empresa debe determinar el 
+importe de cualquier pérdida por deterioro de valor de acuerdo con lo establecido en el 
+artículo 10 del Reglamento. 
+ 
+En caso no se hayan dado por lo menos dos (02) de las situaciones anteriormente 
+descritas, bastará con que se presente algunas de las siguientes situaciones específicas 
+para considerar que existe deterioro: 
+ 
+1. Incumplimiento de las cláusulas contractuales, tales como la interrupción en el 
+pago de intereses o capital. 
+2. Renegociación de las condiciones contractuales del instrumento por factores 
+legales o problemas financieros vinculados al emisor. 
+3. Evidencia de que el emisor está en proceso de reestructuración forzosa o quiebra. 
+4. Cuando se reduzca la clasificación de riesgo de un instrumento que estaba 
+clasificado como grado de inversión, hacia una clasificación que resulte por debajo 
+del grado de inversión.  
+ 
+Al 31 de diciembre de 2021, la Caja ha reconocido pérdida por deterioro sobre 
+instrumentos de deuda. 
+ 
+II. Instrumento de capital 
+Las empresas deben evaluar, para los instrumentos representativos de capital sujetos a 
+deterioro, la ocurrencia de las siguientes situaciones: 
+ 
+1. Cuando se reduzca la clasificación de riesgo de un instrumento de deuda del emisor 
+que estaba clasificado como grado de inversión, hacia una clasificación que resulte 
+por debajo del grado de inversión. 
+2. Se han producido cambios significativos en el entorno tecnológico, de mercado, 
+económico o legal en que opera el emisor, que pueden tener efectos adversos en la 
+recuperación de la inversión. 
+3. Debilitamiento en la situación financiera o ratios financieros del emisor y de su 
+grupo económico. 
+4. Interrupción de transacciones o de un mercado activo para el activo financiero, 
+debido a dificultades financieras del emisor. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 34 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+25 
+(i) Inmuebles, mobiliario y equipo - 
+Los inmuebles, mobiliario y equipo son registrados al costo histórico de adquisición, menos la 
+depreciación acumulada y el importe acumulado de las pérdidas por deterioro del activo de ser 
+aplicable, ver párrafo (m) siguiente. Los costos de mantenimiento y reparación se cargan a 
+resultados y toda renovación y mejora significativa se capitaliza siempre que: i) sea probable que 
+la Caja obtenga los beneficios económicos futuros derivados de la misma; y, ii) su costo pueda ser 
+valorizado con fiabilidad. El costo y la correspondiente depreciación acumulada de los activos 
+vendidos o retirados son eliminados de las cuentas respectivas y la utilidad o pérdida generada se 
+incluye en los resultados del ejercicio. 
+ 
+Las obras en curso y los bienes por recibir son registrados al costo de adquisición.  Estos bienes 
+no se deprecian hasta que se encuentren operativos. 
+ 
+Los terrenos no se deprecian. La depreciación de los otros activos que conforman este rubro es 
+calculada siguiendo el método de línea recta, a fin de asignar el costo durante su vida útil 
+estimada, como sigue: 
+ 
+ Años 
+  
+Edificios y otras construcciones 30 a 50 años 
+Instalaciones Entre 3 a 10 años 
+Mobiliario y equipo 10 años 
+Equipos de cómputo Entre 4 -5 años 
+Otros bienes y equipos Entre 2 - 25 años 
+Unidades de transporte 5 años 
+Instalaciones en locales alquilados Entre 2 y 10 años 
+ 
+El valor residual, la vida útil y el método de depreciación se revisan periódicamente para asegurar 
+que el método y el período de la depreciación sean consistentes con el beneficio económico 
+futuro y las expectativas de vida de las partidas de inmuebles, mobiliario y equipo. 
+ 
+Los costos de mantenimiento y reparación se cargan a resultados; toda renovación o mejora se 
+capitaliza únicamente cuando los desembolsos mejoran la condición del activo. El costo y la 
+correspondiente depreciación de los activos vendidos o retirados son eliminados de las cuentas 
+respectivas y la utilidad o pérdida generada se incluye en los resultados del ejercicio. 
+ 
+Las Cajas Municipales de Ahorro y Crédito que operan en el sistema financieros peruano están 
+prohibidos de dar en garantía los bienes de su activo fijo, salvo los adquiridos en operaciones de 
+arrendamiento financiero. 
+ 
+(j) Arrendamiento operativo - 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Caja actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 35 | puntaje 17 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+26 
+(k) Bienes realizables, recuperados, recibidos en pago y adjudicados y otros – 
+Los bienes adjudicados (incluidos en el rubro de “Otros activos” del estado de situación 
+financiera) se registran inicialmente al valor de adjudicación judicial, extrajudicial, valor de 
+mercado o valor insoluto de la deuda, el menor; reconociéndose a su vez una provisión 
+equivalente al 20 por ciento del valor de adjudicación o recuperación del bien, pudiendo 
+mantenerse para este fin la provisión que se tenía constituida por el crédito relacionado. 
+ 
+Posteriormente, se constituirán provisiones adicionales siguiendo los siguientes criterios: 
+ 
+- Bienes muebles - Se constituye una provisión mensual uniforme a partir del primer mes de 
+la dación, adjudicación o recuperación, por un período de doce meses hasta alcanzar el 
+cien por ciento del valor neto de adjudicación o recuperación. 
+- Bienes inmuebles – Se constituye provisiones mensuales uniformes sobre el valor neto en 
+libros obtenido al décimo segundo mes; siempre que no se haya obtenido la prórroga de 
+seis meses contemplada en la Resolución SBS N°1535-2005, en cuyo caso se constituyen 
+provisiones mensuales uniformes sobre el valor neto en libros obtenido al décimo octavo 
+mes.  En ambos casos, las provisiones se constituyen hasta alcanzar el cien por ciento del 
+valor neto en libros en un plazo de tres años y medio, contados a partir de la fecha en la 
+cual se empezaron a constituir las provisiones mensuales. 
+ 
+La actualización anual de las valuaciones de estos bienes determinadas por un perito 
+independiente implica, de ser necesario, solo la constitución de provisiones por desvalorización. 
+ 
+(l) Activos intangibles - 
+Los activos intangibles, incluidos en el rubro “Otros activos” del estado de situación financiera, 
+son registrados al costo histórico de adquisición, menos la amortización acumulada y el importe 
+acumulado de las pérdidas por deterioro de valor del activo, de ser aplicable, ver párrafo (m) 
+siguiente. Los activos intangibles de vida limitada comprenden principalmente desarrollos y 
+adquisiciones de licencias de software utilizados en las operaciones propias de la Caja. 
+ 
+La amortización de los intangibles de vida limitada de la Caja es calculada siguiendo el método de 
+línea recta sobre la base de su vida útil estimada (5 años). Cabe señalar que, de acuerdo con la 
+Resolución SBS N°1967-2010, los activos intangibles de vida limitada se amortizan en un plazo 
+máximo de cinco años. 
+ 
+Al 31 de diciembre de 2021 y de 2020, la Caja no mantiene intangibles de vida útil ilimitada. 
+ 
+(m) Deterioro del valor de activos de larga duración - 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un activo 
+puede no ser recuperable, la Gerencia de la Caja revisa el valor de sus inmuebles, mobiliario y 
+equipo e intangibles para verificar que no existe ningún deterioro permanente en su valor.  
+Cuando el valor en libros del activo excede su valor recuperable, se reconoce una pérdida por 
+deterioro en el estado de resultados integrales para los rubros de inmuebles, mobiliario y equipo 
+e intangibles. El valor recuperable es el mayor entre el precio de venta neto y su valor en uso.  El 
+precio de venta neto es el monto que se puede obtener en la venta de un activo en un mercado 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 36 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+27 
+libre, mientras que el valor en uso es el valor presente de los flujos futuros estimados del uso 
+continuo de un activo y de su disposición al final de su vida útil.  Los importes recuperables se 
+estiman para cada activo o, si no es posible, para la unidad generadora de efectivo. 
+ 
+En opinión de la Gerencia, no existe evidencia de deterioro en el valor de dichos activos al 31 de 
+diciembre de 2021 y de 2020. 
+ 
+(n) Valores, títulos, adeudos y obligaciones en circulación - 
+El pasivo por adeudos y la emisión de valores, títulos y obligaciones en circulación incluidos en el 
+rubro de “Adeudos y obligaciones financieras” del estado de situación financiera, es 
+contabilizado a su valor nominal, reconociéndose los intereses devengados en los resultados del 
+ejercicio. Cuando sea aplicable, los descuentos otorgados o los ingresos generados en su 
+colocación son diferidos y se presentan netos de su valor de emisión, y se amortizan durante el 
+plazo de vigencia de los valores, títulos y obligaciones en circulación relacionados utilizando el 
+método de la tasa de interés efectiva. 
+ 
+(o) Impuesto a la renta - 
+El impuesto a la renta corriente se calcula sobre la base de la renta imponible determinada para 
+fines tributarios, la cual es determinada utilizando criterios que difieren de los principios 
+contables que utiliza la Caja.  
+ 
+Asimismo, la Caja ha registrado el impuesto a la renta diferido considerando los lineamientos de 
+la NIC 12 – Impuestos a las Ganancias. El impuesto a la renta diferido refleja los efectos de las 
+diferencias temporales entre los saldos de activos y pasivos para fines contables y los 
+determinados para fines tributarios; y se reconoce utilizando el método del pasivo sobre dichas 
+diferencias temporales. 
+ 
+Los pasivos por impuesto diferido se reconocen para aquellas diferencias temporales gravables 
+(imponibles); mientras que los activos por impuesto diferido se reconocen para todas las 
+diferencias temporales deducibles en la medida en que sea probable que existan beneficios 
+futuros suficientes para que el activo diferido se pueda aplicar. 
+ 
+Los activos y pasivos por impuesto diferido se miden utilizando las tasas de impuestos que se 
+espera sean de aplicación a la renta imponible en los años en que el activo se realice o el pasivo 
+se cancele, en base a las tasas de impuestos que fueron aprobadas a la fecha del estado de 
+situación financiera. 
+ 
+La medición de los activos y pasivos diferidos reflejan las consecuencias tributarias derivadas de 
+la forma en que se espera recuperar o liquidar el valor de los activos y pasivos a la fecha del 
+estado de situación financiera. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 49 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+40 
+La composición de los saldos de la provisión para incobrabilidad de créditos directos, neta 
+registrada en el estado de resultados integrales por los años terminados el 31 de diciembre de 
+2021 y de 2020 es como sigue: 
+ 
+ 2021 2020 
+ S/(000) S/(000) 
+   
+Provisiones para incobrabilidad de créditos del ejercicio 259,720 136,175 
+Recupero de provisiones (115,402) (40,301) 
+Recupero de cuentas castigadas, nota 25.1(b) (4,994) (2,362) 
+Otras recuperaciones (174) (86)  ___________ ___________    
+Saldo al 31 de diciembre 139,150 93,426  ___________ ___________ 
+ 
+En opinión de la Gerencia de la Caja, la provisión para créditos de cobranza dudosa registrada al 
+31 de diciembre de 2021 y de 2020, se encuentra constituida de acuerdo con las normas de la 
+SBS vigentes en esas fechas. 
+ 
+(g) Los intereses, comisiones y gastos sobre créditos o cuotas que se encuentren en situación de 
+refinanciados, vencidos, en cobranza judicial, o clasificados en las categorías “Dudoso” o 
+“Pérdida”; se contabilizan como ingresos o rendimientos en suspenso y son reconocidos como 
+ingresos en el estado de resultados integrales cuando son efectivamente cobrados. Los importes 
+acumulados no reconocidos como ingresos por este concepto ascendieron a S/97,683 miles y 
+S/71,385 miles en los años 2021 y 2020, respectivamente. 
+ 
+(h) A continuación se presenta la cartera de créditos directos al 31 de diciembre de 2021 y de 2020, 
+según sus vencimientos contractuales: 
+ 
+ 2021 2020 
+ S/(000) S/(000) 
+   
+Por vencer -   
+Hasta 6 meses 241,738 162,753 
+De 6 meses a 1 año 526,366 411,784 
+De 1 a 2 años 1,076,639 728,179 
+De 2 a 5 años 2,098,366 2,245,014 
+Más de 5 años 470,684 431,335 
+   
+Vencidos y en cobranza judicial - 185,765 141,044  ___________ ___________    
+Total 4,599,558 4,120,109  ___________ ___________ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 50 | puntaje 12 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+41 
+6. Inmuebles, mobiliario y equipo, neto: 
+A continuación, se presenta el movimiento de inmuebles, mobiliario y equipo y su depreciación acumulada por el periodo terminado el 31 de diciembre 2021 y de 2020: 
+ 
+ Terrenos 
+Edificios y otras 
+construcciones Instalaciones 
+Mobiliario y  
+equipo 
+Unidades de 
+transporte 
+Equipos de 
+cómputo Obras en curso Total 
+ S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) S/(000) 
+         
+Costo         
+Saldo al 1 de enero de 2020 17,799 20,956 30,940 18,039 13,583 27,585 1,590 130,492 
+Adiciones  7,086 822 3,539 2,386 - 1,447 3,479 18,759 
+Retiros y/o bajas y otros (633) - (103) (544) (395) (148) (4,318) (6,141)  ________ ________ ________ ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre 2020  24,252 21,778 34,376 19,881 13,188 28,884 751 143,110 
+         
+Adiciones  5,351 660 1,978 1,779 1,832 2,400 4,074 18,074 
+Retiros y/o bajas  - - (14) (268) (324) (959) (2,489) (4,054)  ________ ________ ________ ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre 2021 29,603 22,438 36,340 21,392 14,696 30,325 2,336 157,130  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+        
+Depreciación acumulada         
+Saldo al 1 de enero de 2020 - 4,543 14,412 11,249 8,159 21,431 - 59,794 
+Depreciación del ejercicio - 579 3,181 1,764 1,799 2,866 - 10,189 
+Retiros y/o bajas y otros - - (103) (545) (395) (147) - (1,190)  ________ ________ ________ ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre 2020 - 5,122 17,490 12,468 9,563 24,150 - 68,793  ________ ________ ________ ________ ________ ________ ________ ________ 
+         
+Depreciación del ejercicio - 598 3,204 1,849 1,475 2,508 - 9,634 
+Retiros y/o bajas y otros - - (14) (264) (288) (959) - (1,525)  ________ ________ ________ ________ ________ ________ ________ ________ 
+Saldo al 31 de diciembre 2021 - 5,720 20,680 14,053 10,750 25,699 - 76,902  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+        
+Valor neto en libros          
+Al 31 de diciembre 2021 29,603 16,718 15,660 7,339 3,946 4,626 2,336 80,228  ________ ________ ________ ________ ________ ________ ________ ________ 
+Al 31 de diciembre 2020 24,252 16,656 16,886 7,413 3,625 4,734 751 74,317  ________ ________ ________ ________ ________ ________ ________ ________ 
+ 
+(a) Las entidades financieras establecidas en el Perú están prohibidas de dar en garantía los bienes de sus inmuebles, mobiliario y equipo. Asimismo, la Caja mantiene pólizas de seguros para cubrir los posibles 
+riesgos a que están sujetos los diversos elementos de sus inmuebles, mobiliario y equipo, considerando que dichas pólizas cubren de manera suficiente los riesgos a los que están sometidos dichos activos. 
+ 
+(b) La Gerencia revisa periódicamente el método de depreciación utilizado, con la finalidad de asegurar que sea consistente con el beneficio económico de los activos fijos.  Por otro lado, la Gerencia de la Caja 
+considera que no hay situaciones que indiquen que existe un posible deterioro en el valor de sus inmuebles, mobiliario y equipo. 
+ 
+(c) El 19 de marzo de 2021, se procedió con la venta del inmueble denominado La Pampilla ubicado en la ciudad de Arequipa por un importe de US$ 440,000. Al 31 de diciembre del 2020 en aplicación a la 
+NIIF 5 se encontraba contabilizado como un Activo Mantenido para la Venta por un importe de S/632,949. Ver nota 8
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 51 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+42 
+7. Activo diferido por impuesto a la renta, neto 
+(a) Al 31 de diciembre de 2021 y de 2020, este rubro incluye lo siguiente: 
+ 
+ Al 1 de 
+enero de 
+2020 
+(Cargo) 
+abono 
+a resultados 
+Al 31 de 
+diciembre 
+de 2020 
+(Cargo) 
+abono 
+a resultados 
+Al 31 de 
+diciembre 
+de 2021 
+ S/(000) S/(000) S/(000) S/(000) S/(000) 
+      
+Activo diferido:      
+Provisión genérica para 
+incobrabilidad de créditos 
+directos  
+17,835 1,066 18,901 5,250 24,151 
+Depreciación de inmuebles, 
+mobiliario y equipo 1,144 95 1,239 169 1,408 
+Provisión de vacaciones 3,373 (892) 2,481 1,144 3,625 
+Otros 1,921 3,646 5,567 1,543 7,110  _________ _________ _________ _________ _________ 
+Total activo diferido 24,273 3,915 28,188 8,106 36,294  __________ _________ _________ _________ _________ 
+      
+Pasivo diferido:      
+Depreciación edificios  927 146 1,073 131 1,204 
+Amortización intangibles 429 67 496 (142) 354 
+Otros 54 430 484 6 490  _________ _________ _________ _________ _________ 
+Total pasivo diferido 1,410 643 2,053 (5) 2,048  _________ _________ _________ _________ _________       
+Total activo diferido 22,863 3,272 26,135 8,111 34,246  _________ _________ _________ _________ _________ 
+ 
+(b) La composición de los saldos presentados en el estado de resultados integrales por los años 
+terminados el 31 de diciembre de 2021 y de 2020, son los siguientes: 
+ 
+ 2021 2020 
+ S/(000) S/(000) 
+   
+Corriente – Gasto 25,627 9,080 
+Diferido – Ingreso (8,111) (3,272)  ________ ________ 
+Gasto por impuesto a las ganancias 17,516 5,808  ________ ________ 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 64 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+55 
+persona natural o jurídica que tiene calidad de protector o administrador, esté domiciliado 
+en el país; c) cualquiera de las partes de un consorcio esté domiciliada en el país. Esta 
+obligación debe cumplirse mediante la presentación a la Autoridad Tributaria de una 
+Declaración Jurada informativa a través del Formulario Virtual No. 3800, el cual tuvo 
+como plazo máximo, en el caso de Principales Contribuyentes, la fecha de vencimiento de 
+las obligaciones tributarias de noviembre 2019 según lo establecido por la SUNAT 
+(Resolución de Superintendencia No. 185-2019-SUNAT).   
+ 
+(iii) Se modificó el Código Tributario con la finalidad de brindar mayores garantías a los 
+contribuyentes en la aplicación de la norma antielusiva general (Norma XVI del Título 
+Preliminar del Código Tributario); así como para dotar a la Administración Tributaria de 
+herramientas para su efectiva implementación (Decreto Legislativo N°1422). 
+ 
+Como parte de esta modificación se prevé un nuevo supuesto de responsabilidad solidaria, 
+cuando el deudor tributario sea sujeto de la aplicación de las medidas dispuestas por la 
+Norma XVI en caso se detecten supuestos de elusión de normas tributarias; en tal caso, la 
+responsabilidad solidaria se atribuirá a los representantes legales siempre que hubieren 
+colaborado con el diseño o la aprobación o la ejecución de actos o situaciones o relaciones 
+económicas previstas como elusivas en la Norma XVI. Tratándose de sociedades que 
+tengan Directorio, corresponde a este órgano societario definir la estrategia tributaria de 
+la entidad debiendo decidir sobre la aprobación o no de actos, situaciones o relaciones 
+económicas a realizarse en el marco de la planificación fiscal, siendo esta facultad 
+indelegable. Los actos, situaciones y relaciones económicas realizados en el marco de 
+planificaciones fiscales e implementados a la fecha de entrada en vigencia del Decreto 
+Legislativo N°1422 (14 de septiembre del 2018) y que sigan teniendo efectos, deben ser 
+evaluados por el Directorio de la persona jurídica para efecto de su ratificación o 
+modificación hasta el 29 de marzo de 2019, sin perjuicio de que la gerencia u otros 
+administradores de la sociedad hubieran aprobado en su momento los referidos actos, 
+situaciones y relaciones económicas.  
+ 
+Se ha establecido asimismo que la aplicación de la Norma XVI, en lo que se refiere a la 
+recaracterización de los supuestos de elusión tributaria, se producirá en los 
+procedimientos de fiscalización definitiva en los que se revisen actos, hechos o situaciones 
+producidos desde el 19 de julio de 2012. 
+ 
+Cabe señalar que, mediante el Decreto Supremo N° 145-2019-EF, se aprobaron los 
+parámetros de fondo y forma para la aplicación de la norma anti-elusiva general contenida 
+en la Norma XV del Título Preliminar del Código tributario, lo cual permitió la plena 
+vigencia y aplicación de la Norma XVI a partir del día siguiente de su publicación (6 de 
+mayo de 2019).  
+ 
+Asimismo, precisa que el dolo, la negligencia grave y el abuso de facultades a los que hace 
+alusión el tercer párrafo del Artículo 16 del Código Tributario carece de naturaleza penal. 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 65 | puntaje 9 =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+56 
+(iv) Se incluyeron modificaciones a la Ley del Impuesto a la Renta, con vigencia a partir del 1 
+de enero de 2019, para perfeccionar el tratamiento fiscal aplicable a (Decreto Legislativo 
+N°1424): 
+ 
+- Las rentas obtenidas por la enajenación indirecta de acciones o participaciones 
+representativas del capital de personas jurídicas domiciliadas en el país. Entre los 
+cambios más relevantes, se encuentra la inclusión de un nuevo supuesto de 
+enajenación indirecta, que se configura cuando el importe total de las acciones de 
+la persona jurídica domiciliada cuya enajenación indirecta se realice sea igual o 
+mayor a 40,000 UIT.  
+ 
+- Los establecimientos permanentes de empresas unipersonales, sociedades y 
+entidades de cualquier naturaleza constituidas en el exterior. A tal efecto, se han 
+incluido nuevos supuestos de establecimiento permanente, entre ellos, cuando se 
+produzca la prestación de servicios en el país, respecto de un mismo proyecto, 
+servicio o para uno relacionado, por un período que en total exceda de 183 días 
+calendario dentro de un período cualquiera de doce meses. 
+ 
+- El régimen de créditos contra el Impuesto a la Renta por impuestos pagados en el 
+exterior, para incorporar al crédito indirecto (impuesto corporativo pagado por 
+subsidiarias del exterior) como crédito aplicable contra el Impuesto a la Renta de 
+personas jurídicas domiciliadas, a fin de evitar la doble imposición económica. 
+ 
+- La deducción de gastos por intereses para la determinación del Impuesto a la Renta 
+empresarial. A tal efecto, se establecieron límites tanto a préstamos con partes 
+vinculadas, como a préstamos con terceros contraídos a partir del 14 de setiembre 
+de 2018 sobre la base del patrimonio y EBITDA. Para el ejercicio 2021, es aplicable 
+el límite de gastos financiero en base al 30% del EBITDA tributario considerando el 
+Reglamento publicado el 30 de diciembre del 2021 y los informes emitidos por la 
+Administración Tributaria, donde se realizan precisiones respecto de la normativa. 
+ 
+(v) Se han establecido normas para el devengo de ingresos y gastos para fines tributarios a 
+partir del 1 de enero de 2019 (Decreto Legislativo N° 1425). Hasta el año 2018 no se 
+contaba con una definición normativa de este concepto, por lo que en muchos casos se 
+recurría a las normas contables para su interpretación. En términos generales, con el 
+nuevo criterio, para fines de la determinación del Impuesto a la Renta ahora importará si 
+se han producido los hechos sustanciales para la generación del ingreso o gasto 
+acordados por las partes, que no estén sujetos a una condición suspensiva, en cuyo caso 
+el reconocimiento se dará cuando ésta se cumpla y no se tendrá en cuenta la oportunidad 
+de cobro o pago establecida. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-CAJA MUNICIPAL DE AHORRO Y CREDITO CUSCO S.A. - CMAC CUSCO S.A.-Individual.zip/2021_Individual_Anual_DICTAMEN Y EEFF SAE 2021 EY FINAL.pdf | PAGINA: 66 | vecina =====
+Notas a los estados financieros (continuación)  
+ 
+ 
+ 
+57 
+(g) Mediante la Ley N° 31106, publicada el 31 de diciembre de 2020, se han prorrogado hasta el 31 
+de diciembre de 2023 las exoneraciones previstas en el artículo 19 de la Ley del Impuesto a la 
+Renta. 
+ 
+(h) La autoridad tributaria tiene la facultad de revisar y, de ser aplicable, corregir el impuesto a la 
+renta calculado por la Caja en los cuatro años posteriores al año de la presentación de la 
+declaración de impuestos. Las declaraciones juradas del impuesto a la renta e impuesto general a 
+las ventas de los años 2017, 2019, 2020 y 2021 se encuentran pendientes de fiscalización por 
+parte de la Autoridad Tributaria. Durante el ejercicio 2021, se concluyó el proceso de 
+fiscalización del ejercicio 2018 y como resultado de ello, la Caja recibió la Resolución de 
+Determinación N° 092-003-0017760, de fecha 20 de diciembre de 2021, en el que se indica que 
+la Caja no tiene deuda por este concepto. 
+ 
+Debido a las posibles interpretaciones que la Autoridad Tributaria puedan dar a las normas 
+legales vigentes, no es posible determinar, a la fecha, si de las revisiones que se realicen 
+resultarán o no pasivos para la Caja por lo que cualquier mayor impuesto o recargo que pudiera 
+resultar de eventuales revisiones fiscales sería aplicado a los resultados del ejercicio en que éste 
+se determine. Sin embargo, en opinión de la Gerencia de la Caja y de sus asesores legales, 
+cualquier eventual liquidación adicional de impuestos no sería significativa para los estados 
+financieros al 31 de diciembre de 2021 y de 2020. 
+ 
+Al 31 de diciembre de 2021, la Caja registró en el estado de situación financiera una provisión 
+por impuesto a las ganancias ascendente a aproximadamente S/25,627,000, la cual se presenta 
+neta de los pagos a cuenta efectuados por aproximadamente S/17,560,000, de los cuales 
+registró S/8,067,000 en el rubro “Otros pasivos” del estado de situación financiera.  
+ 
+15. Riesgos y compromisos contingentes 
+(a)  Al 31 de diciembre 2021 y de 2020, el rubro de cuentas contingentes incluye lo siguiente 
+ 
+ 2021  2020 
+ S/(000) S/(000) 
+   
+Créditos indirectos (b):   
+Cartas fianzas otorgadas 3,806 2,932 
+Líneas de crédito no utilizadas (c) 201,341 158,539  __________ __________    
+Total cuentas contingentes, nota 6(a) 205,147 161,471  _________ _________ 
+ 
+(b) En el curso normal de sus operaciones, la Caja realiza operaciones contingentes (créditos 
+indirectos). Estas operaciones lo exponen a riesgos crediticios adicionales a los montos 
+reconocidos en el estado de situación financiera. 
+ 
+El riesgo crediticio en las operaciones contingentes está relacionado con la probabilidad de que 
+uno de los participantes del respectivo contrato no honre los términos establecidos en el mismo. 
+Los correspondientes contratos consideran los montos que la Caja asumiría por pérdidas 
+crediticias en las operaciones contingentes. 

@@ -1,0 +1,3648 @@
+EMPRESA: FINANCIERA QAPAQ S.A.
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2010_Individual_Anual_Financiera Universal Aud 31dic10 FInal.pdf | PAGINA: 9 | vecina =====
+- 8 - 
+2. POLITICAS CONTABLES SIGNIFICATIVAS 
+ 
+Las políticas contables significativas utilizadas por la Financiera en la preparación y 
+presentación de sus estados financieros se detallan a continuación. Estas políticas han sido 
+aplicadas uniformemente en todos los años presentados, a menos que se indique lo 
+contrario. 
+ 
+(a) Base de preparación y presentación 
+ 
+Los estados financieros se preparan y presentan de acuerdo con las disposiciones legales y 
+los principios de contabilidad generalmente aceptados en el Perú aplicables a entidades 
+financieras, los cuales comprenden las normas y prácticas contables autorizadas por la SBS 
+en uso de sus facultades delegadas conforme a lo dispuesto en la Ley General. Las normas 
+señaladas están contenidas en el Manual de Contabilidad para Empresas del Sistema 
+Financiero (en adelante el Manual de Contabilidad) aprobado por Resolución SBS N°895-
+98 del 1° de setiembre de 1998, vigente a partir del 1° de enero de 2001 y normas 
+complementarias. 
+ 
+La SBS ha establecido que en caso de existir situaciones no previstas en dichas normas, se 
+aplica lo dispuesto en los Principios de Contabilidad Generalmente Aceptados (PCGA) en 
+Perú y, en aquellos casos no contemplados por estos, se aplican los PCGA vigentes en 
+Estados Unidos de América, emitidos por la Financial Accounting Standards Board 
+(FASB). 
+ 
+Los PCGA en Perú comprenden: (a) las Normas e Interpretaciones emitidas o adoptadas 
+por el IASB (International Accounting Standards Board), las cuales incluyen las Normas 
+Internacionales de Información Financiera (NIIF), las Normas Internacionales de 
+Contabilidad (NIC), y las Interpretaciones emitidas por el Comité de Interpretaciones de las 
+Normas Internacionales de Información Financiera (CINIIF), o por el anterior Comité 
+Permanente de Interpretación (SIC) - adoptadas por el IASB, oficializadas por el Consejo 
+Normativo de Contabilidad (CNC) para su aplicación en Perú y (b) para entidades 
+reguladas por la SBS, diferir el desreconocimiento de la participación de trabajadores 
+diferida y la presentación como gasto de personal hasta el 31 de diciembre de 2011 (Nota 
+15). 
+ 
+Las normas oficializadas en Perú por el Consejo Normativo de Contabilidad (CNC) al 31 de 
+diciembre de 2010, son las versiones vigentes internacionalmente a la fecha de aprobación 
+del CNC y que corresponde a las NIIF de la 1 a la 8, las NIC de la 1 a la 41, las CINIIF 1 a 
+la 14, las SIC de la 1 a la 32 (excepto las derogadas). 
+ 
+Las Normas e Interpretaciones antes mencionadas serán aplicables a la Financiera cuando la 
+SBS lo disponga, o cuando se presenten situaciones no previstas en el Manual de 
+Contabilidad, o bien a través del proceso de armonización a NIIF que viene desarrollando la 
+SBS, recogiendo sus lineamientos en dicho Manual.  
+ 
+En la preparación y presentación de los estados financieros adjuntos, la Gerencia de la 
+Financiera ha observado el cumplimiento de las normas de la SBS vigentes en el Perú al 31 
+de diciembre de 2010 y de 2009. 
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2010_Individual_Anual_Financiera Universal Aud 31dic10 FInal.pdf | PAGINA: 10 | puntaje 7 =====
+- 9 - 
+Se ha publicado internacionalmente las siguientes normas y modificaciones a las 
+normas e interpretaciones existentes emitidas o adoptadas por el IASB, las cuales 
+podrían tener impacto en los estados financieros de 2012 para las entidades 
+supervisadas por la SBS. 
+ 
+Marco Conceptual (revisado septiembre 2010). 
+NIIF 1 “Adopción por primera vez de las NIIF” (revisada mayo 2010). 
+NIIF 2 “Pagos basados en acciones” (revisada junio 2009). 
+NIIF 3 “Combinaciones de negocios” (revisada mayo 2010). 
+NIIF 5 “Activos no corrientes mantenidos para la venta y operaciones discontinuadas” 
+(revisada abril 2009). 
+NIIF 7 “Instrumentos financieros: información a revelar” (revisada mayo 2010). 
+NIIF 8 “Segmentos de Operación” (revisada abril 2009). 
+NIC 1 “Presentación de estados financieros” (revisada mayo 2010). 
+NIC 7 “Estado de Flujos de Efectivo” (revisada abril 2009). 
+NIC 16 “Propiedades, planta y equipo” (revisada mayo 2008). 
+NIC 17 “Arrendamientos” (revisada abril 2009). 
+NIC 18 “Ingresos de actividades ordinarias” (revisada abril 2009). 
+NIC 19 “Beneficios a los empleados” (revisada mayo 2008). 
+NIC 23 “Costos por préstamos” (revisada mayo 2008). 
+NIC 24 “Información a revelar sobre Partes Relacionadas” (revisada noviembre 2009).  
+NIC 27 “Estados financieros consolidados y separados” (revisada mayo 2010). 
+NIC 28 “Inversiones en asociadas” (revisada mayo 2008). 
+NIC 29 “Información financiera en economías hiperinflacionarias” (revisada mayo 2008). 
+NIC 31 “Participación en negocios conjuntos” (revisada mayo 2008). 
+NIC 32 “Instrumentos Financieros: Presentación” (revisada octubre 2009). 
+NIC 34 “Información Financiera Intermedia” (revisada mayo 2010). 
+NIC 36 “Deterioro del valor de los activos” (revisada abril 2009). 
+NIC 38 “Activos intangibles” (revisada abril 2009). 
+NIC 39 “Instrumentos financieros: reconocimiento y medición” (revisada abril 2009). 
+CINIIF 8 “Alcance de la NIIF 2” (revisada en junio 2009). 
+CINIIF 9 “Nueva evaluación de Derivados Implícitos” (revisada abril 2009). 
+CINIIF 11 “NIIF 2 – Transacciones con acciones propias y del Grupo” (revisada junio 
+2009). 
+CINIIF 13 “Programas de Fidelización de Clientes” (revisada mayo 2010). 
+CINIIF 14 “NIC 19 -  El Límite en un activo por beneficios definidos, obligación de 
+mantener un nivel mínimo de financiación y su interacción” (revisada noviembre 2009). 
+CINIIF 15 “Acuerdos para la construcción de inmuebles” (emitida julio 2008). 
+CINIIF 16 “Coberturas de una inversión neta en un negocio en el extranjero” (revisada abril 
+2009). 
+CINIIF 17 “Distribuciones, a propietarios de activos, distintos al efectivo” (emitida 
+noviembre 2008). 
+CINIIF 18 “Transferencia de Activos de Clientes” (emitida enero 2009). 
+CINIIF 19 “Cancelación de pasivos financieros con instrumentos de patrimonio” (emitida 
+noviembre 2009). 
+ 
+La Gerencia de la Financiera está evaluando el impacto que estas Normas tendrán en los 
+estados financieros de 2011 en adelante.  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2010_Individual_Anual_Financiera Universal Aud 31dic10 FInal.pdf | PAGINA: 11 | vecina =====
+- 10 - 
+Nuevos Pronunciamientos Contables aprobados Internacionalmente a ser aplicados 
+después del año 2011 
+ 
+NIIF 1 “Adopción por primera vez de las NIIF” (revisada diciembre 2010). 
+NIIF 7 “Instrumentos financieros: información a revelar” (revisada octubre 2010). 
+NIIF 9 “Instrumentos Financieros: clasificación y medición” (emitida noviembre 2009). 
+NIC 12 “Impuesto a las ganancias” (revisada diciembre 2010). 
+ 
+(b) Moneda funcional y moneda de presentación 
+ 
+La Financiera prepara y presenta sus estados financieros en nuevos soles (S/.), que es la 
+moneda funcional. La moneda funcional es la moneda del entorno económico principal en 
+el que opera. 
+ 
+(c) Uso de estimaciones 
+ 
+La preparación de los estados financieros requiere que la Gerencia realice estimaciones y 
+supuestos para la determinación de saldos de activos, pasivos y montos de ingresos y 
+gastos, y para revelación de activos y pasivos contingentes, a la fecha de los estados 
+financieros. Si más adelante ocurriera algún cambio en las estimaciones o supuestos debido 
+a variaciones en las circunstancias en las que estuvieron basadas, el efecto del cambio sería 
+incluido en la determinación de la utilidad o pérdida neta del ejercicio en que ocurra el 
+cambio, y de ejercicios futuros de ser el caso. Las estimaciones significativas relacionadas 
+con los estados financieros corresponden a la provisión para incobrabilidad de créditos, la 
+vida útil asignada a mobiliario y equipo e intangibles, el impuesto a la renta y participación 
+de los trabajadores diferido 
+ 
+(d) Provisión para la cartera de créditos 
+ 
+La provisión para incobrabilidad de la cartera de créditos se determina de acuerdo con los 
+criterios y porcentajes establecidos en la Resolución SBS Nº 11356-2008 “Reglamento para 
+la Evaluación y Clasificación del Deudor y la Exigencia de Provisiones” publicada en 
+noviembre de 2008 y sus modificatorias la resolución SBS N° 14353-2009 publicada el 30 
+de octubre de 2009 y la resolución SBS N° 1445-2010 publicada el 9 de febrero de 2010. 
+ 
+La SBS ha establecido criterios cuantitativos (nivel de venta y endeudamiento en el sistema 
+financiero) y cualitativos para clasificar por tipo y por categorías la cartera de créditos 
+directos e indirectos.  Hasta junio de 2010 la segmentación de la cartera de créditos se 
+efectuaba en cuatro categorías (comerciales, microempresas, consumo e hipotecario para 
+vivienda). A partir de julio de 2010, la nueva segmentación se señala a continuación:  
+ 
+1. Corporativo 
+2. Grandes empresas 
+3. Medianas empresas 
+4. Pequeñas empresas 
+5. Microempresas 
+6. Consumo revolvente 
+7. Consumo no-revolvente 
+8. Hipotecarios para vivienda 
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Financiera Qapaq 31dic15.pdf | PAGINA: 19 | vecina =====
+- 17 - 
+Otras categorías y por tipo de garantías 
+ 
+Categoría de riesgo  
+Sin 
+garantía  
+Garantía 
+preferida  
+Garantía 
+preferida de 
+muy rápida 
+realización 
+       
+Con problemas potenciales  5.00%  2.50%  1.25% 
+Deficiente  25.00%  12.50%  6.25% 
+Dudoso  60.00%  30.00%  15.00% 
+Pérdida  100.00%  60.00%  30.00% 
+ 
+Las provisiones por créditos indirectos se calculan luego de ajustar los saldos a través de la 
+aplicación de los siguientes factores de conversión crediticia. 
+ 
+Créditos indirectos  
+Factor de 
+conversión 
+   
+(a) Confirmaciones de cartas de crédito irrevocables de hasta un año, 
+cuando el Banco emisor sea una empresa del sistema financiero del 
+exterior de primer nivel. 
+  
+20% 
+ 
+(b) Emisiones de cartas fianzas que respalden obligaciones de hacer y no 
+hacer. 
+  
+50% 
+ 
+(c) Emisiones de avales, cartas de crédito de importación y cartas fianzas 
+no incluidas en el literal "b)", y las confirmaciones de cartas de crédito 
+no incluidas en el literal "a)", así como las aceptaciones bancarias. 
+  
+100% 
+ 
+(d) Créditos concedidos no desembolsados y líneas de crédito no utilizadas. 
+  
+0% 
+ 
+(e) Otros créditos indirectos no contemplados en los literales anteriores.  100% 
+ 
+(g) Inmuebles, mobiliario y equipo 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos atribuibles a 
+su adquisición, y se presentan netos de depreciación y de pérdida por deterioro acumuladas, si 
+hubiera. La depreciación anual se reconoce como gasto y se determina sobre el costo, siguiendo el 
+método de línea recta en base a la vida útil estimada de los activos, representada por tasas de 
+depreciación equivalentes, según la siguiente tabla: 
+ 
+ Años 
+  
+Edificios 33 
+Instalaciones 10 - 33 
+Mejoras en propiedades alquiladas 10 
+Muebles y enseres 10 
+Unidades de transporte 5 
+Equipos de cómputo 4 
+ 
+PDF impreso el 15 de marzo de 2016
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Financiera Qapaq 31dic15.pdf | PAGINA: 20 | puntaje 16 =====
+- 18 - 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan como 
+costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y es probable 
+que tales desembolsos resulten en beneficios económicos futuros superiores al rendimiento normal 
+evaluado originalmente para dicho activo. Los desembolsos para mantenimiento y reparaciones se 
+reconocen como gasto del período en el que son incurridos. Cuando un activo fijo se vende o es 
+retirado del uso, su costo y depreciación acumulada se eliminan y la ganancia o pérdida resultante 
+de la venta se reconoce en el estado de resultados y otro resultado integral. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en libros 
+del activo es mayor que su valor de uso. 
+ 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la Financiera 
+es el costo.  
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo los 
+adquiridos en operaciones de arrendamiento financiero. 
+ 
+(h) Arrendamiento operativo 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+(i) Bienes realizables, recibidos en pago y adjudicados 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o parcial de 
+deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el contrato de 
+dación en pago.  
+ 
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento de 
+bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las siguientes 
+provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes muebles e 
+inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un dieciochoavo 
+(1/18) del costo en libros de los bienes menos la provisión inicial. 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al valor neto 
+obtenido en el 12avo mes. Anualmente el valor neto en libros de los bienes inmuebles es 
+comparado con el valor de realización determinado por un perito independiente y, en el caso 
+que este valor sea menor, se constituye una provisión por desvalorización. 
+ 
+(j) Plusvalía – Intangible de vida indefinida 
+ 
+La plusvalía, resultante en la adquisición de Profinanzas corresponde al exceso de las 
+contraprestaciones otorgadas (incluyendo el valor de cualquier participación no controladora y el 
+valor razonable de cualquier participación previa poseída), sobre el valor razonable neto de los 
+PDF impreso el 15 de marzo de 2016
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Financiera Qapaq 31dic15.pdf | PAGINA: 21 | vecina =====
+- 19 - 
+activos, pasivos y pasivos contingentes identificables de Profinanzas reconocidos a la fecha de 
+adquisición. La plusvalía es inicialmente reconocida como un activo al costo, y subsecuentemente 
+presentada al costo menos cualquier pérdida acumulada por deterioro.  
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de resultados y 
+otro resultado integral del período en que se produce. Una pérdida por deterioro de valor reconocida 
+en la plusvalía comprada no es revertida en los periodos posteriores. 
+ 
+(k) Activos Intangibles - Vida limitada 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización acumulada y cualquier pérdida acumulada por deterioro, si la 
+hubiera. La amortización es reconocida como gasto y se determina siguiendo el método de línea 
+recta en base a la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada 
+como sigue: 
+ 
+ Años 
+  
+Marca (Nota 3 (a)) 7 
+Lista de clientes  8 
+Software 5 
+Otros 5 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son reconocidos 
+como gasto cuando se incurren. Los costos que se asocian directamente con la producción de 
+programas de cómputo únicos e identificables controlados por la Financiera, y que probablemente 
+generarán beneficios económicos más allá de su costo por más de un año, se reconocen como 
+activos intangibles y se aplica a resultados en función al plazo de vigencia estimado. 
+ 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el costo. 
+ 
+De acuerdo a lo aprobado por la SBS en el Oficio Múltiple N° 12594-2013, de fecha 22 de marzo de 
+2013, el intangible Lista de Clientes inició su amortización a partir de enero de 2013. 
+ 
+(l) Deterioro de activos no financieros 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el valor 
+de un activo pueda no ser recuperable, la Financiera revisa el valor de los activos de larga duración 
+para verificar que no existe ningún deterioro. Cuando el valor en libros del activo de larga duración 
+excede su valor recuperable se reconoce una pérdida por desvalorización en el estado de resultados 
+y otro resultado integral, para los activos mantenidos al costo. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso. El valor de venta es 
+el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; mientras 
+que el valor de uso, es el valor presente de la estimación de los flujos de efectivo futuros que se 
+prevé resultará del uso continuo de un activo así como de su disposición al final de su vida útil. Los 
+importes recuperables se estiman para cada activo. 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna si se produce un cambio 
+en los estimados que se utilizaron en la última oportunidad en que se reconoció dicha pérdida. 
+ 
+ 
+PDF impreso el 15 de marzo de 2016
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Financiera Qapaq 31dic15.pdf | PAGINA: 31 | vecina =====
+- 29 - 
+(f) Cartera de créditos adquirida a Edpyme Acceso Crediticio S.A.  
+ 
+En 2015, la Financiera celebró un contrato de transferencia de cartera crediticia en la 
+modalidad de cesión de derechos con Edpyme Solidaridad y Desarrollo Empresarial S.A.C.; a 
+través de la cual se establecen los términos y condiciones para la transferencia de cartera 
+crediticia. La cartera crediticia debe contar con las siguientes características: 
+ 
+- Clasificación Normal en no menos del 95%.  
+- Con Problemas Potenciales (CPP) hasta el 5%.  
+- No debe ser cartera refinanciada.  
+ 
+La Financiera adquirió cartera de créditos de Edpyme Solidaridad y Desarrollo Empresarial 
+S.A.C. por un saldo capital total de S/.4 millones, cuyo precio de transferencia es de S/.4.3 
+millones 
+ 
+En 2014, la Financiera celebró un contrato marco de transferencia de cartera crediticia en la 
+modalidad de cesión de derechos con Edpyme Acceso Crediticio S.A., a través del cual se 
+establecen los términos y condiciones que regularán las transferencias de carteras de créditos 
+que celebren la Financiera y Edpyme Acceso Crediticio S.A. Dicho contrato establece que la 
+cartera adquirida por la Financiera debe estar conformada por deudores que cumplan las 
+siguientes características: 
+ 
+- Clasificación será 100% “Normal” en el último período reportado, según las 
+regulaciones emitidas por la SBS, pudiendo aceptarse deudores no bancarizados. 
+ 
+- No podrán tener una clasificación igual o peor a “Deficiente” en los últimos 6 meses 
+reportados, según regulación SBS. 
+ 
+- No podrán tener una clasificación igual o peor a “Dudoso” en los últimos 12 meses 
+reportados, según la regulación emitida por la SBS. 
+ 
+- No deberán mantener obligaciones vencidas, ni refinanciadas en el Sistema Financiero. 
+ 
+La Edpyme Acceso Crediticio S.A se obliga a transferir a favor de la Financiera las garantías 
+que hubiesen sido constituidas por los deudores que integren las carteras cedidas. 
+ 
+Con fecha 25 de abril de 2014, mediante contrato individual de venta de cartera la Financiera 
+adquirió cartera de créditos de la Edpyme Acceso Crediticio S.A por un total de S/.1.0 
+millones, cuyo valor recuperado al cierre del período 2014 fue de S/.0.8 millones. 
+ 
+(g) Cartera de créditos vendida 
+ 
+En 2015, la Financiera realizó ventas de cartera crediticia a la entidad relacionada Orca Credit 
+Holdings LLC; dichas operaciones fueron realizadas al contado. Las carteras de créditos 
+cedidas tenían un valor bruto en libros de S/.14.99 millones con una provisión por 
+incobrabilidad de cartera de créditos por S/.11.4 millones. El total de cartera vendida incluye 
+cartera de créditos castigados por un importe de S/.3.6 millones, la cual se mantenía en 
+cuentas de orden.  
+ 
+El ingreso reconocido por la venta de cartera fue de S/.14.99 millones que se incluye en el 
+rubro “Otros resultados por operaciones financieras” en el estado de resultados y otro 
+resultado integral. 
+PDF impreso el 15 de marzo de 2016
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Financiera Qapaq 31dic15.pdf | PAGINA: 32 | puntaje 6 =====
+- 30 - 
+En 2014, la Financiera realizó ventas de cartera crediticia a la empresa Orca Credit Holdings 
+LLC; dichas operaciones fueron realizadas al contado. Las carteras de créditos cedidas tenían 
+un valor bruto en libros de S/.20.4 millones con una provisión por incobrabilidad de cartera de 
+créditos por S/.18.2 millones; asimismo se vendió cartera de créditos castigada, la cual se 
+mantenía en cuentas de orden por un valor de S/.4.9 millones. La venta fue realizada a un 
+precio de S/.25.3 millones, generándose una ganancia de S/.23.1 millones, que se incluye en el 
+rubro “Otros resultados por operaciones financieras” en el estado de resultados y otro 
+resultado integral. 
+ 
+PDF impreso el 15 de marzo de 2016
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2015_Individual_Anual_EEFF Auditados Financiera Qapaq 31dic15.pdf | PAGINA: 33 | vecina =====
+- 31 - 
+7. INMUEBLES, MOBILIARIO Y EQUIPO, NETO  
+ 
+En miles de S/. Mejoras en 
+propiedades Edificios e Muebles y Unidades de Equipos de Trabajos en 
+Terrenos alquiladas instalaciones enseres transporte cómputo curso Total
+Costo
+Saldo al 1 de enero de 2014 3,594                   6,226                   4,141                   3,658                   1,996                   5,987                   4                          25,606                 
+Adiciones -                           764                      88                        64                        131                      187                      -                           1,234                   
+Ventas/Bajas -                           (488)                     -                           (45)                       (784)                     (3,482)                  -                           (4,799)                  
+Reclasificaciones -                           -                           4                          -                           -                           -                           (4)                         -                           
+Ajustes -                           -                           -                           (6)                         -                           3                          -                           (3)                         
+Saldo al 31 de diciembre de 2014 3,594                   6,502                   4,233                   3,671                   1,343                   2,695                   -                           22,038                 
+Adiciones -                           340                      8                          139                      228                      1,266                   305                      2,286                   
+Ventas/Bajas (25)                       (46)                       (18)                       (142)                     (660)                     -                           (891)                     
+Saldo al 31 de diciembre de 2015 3,594                   6,817                   4,195                   3,792                   1,429                   3,301                   305                      23,433                 
+Depreciación acumulada
+Saldo al 1 de enero de 2014 -                           2,669                   1,019                   1,419                   1,072                   4,366                   -                           10,545                 
+Adiciones -                           679                      152                      364                      275                      760                      -                           2,230                   
+Ventas/Bajas -                           (488)                     -                           (45)                       (699)                     (3,445)                  -                           (4,677)                  
+Reclasificaciones y ajustes -                           -                           -                           (5)                         -                           -                           -                           (5)                         
+Saldo al 31 de diciembre de 2014 -                           2,860                   1,171                   1,733                   648                      1,681                   -                           8,093                   
+Adiciones -                           646                      156                      369                      260                      586                      -                           2,017                   
+Ventas/Bajas -                           (25)                       (46)                       (15)                       (79)                       (630)                     -                           (795)                     
+Saldo al 31 de diciembre de 2015 -                           3,481                   1,281                   2,087                   829                      1,637                   -                           9,315                   
+Costo neto
+Al 31 de diciembre de 2015 3,594                   3,336                   2,914                   1,705                   600                      1,664                   305                      14,118                 
+Al 31 de diciembre de 2014 3,594                   3,642                   3,062                   1,938                   695                      1,014                   -                           13,945                 
+ 
+ 
+PDF impreso el 15 de marzo de 2016
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2013_Individual_Anual_Financiera Universal Aud 31dic13.pdf | PAGINA: 23 | vecina =====
+- 21 - 
+Las provisiones por créditos indirectos se calculan luego de ajustar los saldos a través de la 
+aplicación de los siguientes factores de conversión crediticia. 
+ 
+Créditos indirectos  
+Factor de 
+conversión 
+   
+(a) Confirmaciones de cartas de crédito irrevocables de hasta un año, cuando el 
+Banco emisor sea una empresa del sistema financiero del exterior de primer 
+nivel. 
+  
+20% 
+(b) Emisiones de cartas fianzas que respalden obligaciones de hacer y no hacer. 
+  
+50% 
+(c) Emisiones de avales, cartas de crédito de importación y cartas fianzas no 
+incluidas en el literal "b)", y las confirmaciones de cartas de crédito no 
+incluidas en el literal "a)", así como las aceptaciones bancarias. 
+  
+100% 
+(d) Créditos concedidos no desembolsados y líneas de crédito no utilizadas. 
+  
+0% 
+(e) Otros créditos indirectos no contemplados en los literales anteriores.  100% 
+ 
+(g) Inmuebles, mobiliario y equipo 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos atribuibles a 
+su adquisición, y se presentan netos de depreciación y de pérdida por deterioro acumuladas, si 
+hubiera. La depreciación anual se reconoce como gasto y se determina sobre el costo, siguiendo el 
+método de línea recta en base a la vida útil estimada de los activos, representada por tasas de 
+depreciación equivalentes, según la siguiente tabla: 
+ 
+ Años 
+  
+Edificios 33 
+Instalaciones 33 - 10 
+Mejoras en propiedades alquiladas 10 
+Muebles y enseres 10 
+Unidades de transporte 5 
+Equipos de cómputo 4 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan como 
+costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y es probable 
+que tales desembolsos resulten en beneficios económicos futuros superiores al rendimiento normal 
+evaluado originalmente para dicho activo. Los desembolsos para mantenimiento y reparaciones se 
+reconocen como gasto del período en el que son incurridos. Cuando un activo fijo se vende o es 
+retirado del uso, su costo y depreciación acumulada se eliminan y la ganancia o pérdida resultante 
+de la venta se reconoce en el estado de resultados. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en libros 
+del activo es mayor que su valor de uso. 
+ 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la Financiera 
+es el costo. 
+PDF emitido el 30 de marzo de 2014
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2013_Individual_Anual_Financiera Universal Aud 31dic13.pdf | PAGINA: 24 | puntaje 18 =====
+- 22 - 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo los 
+adquiridos en operaciones de arrendamiento financiero. 
+ 
+(h) Arrendamiento operativo 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los periodos en los que se incurren. 
+ 
+(i) Bienes recibidos en dación en pago y adjudicados 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o parcial de 
+deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el contrato de 
+dación en pago.  
+ 
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento de 
+bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las siguientes 
+provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación o recupero para los bienes 
+muebles e inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un dieciochoavo 
+(1/18) del costo en libros de los bienes menos la provisión inicial. 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación o recupero, la cual debe constituirse en un plazo máximo de 42 meses, en base al 
+valor neto obtenido en el 12avo mes. Anualmente el valor neto en libros de los bienes 
+inmuebles es comparado con el valor de realización determinado por un perito independiente y, 
+en el caso que este valor sea menor, se constituye una provisión por desvalorización. 
+ 
+(j) Plusvalía y Marca – Intangible de vida indefinida 
+ 
+La plusvalía y marca de vida indefinida, resultante en la adquisición de Profinanzas corresponde al 
+exceso de las contraprestaciones otorgadas (incluyendo el valor de cualquier participación no 
+controladora y el valor razonable de cualquier participación previa poseída), sobre el valor 
+razonable neto de los activos, pasivos y pasivos contingentes identificables de Profinanzas 
+reconocidos a la fecha de adquisición. La plusvalía es inicialmente reconocida como un activo al 
+costo, y subsecuentemente presentada al costo menos cualquier pérdida acumulada por deterioro. 
+De acuerdo a lo aprobado por la SBS en el Oficio múltiple N° 12594-2013, de fecha 22 de marzo de 
+2013, la marca Profinanzas, que corresponde a un activo intangible identificado como consecuencia 
+de la adquisición de dicha subsidiaria, ha sido definido como un intangible de vida útil indefinida en 
+el estado de situación financiera a su valor razonable determinado a la fecha de adquisición. 
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía y la marca es reconocida en el estado de 
+resultado del período en que se produce. Una pérdida por deterioro de valor reconocida en la 
+plusvalía y la marca comprada no es revertida en los periodos posteriores. 
+ 
+PDF emitido el 30 de marzo de 2014
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2013_Individual_Anual_Financiera Universal Aud 31dic13.pdf | PAGINA: 25 | puntaje 5 =====
+- 23 - 
+(k) Activos Intangibles - Vida limitada 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización acumulada y cualquier pérdida acumulada por deterioro, si la 
+hubiera. La amortización es reconocida como gasto y se determina siguiendo el método de línea 
+recta en base a la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada 
+como sigue: 
+ 
+ Años 
+  
+Lista de clientes  5 
+Software 5 
+Otros 5 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son reconocidos 
+como gasto cuando se incurren. Los costos que se asocian directamente con la producción de 
+programas de cómputo únicos e identificables controlados por la Financiera, y que probablemente 
+generarán beneficios económicos más allá de su costo por más de un año, se reconocen como 
+activos intangibles y se aplica a resultados en función al plazo de vigencia estimado. 
+ 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el costo. 
+ 
+De acuerdo a lo aprobado por la SBS en el Oficio Múltiple N° 12594-2013, de fecha 22 de marzo de 
+2013, el intangible Lista de Clientes inició su amortización a partir de enero 2013. 
+ 
+(l) Deterioro de activos no financieros 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el valor 
+de un activo pueda no ser recuperable, la Financiera revisa el valor de los activos de larga duración 
+para verificar que no existe ningún deterioro. Cuando el valor en libros del activo de larga duración 
+excede su valor recuperable se reconoce una pérdida por desvalorización en el Estado de 
+Resultados, para los activos mantenidos al costo. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso. El valor de venta es 
+el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; mientras 
+que el valor de uso, es el valor presente de la estimación de los flujos de efectivo futuros que se 
+prevé resultará del uso continuo de un activo así como de su disposición al final de su vida útil. Los 
+importes recuperables se estiman para cada activo. 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna si se produce un cambio 
+en los estimados que se utilizaron en la última oportunidad en que se reconoció dicha pérdida. 
+ 
+(m) Adeudos y obligaciones financieras  
+ 
+Los pasivos por concepto de Adeudos y Obligaciones Financieras son registrados a su valor 
+nominal o a su valor razonable con cambios en resultados. Los intereses devengados se reconocen 
+en el estado de resultados del período en que se producen. 
+ 
+PDF emitido el 30 de marzo de 2014
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2013_Individual_Anual_Financiera Universal Aud 31dic13.pdf | PAGINA: 26 | vecina =====
+- 24 - 
+(n) Beneficios a los trabajadores 
+ 
+(n.1) Participación en las utilidades 
+ 
+La Financiera reconoce un pasivo y un gasto por participación de los trabajadores en las utilidades, 
+sobre la base del 5% de la base imponible, determinada de acuerdo a la legislación tributaria 
+vigente.  
+ 
+Esta participación se registra de acuerdo a la Norma Internacional de Contabilidad N° 19 
+“Beneficios a los empleados”. En consecuencia, se trata como un Gasto de Personal y un Pasivo 
+relacionado con beneficios para los empleados. 
+ 
+(n.2) Vacaciones y otros beneficios al personal  
+ 
+Las vacaciones anuales del personal, las ausencias remuneradas y otros beneficios al personal se 
+reconocen sobre la base del devengado. La provisión por la obligación estimada por vacaciones 
+anuales, las ausencias remuneradas y otros beneficios del personal resultantes de servicios prestados 
+por los empleados se reconoce a la fecha del estado de situación financiera. 
+ 
+(n.3) Compensación por tiempo de servicios  
+ 
+La provisión para compensación por tiempo de servicios del personal se constituye por el íntegro de 
+los derechos indemnizatorios de acuerdo con la legislación vigente. Los pagos efectuados con 
+carácter cancelatorio son depositados dos veces al año en instituciones del sistema financiero a 
+elección de los trabajadores. 
+ 
+(o) Provisiones, pasivos contingentes y activos contingentes 
+ 
+Las provisiones son reconocidas cuando la Financiera tiene una obligación presente (ya sea legal o 
+implícita) como resultado de un suceso pasado, es probable que la Financiera tenga que 
+desprenderse de recursos que incorporen beneficios económicos para cancelar tal obligación y 
+puede efectuarse una estimación fiable del importe de la obligación. 
+ 
+El importe reconocido como provisión corresponde a la mejor estimación, a la fecha del estado de 
+situación financiera, del desembolso necesario para cancelar la obligación presente, tomando en 
+consideración los riesgos e incertidumbres que rodean a la mayoría de los sucesos y circunstancias 
+concurrentes a la valoración de la misma. Cuando el importe de la provisión sea medido utilizando 
+flujos estimados de efectivo para cancelar la obligación, el valor en libros es el valor presente de los 
+desembolsos correspondientes. 
+ 
+Los pasivos contingentes no se reconocen en los estados financieros sólo se revelan en nota a los 
+mismos. Cuando la posibilidad de una salida de recursos para cubrir un pasivo contingente sea 
+remota, tal revelación no es requerida.  
+ 
+Los activos contingentes no se reconocen en los estados financieros, sólo se revelan en nota a los 
+estados financieros cuando es probable que se produzca un ingreso de recursos. 
+ 
+Las partidas tratadas previamente como pasivos contingentes, serán reconocidas en los estados 
+financieros en el período en que ocurra un cambio de probabilidades, esto es, cuando se determine 
+que es probable que se produzca una salida de recursos para cubrir el mencionado pasivo. Las 
+partidas tratadas como activos contingentes, serán reconocidas en los estados financieros en el 
+PDF emitido el 30 de marzo de 2014
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2013_Individual_Anual_Financiera Universal Aud 31dic13.pdf | PAGINA: 44 | vecina =====
+- 42 - 
+tiene instrumentos financieros con efecto diluyente, la utilidad (pérdida) básica y diluida por acción 
+es la misma. 
+ 
+La utilidad (pérdida) básica y diluida por acción común resulta como sigue: 
+ 
+2013 2012
+En circulación al inicio del año 62,559            62,559            
+Promedio ponderado de acciones en circulación al final del año 62,559            62,559            
+Utilidad (pérdida) neta del año (en miles de nuevos soles) 203                 (160)               
+Acciones denominador 62,559            62,559            
+Utilidad (pérdida) básica y diluida por acción (S/.) 0.003              (0.003)            
+Cantidad de acciones
+en miles
+ 
+ 
+ 
+20. SITUACION TRIBUTARIA 
+ 
+(a) Régimen tributario del impuesto a las ganancias 
+ 
+(i) Tasas del Impuesto 
+ 
+La tasa de impuesto a las ganancias de las personas jurídicas domiciliadas en Perú es de 30%. 
+ 
+Las personas jurídicas domiciliadas en Perú se encuentran sujetas a una tasa adicional de 4.1% 
+sobre toda suma que pueda considerarse una disposición indirecta de utilidades, que incluyen 
+sumas cargadas a gastos e ingresos no declarados; esto es, gastos susceptibles de haber 
+beneficiado a los accionistas; gastos particulares ajenos al negocio; gastos de cargo de 
+accionistas, entre otros, que son asumidos por la persona jurídica. 
+ 
+(ii) Precios de Transferencia 
+ 
+Para propósitos de determinación del Impuesto a la Ganancia y del Impuesto General a las 
+Ventas en Perú, las personas jurídicas que realicen transacciones con entidades relacionadas o 
+con sujetos residentes en territorios de baja o nula imposición, deberán: (a) presentar una 
+declaración jurada anual informativa de las transacciones que realicen con las referidas 
+empresas, cuando el monto de estas transacciones resulte mayor a S/.200 mil, y (b) contar con 
+un Estudio Técnico de Precios de Transferencia, además de la documentación de sustento de 
+este Estudio, cuando el monto de sus ingresos devengados superen los S/.6 millones y 
+hubieran efectuado transacciones con entidades relacionadas en un monto superior a S/.1 
+millón. Ambas obligaciones son exigibles en el caso que se hubiera realizado al menos una 
+transacción desde, hacia, o a través de países de baja o nula imposición. 
+ 
+Al 31 de diciembre de 2013, la Financiera se encuentra elaborando los Informes de Precios de 
+Transferencia por los ejercicios 2013 y 2012. Sobre la base del análisis de las operaciones de 
+la Financiera, la Gerencia y sus asesores legales internos opinan que, como consecuencia de la 
+PDF emitido el 30 de marzo de 2014
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2013_Individual_Anual_Financiera Universal Aud 31dic13.pdf | PAGINA: 45 | puntaje 7 =====
+- 43 - 
+aplicación de estas normas, no surgirán contingencias de importancia para la Financiera al 31 
+de diciembre de 2013 y 2012. 
+ 
+(b) Modificaciones significativas al régimen de impuesto a las ganancias en Perú 
+ 
+A continuación un resumen de las modificaciones más importantes efectuadas por la 
+Administración Tributaria durante el año terminado el 31 de diciembre de 2013: 
+ 
+- Costo computable. Se establece que el costo computable deberá estar sustentado con el 
+correspondiente comprobante de pago válidamente emitido. En el caso de bienes 
+inmuebles adquiridos a través de arrendamiento financiero o de lease-back el costo 
+computable se incrementará con los costos posteriores incorporados al activo de acuerdo 
+con las normas contables. 
+ 
+- Enajenación de acciones o valores mobiliarios. A efecto de determinar el valor de 
+mercado se considerará el mayor valor disponible entre el valor de transacción, el valor de 
+cotización en bolsa de ser el caso, el valor patrimonial o cualquier otro que establezca el 
+Reglamento atendiendo la naturaleza de los valores. Por otro lado se establece que no será 
+deducible la pérdida de capital de tercera categoría cuando al momento de la enajenación, 
+con anterioridad o con posterioridad a ella, en un plazo que no exceda los 30 días 
+calendario, se produzca la adquisición de acciones o de valores mobiliarios del mismo tipo 
+que los enajenados o de opciones de compra sobre los mismos. 
+-  
+- Depreciación. El porcentaje de depreciación se deberá de aplicar sobre el resultado de 
+sumar los costos posteriores incurridos al valor de adquisición, producción y de 
+construcción. Se entiende por tales a los costos incurridos respecto de un bien que ha sido 
+afectado a la generación de rentas gravadas que, de conformidad con lo dispuesto en las 
+normas contables, se deban de reconocer como costo. 
+ 
+El monto deducible o el máximo deducible será el importe a que hace referencia el párrafo 
+anterior, salvo que en el último ejercicio el importe deducible sea mayor que el valor del 
+bien que quede por depreciar, en cuyo caso se deducirá este último. 
+ 
+- Gastos no deducibles. No son deducibles los gastos constituidos por la diferencia entre el 
+valor nominal de un crédito originado entre partes vinculadas y su valor de transferencia a 
+terceros que asuman el riesgo crediticio del deudor. 
+ 
+En caso estas transferencias de créditos generen cuentas por cobrar a favor del 
+transferente, no constituyen gasto deducible las provisiones y/o castigos por la 
+incobrabilidad de estas cuentas. 
+ 
+- Diferencia de Cambio. Se eliminan a partir del año 2013 las normas sobre capitalización 
+de la diferencia de cambio por pasivos en moneda extranjera relacionada con existencia y 
+activos fijos. No obstante lo indicado se ha dispuesto que la diferencia de cambio 
+generada hasta diciembre de 2012 que en función de la normativa vigente haya sido 
+activada, continuará rigiéndose por el tratamiento anterior.  
+ 
+- Gastos de capacitación del personal. Se elimina el límite a la deducción de los gastos de 
+capacitación del personal de la Financiera. 
+ 
+- Gastos de Vehículos. Se incluye en el límite para la deducción de gastos incurridos en 
+vehículos automotores a ciertas categorías de camionetas. 
+PDF emitido el 30 de marzo de 2014
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2013_Individual_Anual_Financiera Universal Aud 31dic13.pdf | PAGINA: 46 | vecina =====
+- 44 - 
+- Gastos de Investigación e Innovación Tecnológica. Se incorporan normas para lograr la 
+deducción de los gastos en investigación científica, tecnológica e innovación tecnológica 
+para determinar la renta neta de tercera categoría. 
+ 
+- Asistencia Técnica. Respecto de la aplicación de la tasa del 15%, se elimina el requisito de 
+obtener una declaración jurada por parte de la empresa que presta el servicio. El requisito 
+de obtener un informe de una sociedad auditora mediante el cual se certifique la prestación 
+del servicio de asistencia técnica queda establecido sólo para los servicios cuya 
+contraprestación total supere las 140 UIT vigentes a la celebración del contrato.  
+ 
+- Pagos a cuenta mensuales. Se ha reducido de 2% a 1.5% la alícuota aplicable bajo el 
+sistema de porcentaje y se ha modificado el sistema de cálculo de los pagos a cuenta. La 
+modificación implica que se abone como anticipo mensual, la suma que resulte mayor de 
+comparar el monto resultante de aplicar el sistema del coeficiente con el monto resultante 
+de aplicar el porcentaje de 1.5%. Por Ley 29999 se ha incorporado la posibilidad de 
+modificar el porcentaje a partir del anticipo mensual de febrero, marzo o abril previo 
+cumplimiento de una serie de requisitos. En caso de decidir hacerlo, a partir de mayo se 
+podrán efectuar sobre la base de los resultados que arroje el estado de ganancias y 
+pérdidas al 30 de abril, aplicando el coeficiente que resulte de dicho Estado Financiero.  
+ 
+- Reorganización de sociedades. Para el caso de revaluaciones voluntarias sin efecto 
+tributario se han establecido nuevas presunciones que no admiten prueba en contrario y 
+buscan gravar la ganancia que se entendería ha sido distribuida. En relación a las 
+escisiones y reorganizaciones simples en las que se acuerda no revaluar los activos que 
+integran el bloque patrimonial transferido se han establecido presunciones que buscan 
+gravar la potencial ganancia de capital que se generaría producto de la diferencia entre el 
+valor de mercado y el costo computable de los activos transferidos. Para el caso de 
+revaluaciones voluntarias con efecto tributario, la renta gravada como consecuencia de la 
+reorganización no podrá ser compensada con las pérdidas tributarias de las partes 
+intervinientes en la reorganización. 
+ 
+Finalmente, mediante la Ley Nro. 30050 – Ley de Promoción del Mercado de Valores y la 
+Ley Nro. 30056 – Ley que facilita el impulso y el desarrollo productivo y crecimiento 
+empresarial, se han modificado algunos artículos de la Ley del Impuesto a las Ganancias para 
+facilitar las operaciones del mercado bursátil, o relacionadas a gastos en proyectos de 
+investigación científica, tecnológica e innovación tecnológica, crédito por gastos de 
+capacitación, entre otros, que entrarán en vigencia principalmente en el 2014. 
+ 
+(c) El gasto por impuesto a la renta comprende: 
+ 
+En miles de S/. 2013 2012
+Impuesto a la renta corriente -                     448                 
+Impuesto a la renta diferido (Nota 21) 1,965              131                 
+Total 1,965              579                 
+ 
+PDF emitido el 30 de marzo de 2014
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2016_Individual_Anual_EEFFQapaqAud 31dic16 QAPAQ.PDF | PAGINA: 18 | vecina =====
+- 16 - 
+Las provisiones por créditos indirectos se calculan luego de ajustar los saldos a través de la 
+aplicación de los siguientes factores de conversión crediticia. 
+ 
+Créditos indirectos  
+Factor de 
+conversión 
+   
+(a) Confirmaciones de cartas de crédito irrevocables de hasta un año, 
+cuando el Banco emisor sea una empresa del sistema financiero del 
+exterior de primer nivel. 
+  
+20% 
+ 
+(b) Emisiones de cartas fianzas que respalden obligaciones de hacer y no 
+hacer. 
+  
+50% 
+ 
+(c) Emisiones de avales, cartas de crédito de importación y cartas fianzas 
+no incluidas en el literal "b)", y las confirmaciones de cartas de 
+crédito no incluidas en el literal "a)", así como las aceptaciones 
+bancarias. 
+  
+100% 
+ 
+(d) Créditos concedidos no desembolsados y líneas de crédito no 
+utilizadas. 
+  
+0% 
+ 
+(e) Otros créditos indirectos no contemplados en los literales anteriores.  100% 
+ 
+(g) Inmuebles, mobiliario y equipo 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos 
+atribuibles a su adquisición, y se presentan netos de depreciación y de pérdida por deterioro 
+acumuladas, si hubiera. La depreciación anual se reconoce como gasto y se determina sobre el 
+costo, siguiendo el método de línea recta en base a la vida útil estimada de los activos, 
+representada por tasas de depreciación equivalentes, según la siguiente tabla: 
+ 
+ Años 
+  
+Edificios 33 
+Instalaciones 10 - 33 
+Mejoras en propiedades alquiladas 10 
+Muebles y enseres 10 
+Unidades de transporte 5 
+Equipos de cómputo 4 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan 
+como costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y es 
+probable que tales desembolsos resulten en beneficios económicos futuros superiores al 
+rendimiento normal evaluado originalmente para dicho activo. Los desembolsos para 
+mantenimiento y reparaciones se reconocen como gasto del período en el que son incurridos. 
+Cuando un activo fijo se vende o es retirado del uso, su costo y depreciación acumulada se 
+eliminan y la ganancia o pérdida resultante de la venta se reconoce en el estado de resultados y 
+otro resultado integral. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en 
+libros del activo es mayor que su valor de uso. 
+ 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la 
+Financiera es el costo.  
+PDF impreso el 10 de Marzo de 2017
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2016_Individual_Anual_EEFFQapaqAud 31dic16 QAPAQ.PDF | PAGINA: 19 | puntaje 14 =====
+- 17 - 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo 
+los adquiridos en operaciones de arrendamiento financiero. 
+ 
+(h) Arrendamiento operativo 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa 
+como arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+(i) Bienes realizables, recibidos en pago y adjudicados 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o 
+parcial de deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en 
+el contrato de dación en pago.  
+ 
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento 
+de bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las 
+siguientes provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes 
+muebles e inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un 
+dieciochoavo (1/18) del costo en libros de los bienes menos la provisión inicial. 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al valor 
+neto obtenido en el 12avo mes. Anualmente el valor neto en libros de los bienes inmuebles 
+es comparado con el valor de realización determinado por un perito independiente y, en el 
+caso que este valor sea menor, se constituye una provisión por desvalorización. 
+ 
+(j) Plusvalía – Intangible de vida indefinida 
+ 
+La plusvalía, resultante en la adquisición de Profinanzas corresponde al exceso de las 
+contraprestaciones otorgadas (incluyendo el valor de cualquier participación no controladora y 
+el valor razonable de cualquier participación previa poseída), sobre el valor razonable neto de 
+los activos, pasivos y pasivos contingentes identificables de Profinanzas reconocidos a la fecha 
+de adquisición. La plusvalía es inicialmente reconocida como un activo al costo, y 
+subsecuentemente presentada al costo menos cualquier pérdida acumulada por deterioro.  
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de resultados 
+y otro resultado integral del período en que se produce. Una pérdida por deterioro de valor 
+reconocida en la plusvalía comprada no es revertida en los periodos posteriores. 
+ 
+PDF impreso el 10 de Marzo de 2017
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2016_Individual_Anual_EEFFQapaqAud 31dic16 QAPAQ.PDF | PAGINA: 20 | puntaje 5 =====
+- 18 - 
+(k) Activos Intangibles - Vida finita 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización acumulada y cualquier pérdida acumulada por deterioro, si la 
+hubiera. La amortización es reconocida como gasto y se determina siguiendo el método de línea 
+recta en base a la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada 
+como sigue: 
+ 
+ Años 
+  
+Marca 7 
+Lista de clientes  8 
+Software 5 
+Otros 5 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son 
+reconocidos como gasto cuando se incurren. Los costos que se asocian directamente con la 
+producción de programas de cómputo únicos e identificables controlados por la Financiera, y 
+que probablemente generarán beneficios económicos más allá de su costo por más de un año, se 
+reconocen como activos intangibles y se aplica a resultados en función al plazo de vigencia 
+estimado. 
+ 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el costo. 
+ 
+De acuerdo a lo aprobado por la SBS en el Oficio Múltiple N° 12594-2013, de fecha 22 de 
+marzo de 2013, el intangible Lista de Clientes inició su amortización a partir de enero de 2013. 
+ 
+(l) Deterioro de activos no financieros 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el 
+valor de un activo pueda no ser recuperable, la Financiera revisa el valor de los activos de larga 
+duración para verificar que no existe ningún deterioro. Cuando el valor en libros del activo de 
+larga duración excede su valor recuperable se reconoce una pérdida por desvalorización en el 
+estado de resultados y otro resultado integral, para los activos mantenidos al costo. 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso. El valor de 
+venta es el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; 
+mientras que el valor de uso, es el valor presente de la estimación de los flujos de efectivo 
+futuros que se prevé resultará del uso continuo de un activo así como de su disposición al final 
+de su vida útil. Los importes recuperables se estiman para cada activo. 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna si se produce un 
+cambio en los estimados que se utilizaron en la última oportunidad en que se reconoció dicha 
+pérdida. 
+ 
+(m) Adeudos y obligaciones financieras  
+ 
+Los pasivos por concepto de adeudos y obligaciones financieras son registrados a su valor 
+nominal o a su valor razonable con cambios en resultados. Los intereses devengados se 
+reconocen en el estado de resultados del período en que se producen. 
+ 
+PDF impreso el 10 de Marzo de 2017
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2016_Individual_Anual_EEFFQapaqAud 31dic16 QAPAQ.PDF | PAGINA: 21 | vecina =====
+- 19 - 
+(n) Beneficios a los trabajadores 
+ 
+(n.1) Participación en las utilidades 
+ 
+La Financiera reconoce un pasivo y un gasto por participación de los trabajadores en las 
+utilidades, sobre la base del 5% de la base imponible, determinada de acuerdo a la legislación 
+tributaria vigente.  
+ 
+Esta participación se registra de acuerdo a la Norma Internacional de Contabilidad N° 19 
+“Beneficios a los empleados”. En consecuencia, se trata como un gasto de personal y un pasivo 
+relacionado con beneficios para los trabajadores. 
+ 
+(n.2) Vacaciones y otros beneficios a los trabajadores 
+ 
+Las vacaciones anuales de los trabajadores, las ausencias remuneradas y otros beneficios a los 
+trabajadores se reconocen sobre la base del devengado. La provisión por la obligación estimada 
+por vacaciones anuales, las ausencias remuneradas y otros beneficios a los trabajadores 
+resultantes de servicios prestados por los trabajadores se reconoce a la fecha del estado de 
+situación financiera. 
+ 
+(n.3) Compensación por tiempo de servicios  
+ 
+La provisión para compensación por tiempo de servicios de los trabajadores se constituye por el 
+íntegro de los derechos indemnizatorios de acuerdo con la legislación vigente. Los pagos 
+efectuados con carácter cancelatorio son depositados dos veces al año en instituciones del 
+sistema financiero a elección de los trabajadores. 
+ 
+(o) Provisiones, pasivos contingentes y activos contingentes 
+ 
+Las provisiones son reconocidas cuando la Financiera tiene una obligación presente (ya sea legal 
+o implícita) como resultado de un suceso pasado, es probable que la Financiera tenga que 
+desprenderse de recursos que incorporen beneficios económicos para cancelar tal obligación y 
+puede efectuarse una estimación fiable del importe de la obligación. 
+ 
+El importe reconocido como provisión corresponde a la mejor estimación, a la fecha del estado 
+de situación financiera, del desembolso necesario para cancelar la obligación presente, tomando 
+en consideración los riesgos e incertidumbres que rodean a la mayoría de los sucesos y 
+circunstancias concurrentes a la valoración de la misma. Cuando el importe de la provisión sea 
+medido utilizando flujos estimados de efectivo para cancelar la obligación, el valor en libros es 
+el valor presente de los desembolsos correspondientes. 
+ 
+Los pasivos contingentes no se reconocen en los estados financieros sólo se revelan en nota a los 
+mismos. Cuando la posibilidad de una salida de recursos para cubrir un pasivo contingente sea 
+remota, tal revelación no es requerida.  
+ 
+Los activos contingentes no se reconocen en los estados financieros, sólo se revelan en nota a 
+los estados financieros cuando es probable que se produzca un ingreso de recursos. 
+ 
+Las partidas tratadas previamente como pasivos contingentes, serán reconocidas en los estados 
+financieros en el período en que ocurra un cambio de probabilidades, esto es, cuando se 
+determine que es probable que se produzca una salida de recursos para cubrir el mencionado 
+pasivo. Las partidas tratadas como activos contingentes, serán reconocidas en los estados 
+financieros en el período en que se determine que es virtualmente seguro que se producirá un 
+ingreso de recursos, respectivamente. 
+ 
+PDF impreso el 10 de Marzo de 2017
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados 2025.pdf | PAGINA: 18 | vecina =====
+- Los créditos reprogramados de deudores con clasificación Normal y CPP que no hayan efectuado 
+el pago de al menos una cuota completa que incluya capital en los últimos seis meses al cierre de 
+la información contable, les corresponde el nivel de riesgo de crédito Deficiente. 
+ 
+- Los créditos reprogramados de los deudores con clasificación Normal, CPP y Deficiente que no 
+hayan efectuado el pago de al menos una cuota completa que incluya capital en los últimos doce 
+meses, les corresponde el nivel de riesgo de crédito Dudoso. 
+ 
+A dichos créditos, se le aplica las provisiones específicas correspondientes a la categoría de riesgo de 
+crédito Con Problemas Potenciales, Deficiente o Dudoso, respectivamente, de acuerdo con el numeral 
+2.1. del Capítulo III del Reglamento para la Evaluación y Clasificación del Deudor y la Exigencia de 
+Provisiones. 
+ 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, pequeña 
+empresa y mediana empresa. 
+ 
+- Los intereses devengados de los créditos reprogramados, en situación contable de vigente, por 
+los que el cliente no haya efectuado el pago de al menos una cuota completa que incluya capital 
+en los últimos seis meses al cierre de la información contable, se les aplicará un requerimiento de 
+provisiones correspondiente a la categoría de riesgo Deficiente. 
+ 
+- Los intereses devengados de los créditos reprogramados, en situación contable de vigentes, por 
+los que el cliente que no hayan efectuado el pago de al menos una cuota completa que incluya 
+capital en los últimos seis meses al cierre de la información contable, a dichos intereses 
+devengados se les aplicará un requerimiento de provisiones específicas correspondientes a la 
+categoría de riesgo de crédito Pérdida. 
+ 
+A dichos intereses devengados se les aplicará un requerimiento de provisiones específicas 
+correspondientes a la categoría de riesgo de crédito Deficiente o Pérdida, de acuerdo con la Tabla 1 
+del numeral 2.1. del Capítulo III del Reglamento para la Evaluación y Clasificación del Deudor y la 
+Exigencia de Provisiones. 
+ 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, pequeña 
+empresa y mediana empresa. 
+ 
+g) Inmuebles, mobiliario y equipo - 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos atribuibles a su 
+adquisición, y se presentan netos de depreciación y de pérdida por deterioro acumuladas, si hubiera. 
+La depreciación anual se reconoce como gasto y se determina sobre el costo, siguiendo el método de 
+línea recta en base a la vida útil estimada de los activos, representada por tasas de depreciación 
+equivalentes, según la siguiente tabla: 
+ 
+  Años 
+   
+Edificios  30 - 70 
+Instalaciones  10 
+Mejoras en propiedades alquiladas  20 
+Muebles y enseres  10 - 12 
+Unidades de transporte  10 
+Equipos de cómputo  4 - 7 
+ 
+Los desembolsos incurridos después que un elemento del activo fijo ha sido puesto en uso se 
+capitalizan como costo adicional de ese activo únicamente cuando pueden ser medidos 
+confiablemente y es probable que tales desembolsos resulten en beneficios económicos futuros 
+superiores al rendimiento normal evaluado originalmente para dicho activo. Los desembolsos para 
+mantenimiento y reparaciones se reconocen como gasto del período en el que son incurridos. Cuando 
+un activo fijo se vende o es retirado del uso, su costo y depreciación acumulada se eliminan y la 
+ganancia o pérdida resultante de la venta se reconoce en el estado de resultados y otro resultado 
+integral.  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados 2025.pdf | PAGINA: 19 | puntaje 14 =====
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en libros 
+del activo es mayor que su valor de uso. 
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo los 
+adquiridos en operaciones de arrendamiento financiero. 
+ 
+h) Arrendamiento operativo - 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los pagos 
+contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+i) Bienes realizables, recibidos en pago y adjudicados - 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o parcial de 
+deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el contrato de 
+dación en pago. 
+ 
+Asimismo, de acuerdo con la Resolución SBS No.1535-
+bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las siguientes 
+provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes muebles e 
+inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un dieciochoavo 
+(1/18) del costo en libros de los bienes menos la provisión inicial. 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al valor neto 
+obtenido en el 12avo mes.  Anualmente el valor neto en libros de los bienes inmuebles es 
+comparado con el valor de realización determinado por un perito independiente y, en el caso que 
+este valor sea menor, se constituye una provisión por desvalorización. 
+ 
+j) Activos intangibles de vida indefinida (plusvalía) - 
+ 
+La plusvalía es inicialmente reconocida como un activo al costo, y subsecuentemente presentada al 
+costo menos cualquier pérdida por deterioro, acumulada. 
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de resultados del 
+período en que se produce.  Una pérdida por deterioro de valor reconocida en la plusvalía comprada 
+no es revertida en los periodos posteriores. 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2025_Individual_Anual_EEFF Auditados 2025.pdf | PAGINA: 20 | vecina =====
+k) Activos Intangibles de vida finita - 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización y cualquier pérdida por deterioro acumulada, si la hubiera. La 
+amortización es reconocida como gasto y se determina siguiendo el método de línea recta en base a 
+la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada como sigue: 
+   Años 
+   
+Software  3 - 5 
+Otros  5 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son reconocidos 
+como gasto cuando se incurren. Los costos que se asocian directamente con la producción de 
+programas de cómputo únicos e identificables controlados por la Financiera, y que probablemente 
+generarán beneficios económicos más allá de su costo por más de un año, se reconocen como 
+activos intangibles y se aplica a resultados en función al plazo de vigencia estimado. 
+ 
+Deterioro de activos no financieros - 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el valor de 
+un activo no financiero pueda no ser recuperable, la Financiera revisa el valor de los activos de larga 
+duración para verificar que no existe ningún deterioro. Cuando el valor en libros del activo de larga 
+duración excede su valor recuperable se reconoce una pérdida por desvalorización en el estado de 
+resultados. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso. El valor de venta es 
+el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; mientras 
+que el valor de uso es el valor presente de la estimación de los flujos de efectivo futuros que se prevé 
+resultará del uso continuo de un activo, así como de su disposición al final de su vida útil. Los importes 
+recuperables se estiman para cada activo. 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna sólo si se produce un 
+cambio en los estimados que se utilizaron en la última oportunidad en que se reconoció dicha pérdida. 
+ 
+l) Adeudos y obligaciones financieras - 
+ 
+Los pasivos por concepto de adeudos y obligaciones financieras son registrados a su valor nominal. 
+Los intereses devengados se reconocen en el estado de resultados del período en que se producen. 
+ 
+m) Beneficios a los trabajadores - 
+ 
+m.1) Participación en las utilidades - 
+ 
+La Financiera reconoce un pasivo y un gasto por participación de los trabajadores en las utilidades, 
+sobre la base del 5% de la base imponible, determinada de acuerdo con la legislación tributaria 
+vigente. 
+ 
+Esta participación se registra como un gasto de personal y un pasivo relacionado con beneficios para 
+los trabajadores. 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2017_Individual_Anual_EEFF Auditados Financiera Qapaq 31122017.PDF | PAGINA: 8 | vecina =====
+- 6 - 
+FINANCIERA QAPAQ S.A.
+ESTADOS DE CAMBIOS EN EL PATRIMONIO 
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2017 Y 2016
+En miles de S/
+Capital 
+social Reservas
+Resultados 
+acumulados 
+Resultado 
+del ejercicio
+Total 
+patrimonio 
+neto
+(Nota 13(a)) (Nota 13(b)) (Nota 13(c))
+Saldo 1 de enero de 2016 82,842         986              (19,295)        1,192           65,725         
+Resultado integral
+Resultado del ejercicio -                  -                  -                  462              462              
+Cambios en el patrimonio (no incluidos
+en el resultado integral)
+Constitución de reserva legal -                  1,192           -                  (1,192)          -                  
+Saldo 31 de diciembre de 2016 82,842         2,178           (19,295)        462              66,187         
+Resultado integral
+Resultado del ejercicio -                  -                  -                  106              106              
+Cambios en el patrimonio (no incluidos
+en el resultado integral)
+Transferencia a resultados acumulados -                  -                  416              (416)             -                  
+Constitución de reserva legal -                  46                -                  (46)               -                  
+Saldo 31 de diciembre de 2017 82,842         2,224           (18,879)        106              66,293         
+Las notas adjuntas son parte integrante de los estados financieros.
+ 
+PDF impreso el 2 de marzo de 2018
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2017_Individual_Anual_EEFF Auditados Financiera Qapaq 31122017.PDF | PAGINA: 9 | puntaje 6 =====
+- 7 - 
+FINANCIERA QAPAQ S.A.
+ESTADOS DE FLUJOS DE EFECTIVO
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2017 Y 2016
+En miles de S/
+2017 2016
+Conciliación de la ganancia neta de la Financiera con el efectivo 
+y equivalentes de efectivo proveniente de las actividades de operación
+Resultado neto del ejercicio 106               462               
+Ajustes
+Depreciación y amortización 3,938            3,963            
+Provisiones de créditos directos 37,054          38,338          
+Otros ajustes:
+Deterioro de intangibles -                   1,100            
+Costo de enajenación por venta de marca 2,029           -                
+Impuesto a la renta diferido 395              (491)             
+Intereses por inversiones a vencimiento (165)             (96)               
+Provisiones de cuentas por cobrar 126              469               
+Provisiones por litigios y demandas 32                121               
+Recupero para bienes recibidos en pago y adjudicados (25)               (247)             
+Variación neta en activos y pasivos
+(Incremento) disminución neto  en activos
+Créditos (45,031)        (74,094)        
+Cuentas por cobrar y otras (1,308)          113              
+Incremento (disminución) en pasivos
+Pasivos financieros, no subordinados 2,713           47,883          
+Cuentas por pagar y otras (553)             (1,472)          
+Tributos por pagar (14)               (125)             
+Pago por impuesto a las ganancias (1,571)          (1,108)          
+Flujos de efectivo netos de actividades de operación (2,274)          14,816          
+Flujos de efectivo de actividades de inversión
+Salidas por compras de mobiliario y equipo (3,311)          (3,065)          
+Entrada por ventas de inmueble, mobiliario y equipo 36                21                
+Salidas por compras de intangibles (130)             (212)             
+Entradas por venta de intangibles 1,670           -                   
+Salida por compra de inversiones mantenidas hasta el vencimiento (1,771)          (1,204)          
+Flujos de efectivo netos de actividades de inversión (3,506)          (4,460)          
+(Disminución) neta, aumento neto en el efectivo y equivalentes de efectivo (5,780)          10,356          
+Efectivo y equivalentes de efectivo al inicio del período 46,079          35,723          
+Efectivo y equivalentes de efectivo al final del período 40,299          46,079          
+Las notas adjuntas son parte integrante de los estados financieros.
+PDF impreso el 2 de marzo de 2018
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2017_Individual_Anual_EEFF Auditados Financiera Qapaq 31122017.PDF | PAGINA: 10 | vecina =====
+- 8 - 
+FINANCIERA QAPAQ S.A.  
+ 
+NOTAS A LOS ESTADOS FINANCIEROS 
+POR LOS AÑOS TERMINADOS EL 31 DE DICIEMBRE DE 2017 Y 2016 
+(Cifras expresadas en miles de soles (S/), excepto se indique de otra 
+forma) 
+ 
+ 
+1. CONSTITUCION Y ACTIVIDAD ECONOMICA, APROBACION DE ESTADOS 
+FINANCIEROS 
+ 
+(a) Constitución y actividad económica 
+ 
+El principal accionista de Financiera Qapaq S.A. (en adelante la “Financiera”) es Orca Credit 
+Holding LLC (Holding constituida en los Estados Unidos de América), la cual posee el 99.99% 
+de participación. 
+ 
+La Financiera es una sociedad anónima constituida en el Perú por escritura pública del 3 de 
+abril de 2009, autorizada a operar por la Superintendencia de Banca, Seguros y 
+Administradoras Privadas de Fondos de Pensiones (en adelante SBS) mediante Resolución 
+SBS N° 15580 del 17 de diciembre de 2009. 
+ 
+Las operaciones que realiza la Financiera comprenden principalmente la intermediación 
+financiera que corresponde a este tipo de instituciones; actividades que están normadas por 
+la SBS de acuerdo con la Ley General del Sistema Financiero y del Sistema de Seguros y 
+Orgánica de la SBS - Ley N° 26702 (en adelante Ley General) y sus modificatorias. La Ley 
+General establece los requisitos, derechos, obligaciones, garantías, restricciones y demás 
+condiciones de funcionamiento a que se sujetan las personas jurídicas de derecho privado 
+que operan en el sistema financiero y de seguros. 
+ 
+La sede principal de la Financiera está localizada en Av. Pershing N° 455, Magdalena del Mar 
+Lima-Perú. Para desarrollar sus actividades, la Financiera opera a través de una red de 33 
+agencias al 31 de diciembre de 2017 y 2016.  
+ 
+La cantidad de personal empleado por la Financiera al 31 de diciembre de 2017 y 2016, fue 
+de 720 y 797, respectivamente. 
+ 
+(b) Aprobación de estados financieros 
+ 
+Los estados financieros por el año terminado el 31 de diciembre de 2017, preparados de 
+conformidad con principios de contabilidad generalmente aceptados en Perú (PCGA en Perú) 
+aplicables a empresas del sistema financiero, fueron aprobados mediante sesión de Directorio 
+de fecha 25 de enero de 2018. Estos estados financieros serán sometidos a la Junta General 
+Obligatoria Anual de Accionistas a ser realizada en los plazos establecidos por la ley, para su 
+aprobación. En opinión de la Gerencia de la Financiera, los mismos serán aprobados por la 
+Junta General Obligatoria Anual de Accionistas sin modificaciones. Los estados financieros 
+por el año terminado el 31 de diciembre de 2016, preparados de conformidad con PCGA en 
+Perú aplicables a empresas del sistema financiero, fueron aprobados por la Junta General 
+Obligatoria Anual de Accionistas realizada el 31 de marzo de 2017.  
+ 
+ 
+2. BASES DE PREPARACION DE LOS ESTADOS FINANCIEROS 
+ 
+(a) Declaración de conformidad 
+ 
+Los estados financieros se preparan y presentan de acuerdo con las disposiciones legales y 
+los PCGA en Perú, aplicables a empresas del sistema financiero, los cuales comprenden las 
+normas y prácticas contables autorizadas y emitidas por la SBS en uso de sus facultades 
+delegadas conforme a lo dispuesto en la Ley General. Las normas señaladas están contenidas 
+en el Manual de Contabilidad para Empresas del Sistema Financiero (en adelante el Manual 
+de Contabilidad), aprobado por Resolución SBS N° 895-98 del 1 de setiembre de 1998, 
+vigente a partir del 1 de enero de 2001 y modificatorias siendo la última la Resolución SBS 
+PDF impreso el 2 de marzo de 2018
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2017_Individual_Anual_EEFF Auditados Financiera Qapaq 31122017.PDF | PAGINA: 17 | vecina =====
+- 15 - 
+Las provisiones por créditos indirectos se calculan luego de ajustar los saldos a través de la 
+aplicación de los siguientes factores de conversión crediticia. 
+ 
+Créditos indirectos  
+Factor de 
+conversión 
+   
+(a) Confirmaciones de cartas de crédito irrevocables de hasta un año, cuando 
+el Banco emisor sea una empresa del sistema financiero del exterior de 
+primer nivel. 
+  
+20% 
+ 
+(b) Emisiones de cartas fianzas que respalden obligaciones de hacer y no 
+hacer. 
+  
+50% 
+ 
+(c) Emisiones de avales, cartas de crédito de importación y cartas fianzas no 
+incluidas en el literal "b)", y las confirmaciones de cartas de crédito no 
+incluidas en el literal "a)", así como las aceptaciones bancarias. 
+  
+100% 
+ 
+(d) Créditos concedidos no desembolsados y líneas de crédito no utilizadas. 
+  
+0% 
+ 
+(e) Otros créditos indirectos no contemplados en los literales anteriores.  100% 
+ 
+(g) Inmuebles, mobiliario y equipo 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos 
+atribuibles a su adquisición, y se presentan netos de depreciación y de pérdida por deterioro 
+acumuladas, si hubiera. La depreciación anual se reconoce como gasto y se determina sobre 
+el costo, siguiendo el método de línea recta en base a la vida útil estimada de los activos, 
+representada por tasas de depreciación equivalentes, según la siguiente tabla: 
+ 
+ Años 
+  
+Edificios 33 
+Instalaciones 10 - 33 
+Mejoras en propiedades alquiladas 10 
+Muebles y enseres 10 
+Unidades de transporte 5 
+Equipos de cómputo 4 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan 
+como costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y 
+es probable que tales desembolsos resulten en beneficios económicos futuros superiores al 
+rendimiento normal evaluado originalmente para dicho activo. Los desembolsos para 
+mantenimiento y reparaciones se reconocen como gasto del período en el que son incurridos. 
+Cuando un activo fijo se vende o es retirado del uso, su costo y depreciación acumulada se 
+eliminan y la ganancia o pérdida resultante de la venta se reconoce en el estado de 
+resultados y otro resultado integral. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en 
+libros del activo es mayor que su valor de uso. 
+ 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la 
+Financiera es el costo.  
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, 
+salvo los adquiridos en operaciones de arrendamiento financiero. 
+ 
+(h) Arrendamiento operativo 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa 
+como arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo 
+del arrendamiento, salvo aquellos en los que resulte más representativa otra base 
+sistemática de asignación para reflejar más adecuadamente el patrón de los beneficios del 
+arrendamiento. Los pagos contingentes se cargan como gastos en los períodos en los que se 
+incurren. 
+PDF impreso el 2 de marzo de 2018
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2017_Individual_Anual_EEFF Auditados Financiera Qapaq 31122017.PDF | PAGINA: 18 | puntaje 12 =====
+- 16 - 
+(i) Bienes realizables, recibidos en pago y adjudicados 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o 
+parcial de deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado 
+en el contrato de dación en pago.  
+ 
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento 
+de bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las 
+siguientes provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes 
+muebles e inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un 
+dieciochoavo (1/18) del costo en libros de los bienes menos la provisión inicial. 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de 
+su adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al 
+valor neto obtenido en el 12avo mes. Anualmente el valor neto en libros de los bienes 
+inmuebles es comparado con el valor de realización determinado por un perito 
+independiente y, en el caso que este valor sea menor, se constituye una provisión por 
+desvalorización. 
+ 
+(j) Plusvalía – Intangible de vida indefinida 
+ 
+La plusvalía es inicialmente reconocida como un activo al costo, y subsecuentemente 
+presentada al costo menos cualquier pérdida acumulada por deterioro.  
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de 
+resultados y otro resultado integral del período en que se produce. Una pérdida por deterioro 
+de valor reconocida en la plusvalía comprada no es revertida en los periodos posteriores. 
+ 
+(k) Activos Intangibles - Vida finita 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización acumulada y cualquier pérdida acumulada por deterioro, 
+si la hubiera. La amortización es reconocida como gasto y se determina siguiendo el método 
+de línea recta en base a la vida útil estimada de los activos. La vida útil de estos activos ha 
+sido estimada como sigue: 
+ 
+ Años 
+  
+Marca 7 
+Lista de clientes  10 
+Software 5 
+Otros 5 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son 
+reconocidos como gasto cuando se incurren. Los costos que se asocian directamente con la 
+producción de programas de cómputo únicos e identificables controlados por la Financiera, y 
+que probablemente generarán beneficios económicos más allá de su costo por más de un 
+año, se reconocen como activos intangibles y se aplica a resultados en función al plazo de 
+vigencia estimado. 
+ 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el 
+costo. 
+ 
+De acuerdo a lo aprobado por la SBS en el Oficio Múltiple N° 12594-2013, de fecha 22 de 
+marzo de 2013, el intangible Lista de Clientes inició su amortización a partir de junio de 
+2013. 
+ 
+PDF impreso el 2 de marzo de 2018
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2017_Individual_Anual_EEFF Auditados Financiera Qapaq 31122017.PDF | PAGINA: 19 | puntaje 5 =====
+- 17 - 
+(l) Deterioro de activos no financieros 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el 
+valor de un activo pueda no ser recuperable, la Financiera revisa el valor de los activos de 
+larga duración para verificar que no existe ningún deterioro. Cuando el valor en libros del 
+activo de larga duración excede su valor recuperable se reconoce una pérdida por 
+desvalorización en el estado de resultados y otro resultado integral, para los activos 
+mantenidos al costo. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso. El valor de 
+venta es el importe que se espera obtener de la venta de un activo efectuada en un mercado 
+libre; mientras que el valor de uso, es el valor presente de la estimación de los flujos de 
+efectivo futuros que se prevé resultará del uso continuo de un activo, así como de su 
+disposición al final de su vida útil. Los importes recuperables se estiman para cada activo. 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna si se produce un 
+cambio en los estimados que se utilizaron en la última oportunidad en que se reconoció dicha 
+pérdida. 
+ 
+(m) Adeudos y obligaciones financieras  
+ 
+Los pasivos por concepto de adeudos y obligaciones financieras son registrados a su valor 
+nominal o a su valor razonable con cambios en resultados. Los intereses devengados se 
+reconocen en el estado de resultados del período en que se producen. 
+ 
+(n) Beneficios a los trabajadores 
+ 
+(n.1) Participación en las utilidades 
+ 
+La Financiera reconoce un pasivo y un gasto por participación de los trabajadores en las 
+utilidades, sobre la base del 5% de la base imponible, determinada de acuerdo a la 
+legislación tributaria vigente.  
+ 
+Esta participación se registra de acuerdo a la Norma Internacional de Contabilidad N° 19 
+“Beneficios a los empleados”. En consecuencia, se trata como un gasto de personal y un 
+pasivo relacionado con beneficios para los trabajadores. 
+ 
+(n.2) Vacaciones y otros beneficios a los trabajadores 
+ 
+Las vacaciones anuales de los trabajadores, las ausencias remuneradas y otros beneficios a 
+los trabajadores se reconocen sobre la base del devengado. La provisión por la obligación 
+estimada por vacaciones anuales, las ausencias remuneradas y otros beneficios a los 
+trabajadores resultantes de servicios prestados por los trabajadores se reconoce a la fecha 
+del es tado de situación financiera. 
+ 
+(n.3) Gratificaciones 
+ 
+La Compañía reconoce el gasto por gratificaciones y su correspondiente pasivo sobre las 
+bases de las disposiciones legales vigentes en Perú. Las gratificaciones corresponden a dos 
+remuneraciones anuales que se pagan en julio y diciembre de cada año, a menos se acuerde 
+con el trabajador otro tipo de compensación de conceptos remunerativos unificados. 
+ 
+(n.4) Compensación por tiempo de servicios  
+ 
+La compensación por tiempo de servicios del personal de la Compañía corresponde a sus 
+derechos indemnizatorios calculados de acuerdo con la legislación vigente la que se tiene que 
+depositar en las cuentas bancarias designadas por los trabajadores en los meses de mayo y 
+noviembre de cada año. 
+ 
+La compensación por tiempo de servicios del personal es equivalente a media remuneración 
+vigente a la fecha de cada depósito y se reconoce sobre la base del devengado. La Compañía 
+no tiene obligaciones de pago adicionales una vez que efectúa los depósitos anuales de los 
+fondos a los que el trabajador tiene derecho, a menos se acuerde con el trabajador otro tipo 
+de compensación de conceptos remunerativos unificados. 
+PDF impreso el 2 de marzo de 2018
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2017_Individual_Anual_EEFF Auditados Financiera Qapaq 31122017.PDF | PAGINA: 20 | vecina =====
+- 18 - 
+(o) Provisiones, pasivos contingentes y activos contingentes 
+ 
+Las provisiones son reconocidas cuando la Financiera tiene una obligación presente (ya sea 
+legal o implícita) como resultado de un suceso pasado, es probable que la Financiera tenga 
+que desprenderse de recursos que incorporen beneficios económicos para cancelar tal 
+obligación y puede efectuarse una estimación fiable del importe de la obligación. 
+ 
+El importe reconocido como provisión corresponde a la mejor estimación, a la fecha del 
+estado de situación financiera, del desembolso necesario para cancelar la obligación 
+presente, tomando en consideración los riesgos e incertidumbres que rodean a la mayoría de 
+los sucesos y circunstancias concurrentes a la valoración de la misma. Cuando el importe de 
+la provisión sea medido utilizando flujos estimados de efectivo para cancelar la obligación, el 
+valor en libros es el valor presente de los desembolsos correspondientes. 
+ 
+Los pasivos contingentes no se reconocen en los estados financieros sólo se revelan en nota 
+a los mismos. Cuando la posibilidad de una salida de recursos para cubrir un pasivo 
+contingente sea remota, tal revelación no es requerida.  
+ 
+Los activos contingentes no se reconocen en los estados financieros, sólo se revelan en nota 
+a los estados financieros cuando es probable que se produzca un ingreso de recursos. 
+ 
+Las partidas tratadas previamente como pasivos contingentes, serán reconocidas en los 
+estados financieros en el período en que ocurra un cambio de probabilidades, esto es, cuando 
+se determine que es probable que se produzca una salida de recursos para cubrir el 
+mencionado pasivo. Las partidas tratadas como activos contingentes, serán reconocidas en 
+los estados financieros en el período en que se determine que es virtualmente seguro que se 
+producirá un ingreso de recursos, respectivamente. 
+ 
+(p) Reconocimiento de los ingresos y gastos 
+ 
+Los ingresos y gastos por intereses de créditos directos y las comisiones por servicios 
+bancarios son reconocidos en los resultados del ejercicio a medida que se devengan, en 
+función al tiempo de vigencia de las operaciones que los generan.  
+ 
+Si en opinión de la Gerencia existen dudas razonables con respecto a la cobrabilidad del 
+principal de algún crédito directo y una o más cuotas del crédito directo se encuentran en 
+situación contable de vencido, cobranza judicial, refinanciado, reestructurado, o los deudores 
+se encuentran clasificados en dudoso o pérdida, la Financiera suspende el reconocimiento de 
+los rendimientos a resultados y los registra como rendimientos en suspenso en una cuenta de 
+orden; tales rendimientos se reconocen como ingreso cuando se perciban. Cuando la 
+Gerencia determina que la condición financiera del deudor ha mejorado a tal punto que 
+desaparece la duda en cuanto a la recuperación del principal, se restablece la contabilización 
+de los intereses sobre la base de lo devengado. 
+ 
+Los ingresos por créditos indirectos se reconocen bajo el criterio de devengado 
+considerándose el plazo de dichos créditos. 
+ 
+Los ingresos por intereses incluyen los rendimientos sobre las inversiones de renta fija.  
+ 
+Los otros ingresos y gastos de la Financiera son registrados en el período en que se 
+devengan. 
+ 
+(q) Impuesto a la renta 
+ 
+El gasto por impuesto a la renta comprende la suma del impuesto a la renta corriente por 
+pagar estimado y el impuesto a la renta diferido. 
+ 
+El impuesto a la renta corriente se determina aplicando la tasa de impuesto establecida en la 
+legislación fiscal vigente a la renta neta fiscal del año. 
+ 
+El impuesto sobre la renta diferido corresponde al monto de impuesto esperado a recuperar o 
+pagar sobre las diferencias temporarias entre los valores en libros reportados de activos y 
+pasivos y sus correspondientes bases fiscales.  
+PDF impreso el 2 de marzo de 2018
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2022_Individual_Anual_EEFF Financiera Qapaq 31Dic22 V2.pdf | PAGINA: 19 | vecina =====
+ 
+- 17 - 
+acuerdo con el numeral 2.1. del Capítulo III del Reglamento para la Evaluación y 
+Clasificación del Deudor y la Exigencia de Provisiones 
+ 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, 
+pequeña empresa y mediana empresa. 
+ 
+- Los intereses devengados de los créditos reprogramados, en situación contable de 
+vigente, por los que el cliente no haya efectuado el pago de al menos una cuota completa 
+que incluya capital en los últimos seis meses al cierre de la información contable, se les 
+aplicará un requerimiento de provisiones correspondiente a la categoría de riesgo 
+Deficiente. 
+ 
+- Los intereses devengados de los créditos reprogramados, en situación contable de 
+vigentes, por los que el cliente que no hayan efectuado el pago de al menos una cuota 
+completa que incluya capital en los últimos seis meses al cierre de la información 
+contable, a dichos intereses devengados se les aplicará un requerimiento de provisiones 
+específicas correspondientes a la categoría de riesgo de crédito Pérdida.  
+ 
+A dichos intereses devengados se les aplicará un requerimiento de provisiones específicas 
+correspondientes a la categoría de riesgo de crédito Deficiente o Pérdida, de acuerdo con 
+la Tabla 1 del numeral 2.1. del Capítulo III del Reglamento para la Evaluación y 
+Clasificación del Deudor y la Exigencia de Provisiones.  
+ 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, 
+pequeña empresa y mediana empresa. 
+ 
+(g) Inmuebles, mobiliario y equipo 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos atribuibles 
+a su adquisición, y se presentan netos de depreciación y de pérdida por deterioro acumuladas, 
+si hubiera. La depreciación anual se reconoce como gasto y se determina sobre el costo, 
+siguiendo el método de línea recta en base a la vida útil estimada de los activos, representada 
+por tasas de depreciación equivalentes, según la siguiente tabla: 
+ 
+ Años 
+  
+Edificios 33 
+Instalaciones 10 – 33 
+Mejoras en propiedades alquiladas 10 
+Muebles y enseres 10 
+Unidades de transporte 5 
+Equipos de cómputo 4 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan 
+como costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y 
+es probable que tales desembolsos resulten en beneficios económicos futuros superiores al 
+rendimiento normal evaluado originalmente para dicho activo. Los desembolsos para 
+mantenimiento y reparaciones se reconocen como gasto del período en el que son incurridos. 
+Cuando un activo fijo se vende o es retirado del uso, su costo y depreciación acumulada se 
+eliminan y la ganancia o pérdida resultante de la venta se reconoce en el estado de resultados y 
+otro resultado integral. 
+ 
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2022_Individual_Anual_EEFF Financiera Qapaq 31Dic22 V2.pdf | PAGINA: 20 | puntaje 14 =====
+ 
+- 18 - 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en 
+libros del activo es mayor que su valor de uso. 
+ 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la 
+Financiera es el costo.  
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo 
+los adquiridos en operaciones de arrendamiento financiero. 
+ 
+(h) Arrendamiento operativo 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa 
+como arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+(i) Bienes realizables, recibidos en pago y adjudicados 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o parcial 
+de deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el 
+contrato de dación en pago.  
+ 
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento de 
+bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las siguientes 
+provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes muebles 
+e inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un 
+dieciochoavo (1/18) del costo en libros de los bienes menos la provisión inicial. 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al valor 
+neto obtenido en el 12avo mes. Anualmente el valor neto en libros de los bienes 
+inmuebles es comparado con el valor de realización determinado por un perito 
+independiente y, en el caso que este valor sea menor, se constituye una provisión por 
+desvalorización. 
+ 
+(j) Plusvalía – Intangible de vida indefinida 
+ 
+La plusvalía es inicialmente reconocida como un activo al costo, y subsecuentemente 
+presentada al costo menos cualquier pérdida acumulada por deterioro.  
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de resultados 
+y otro resultado integral del período en que se produce. Una pérdida por deterioro de valor 
+reconocida en la plusvalía comprada no es revertida en los periodos posteriores. 
+ 
+  
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2022_Individual_Anual_EEFF Financiera Qapaq 31Dic22 V2.pdf | PAGINA: 21 | vecina =====
+ 
+- 19 - 
+(k) Activos Intangibles - Vida finita 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización y cualquier pérdida acumulada por deterioro, si la hubiera. 
+La amortización es reconocida como gasto y se determina siguiendo el método de línea recta en 
+base a la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada como 
+sigue: 
+ 
+ Años 
+  
+Software 5 
+Otros 5 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son 
+reconocidos como gasto cuando se incurren. Los costos que se asocian directamente con la 
+producción de programas de cómputo únicos e identificables controlados por la Financiera, y 
+que probablemente generarán beneficios económicos más allá de su costo por más de un año, 
+se reconocen como activos intangibles y se aplica a resultados en función al plazo de vigencia 
+estimado. 
+ 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el costo. 
+ 
+ Años 
+  
+Lista de clientes  8 
+ 
+Con respecto a la lista de clientes el método de amortización adoptado por la Financiera es 
+ascendente con tasas anuales en un plazo de 8 años, de acuerdo con lo informado a la SBS. El 
+cronograma de tasas es el siguiente:  
+ 
+Año  Tasa 
+   
+ 2013  6.00% 
+ 2014  7.86% 
+ 2015  10.00% 
+ 2016  10.00% 
+ 2017  10.00% 
+ 2018  17.90% 
+ 2019  18.90% 
+ 2020   19.34% 
+ 
+De acuerdo con lo aprobado por la SBS en el Oficio Múltiple N° 12594-2013, de fecha 22 de 
+marzo de 2013, el intangible Lista de Clientes inició su amortización a partir de junio de 2013 y 
+culminó en el año 2020. 
+ 
+Deterioro de activos no financieros 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el 
+valor de un activo pueda no ser recuperable, la Financiera revisa el valor de los activos de larga 
+duración para verificar que no existe ningún deterioro. Cuando el valor en libros del activo de 
+larga duración excede su valor recuperable se reconoce una pérdida por desvalorización en el 
+estado de resultados y otro resultado integral, para los activos mantenidos al costo.   
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2022_Individual_Anual_EEFF Financiera Qapaq 31Dic22 V2.pdf | PAGINA: 44 | vecina =====
+ 
+- 42 - 
+- Nuevas obligaciones formales: se elimina el Estudio Técnico de Precios de Transferencia y 
+se incorporan nuevas declaraciones juradas informativas: 
+ 
+Declaración 
+Jurada 
+Informativa 
+ Ingresos 
+Anuales 
+Mínimos 
+ 
+Supuesto 
+ 
+Contenido 
+ 
+Rige 
+desde 
+ 
+Reporte 
+Local 
+  
+S/10,120 
+  
+Operaciones 
+con Vinculadas 
+  
+Transacciones que generen 
+renta gravada o gasto 
+deducible. 
+ 
+  
+2018 
+Reporte 
+Maestro 
+ S/88,000  Contribuyentes 
+que formen 
+parte de un 
+Grupo 
+ Estructura organizacional, 
+descripción del negocio, 
+políticas de precios de 
+transferencia, posición 
+financiera y fiscal. 
+ 
+ 2018 
+Reporte País 
+por País 
+ No Aplicable  Contribuyentes 
+que formen 
+parte de un 
+Grupo 
+Multinacional 
+ Distribución global de 
+ingresos, impuestos pagados y 
+actividades de cada una de las 
+entidades del grupo 
+multinacional. 
+ 2019 
+ 
+La Financiera no está obligada elaborar el Reporte Local y Reporte Maestro por los años 
+2022 y 2021, debido a que no ha realizado operaciones con el exterior ni haber obtenido 
+financiamiento de entidades ubicadas en países o jurisdicciones no cooperantes, o de baja 
+o nula imposición, tampoco tiene operaciones con vinculadas.  
+ 
+(b) Modificaciones significativas al régimen del impuesto a las ganancias en Perú 
+ 
+Con posterioridad al 31 de diciembre 2022, no se han presentado cambios significativos al 
+régimen del Impuesto a la Ganancias en Perú, que tuvieran efectos en estos estados financieros. 
+Las normas e interpretaciones vigentes al 31 de diciembre de 2022 han sido consideradas por la 
+Gerencia en la preparación de los estados financieros. 
+ 
+A continuación, detallamos las principales modificaciones que serán aplicables a partir de 2022: 
+ 
+- Deducibilidad del gasto por intereses en función al EBITDA 
+ 
+Conforme a lo dispuesto en el Decreto Legislativo No.1424 hasta el 31 de diciembre del 
+2020 para el cálculo del IR se aplicó la regla de subcapitalización, por la que sólo eran 
+deducibles los intereses por endeudamientos que no excedan el coeficiente de 3:1 el 
+patrimonio neto de las empresas. A partir del año 2021 aplicará el límite del 30% del 
+EBITDA del ejercicio anterior, siendo el exceso de los intereses arrastrable por los cuatro 
+años siguientes. 
+ 
+Mediante el D.S. 402-2021-EF publicado el 30 de diciembre del 2021 se ha dispuesto que, 
+excepcionalmente, a efecto de determinar el EBITDA correspondiente al ejercicio 2020 
+que se aplicará para calcular el límite al ejercicio gravable 2021, a la renta neta luego de 
+efectuada la compensación de pérdidas se debe adicionar, además del importe de la 
+depreciación y amortización respectivas, el monto de los intereses deducidos para 
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2022_Individual_Anual_EEFF Financiera Qapaq 31Dic22 V2.pdf | PAGINA: 45 | puntaje 8 =====
+ 
+- 43 - 
+establecer dicha renta neta, así como deducir los ingresos por intereses gravados en dicho 
+ejercicio. 
+ 
+Beneficios fiscales que continuarán aplicándose durante el ejercicio 2022 
+ 
+- Exoneración a la ganancia de capital por enajenación de determinados valores en 
+Bolsa 
+ 
+- El tratamiento del Impuesto a la Renta aplicable a la enajenación por aporte de bienes 
+inmuebles a los FIRBI y a la tasa de retención aplicable a las rentas de arrendamiento 
+o cesión en uso de bienes inmuebles atribuidas por tales Fondos. 
+ 
+- La deducción adicional por gastos de proyectos de investigación científica, desarrollo 
+e innovación tecnológicos del 50%, 75% o 115% dependiendo de si los gastos son 
+realizados directamente por el contribuyente o mediante centros de investigación 
+domiciliados o no en el país.  La deducción adicional no podrá exceder en cada caso 
+del límite anual de 500 UIT. 
+ 
+(c) Impuesto a las ganancias  
+ 
+El impuesto a las ganancias estas conformado por: 
+ 
+ 2022  2021 
+ S/000  S/000 
+    
+Impuesto a la renta diferido (Nota 21) (4,708)  11,710 
+ 
+(d) Impuestos corrientes por recuperar 
+ 
+ 2022  2021 
+ S/000  S/000 
+    
+Pagos a cuenta de impuesto a la renta 1,746  960 
+ITAN 1,888  1,481 
+Impuesto general a las ventas, neto 26  21 
+    
+Total 3,660  2,462 
+ 
+(e) Situación de fiscalización  
+ 
+En el año 2021 la Financiera ha tenido fiscalización por parte de la administración tributaria por 
+el periodo 2016, determinaron algunos reparos mediante las Resoluciones de Determinación N° 
+012-003-0117473 a 012-003-0117485 por S/130; donde la Financiera ha interpuesto recurso de 
+reclamación generándose el Expediente N° 0150340018417 del 18 de junio de 2021 y que al 
+cierre del 31 de diciembre de 2022 no ha sido resuelta por la Administración Tributaria. Las 
+declaraciones juradas del impuesto a las ganancias de la Financiera de los ejercicios 2018 al 
+2021 y las que será presentada por el ejercicio 2022, se encuentran pendientes de revisión por 
+la autoridad tributaria, la cual tiene la facultad de efectuar dicha revisión dentro de los cuatro 
+años siguientes al año de presentación de la declaración jurada de impuesto a las ganancias. 
+ 
+La Gerencia de la Financiera estima que no surgirán pasivos de importancia como resultado de 
+las revisiones pendientes y en curso.  
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2022_Individual_Anual_EEFF Financiera Qapaq 31Dic22 V2.pdf | PAGINA: 46 | vecina =====
+ 
+- 44 - 
+21. IMPUESTO A LA RENTA DIFERIDO  
+ 
+   
+Adiciones 
+(recuperos) 
+ 
+ 
+ Saldo  Resultado  Saldo 
+ inicial  del período  final  S/000  S/000  S/000 
+ 
+Al 31 de diciembre de 2022:      
+Pérdidas Compensables:      
+Pérdida tributaria  15,929  (4,934)  10,995 
+Diferencias temporarias activas (pasivas):     
+Provisión genérica para créditos 606  191  797 
+Provisión para vacaciones 273  132  405 
+Depreciación de inmuebles, mobiliario y 
+equipo 1,044  82  1,126 
+Amortización de intangibles (159)  (61)  (220) 
+Otras provisiones 67  45  112 
+Provisión genérica para bienes adjudicados 91  18  109 
+Amortización Lista Clientes 371  (230)  141 
+Ingresos diferidos 130  147  277 
+Intereses Créditos Vigentes  63  (63)  0 
+Otros 2  (35)  (33) 
+      
+Total neto 18,417  (4,708)  13,709 
+ 
+ 
+   
+Adiciones 
+(recuperos) 
+ 
+ 
+ Saldo  Resultado  Saldo 
+ inicial  del período  final  S/000  S/000  S/000 
+ 
+Al 31 de diciembre de 2021:      
+Pérdidas Compensables:      
+Pérdida tributaria  4,546  11,383  15,929 
+Diferencias temporarias activas (pasivas):     
+Provisión genérica para créditos 485  121  606 
+Provisión para vacaciones 173  100  273 
+Depreciación de inmuebles, mobiliario y 
+equipo 955  89  1,044 
+Amortización de intangibles (80)  (79)  (159) 
+Otras provisiones 56  11  67 
+Provisión genérica para bienes adjudicados 56  35  91 
+Amortización Lista Clientes 601  (230)  371 
+Ingresos diferidos 177  (47)  130 
+Intereses créditos vencidos (187)  187  0 
+Intereses Créditos Vigentes  -  63  63 
+Otros (75)  77  2 
+      
+Total neto 6,707  11,710  18,417 
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2023_Individual_Anual_Informe de EEFF Auditoria Externa 2023.pdf | PAGINA: 20 | vecina =====
+ 
+- 18 - 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, pequeña 
+empresa y mediana empresa. 
+ 
+- Los intereses devengados de los créditos reprogramados, en situación contable de vigente, por 
+los que el cliente no haya efectuado el pago de al menos una cuota completa que incluya capital 
+en los últimos seis meses al cierre de la información contable, se les aplicará un requerimiento de 
+provisiones correspondiente a la categoría de riesgo Deficiente. 
+ 
+- Los intereses devengados de los créditos reprogramados, en situación contable de vigentes, por 
+los que el cliente que no hayan efectuado el pago de al menos una cuota completa que incluya 
+capital en los últimos seis meses al cierre de la información contable, a dichos intereses 
+devengados se les aplicará un requerimiento de provisiones específicas correspondientes a la 
+categoría de riesgo de crédito Pérdida. 
+ 
+A dichos intereses devengados se les aplicará un requerimiento de provisiones específicas 
+correspondientes a la categoría de riesgo de crédito Deficiente o Pérdida, de acuerdo con la Tabla 1 
+del numeral 2.1. del Capítulo III del Reglamento para la Evaluación y Clasificación del Deudor y la 
+Exigencia de Provisiones. 
+ 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, pequeña 
+empresa y mediana empresa. 
+ 
+g) Inmuebles, mobiliario y equipo - 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos atribuibles a su 
+adquisición, y se presentan netos de depreciación y de pérdida por deterioro acumuladas, si hubiera. 
+la depreciación anual se reconoce como gasto y se determina sobre el costo, siguiendo el método de 
+línea recta en base a la vida útil estimada de los activos, representada por tasas de depreciación 
+equivalentes, según la siguiente tabla: 
+   Años    
+Edificios  33 
+Instalaciones  10 - 33 
+Mejoras en propiedades alquiladas  10 
+Muebles y enseres  10 
+Unidades de transporte  5 
+Equipos de cómputo  4 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan como 
+costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y es probable 
+que tales desembolsos resulten en beneficios económicos futuros superiores al rendimiento normal 
+evaluado originalmente para dicho activo.  Los desembolsos para mantenimiento y reparaciones se 
+reconocen como gasto del período en el que son incurridos.  Cuando un activo fijo se vende o es 
+retirado del uso, su costo y depreciación acumulada se eliminan y la ganancia o pérdida resultante de 
+la venta se reconoce en el estado de resultados y otro resultado integral. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en libros 
+del activo es mayor que su valor de uso. 
+ 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la Financiera es 
+el costo. 
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo los 
+adquiridos en operaciones de arrendamiento financiero. 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2023_Individual_Anual_Informe de EEFF Auditoria Externa 2023.pdf | PAGINA: 21 | puntaje 12 =====
+ 
+- 19 - 
+h) Arrendamiento operativo - 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento.  Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+i) Bienes realizables, recibidos en pago y adjudicados - 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o parcial de 
+deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el contrato de 
+dación en pago. 
+ 
+Asimismo, de acuerdo con la Resolución SBS No.1535-2005 “Reglamento para el tratamiento de 
+bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las siguientes 
+provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes muebles e 
+inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un dieciochoavo 
+(1/18) del costo en libros de los bienes menos la provisión inicial. 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al valor neto 
+obtenido en el 12avo mes.  Anualmente el valor neto en libros de los bienes inmuebles es 
+comparado con el valor de realización determinado por un perito independiente y, en el caso que 
+este valor sea menor, se constituye una provisión por desvalorización. 
+ 
+j) Plusvalía - Intangible de vida indefinida - 
+ 
+La plusvalía es inicialmente reconocida como un activo al costo, y subsecuentemente presentada al 
+costo menos cualquier pérdida acumulada por deterioro. 
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de resultados y 
+otro resultado integral del período en que se produce.  Una pérdida por deterioro de valor reconocida 
+en la plusvalía comprada no es revertida en los periodos posteriores. 
+ 
+k) Activos Intangibles - Vida finita - 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización y cualquier pérdida acumulada por deterioro, si la hubiera.  La 
+amortización es reconocida como gasto y se determina siguiendo el método de línea recta en base a 
+la vida útil estimada de los activos.  La vida útil de estos activos ha sido estimada como sigue: 
+ 
+  Años 
+   
+Software  5 
+Otros  5 
+ 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2023_Individual_Anual_Informe de EEFF Auditoria Externa 2023.pdf | PAGINA: 22 | vecina =====
+ 
+- 20 - 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son reconocidos 
+como gasto cuando se incurren.  Los costos que se asocian directamente con la producción de 
+programas de cómputo únicos e identificables controlados por la Financiera, y que probablemente 
+generarán beneficios económicos más allá de su costo por más de un año, se reconocen como 
+activos intangibles y se aplica a resultados en función al plazo de vigencia estimado. 
+ 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el costo. 
+ 
+Deterioro de activos no financieros - 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el valor de 
+un activo pueda no ser recuperable, la Financiera revisa el valor de los activos de larga duración para 
+verificar que no existe ningún deterioro.  Cuando el valor en libros del activo de larga duración excede 
+su valor recuperable se reconoce una pérdida por desvalorización en el estado de resultados y otro 
+resultado integral, para los activos mantenidos al costo. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso.  El valor de venta es 
+el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; mientras 
+que el valor de uso es el valor presente de la estimación de los flujos de efectivo futuros que se prevé 
+resultará del uso continuo de un activo, así como de su disposición al final de su vida útil.  Los 
+importes recuperables se estiman para cada activo. 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna si se produce un cambio en 
+los estimados que se utilizaron en la última oportunidad en que se reconoció dicha pérdida. 
+ 
+l) Adeudos y obligaciones financieras - 
+ 
+Los pasivos por concepto de adeudos y obligaciones financieras son registrados a su valor nominal. 
+Los intereses devengados se reconocen en el estado de resultados del período en que se producen. 
+ 
+m) Beneficios a los trabajadores - 
+ 
+m.1) Participación en las utilidades - 
+ 
+La Financiera reconoce un pasivo y un gasto por participación de los trabajadores en las utilidades, 
+sobre la base del 5% de la base imponible, determinada de acuerdo con la legislación tributaria 
+vigente. 
+ 
+Esta participación se registra de acuerdo con la Norma Internacional de Contabilidad No.19 
+“Beneficios a los empleados”.  En consecuencia, se trata como un gasto de personal y un pasivo 
+relacionado con beneficios para los trabajadores. 
+ 
+Vacaciones y otros beneficios a los trabajadores 
+ 
+Las vacaciones anuales de los trabajadores, las ausencias remuneradas y otros beneficios a los 
+trabajadores se reconocen sobre la base del devengado.  La provisión por la obligación estimada por 
+vacaciones anuales, las ausencias remuneradas y otros beneficios a los trabajadores resultantes de 
+servicios prestados por los trabajadores se reconoce a la fecha del estado de situación financiera. 
+ 
+m.3) Gratificaciones - 
+ 
+La Financiera reconoce el gasto por gratificaciones y su correspondiente pasivo sobre las bases de 
+las disposiciones legales vigentes en Perú.  Las gratificaciones corresponden a dos remuneraciones 
+anuales que se pagan en julio y diciembre de cada año, a menos se acuerde con el trabajador otro 
+tipo de compensación de conceptos remunerativos unificados. 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2023_Individual_Anual_Informe de EEFF Auditoria Externa 2023.pdf | PAGINA: 44 | vecina =====
+ 
+- 42 - 
+- Nuevas obligaciones formales: se elimina el Estudio Técnico de Precios de Transferencia y se 
+incorporan nuevas declaraciones juradas informativas: 
+   Ingresos       
+Jurada  Anuales      Rige 
+Informativa  Mínimos  Supuesto  Contenido  desde          
+Reporte  S/10,120  Operaciones  Transacciones que generen  2018 
+Local    con Vinculadas  renta gravada o gasto         deducible.   
+Reporte  S/88,000  Contribuyentes  Estructura organizacional,  2018 
+Maestro    que formen  descripción del negocio,       parte de un  políticas de precios de       Grupo  transferencia, posición         financiera y fiscal.   
+Reporte País  No Aplicable  Contribuyentes  Distribución global de  2019 
+por País    que formen  ingresos, impuestos pagados y actividades de cada una       parte de un  de las entidades del grupo       Grupo  multinacional        Multinacional     
+ 
+La Financiera no está obligada elaborar el Reporte Local y Reporte Maestro por los años 2023 y 2022, 
+debido a que no ha realizado operaciones con el exterior ni haber obtenido financiamiento de 
+entidades ubicadas en países o jurisdicciones no cooperantes, o de baja o nula imposición, tampoco 
+tiene operaciones con vinculadas. 
+ 
+(b) Modificaciones significativas al régimen del impuesto a las ganancias en Perú - 
+ 
+Con posterioridad al 31 de diciembre 2023, no se han presentado cambios significativos al régimen 
+del Impuesto a la Ganancias en Perú, que tuvieran efectos en estos estados financieros.  Las normas 
+e interpretaciones vigentes al 31 de diciembre de 2023 han sido consideradas por la Gerencia en la 
+preparación de los estados financieros. 
+ 
+A continuación, detallamos las principales modificaciones que serán aplicables a partir de 2023: 
+ 
+- Deducibilidad del gasto por intereses en función al EBITDA 
+ 
+Conforme a lo dispuesto en el Decreto Legislativo No.1424 hasta el 31 de diciembre del 2020 para el 
+cálculo del IR se aplicó la regla de subcapitalización, por la que sólo eran deducibles los intereses por 
+endeudamientos que no excedan el coeficiente de 3:1 el patrimonio neto de las empresas.  A partir del 
+año 2021 aplicará el límite del 30% del EBITDA del ejercicio anterior, siendo el exceso de los 
+intereses arrastrable por los cuatro años siguientes. 
+ 
+Mediante el D.S. 402-2021-EF publicado el 30 de diciembre del 2021 se ha dispuesto que, 
+excepcionalmente, a efecto de determinar el EBITDA correspondiente al ejercicio 2020 que se 
+aplicará para calcular el límite al ejercicio gravable 2021, a la renta neta luego de efectuada la 
+compensación de pérdidas se debe adicionar, además del importe de la depreciación y amortización 
+respectivas, el monto de los intereses deducidos para establecer dicha renta neta, así como deducir 
+los ingresos por intereses gravados en dicho ejercicio. 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2023_Individual_Anual_Informe de EEFF Auditoria Externa 2023.pdf | PAGINA: 45 | puntaje 8 =====
+ 
+- 43 - 
+Beneficios fiscales que continuarán aplicándose durante el ejercicio 2023 - 
+ 
+- Exoneración a la ganancia de capital por enajenación de determinados valores en Bolsa 
+ 
+- El tratamiento del Impuesto a la Renta aplicable a la enajenación por aporte de bienes inmuebles 
+a los FIRBI y a la tasa de retención aplicable a las rentas de arrendamiento o cesión en uso de 
+bienes inmuebles atribuidas por tales Fondos. 
+ 
+- La deducción adicional por gastos de proyectos de investigación científica, desarrollo e innovación 
+tecnológicos del 50%, 75% o 115% dependiendo de si los gastos son realizados directamente por 
+el contribuyente o mediante centros de investigación domiciliados o no en el país.  La deducción 
+adicional no podrá exceder en cada caso del límite anual de 500 UIT. 
+ 
+(c) Impuesto a las ganancias -  
+ 
+El impuesto a las ganancias estas conformado por: 
+   2023  2022 
+  S/000  S/000      
+Impuesto a la renta diferido (Nota 21)  (4,901)  (4,708) 
+ 
+(d) Impuestos corrientes por recuperar -  
+ 
+  2023  2022 
+  S/000  S/000 
+     
+Pagos a cuenta de impuesto a la renta  1,562  1,746 
+ITAN  1,499  1,888 
+Impuesto general a las ventas, neto  8  26 
+Total  3,069  3,660 
+ 
+(e) Situación de fiscalización -  
+ 
+En el año 2021 la Financiera ha tenido fiscalización por parte de la administración tributaria por el 
+periodo 2016, determinaron algunos reparos mediante las Resoluciones de Determinación No.012-
+003-0117473 a 012-003-0117485 por S/130; donde la Financiera ha interpuesto recurso de 
+reclamación generándose el Expediente No.0150340018417 del 18 de junio de 2021 y que al cierre 
+del 31 de diciembre de 2022 no ha sido resuelta por la Administración Tributaria.  Las declaraciones 
+juradas del impuesto a las ganancias de la Financiera de los ejercicios 2018 al 2021 y las que será 
+presentada por el ejercicio 2022, se encuentran pendientes de revisión por la autoridad tributaria, la 
+cual tiene la facultad de efectuar dicha revisión dentro de los cuatro años siguientes al año de 
+presentación de la declaración jurada de impuesto a las ganancias. 
+ 
+La Gerencia de la Financiera estima que no surgirán pasivos de importancia como resultado de las 
+revisiones pendientes y en curso. 
+ 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2023_Individual_Anual_Informe de EEFF Auditoria Externa 2023.pdf | PAGINA: 46 | vecina =====
+ 
+- 44 - 
+21 IMPUESTO A LA RENTA DIFERIDO  
+ 
+    Adiciones   
+    (recuperos)   
+  Saldo  Resultado  Saldo 
+  inicial  del período  final 
+  S/000  S/000  S/000 
+       
+Al 31 de diciembre de 2023:       
+Pérdidas Compensables:       
+Pérdida tributaria  10,995  4,758  15,753 
+Diferencias temporarias activas (pasivas):       
+Provisión genérica para créditos  797  (95)  702 
+Provisión para vacaciones  405  (3)  402 
+Depreciación de inmuebles, mobiliario y       
+equipo  1126  66  1,192 
+Amortización de intangibles  (220)  96  (124) 
+Otras provisiones  112  (61)  51 
+Provisión genérica para bienes adjudicados  109  97  206 
+Amortización Lista Clientes  141  (141)  - 
+Ingresos diferidos  277  52  329 
+Intereses Créditos Vigentes       
+Otros  (33)  132  99 
+Total neto  13,709  4,901  18,610 
+ 
+    Adiciones   
+    (recuperos)   
+  Saldo  Resultado  Saldo 
+  inicial  del período  final 
+  S/000  S/000  S/000 
+       
+Al 31 de diciembre de 2022:       
+Pérdidas Compensables:       
+Pérdida tributaria  15,929  (4,934)  10,995 
+Diferencias temporarias activas (pasivas):       
+Provisión genérica para créditos  606  191  797 
+Provisión para vacaciones  273  132  405 
+Depreciación de inmuebles, mobiliario y       
+equipo  1,044  82  1,126 
+Amortización de intangibles  (159)  (61)  (220) 
+Otras provisiones  67  45  112 
+Provisión genérica para bienes adjudicados  91  18  109 
+Amortización Lista Clientes  371  (230)  141 
+Ingresos diferidos  130  147  277 
+Intereses Créditos Vigentes  63  (63)  - 
+Otros  2  (35)  (33) 
+Total neto  18,417  (4,708)  13,709 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2020_Individual_Anual_EEFF_Financiera Qapaq 2020.pdf | PAGINA: 16 | vecina =====
+- 14 - 
+Los porcentajes mínimos requeridos para la constitución de provisiones de la cartera de 
+créditos son los siguientes: 
+ 
+Categoría normal 
+Tipos de crédito  
+Componente 
+fijo  
+Componente 
+procíclico 
+     
+Créditos a medianas empresas   1.00%  0.30% 
+Créditos a pequeñas empresas   1.00%  0.50% 
+Créditos a microempresas   1.00%  0.50% 
+Créditos de consumo no-revolvente   1.00%  1.00% 
+ 
+Al 31 de diciembre de 2020 y 2019, no se encuentra activada la regla procíclica para las 
+provisiones de créditos, conforme a la Circular N° B-2224-2014, emitida por la SBS el 27 de 
+noviembre de 2014, con aplicación a partir de noviembre de 2014. 
+ 
+ 
+Otras categorías y por tipo de garantías 
+Categoría de riesgo  
+Sin 
+garantía  
+Garantía 
+preferida  
+Garantía 
+preferida de 
+muy rápida 
+realización 
+       
+Con problemas potenciales  5.00%  2.50%  1.25% 
+Deficiente  25.00%  12.50%  6.25% 
+Dudoso  60.00%  30.00%  15.00% 
+Pérdida  100.00%  60.00%  30.00% 
+ 
+Las provisiones por créditos indirectos se calculan luego de ajustar los saldos a través de la 
+aplicación de los siguientes factores de conversión crediticia. 
+ 
+Créditos indirectos  
+Factor de 
+conversión 
+   
+(a) Confirmaciones de cartas de crédito irrevocables de hasta un año, cuando 
+el Banco emisor sea una empresa del sistema financiero del exterior de 
+primer nivel. 
+  
+20% 
+(b) Emisiones de cartas fianzas que respalden obligaciones de hacer y no 
+hacer. 
+  
+50% 
+(c) Emisiones de avales, cartas de crédito de importación y cartas fianzas no 
+incluidas en el literal "b)", y las confirmaciones de cartas de crédito no 
+incluidas en el literal "a)", así como las aceptaciones bancarias. 
+  
+100% 
+(d) Créditos concedidos no desembolsados y líneas de crédito no utilizadas. 
+  
+0% 
+(e) Otros créditos indirectos no contemplados en los literales anteriores.  100% 
+ 
+Las provisiones por créditos reprogramados - COVID 19 se calculan conforme a la correcta 
+aplicación de la Resolución N° 3155-2020:  
+ 
+- Los créditos reprogramados de los deudores con clasificación Normal, son considerados 
+deudores con riesgo crediticio superior a Normal, correspondiéndoles el nivel de riesgo 
+de crédito Con Problemas Potenciales (CPP). A estos créditos se les aplica provisiones 
+específicas correspondientes a la categoría CPP, de acuerdo con el numeral 2.1. del 
+Capítulo III del presente Reglamento. 
+ 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, 
+microempresa y pequeña empresa. 
+ 
+- Por los intereses devengados (contabilizados en la cuenta 1408) de los créditos 
+reprogramados, en situación contable de vigente, correspondientes a la cartera de 
+créditos de consumo, microempresa y pequeña empresa, por los que el cliente no haya 
+efectuado el pago de al menos una cuota completa que incluya capital en los últimos 
+seis meses al cierre de la información contable, se les aplicará un requerimiento de 
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2020_Individual_Anual_EEFF_Financiera Qapaq 2020.pdf | PAGINA: 17 | puntaje 11 =====
+- 15 - 
+provisiones correspondiente a la categoría de riesgo Deficiente, de acuerdo con el 
+numeral 2.1. del Capítulo III del presente Reglamento. 
+ 
+(g) Inmuebles, mobiliario y equipo 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos 
+atribuibles a su adquisición, y se presentan netos de depreciación y de pérdida por deterioro 
+acumuladas, si hubiera. La depreciación anual se reconoce como gasto y se determina sobre 
+el costo, siguiendo el método de línea recta en base a la vida útil estimada de los activos, 
+representada por tasas de depreciación equivalentes, según la siguiente tabla: 
+ 
+ Años 
+  
+Edificios 33 
+Instalaciones 10 – 33 
+Mejoras en propiedades alquiladas 10 
+Muebles y enseres 10 
+Unidades de transporte 5 
+Equipos de cómputo 4 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan 
+como costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y 
+es probable que tales desembolsos resulten en beneficios económicos futuros superiores al 
+rendimiento normal evaluado originalmente para dicho activo. Los desembolsos para 
+mantenimiento y reparaciones se reconocen como gasto del período en el que son incurridos. 
+Cuando un activo fijo se vende o es retirado del uso, su costo y depreciación acumulada se 
+eliminan y la ganancia o pérdida resultante de la venta se reconoce en el estado de 
+resultados y otro resultado integral. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en 
+libros del activo es mayor que su valor de uso. 
+ 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la 
+Financiera es el costo.  
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, 
+salvo los adquiridos en operaciones de arrendamiento financiero. 
+ 
+(h) Arrendamiento operativo 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa 
+como arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo 
+del arrendamiento, salvo aquellos en los que resulte más representativa otra base 
+sistemática de asignación para reflejar más adecuadamente el patrón de los beneficios del 
+arrendamiento. Los pagos contingentes se cargan como gastos en los períodos en los que se 
+incurren. 
+ 
+(i) Bienes realizables, recibidos en pago y adjudicados 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o 
+parcial de deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado 
+en el contrato de dación en pago.  
+ 
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento 
+de bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las 
+siguientes provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes 
+muebles e inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un 
+dieciochoavo (1/18) del costo en libros de los bienes menos la provisión inicial. 
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2020_Individual_Anual_EEFF_Financiera Qapaq 2020.pdf | PAGINA: 18 | vecina =====
+- 16 - 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de 
+su adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al 
+valor neto obtenido en el 12avo mes. Anualmente el valor neto en libros de los bienes 
+inmuebles es comparado con el valor de realización determinado por un perito 
+independiente y, en el caso que este valor sea menor, se constituye una provisión por 
+desvalorización. 
+ 
+(j) Plusvalía – Intangible de vida indefinida 
+ 
+La plusvalía es inicialmente reconocida como un activo al costo, y subsecuentemente 
+presentada al costo menos cualquier pérdida acumulada por deterioro.  
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de 
+resultados y otro resultado integral del período en que se produce. Una pérdida por deterioro 
+de valor reconocida en la plusvalía comprada no es revertida en los periodos posteriores. 
+ 
+(k) Activos Intangibles - Vida finita 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización acumulada y cualquier pérdida acumulada por deterioro, 
+si la hubiera. La amortización es reconocida como gasto y se determina siguiendo el método 
+de línea recta en base a la vida útil estimada de los activos. La vida útil de estos activos ha 
+sido estimada como sigue: 
+ 
+ Años 
+  
+Software 5 
+Otros 5 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son 
+reconocidos como gasto cuando se incurren. Los costos que se asocian directamente con la 
+producción de programas de cómputo únicos e identificables controlados por la Financiera, y 
+que probablemente generarán beneficios económicos más allá de su costo por más de un 
+año, se reconocen como activos intangibles y se aplica a resultados en función al plazo de 
+vigencia estimado. 
+ 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el 
+costo. 
+ 
+ Años 
+  
+Lista de clientes  8 
+ 
+Con respecto a la lista de clientes el método de amortización adoptado por la Financiera es 
+ascendente con tasas anuales en un plazo de 8 años, de acuerdo a lo informado a la SBS. El 
+cronograma de tasas es el siguiente:  
+ 
+Año  Tasa 
+   
+ 2013  6.00% 
+ 2014 7.86% 
+ 2015 10.00% 
+ 2016 10.00% 
+ 2017 10.00% 
+ 2018 17.90% 
+ 2019 18.90% 
+ 2020   19.34% 
+ 
+De acuerdo a lo aprobado por la SBS en el Oficio Múltiple N° 12594-2013, de fecha 22 de 
+marzo de 2013, el intangible Lista de Clientes inició su amortización a partir de junio de 
+2013. 
+ 
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 19 | vecina =====
+- 17 - 
+Al 31 de diciembre de 2014, no se encuentra activada la regla procíclica para las provisiones de 
+créditos, conforme a la Circular N° B-2224-2014, emitida por la SBS el 27 de noviembre de 2014, 
+con aplicación a partir de noviembre de 2014 (al 31 de diciembre de 2013 se encuentra activada la 
+regla procíclica para las provisiones de créditos según Oficio Múltiple N° B-2193-2010-SBS). 
+ 
+Otras categorías y por tipo de garantías 
+ 
+Categoría de riesgo  Sin garantía  
+Garantía 
+preferida  
+Garantía 
+preferida de 
+muy rápida 
+realización 
+       
+Con problemas potenciales  5.00%  2.50%  1.25% 
+Deficiente  25.00%  12.50%  6.25% 
+Dudoso  60.00%  30.00%  15.00% 
+Pérdida  100.00%  60.00%  30.00% 
+ 
+Las provisiones por créditos indirectos se calculan luego de ajustar los saldos a través de la 
+aplicación de los siguientes factores de conversión crediticia. 
+ 
+Créditos indirectos  
+Factor de 
+conversión 
+   
+(a) Confirmaciones de cartas de crédito irrevocables de hasta un año, 
+cuando el Banco emisor sea una empresa del sistema financiero del 
+exterior de primer nivel. 
+  
+20% 
+ 
+(b) Emisiones de cartas fianzas que respalden obligaciones de hacer y no 
+hacer. 
+  
+50% 
+ 
+(c) Emisiones de avales, cartas de crédito de importación y cartas fianzas 
+no incluidas en el literal "b)", y las confirmaciones de cartas de crédito 
+no incluidas en el literal "a)", así como las aceptaciones bancarias. 
+  
+100% 
+ 
+(d) Créditos concedidos no desembolsados y líneas de crédito no utilizadas. 
+  
+0% 
+ 
+(e) Otros créditos indirectos no contemplados en los literales anteriores.  100% 
+ 
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 20 | puntaje 14 =====
+- 18 - 
+(g) Inmuebles, mobiliario y equipo 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos atribuibles a 
+su adquisición, y se presentan netos de depreciación y de pérdida por deterioro acumuladas, si 
+hubiera. La depreciación anual se reconoce como gasto y se determina sobre el costo, siguiendo el 
+método de línea recta en base a la vida útil estimada de los activos, representada por tasas de 
+depreciación equivalentes, según la siguiente tabla: 
+ 
+ Años 
+  
+Edificios 33 
+Instalaciones 10 - 33 
+Mejoras en propiedades alquiladas 10 
+Muebles y enseres 10 
+Unidades de transporte 5 
+Equipos de cómputo 4 
+ 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan como 
+costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y es probable 
+que tales desembolsos resulten en beneficios económicos futuros superiores al rendimiento normal 
+evaluado originalmente para dicho activo. Los desembolsos para mantenimiento y reparaciones se 
+reconocen como gasto del período en el que son incurridos. Cuando un activo fijo se vende o es 
+retirado del uso, su costo y depreciación acumulada se eliminan y la ganancia o pérdida resultante 
+de la venta se reconoce en el estado de resultados y otros resultados integrales. 
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en libros 
+del activo es mayor que su valor de uso. 
+ 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la Financiera 
+es el costo.  
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo los 
+adquiridos en operaciones de arrendamiento financiero. 
+ 
+(h) Arrendamiento operativo 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+(i) Bienes recibidos en dación en pago y adjudicados 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o parcial de 
+deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el contrato de 
+dación en pago.  
+ 
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 21 | vecina =====
+- 19 - 
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento de 
+bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las siguientes 
+provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes muebles e 
+inmuebles recibidos. 
+ 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un dieciochoavo 
+(1/18) del costo en libros de los bienes menos la provisión inicial. 
+ 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al valor neto 
+obtenido en el 12avo mes. Anualmente el valor neto en libros de los bienes inmuebles es 
+comparado con el valor de realización determinado por un perito independiente y, en el caso 
+que este valor sea menor, se constituye una provisión por desvalorización. 
+ 
+(j) Plusvalía y Marca – Intangible de vida indefinida 
+ 
+La plusvalía y marca de vida indefinida, resultante en la adquisición de Profinanzas corresponde al 
+exceso de las contraprestaciones otorgadas (incluyendo el valor de cualquier participación no 
+controladora y el valor razonable de cualquier participación previa poseída), sobre el valor 
+razonable neto de los activos, pasivos y pasivos contingentes identificables de Profinanzas 
+reconocidos a la fecha de adquisición. La plusvalía es inicialmente reconocida como un activo al 
+costo, y subsecuentemente presentada al costo menos cualquier pérdida acumulada por deterioro. 
+De acuerdo a lo aprobado por la SBS en el Oficio múltiple N° 12594-2013, de fecha 22 de marzo de 
+2013, la marca Profinanzas, que corresponde a un activo intangible identificado como consecuencia 
+de la adquisición de Profinanzas, ha sido definido como un intangible de vida útil indefinida en el 
+estado de situación financiera a su valor razonable determinado a la fecha de adquisición. 
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía y la marca es reconocida en el estado de 
+resultados y otros resultados integrales del período en que se produce. Una pérdida por deterioro de 
+valor reconocida en la plusvalía y la marca comprada no es revertida en los periodos posteriores. 
+ 
+(k) Activos Intangibles - Vida limitada 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización acumulada y cualquier pérdida acumulada por deterioro, si la 
+hubiera. La amortización es reconocida como gasto y se determina siguiendo el método de línea 
+recta en base a la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada 
+como sigue: 
+ 
+ Años 
+  
+Lista de clientes  8 
+Software 5 
+Otros 5 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son reconocidos 
+como gasto cuando se incurren. Los costos que se asocian directamente con la producción de 
+programas de cómputo únicos e identificables controlados por la Financiera, y que probablemente 
+generarán beneficios económicos más allá de su costo por más de un año, se reconocen como 
+activos intangibles y se aplica a resultados en función al plazo de vigencia estimado. 
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 22 | puntaje 5 =====
+- 20 - 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el costo. 
+ 
+De acuerdo a lo aprobado por la SBS en el Oficio Múltiple N° 12594-2013, de fecha 22 de marzo de 
+2013, el intangible Lista de Clientes inició su amortización a partir de enero de 2013. 
+ 
+(l) Deterioro de activos no financieros 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el valor 
+de un activo pueda no ser recuperable, la Financiera revisa el valor de los activos de larga duración 
+para verificar que no existe ningún deterioro. Cuando el valor en libros del activo de larga duración 
+excede su valor recuperable se reconoce una pérdida por desvalorización en el estado de resultados 
+y otros resultados integrales, para los activos mantenidos al costo. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso. El valor de venta es 
+el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; mientras 
+que el valor de uso, es el valor presente de la estimación de los flujos de efectivo futuros que se 
+prevé resultará del uso continuo de un activo así como de su disposición al final de su vida útil. Los 
+importes recuperables se estiman para cada activo. 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna si se produce un cambio 
+en los estimados que se utilizaron en la última oportunidad en que se reconoció dicha pérdida. 
+ 
+(m) Adeudos y obligaciones financieras  
+ 
+Los pasivos por concepto de adeudos y obligaciones financieras son registrados a su valor nominal 
+o a su valor razonable con cambios en resultados. Los intereses devengados se reconocen en el 
+estado de resultados del período en que se producen. 
+ 
+(n) Beneficios a los trabajadores 
+ 
+(n.1) Participación en las utilidades 
+ 
+La Financiera reconoce un pasivo y un gasto por participación de los trabajadores en las utilidades, 
+sobre la base del 5% de la base imponible, determinada de acuerdo a la legislación tributaria 
+vigente.  
+ 
+Esta participación se registra de acuerdo a la Norma Internacional de Contabilidad N° 19 
+“Beneficios a los empleados”. En consecuencia, se trata como un gasto de personal y un pasivo 
+relacionado con beneficios para los trabajadores. 
+ 
+(n.2) Vacaciones y otros beneficios a los trabajadores 
+ 
+Las vacaciones anuales de los trabajadores, las ausencias remuneradas y otros beneficios a los 
+trabajadores se reconocen sobre la base del devengado. La provisión por la obligación estimada por 
+vacaciones anuales, las ausencias remuneradas y otros beneficios a los trabajadores resultantes de 
+servicios prestados por los trabajadores se reconoce a la fecha del estado de situación financiera. 
+ 
+(n.3) Compensación por tiempo de servicios  
+ 
+La provisión para compensación por tiempo de servicios de los trabajadores se constituye por el 
+íntegro de los derechos indemnizatorios de acuerdo con la legislación vigente. Los pagos efectuados 
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 23 | vecina =====
+- 21 - 
+con carácter cancelatorio son depositados dos veces al año en instituciones del sistema financiero a 
+elección de los trabajadores. 
+ 
+(o) Provisiones, pasivos contingentes y activos contingentes 
+ 
+Las provisiones son reconocidas cuando la Financiera tiene una obligación presente (ya sea legal o 
+implícita) como resultado de un suceso pasado, es probable que la Financiera tenga que 
+desprenderse de recursos que incorporen beneficios económicos para cancelar tal obligación y 
+puede efectuarse una estimación fiable del importe de la obligación. 
+ 
+El importe reconocido como provisión corresponde a la mejor estimación, a la fecha del estado de 
+situación financiera, del desembolso necesario para cancelar la obligación presente, tomando en 
+consideración los riesgos e incertidumbres que rodean a la mayoría de los sucesos y circunstancias 
+concurrentes a la valoración de la misma. Cuando el importe de la provisión sea medido utilizando 
+flujos estimados de efectivo para cancelar la obligación, el valor en libros es el valor presente de los 
+desembolsos correspondientes. 
+ 
+Los pasivos contingentes no se reconocen en los estados financieros sólo se revelan en nota a los 
+mismos. Cuando la posibilidad de una salida de recursos para cubrir un pasivo contingente sea 
+remota, tal revelación no es requerida.  
+ 
+Los activos contingentes no se reconocen en los estados financieros, sólo se revelan en nota a los 
+estados financieros cuando es probable que se produzca un ingreso de recursos. 
+Las partidas tratadas previamente como pasivos contingentes, serán reconocidas en los estados 
+financieros en el período en que ocurra un cambio de probabilidades, esto es, cuando se determine 
+que es probable que se produzca una salida de recursos para cubrir el mencionado pasivo. Las 
+partidas tratadas como activos contingentes, serán reconocidas en los estados financieros en el 
+período en que se determine que es virtualmente seguro que se producirá un ingreso de recursos, 
+respectivamente. 
+ 
+(p) Reconocimiento de los ingresos y gastos 
+ 
+Los ingresos y gastos por intereses de créditos directos y las comisiones por servicios bancarios son 
+reconocidos en los resultados del ejercicio a medida que se devengan, en función al tiempo de 
+vigencia de las operaciones que los generan.  
+ 
+Si en opinión de la Gerencia existen dudas razonables con respecto a la cobrabilidad del principal de 
+algún crédito directo y una o más cuotas del crédito directo se encuentran en situación contable de 
+vencido, cobranza judicial, refinanciado, reestructurado, o los deudores se encuentran clasificados 
+en dudoso o pérdida, la Financiera suspende el reconocimiento de los rendimientos a resultados y 
+los registra como rendimientos en suspenso en una cuenta de orden; tales rendimientos se reconocen 
+como ingreso cuando se perciban. Cuando la Gerencia determina que la condición financiera del 
+deudor ha mejorado a tal punto que desaparece la duda en cuanto a la recuperación del principal, se 
+restablece la contabilización de los intereses sobre la base de lo devengado. 
+ 
+Los ingresos por créditos indirectos se reconocen bajo el criterio de devengado considerándose el 
+plazo de dichos créditos. 
+ 
+Los ingresos por intereses incluyen los rendimientos sobre las inversiones de renta fija.  
+ 
+Los otros ingresos y gastos de la Financiera son registrados en el período en que se devengan. 
+ 
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 31 | vecina =====
+- 29 - 
+(e) El movimiento de la provisión para incobrabilidad de los créditos directos, es como sigue:  
+ 
+En miles de S/. Específica Genérica Total
+Saldos al 1 de enero de 2013 16,698            3,516              20,214            
+Provisiones 15,176            -                     15,176            
+Reversión de provisiones -                     (510)               (510)               
+Castigos (11,267)          -                     (11,267)          
+Venta de cartera (g) (8,444)            -                     (8,444)            
+Diferencia de cambio 9                     101                 110                 
+Saldos al 31 de diciembre de 2013 12,172            3,107              15,279            
+Provisiones 26,386            4,030              30,416            
+Reversión de provisiones -                     (485)               (485)               
+Castigos (2,725)            -                     (2,725)            
+Venta de cartera (g) (18,198)          -                     (18,198)          
+Saldos al 31 de diciembre de 2014 17,635            6,652              24,287            
+ 
+La provisión genérica está compuesta como sigue: 
+ 
+En miles de S/. 2014 2013
+Provisión genérica obligatoria - componente fijo 1,725              1,927              
+Provisión genérica obligatoria - componente procíclico 897                 1,180              
+Provisión genérica voluntaria 4,030              -                     
+Total 6,652              3,107              
+ 
+En opinión de la Gerencia, la provisión para incobrabilidad de créditos registrada al 31 de 
+diciembre de 2014 y 2013, está efectuada de acuerdo con las normas de la SBS, vigentes a la 
+fecha. 
+ 
+En sesiones de Directorio efectuadas en el 2014, en concordancia con las normas legales 
+vigentes sobre castigos de créditos incobrables y con aprobación de la SBS, se acordó el 
+castigo de ciertos créditos en moneda nacional y extranjera con más de 120 días de 
+incumplimiento, que se encontraban íntegramente provisionados por su categoría de pérdida y 
+con evidencia de muy remota recuperación.  
+ 
+Al 31 de diciembre de 2014, los montos de capital de créditos castigados ascendieron a S/.2.7 
+millones (S/.11.09 millones y US$0.07 millones al 31 de diciembre de 2013) y los intereses en 
+suspenso a S/.0.9 millones al 31 de diciembre de 2014 (S/.8.33 millones y US$0.05 millones al 
+31 de diciembre de 2013). 
+ 
+(f) Cartera de créditos adquirida a Edpyme Acceso Crediticio S.A.  
+ 
+En 2014, la Financiera celebró un contrato marco de transferencia de cartera crediticia en la 
+modalidad de cesión de derechos con Edpyme Acceso Crediticio S.A. (en adelante la 
+Edpyme), a través del cual se establecen los términos y condiciones que regularán las 
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 32 | puntaje 6 =====
+- 30 - 
+transferencias de carteras de créditos que celebren la Financiera y Edpyme. Dicho contrato 
+establece que la cartera adquirida por la Financiera debe estar conformada por deudores que 
+cumplan las siguientes características: 
+ 
+- Clasificación será 100% “Normal” en el último período reportado, según las 
+regulaciones emitidas por la SBS, pudiendo aceptarse deudores no bancarizados. 
+ 
+- No podrán tener una clasificación igual o peor a “Deficiente” en los últimos 6 meses 
+reportados, según regulación SBS. 
+ 
+- No podrán tener una clasificación igual o peor a “Dudoso” en los últimos 12 meses 
+reportados, según la regulación emitida por la SBS. 
+ 
+- No deberán mantener obligaciones vencidas, ni refinanciadas en el Sistema Financiero. 
+ 
+La Edpyme se obliga a transferir a favor de la Financiera las garantías que hubiesen sido 
+constituidas por los deudores que integren las carteras cedidas. 
+ 
+Con fecha 25 de abril de 2014, mediante contrato individual de venta de cartera la Financiera 
+adquirió cartera de créditos de la Edpyme por un total de S/.1.0 millones, cuyo valor 
+recuperado al cierre del período 2014 fue de S/.0.8 millones. 
+ 
+En 2013, la Financiera no ha realizado operaciones de adquisición de cartera de créditos. 
+ 
+(g) Cartera de créditos vendida  
+ 
+En 2014, la Financiera realizó ventas de cartera crediticia a la empresa Orca Credit Holdings 
+LLC; dichas operaciones fueron realizadas al contado. Las carteras de créditos cedidas tenían 
+un valor bruto en libros de S/.20.4 millones con una provisión por incobrabilidad de cartera de 
+créditos por S/.18.2 millones; asimismo se vendió cartera de créditos castigada, la cual se 
+mantenía en cuentas de orden por un valor de S/.4.9 millones. La venta fue realizada a un 
+precio de S/.25.3 millones, generándose una ganancia de S/.23.1 millones, que se incluye en el 
+rubro “Otros resultados por operaciones financieras” en el estado de resultados y otros 
+resultados integrales. 
+ 
+En 2013, la Financiera realizó la venta de cartera crediticia a las empresas SIC Contact Center 
+S.A. y Orca Credit Holdings LLC. Por un total de S/.8.4 millones, dichas operaciones fueron 
+al contado. La cartera de crédito cedida tenía un valor bruto en libros de S/.8.4 millones y se 
+encontraba totalmente provisionada, fueron vendidas a un precio de S/.2.8 millones, 
+generándose una ganancia de S/.2.8 millones, la cual se incluye en el rubro “Otros resultados 
+por operaciones financieras” en el estado de resultados y otros resultados integrales.
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 33 | vecina =====
+- 31 - 
+7. INMUEBLES, MOBILIARIO Y EQUIPO, NETO  
+ 
+En miles de S/. Mejoras en 
+propiedades Edificios e Muebles y Unidades de Equipos de Trabajos en 
+Terrenos alquiladas instalaciones enseres transporte cómputo curso Total
+Costo
+Saldo al 1 de enero de 2013 3,594               6,061               4,173               3,655               1,800               5,154               18                    24,455             
+Adiciones -                       157                  -                       3                      322                  871                  -                       1,353               
+Ventas -                       -                       -                       -                       (127)                 (38)                   -                       (165)                 
+Reclasificaciones -                       8                      -                       -                       -                       -                       (8)                     -                       
+Ajustes -                       -                       (32)                   -                       1                      -                       (6)                     (37)                   
+Saldo al 31 de diciembre de 2013 3,594               6,226               4,141               3,658               1,996               5,987               4                      25,606             
+Adiciones -                       764                  88                    64                    131                  187                  -                       1,234               
+Ventas/Bajas -                       (488)                 -                       (45)                   (784)                 (3,482)              -                       (4,799)              
+Reclasificaciones -                       -                       4                      -                       -                       -                       (4)                     -                       
+Ajustes -                       -                       -                       (6)                     -                       3                      -                       (3)                     
+Saldo al 31 de diciembre de 2014 3,594               6,502               4,233               3,671               1,343               2,695               -                       22,038             
+Depreciación acumulada
+Saldo al 1 de enero de 2013 -                       1,873               868                  1,055               902                  3,171               -                       7,869               
+Adiciones -                       796                  151                  364                  300                  1,204               -                       2,815               
+Ventas -                       -                       -                       -                       (127)                 (7)                     -                       (134)                 
+Reclasificaciones y ajustes -                       -                       -                       -                       (3)                     (2)                     -                       (5)                     
+Saldo al 31 de diciembre de 2013 -                       2,669               1,019               1,419               1,072               4,366               -                       10,545             
+Adiciones -                       679                  152                  364                  275                  760                  -                       2,230               
+Ventas/Bajas -                       (488)                 -                       (45)                   (699)                 (3,445)              -                       (4,677)              
+Reclasificaciones y ajustes -                       -                       -                       (5)                     -                       -                       -                       (5)                     
+Saldo al 31 de diciembre de 2014 -                       2,860               1,171               1,733               648                  1,681               -                       8,093               
+Costo neto
+Al 31 de diciembre de 2014 3,594               3,642               3,062               1,938               695                  1,014               -                       13,945             
+Al 31 de diciembre de 2013 3,594               3,557               3,122               2,239               924                  1,621               4                      15,061             
+ 
+ 
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 34 | puntaje 14 =====
+- 32 - 
+En 2014, la Financiera desincorporó por retiro y/o venta de inmuebles, mobiliario y equipo con 
+valor en libros neto de S/.122 mil, asimismo realizó la venta de una camioneta obteniendo una 
+utilidad de S/.17 mil sobre dicha operación, incluida en el rubro otros ingresos y gastos del estado 
+de resultados y otros resultados integrales (valor en libros neto de S/.31 mil, obteniendo una utilidad 
+de S/.37 mil, en 2013). 
+ 
+La Financiera tiene formalizadas pólizas de seguros para cubrir los posibles riesgos a que están 
+sujetos los diversos elementos de sus inmuebles, mobiliario y equipo, así como las posibles 
+reclamaciones que se le puedan presentar por el ejercicio de su actividad, entendiendo que dichas 
+pólizas cubren de manera suficiente los riesgos a los que están sometidos. 
+ 
+Al 31 de diciembre de 2014 y 2013, la Financiera mantiene activos con un valor de S/. 304 mil y 
+S/.1.7 millones respectivamente correspondientes a inmuebles, mobiliario y equipo totalmente 
+depreciados y que continúan en uso. 
+ 
+Al 31 de diciembre de 2014 y 2013, ningún activo de la Financiera fue otorgado en garantía de 
+préstamos. 
+ 
+La Gerencia de la Financiera considera que no hay situaciones que indiquen que existe un posible 
+deterioro en el valor de sus inmuebles, mobiliario y equipo.  
+ 
+ 
+8. ACTIVOS INTANGIBLES, NETO  
+ 
+En miles de S/. Licencias y Marca Lista
+Software profinanzas de clientes Otros Total
+Costo:
+Saldo al 1 de enero de 2013 4,101              4,600              7,800              12                   16,513             
+Adiciones 223                 -                     -                     -                     223                  
+Bajas (674)               -                     -                     -                     (674)                 
+Saldo al 31 de diciembre de 2013 3,650              4,600              7,800              12                   16,062             
+Adiciones 225                 -                     -                     -                     225                  
+Saldo al 31 de diciembre de 2014 3,875              4,600              7,800              12                   16,287             
+Amortización acumulada:
+Saldo al 1 de enero de 2013 974                 -                     -                     -                     974                  
+Amortización del año 649                 -                     468                 -                     1,117               
+Bajas (674)               -                     -                     -                     (674)                 
+Saldo al 31 de diciembre de 2013 949                 -                     468                 -                     1,417               
+Amortización del año 966                 -                     613                 -                     1,579               
+Saldo al 31 de diciembre de 2014 1,915              -                     1,081              -                     2,996               
+Costo neto:
+Total al 31 de diciembre de 2014 1,960              4,600              6,719              12                   13,291             
+Total al 31 de diciembre de 2013 2,701              4,600              7,332              12                   14,645             
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2014_Individual_Anual_Financiera Qapaq Aud 31dic14.pdf | PAGINA: 35 | vecina =====
+- 33 - 
+Los activos intangibles incluyen la marca y la lista de clientes identificados como consecuencia de 
+la determinación de los valores razonables de activos y pasivos netos correspondientes a la 
+adquisición de Profinanzas. 
+ 
+Al 31 de diciembre de 2014 y 2013, la Financiera mantiene intangibles totalmente amortizados que 
+aún se encuentran en uso por aproximadamente S/.530 mil y S/.259 mil. 
+ 
+La Gerencia revisa periódicamente el valor residual de los intangibles, la vida útil y el método de 
+amortización utilizado con la finalidad de asegurar que sean consistentes con el beneficio 
+económico y las expectativas de vida. En opinión de la Gerencia de la Financiera, no existe 
+evidencia de deterioro del valor de los intangibles mantenidos por la Financiera al 31 de diciembre 
+de 2014 y 2013. 
+ 
+ 
+9. PLUSVALIA  
+ 
+La plusvalía es el valor pagado que no se ha podido asignar a los activos identificados. La plusvalía 
+fue determinada como el mayor valor entre la contraprestación transferida (S/.49.3 millones) y el 
+valor razonable de los activos netos al 1 de agosto de 2012 (fecha de adquisición de Profinanzas), 
+como se detalla a continuación: 
+ 
+En miles de S/. 2012
+Valor razonable de los activos netos identificables
+a la fecha de adquisición:
+Marca (4,600)            
+Lista de clientes (7,800)            
+Otros activos y pasivos, netos (29,054)          
+Total valor razonable de los activos netos identificables (41,454)          
+Contraprestación pagada 49,351            
+Participación no controladora 283                 
+Plusvalía 8,180              
+ 
+Al 31 de diciembre de 2013, de acuerdo a lo establecido por la NIIF N° 3 “Combinaciones de 
+negocios”, una vez concluido el período de medición de un año a partir de la fecha de adquisición, 
+la Financiera ha determinado el valor final del intangible adquirido “Lista de Clientes” en S/.7.8 
+millones, modificando por lo tanto el valor de la plusvalía a S/.8.2 millones. Al 31 de diciembre 
+2014 no se ha requerido realizar ningún ajuste manteniéndose el saldo asumido por la Financiera. 
+ 
+La Gerencia ha revisado las proyecciones de los resultados esperados y en su opinión los valores 
+recuperables de la plusvalía al 31 de julio de 2014, son mayores a sus valores en libros, por lo que 
+no es necesario constituir una provisión por pérdida por deterioro para dicho activo a la fecha de los 
+estados financieros. La evaluación de la capacidad de recuperación de valor en libros de la plusvalía 
+incluye la valorización del negocio adquirido a través de la metodología de flujos de caja 
+proyectados calculados mediante la perpetuidad sobre el promedio de los flujos operativos de diez 
+años proyectados, tasa de crecimiento anual de 2% y la utilización de 15% como tasa de descuento.  
+PDF impreso el 26 de febrero de 2015
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2021_Individual_Anual_Financiera QapaqAud 31dic21v1.pdf | PAGINA: 17 | vecina =====
+- 15 - 
+A dichos créditos, se les aplica las provisiones específicas correspondientes a la categoría 
+de riesgo de crédito Con Problemas Potenciales, Deficiente o Dudoso, respectivamente, de 
+acuerdo con el numeral 2.1. del Capítulo III del Reglamento para la Evaluación y 
+Clasificación del Deudor y la Exigencia de Provisiones 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, 
+pequeña empresa y mediana empresa. 
+- Los intereses devengados de los créditos reprogramados, en situación contable de 
+vigente, por los que el cliente no haya efectuado el pago de al menos una cuota completa 
+que incluya capital en los últimos seis meses al cierre de la información contable, se les 
+aplicará un requerimiento de provisiones correspondiente a la categoría de riesgo 
+Deficiente.
+- Los intereses devengados de los créditos reprogramados, en situación contable de 
+vigentes, por los que el cliente que no hayan efectuado el pago de al menos una cuota 
+completa que incluya capital en los últimos seis meses al cierre de la información 
+contable, a dichos intereses devengados se les aplicará un requerimiento de provisiones 
+específicas correspondientes a la categoría de riesgo de crédito Pérdida.  
+A dichos intereses devengados se les aplicará un requerimiento de provisiones específicas 
+correspondientes a la categoría de riesgo de crédito Deficiente o Pérdida, de acuerdo con 
+la Tabla 1 del numeral 2.1. del Capítulo III del Reglamento para la Evaluación y 
+Clasificación del Deudor y la Exigencia de Provisiones.  
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, 
+pequeña empresa y mediana empresa. 
+(g) Inmuebles, mobiliario y equipo 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos atribuibles 
+a su adquisición, y se presentan netos de depreciación y de pérdida por deterioro acumuladas, 
+si hubiera. La depreciación anual se reconoce como gasto y se determina sobre el costo, 
+siguiendo el método de línea recta en base a la vida útil estimada de los activos, representada 
+por tasas de depreciación equivalentes, según la siguiente tabla: 
+Años 
+Edificios 33 
+Instalaciones 10 – 33 
+Mejoras en propiedades alquiladas 10 
+Muebles y enseres 10 
+Unidades de transporte 5
+Equipos de cómputo 4 
+Los desembolsos incurridos después que un activo fijo ha sido puesto en uso se capitalizan 
+como costo adicional de ese activo únicamente cuando pueden ser medidos confiablemente y 
+es probable que tales desembolsos resulten en beneficios económicos futuros superiores al 
+rendimiento normal evaluado originalmente para dicho activo. Los desembolsos para 
+mantenimiento y reparaciones se reconocen como gasto del período en el que son incurridos. 
+Cuando un activo fijo se vende o es retirado del uso, su costo y depreciación acumulada se 
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2021_Individual_Anual_Financiera QapaqAud 31dic21v1.pdf | PAGINA: 18 | puntaje 14 =====
+- 16 - 
+eliminan y la ganancia o pérdida resultante de la venta se reconoce en el estado de resultados y 
+otro resultado integral. 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en 
+libros del activo es mayor que su valor de uso. 
+El modelo de reconocimiento posterior de inmuebles, mobiliario y equipo seguido por la 
+Financiera es el costo.  
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo 
+los adquiridos en operaciones de arrendamiento financiero. 
+(h) Arrendamiento operativo 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa 
+como arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los 
+pagos contingentes se cargan como gastos en los períodos en los que se incurren. 
+(i) Bienes realizables, recibidos en pago y adjudicados 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o parcial 
+de deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el 
+contrato de dación en pago.  
+Asimismo, de acuerdo con la Resolución SBS N° 1535-2005 “Reglamento para el tratamiento de 
+bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las siguientes 
+provisiones: 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes muebles 
+e inmuebles recibidos. 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un 
+dieciochoavo (1/18) del costo en libros de los bienes menos la provisión inicial. 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al valor 
+neto obtenido en el 12avo mes. Anualmente el valor neto en libros de los bienes 
+inmuebles es comparado con el valor de realización determinado por un perito 
+independiente y, en el caso que este valor sea menor, se constituye una provisión por 
+desvalorización. 
+(j) Plusvalía – Intangible de vida indefinida 
+La plusvalía es inicialmente reconocida como un activo al costo, y subsecuentemente 
+presentada al costo menos cualquier pérdida acumulada por deterioro.  
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de resultados 
+y otro resultado integral del período en que se produce. Una pérdida por deterioro de valor 
+reconocida en la plusvalía comprada no es revertida en los periodos posteriores. 
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2021_Individual_Anual_Financiera QapaqAud 31dic21v1.pdf | PAGINA: 19 | vecina =====
+- 17 - 
+(k) Activos Intangibles - Vida finita 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización y cualquier pérdida acumulada por deterioro, si la hubiera. 
+La amortización es reconocida como gasto y se determina siguiendo el método de línea recta en 
+base a la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada como 
+sigue: 
+Años 
+Software 5
+Otros 5 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son 
+reconocidos como gasto cuando se incurren. Los costos que se asocian directamente con la 
+producción de programas de cómputo únicos e identificables controlados por la Financiera, y 
+que probablemente generarán beneficios económicos más allá de su costo por más de un año, 
+se reconocen como activos intangibles y se aplica a resultados en función al plazo de vigencia 
+estimado. 
+El modelo de reconocimiento posterior de los intangibles seguido por la Financiera es el costo. 
+Años 
+Lista de clientes  8 
+Con respecto a la lista de clientes el método de amortización adoptado por la Financiera es 
+ascendente con tasas anuales en un plazo de 8 años, de acuerdo con lo informado a la SBS. El 
+cronograma de tasas es el siguiente:  
+Año Tasa 
+ 2013 6.00% 
+ 2014 7.86% 
+ 2015 10.00% 
+ 2016 10.00% 
+ 2017 10.00% 
+ 2018 17.90% 
+2019 18.90%
+ 2020 19.34% 
+De acuerdo con lo aprobado por la SBS en el Oficio Múltiple N° 12594-2013, de fecha 22 de 
+marzo de 2013, el intangible Lista de Clientes inició su amortización a partir de junio de 2013 y 
+culmino en el año 2020.
+Deterioro de activos no financieros 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el 
+valor de un activo pueda no ser recuperable, la Financiera revisa el valor de los activos de larga 
+duración para verificar que no existe ningún deterioro. Cuando el valor en libros del activo de 
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2021_Individual_Anual_Financiera QapaqAud 31dic21v1.pdf | PAGINA: 42 | vecina =====
+- 40 - 
+- Nuevas obligaciones formales: se elimina el Estudio Técnico de Precios de Transferencia y 
+se incorporan nuevas declaraciones juradas informativas: 
+Declaración 
+Jurada 
+Informativa
+Ingresos 
+Anuales 
+Mínimos Supuesto Contenido 
+Rige 
+desde 
+Reporte 
+Local 
+9,890 
+(USD2,997) 
+Operaciones 
+con Vinculadas
+Transacciones que generen 
+renta gravada o gasto 
+deducible. 
+2018 
+Reporte 
+Maestro 
+86,000 
+(USD26,000)
+Contribuyentes 
+que formen 
+parte de un 
+Grupo 
+Estructura organizacional, 
+descripción del negocio, 
+políticas de precios de 
+transferencia, posición 
+financiera y fiscal. 
+2018 
+Reporte País 
+por País 
+No Aplicable Contribuyentes 
+que formen 
+parte de un 
+Grupo 
+Multinacional 
+Distribución global de 
+ingresos, impuestos pagados y 
+actividades de cada una de las 
+entidades del grupo 
+multinacional. 
+2019
+La Financiera no está obligada elaborar el Reporte Local y Reporte Maestro por el año 
+2021 y 2020, debido a que no ha realizado operaciones con el exterior ni haber obtenido 
+financiamiento de entidades ubicadas en países o jurisdicciones no cooperantes, o de baja 
+o nula imposición, tampoco tiene operaciones con vinculadas.  
+(b) Modificaciones significativas al régimen del impuesto a las ganancias en Perú 
+Con posterioridad al 31 de diciembre 2021, no se han presentado cambios significativos al 
+régimen del Impuesto a la Ganancias en Perú, que tuvieran efectos en estos estados financieros. 
+Las normas e interpretaciones vigentes al 31 de diciembre de 2021 han sido consideradas por la 
+Gerencia en la preparación de los estados financieros. 
+A continuación, detallamos las principales modificaciones que serán aplicables a partir de 2022: 
+Deducibilidad del gasto por intereses en función al EBITDA 
+Conforme a lo dispuesto en el Decreto Legislativo No.1424 hasta el 31 de diciembre del 
+2020 para el cálculo del IR se aplicó la regla de subcapitalización, por la que sólo eran 
+deducibles los intereses por endeudamientos que no excedan el coeficiente de 3:1 el 
+patrimonio neto de las empresas. A partir del año 2021 aplicará el límite del 30% del 
+EBITDA del ejercicio anterior, siendo el exceso de los intereses arrastrable por los cuatro 
+años siguientes. 
+Mediante el D.S. 402-2021-EF publicado el 30 de diciembre del 2021 se ha dispuesto que, 
+excepcionalmente, a efecto de determinar el EBITDA correspondiente al ejercicio 2020 
+que se aplicará para calcular el límite al ejercicio gravable 2021, a la renta neta luego de 
+efectuada la compensación de pérdidas se debe adicionar, además del importe de la 
+depreciación y amortización respectivas, el monto de los intereses deducidos para 
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2021_Individual_Anual_Financiera QapaqAud 31dic21v1.pdf | PAGINA: 43 | puntaje 8 =====
+- 41 - 
+establecer dicha renta neta, así como deducir los ingresos por intereses gravados en dicho 
+ejercicio. 
+Beneficios fiscales que continuarán aplicándose durante el ejercicio 2022 
+- Exoneración a la ganancia de capital por enajenación de determinados valores en 
+Bolsa 
+- El tratamiento del Impuesto a la Renta aplicable a la enajenación por aporte de bienes 
+inmuebles a los FIRBI y a la tasa de retención aplicable a las rentas de arrendamiento 
+o cesión en uso de bienes inmuebles atribuidas por tales Fondos. 
+- La deducción adicional por gastos de proyectos de investigación científica, desarrollo 
+e innovación tecnológicos del 50%, 75% o 115% dependiendo de si los gastos son 
+realizados directamente por el contribuyente o mediante centros de investigación 
+domiciliados o no en el país.  La deducción adicional no podrá exceder en cada caso 
+del límite anual de 500 UIT. 
+(c) Impuesto a las ganancias 
+El impuesto a las ganancias estas conformado por: 
+2021 2020 
+S/000 S/000
+Impuesto a la renta diferido (ingreso) (Nota 21) (11,710) (2,452)
+(d) Conciliación de la tasa efectiva del impuesto a la renta con la tasa tributaria 
+2021 2020 
+Importe Porcentaje Importe Porcentaje
+S/000 % S/000 % 
+Pérdida antes impuesto a la renta (36,437) 100.00 (11,718) 100.00
+Impuesto a la renta según la tasa tributaria (10,749) (29.50) (3,457) (29.50)
+Efecto tributario sobre adiciones y deducciones:
+Diferencias permanentes (1,264) (3.47) 1,005 8.60
+Perdida de beneficio perdidas compensables 303 0.83 - -
+Impuesto a la renta registrado y calculado 
+según tasa efectiva (11,710) (32.14) (2,452) (20.91)
+(e) Impuestos corrientes  
+2021 2020 
+S/000 S/000 
+Crédito fiscal / IGV por pagar 981 2,021
+ITAN 1,481 1,212
+Total 2,462 3,233
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2021_Individual_Anual_Financiera QapaqAud 31dic21v1.pdf | PAGINA: 44 | vecina =====
+- 42 - 
+(f) Situación de fiscalización
+En el año 2021 la Financiera ha tenido fiscalización por parte de la administración tributaria por 
+el periodo 2016, determinaron algunos reparos mediante las Resoluciones de Determinación N° 
+012-003-0117473 a 012-003-0117485 por S/130; donde la Financiera ha interpuesto recurso de 
+reclamación generándose el Expediente N° 0150340018417 del 18 de junio de 2021 y que al 
+cierre del 31 de diciembre de 2021 no ha sido resuelta por la Administración Tributaria. Las 
+declaraciones juradas del impuesto a las ganancias de la Financiera de los ejercicios 2017 al 
+2020 y las que será presentada por el ejercicio 2021, se encuentran pendientes de revisión por 
+la autoridad tributaria, la cual tiene la facultad de efectuar dicha revisión dentro de los cuatro 
+años siguientes al año de presentación de la declaración jurada de impuesto a las ganancias. 
+La Gerencia de la Financiera estima que no surgirán pasivos de importancia como resultado de 
+las revisiones pendientes y en curso. 
+21. IMPUESTOS A LA RENTA DIFERIDO 
+Adiciones 
+(recuperos) 
+Saldo Resultado Saldo 
+inicial del período final 
+S/000 S/000 S/000
+Al 31 de diciembre de 2021: 
+Pérdidas Compensables: 
+Pérdida tributaria  4,546 11,383 15,929
+Diferencias temporarias activas (pasivas): 
+Provisión genérica para créditos 485 121 606
+Provisión para vacaciones 173 100 273
+Depreciación en exceso 955 89 1,044
+Amortización en exceso (80) (79) (159)
+Otras provisiones 56 11 67
+Provisión genérica para bienes adjudicados 56 35 91
+Amortización Lista Clientes 601 (230) 371
+Ingresos diferidos 177 (47) 130
+Intereses créditos vencidos (187) 187 0
+Intereses Créditos Vigentes  - 63 63
+Otros (75) 77 2
+Total neto 6,707 11,710 18,417
+ 
+
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2011_Individual_Anual_Dictamen AE.pdf | PAGINA: 14 | vecina =====
+- 13- 
+Las provisiones genéricas incluyen las constituidas de manera preventiva sobre deudores 
+clasificados en categoría normal según requerimientos de la SBS, así como provisiones 
+voluntarias.  
+ 
+Las provisiones genéricas obligatorias se constituyen en función a tasas porcentuales, que 
+tienen un componente fijo y otro variable (procíclico) que varían dependiendo del tipo de 
+crédito. La regla para la constitución del componente procíclico se activa o desactiva 
+mediante comunicación de la SBS, la misma que depende de una medida periódica de 
+variaciones porcentuales anualizadas (en promedios móviles) del Producto Bruto Interno 
+Real del Perú (PBI) publicado por el Banco Central de Reserva del Perú (BCRP). 
+ 
+Las provisiones genéricas voluntarias han sido determinadas por la Financiera en base a las 
+condiciones económicas de los clientes que conforman la cartera de créditos refinanciados, 
+la experiencia previa y otros factores que, a criterio de la Gerencia, ameriten el 
+reconocimiento actual de posibles pérdidas de la cartera de créditos. El importe de las 
+provisiones genéricas voluntarias es informado a la SBS. 
+ 
+De conformidad con las normas vigentes, la Gerencia clasifica y provisiona la cartera de 
+créditos a minoristas (pequeñas empresas, microempresas, consumo revolvente, consumo 
+no-revolvente) de acuerdo al número de días de atraso y considera la calificación de dichos 
+deudores en otras empresas del sistema financiero. 
+ 
+Los porcentajes mínimos requeridos para la constitución de provisiones de la cartera de 
+créditos son los siguientes: 
+ 
+Tipos de crédito Componente Fijo  Componente Procíclico 
+Créditos a medianas empresas 1.00% 0.30%
+Créditos a pequeñas empresas 1.00% 0.50%
+Créditos a microempresas 1.00% 0.50%
+Créditos de consumo no-revolvente 1.00% 1.00%
+ 
+Al 31 de diciembre de 2011 y 2010 se encuentra activado el factor procíclico para las 
+provisiones de colocaciones (Oficio Múltiple N° B-2193-2010-SBS). 
+ 
+Otras categorías y por tipo de garantías: 
+ 
+Categoría de Riesgo  Sin garantía Garantía preferida  Garantía preferida de muy rápida realización 
+Con problemas potenciales 5.00% 2.50% 1.25%
+Deficiente 25.00% 12.50% 6.25%
+Dudoso 60.00% 30.00% 15.00%
+Pérdida 100.00% 60.00% 30.00%
+ 
+ 
+ 
+ 
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2011_Individual_Anual_Dictamen AE.pdf | PAGINA: 15 | puntaje 7 =====
+- 14- 
+(e) Instalaciones, mobiliario y equipo 
+ 
+Las instalaciones, mobiliario y equipo se registran al costo y están presentados netos de 
+depreciación acumulada. La depreciación anual se reconoce como gasto y se determina 
+siguiendo el método de línea recta en base a la vida útil estimada de los activos, 
+representada por tasas de depreciación equivalentes, según la siguiente tabla: 
+ 
+Años
+Instalaciones 10
+Mobiliario y enseres 10
+Unidades de transporte 5
+Equipos de cómputo 4
+ 
+ 
+Los desembolsos iníciales, así como aquellos incurridos después que un activo fijo ha sido 
+puesto en uso, se capitalizan como costo adicional de ese activo únicamente cuando pueden 
+ser medidos confiablemente y es probable que tales desembolsos resulten en beneficios 
+económicos futuros superiores al rendimiento normal evaluado originalmente para dicho 
+activo. Los desembolsos para mantenimiento y reparaciones se reconocen como gasto del 
+ejercicio en el que son incurridos. Cuando un activo fijo se vende o es retirado del uso, su 
+costo y depreciación acumulada se eliminan y la ganancia o pérdida resultante se reconoce 
+en resultados del ejercicio. 
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, 
+salvo los adquiridos en operaciones de arrendamiento financiero. 
+ 
+(f) Bienes realizables, recibidos en pago y adjudicados 
+ 
+Los bienes realizables, recibidos en pago y adjudicados están incluidos en el rubro “Otros 
+activos” del balance general. 
+ 
+Los bienes adjudicados y recibidos en pago se registran al menor importe que resulte de la 
+comparación entre el valor de adjudicación o valor pactado en el contrato de dación en 
+pago, y el valor neto de realización. Los bienes recuperados por resolución de contrato, se 
+registran inicialmente por el importe que resulte menor de la comparación entre el valor 
+insoluto de la deuda y el valor neto de realización. Si el saldo insoluto de la deuda es mayor 
+al del bien recuperado, la diferencia se reconoce como una pérdida, siempre que no existan 
+probabilidades de recuperación. 
+Asimismo, de acuerdo con las normas de la SBS, sobre estos bienes deben constituirse las 
+siguientes provisiones: 
+ 
+ El 20% del valor en la fecha de adjudicación o recupero para todos los bienes recibidos. 
+ 
+ Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de 
+su adjudicación o recupero, la cual deberá ser constituida en un plazo máximo de 42 
+meses, en base al valor neto obtenido en el 12avo mes. Asimismo, anualmente el valor 
+neto en libros de los bienes inmuebles es comparado con el valor de realización 
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2011_Individual_Anual_Dictamen AE.pdf | PAGINA: 16 | vecina =====
+- 15- 
+determinado por un perito independiente y, en el caso que este valor sea menor, se 
+constituirá una provisión por desvalorización.  
+ 
+ Para bienes diferentes a inmuebles, se provisiona el saldo restante en un plazo no mayor 
+de 18 meses. 
+  
+(g) Activos intangibles 
+ 
+Los activos intangibles adquiridos se capitalizan sobre la base de los costos incurridos para 
+adquirir o poner en uso el programa de cómputo específico. Estos costos se amortizan 
+siguiendo el método de línea recta durante la vida útil, estimada entre 1 a 3 años. 
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo se 
+reconocen como gasto cuando se incurren. Los costos que se asocian directamente con la 
+producción de programas de cómputo únicos e identificables controlados por la Financiera, 
+y que probablemente generarán beneficios económicos más allá de su costo por más de un 
+año, se reconocen como activos intangibles.  
+ 
+Los costos incurridos en el desarrollo de programas de cómputo reconocidos como activos 
+se amortizan durante sus vidas útiles estimadas. 
+ 
+(h) Otros activos 
+ 
+La Financiera reconoce los derechos de adquisición de acciones en otras compañías en la 
+fecha de negociación si los contratos que dieron origen a dichos derechos contienen un 
+compromiso en firme de la adquisición de dichas acciones. Una vez ejercido el derecho, el 
+efecto de la transacción es reclasificado a la cuenta correspondiente de balance. 
+ 
+(i) Pérdida por deterioro 
+ 
+Cuando existen acontecimientos o cambios económicos que indiquen que el valor de un 
+activo de larga vida pueda no ser recuperable, la Gerencia revisa a cada fecha de balance el 
+valor en libros de estos activos. Si luego de este análisis resulta que su valor en libros 
+excede su valor recuperable, se reconoce una pérdida por deterioro en el estado de 
+ganancias y pérdidas. Los importes recuperables se estiman para cada activo. 
+ 
+(j) Adeudos y obligaciones financieras 
+ 
+Los pasivos por concepto de Adeudos y Obligaciones Financieras son registrados aplicando 
+el método del costo amortizado, reconociéndose los intereses devengados en los resultados 
+del ejercicio. 
+ 
+(k) Provisiones 
+ 
+Las provisiones se reconocen cuando la Financiera tiene una obligación presente (legal o 
+implícita) como resultado de un evento pasado y es probable que se requieran recursos para 
+liquidar la obligación, y se puede estimar confiablemente el monto de la obligación. Las 
+provisiones se revisan en cada ejercicio y se ajustan para reflejar la mejor estimación que se 
+tenga a la fecha del balance general. Cuando el efecto del valor del dinero en el tiempo es 
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2024_Individual_Anual_EEff auditado 2024.pdf | PAGINA: 18 | vecina =====
+ 
+- Los créditos reprogramados de deudores con clasificación Normal y CPP que no hayan efectuado 
+el pago de al menos una cuota completa que incluya capital en los últimos seis meses al cierre de 
+la información contable, les corresponde el nivel de riesgo de crédito Deficiente. 
+ 
+- Los créditos reprogramados de los deudores con clasificación Normal, CPP y Deficiente que no 
+hayan efectuado el pago de al menos una cuota completa que incluya capital en los últimos doce 
+meses, les corresponde el nivel de riesgo de crédito Dudoso. 
+ 
+A dichos créditos, se le aplica las provisiones específicas correspondientes a la categoría de riesgo de 
+crédito Con Problemas Potenciales, Deficiente o Dudoso, respectivamente, de acuerdo con el numeral 
+2.1. del Capítulo III del Reglamento para la Evaluación y Clasificación del Deudor y la Exigencia de 
+Provisiones. 
+ 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, pequeña 
+empresa y mediana empresa. 
+ 
+- Los intereses devengados de los créditos reprogramados, en situación contable de vigente, por 
+los que el cliente no haya efectuado el pago de al menos una cuota completa que incluya capital 
+en los últimos seis meses al cierre de la información contable, se les aplicará un requerimiento de 
+provisiones correspondiente a la categoría de riesgo Deficiente. 
+ 
+- Los intereses devengados de los créditos reprogramados, en situación contable de vigentes, por 
+los que el cliente que no hayan efectuado el pago de al menos una cuota completa que incluya 
+capital en los últimos seis meses al cierre de la información contable, a dichos intereses 
+devengados se les aplicará un requerimiento de provisiones específicas correspondientes a la 
+categoría de riesgo de crédito Pérdida. 
+ 
+A dichos intereses devengados se les aplicará un requerimiento de provisiones específicas 
+correspondientes a la categoría de riesgo de crédito Deficiente o Pérdida, de acuerdo con la Tabla 1 
+del numeral 2.1. del Capítulo III del Reglamento para la Evaluación y Clasificación del Deudor y la 
+Exigencia de Provisiones. 
+ 
+Lo señalado en el párrafo anterior es aplicable a los créditos de consumo, microempresa, pequeña 
+empresa y mediana empresa. 
+ 
+g) Inmuebles, mobiliario y equipo - 
+ 
+Los inmuebles, mobiliario y equipo se registran al costo, que incluye los desembolsos atribuibles a su 
+adquisición, y se presentan netos de depreciación y de pérdida por deterioro acumuladas, si hubiera. 
+La depreciación anual se reconoce como gasto y se determina sobre el costo, siguiendo el método de 
+línea recta en base a la vida útil estimada de los activos, representada por tasas de depreciación 
+equivalentes, según la siguiente tabla: 
+ 
+  Años    
+Edificios  33 
+Instalaciones  10 - 33 
+Mejoras en propiedades alquiladas  20 
+Muebles y enseres  10 
+Unidades de transporte  5 
+Equipos de cómputo  4 - 6 
+ 
+Los desembolsos incurridos después que un elemento del activo fijo ha sido puesto en uso se 
+capitalizan como costo adicional de ese activo únicamente cuando pueden ser medidos 
+confiablemente y es probable que tales desembolsos resulten en beneficios económicos futuros 
+superiores al rendimiento normal evaluado originalmente para dicho activo. Los desembolsos para 
+mantenimiento y reparaciones se reconocen como gasto del período en el que son incurridos. Cuando 
+un activo fijo se vende o es retirado del uso, su costo y depreciación acumulada se eliminan y la 
+ganancia o pérdida resultante de la venta se reconoce en el estado de resultados y otro resultado 
+integral.  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2024_Individual_Anual_EEff auditado 2024.pdf | PAGINA: 19 | puntaje 14 =====
+ 
+El valor en libros de un activo se castiga inmediatamente a su valor recuperable si el valor en libros 
+del activo es mayor que su valor de uso. 
+ 
+Las entidades financieras están prohibidas de dar en garantía los bienes de su activo fijo, salvo los 
+adquiridos en operaciones de arrendamiento financiero. 
+ 
+h) Arrendamiento operativo - 
+ 
+Los pagos derivados de contratos de arrendamientos operativos en donde la Financiera actúa como 
+arrendatario se reconocen como gasto de forma lineal, durante el transcurso del plazo del 
+arrendamiento, salvo aquellos en los que resulte más representativa otra base sistemática de 
+asignación para reflejar más adecuadamente el patrón de los beneficios del arrendamiento. Los pagos 
+contingentes se cargan como gastos en los períodos en los que se incurren. 
+ 
+i) Bienes realizables, recibidos en pago y adjudicados - 
+ 
+Los bienes recibidos en dación en pago y adjudicados por la Financiera como pago total o parcial de 
+deudas se registran al valor de adjudicación judicial, extrajudicial o valor pactado en el contrato de 
+dación en pago. 
+ 
+Asimismo, de acuerdo con la Resolución SBS No.1535-
+bienes adjudicados y recuperados y sus provisiones, la Financiera debe constituir las siguientes 
+provisiones: 
+ 
+- Una provisión inicial del 20% del valor en la fecha de adjudicación para los bienes muebles e 
+inmuebles recibidos. 
+- Para los bienes muebles se constituye una provisión mensual equivalente a un dieciochoavo 
+(1/18) del costo en libros de los bienes menos la provisión inicial. 
+- Para los bienes inmuebles se registra una provisión mensual a partir del 12avo mes de su 
+adjudicación, la cual debe constituirse en un plazo máximo de 42 meses, en base al valor neto 
+obtenido en el 12avo mes.  Anualmente el valor neto en libros de los bienes inmuebles es 
+comparado con el valor de realización determinado por un perito independiente y, en el caso que 
+este valor sea menor, se constituye una provisión por desvalorización. 
+ 
+j) Activos intangibles de vida indefinida (plusvalía) 
+ 
+La plusvalía es inicialmente reconocida como un activo al costo, y subsecuentemente presentada al 
+costo menos cualquier pérdida por deterioro, acumulada. 
+ 
+Cualquier pérdida por deterioro de valor de la plusvalía es reconocida en el estado de resultados del 
+período en que se produce.  Una pérdida por deterioro de valor reconocida en la plusvalía comprada 
+no es revertida en los periodos posteriores. 
+ 
+k) Activos Intangibles de vida finita - 
+ 
+Los activos intangibles con vidas útiles finitas son registrados al costo de adquisición y están 
+presentados netos de amortización y cualquier pérdida por deterioro acumulada, si la hubiera. La 
+amortización es reconocida como gasto y se determina siguiendo el método de línea recta en base a 
+la vida útil estimada de los activos. La vida útil de estos activos ha sido estimada como sigue: 
+ 
+  Años 
+   
+Software  3 - 5 
+Otros  5 
+  
+
+===== ARCHIVO: EEFFDD-FINANCIERA QAPAQ S.A.-Individual.zip/2024_Individual_Anual_EEff auditado 2024.pdf | PAGINA: 20 | vecina =====
+ 
+Los costos asociados con el desarrollo o mantenimiento de programas de cómputo son reconocidos 
+como gasto cuando se incurren. Los costos que se asocian directamente con la producción de 
+programas de cómputo únicos e identificables controlados por la Financiera, y que probablemente 
+generarán beneficios económicos más allá de su costo por más de un año, se reconocen como 
+activos intangibles y se aplica a resultados en función al plazo de vigencia estimado. 
+ 
+Deterioro de activos no financieros - 
+ 
+Cuando existen acontecimientos o cambios económicos circunstanciales que indiquen que el valor de 
+un activo no financiero pueda no ser recuperable, la Financiera revisa el valor de los activos de larga 
+duración para verificar que no existe ningún deterioro. Cuando el valor en libros del activo de larga 
+duración excede su valor recuperable se reconoce una pérdida por desvalorización en el estado de 
+resultados. 
+ 
+El valor recuperable, es el mayor entre el precio de venta neto y su valor en uso. El valor de venta es 
+el importe que se espera obtener de la venta de un activo efectuada en un mercado libre; mientras 
+que el valor de uso es el valor presente de la estimación de los flujos de efectivo futuros que se prevé 
+resultará del uso continuo de un activo, así como de su disposición al final de su vida útil. Los importes 
+recuperables se estiman para cada activo. 
+ 
+Una pérdida por desvalorización reconocida en años anteriores se extorna sólo si se produce un 
+cambio en los estimados que se utilizaron en la última oportunidad en que se reconoció dicha pérdida. 
+ 
+l) Adeudos y obligaciones financieras - 
+ 
+Los pasivos por concepto de adeudos y obligaciones financieras son registrados a su valor nominal. 
+Los intereses devengados se reconocen en el estado de resultados del período en que se producen. 
+ 
+m) Beneficios a los trabajadores - 
+ 
+m.1) Participación en las utilidades - 
+ 
+La Financiera reconoce un pasivo y un gasto por participación de los trabajadores en las utilidades, 
+sobre la base del 5% de la base imponible, determinada de acuerdo con la legislación tributaria 
+vigente. 
+ 
+Esta participación se registra como un gasto de personal y un pasivo relacionado con beneficios para 
+los trabajadores. 
+ 
+Vacaciones y otros beneficios a los trabajadores 
+ 
+Las vacaciones anuales de los trabajadores, las ausencias remuneradas y otros beneficios a los 
+trabajadores se reconocen sobre la base del devengado. La provisión por la obligación estimada por 
+vacaciones anuales, las ausencias remuneradas y otros beneficios a los trabajadores resultantes de 
+servicios prestados por los trabajadores se reconoce a la fecha del estado de situación financiera. 
+ 
+m.3) Gratificaciones - 
+ 
+La Financiera reconoce el gasto por gratificaciones y su correspondiente pasivo sobre las bases de 
+las disposiciones legales vigentes en Perú. Las gratificaciones corresponden a dos remuneraciones 
+anuales que se pagan en julio y diciembre de cada año, a menos se acuerde con el trabajador otro 
+tipo de compensación de conceptos remunerativos unificados. 
+  
